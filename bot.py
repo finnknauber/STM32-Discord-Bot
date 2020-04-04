@@ -2,10 +2,8 @@
 import os
 import discord
 
-from discord.utils import get
+TOKEN = 'TOKEN'
 
-TOKEN = 'Njk1MzYxMjIzODA5Njk1ODc0.XoZDtA.5t-64ezse9gq_yWnitNAMu33tdo'
-GUILD = 'stm-bot'
 client = discord.Client()
 @client.event
 async def on_ready():
