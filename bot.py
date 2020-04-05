@@ -87,6 +87,11 @@ async def finishAdding(data, message):
         jsonObject["image"] = None
     addJson("commands", jsonObject, data)
 
+def getCommandEntry(command,data):
+    for entry in data["commands"]:
+        if command in entry["command"]:
+            return entry
+    return None
 
 async def commandAdd(message, names, data):
     if len(names) != 0:
@@ -96,6 +101,16 @@ async def commandAdd(message, names, data):
     else:
         await sendText(message, "No names found, please try again")
 
+async def commandRemove(message, commandName, data):
+    if len(commandName) !=0:
+        entry = getCommandEntry(commandName[0], data)
+        if entry:
+            removeJson("commands", entry, data)
+            await sendText(message, f"Removed {commandName[0]}!")
+        else:
+            await sendText(message, f"Command({commandName[0]}) was not found")
+    else:
+        await sendText(message, "Please type a command name!")
 
 
 @client.event
@@ -123,7 +138,7 @@ async def on_message(message):
                 elif commandSplit[0] == "commandedit":
                     pass
                 elif commandSplit[0] == "commandremove":
-                    pass
+                    await commandRemove(message, commandSplit[1:], data)
                 else:
                     await executeCommand(message, data, command)
 

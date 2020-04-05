@@ -22,15 +22,6 @@
             ],
             "result": "Some blue pills have a wrong resistor at R10. This resistor is used for USB communication and it should be 1.5k. If you want to use USB-communication you will need to replace it. First desolder the old R10 resistor and make sure the two pads are not connected. Next you have two options: Solder a 1.5k resistor directly to the pads (difficult/not recommended) or solder a resistor from a 3.3V pin to A12.",
             "image": null
-        },
-        {
-            "command": [
-                "wie",
-                "mans",
-                "macht"
-            ],
-            "result": "genau so",
-            "image": null
         }
     ],
     "roles": [
