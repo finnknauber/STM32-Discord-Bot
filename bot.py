@@ -38,6 +38,13 @@ def userIsEditing(author,data):
         return True
     return False
 
+def userHasEntrywithResult(author, data):
+    if getOldEntry(author, data)["result"] == None:
+        return False
+    else:
+        return True
+
+
 def getOldEntry(author,data):
     for edit in data["lastadds"]:
         if author == edit["user"]:
@@ -60,6 +67,25 @@ def editJson(key, data, oldEntry, entryKey, value):
             entry[entryKey] = value 
     writeJson(data)
 
+def removeJson(key, jsonObject, data):
+    data[key].remove(jsonObject)
+    writeJson(data)
+
+async def addResult(data, message):
+    editJson("lastadds", data, getOldEntry(message.author.name, data), "result", message.content)
+    await sendText(message, 'Enter an imgur link, or type "finish"')
+
+async def finishAdding(data, message):
+    jsonObject = getOldEntry(message.author.name, data)
+    removeJson("lastadds", jsonObject, data)
+    del jsonObject["user"]
+    if not message.content.lower() == "finish":
+        await sendText(message, 'Command is ready to use')
+        jsonObject["image"] = message.content
+    else:
+        await sendText(message, 'Image added and command is ready to use')
+        jsonObject["image"] = None
+    addJson("commands", jsonObject, data)
 
 
 async def commandAdd(message, names, data):
@@ -82,6 +108,10 @@ async def on_message(message):
             data = json.load(commands)
 
         if message.content[0] == "$":
+            
+            if userIsEditing(message.author.name, data):
+                jsonObject = getOldEntry(message.author.name, data)
+                removeJson("lastadds", jsonObject, data)
 
             command = message.content[1:]
             commandSplit = command.split(" ")
@@ -94,10 +124,6 @@ async def on_message(message):
                     pass
                 elif commandSplit[0] == "commandremove":
                     pass
-                elif commandSplit[0] == "roleadd":
-                    pass
-                elif commandSplit[0] == "roleremove":
-                    pass
                 else:
                     await executeCommand(message, data, command)
 
@@ -105,8 +131,10 @@ async def on_message(message):
                 await executeCommand(message, data, command)
 
         elif userIsEditing(message.author.name, data):
-            editJson("lastadds", data, getOldEntry(message.author.name, data), "result", message.content)
-
+            if not userHasEntrywithResult(message.author.name, data):
+                await addResult(data, message)
+            else:
+                await finishAdding(data, message)
 
 
 client.run(TOKEN)
