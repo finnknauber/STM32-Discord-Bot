@@ -10,3 +10,4 @@ f4/F4 = (F4 Getting started video)
 res/resistor = Resistor Commands are R3 and R10
 R3/r3 = R3 explaination
 R10/r10 = R10 explanation
+command lollll
