@@ -33,11 +33,19 @@ async def executeCommand(message, data, command):
                 if command_object["image"]:
                     await sendImage(message, command_object["image"])
 
-async def commandAdd(message, names):
+async def commandAdd(message, names, data):
     if len(names) != 0:
-        pass
+        jsonObject = {"user": message.author.name, "command": names, "result": None}
+        addJson("lastadds", jsonObject, data)
     else:
         await sendText(message, "No names found, please try again")
+
+def addJson(key, jsonObject, data):
+    data[key].append(jsonObject)
+    with open("./commands.json", "w") as commands:
+        jsonString = json.dumps(data, indent=4)
+        commands.write(jsonString)
+
 
 @client.event
 async def on_message(message):
@@ -54,7 +62,7 @@ async def on_message(message):
             if hasValidRole(message.author.roles, data["roles"]):
 
                 if commandSplit[0] == "commandadd":
-                    await commandAdd(message, commandSplit[1:])
+                    await commandAdd(message, commandSplit[1:], data)
                 elif commandSplit[0] == "commandedit":
                     pass
                 elif commandSplit[0] == "commandremove":
