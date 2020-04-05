@@ -16,7 +16,7 @@ async def on_ready():
 async def on_message(message):
     if message.author == client.user:
         return
-    if message.content[0] == "*":
+    if message.content[0] == "$":
         if 'test' in message.content:
             await message.channel.send("I am up and running!")
         elif 'commands' in message.content:
