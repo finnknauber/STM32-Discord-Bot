@@ -9,6 +9,45 @@
         },
         {
             "command": [
+                "patreon"
+            ],
+            "result": "https://www.patreon.com/user?u=7985126",
+            "image": null
+        },
+        {
+            "command": [
+                "hid",
+                "bootloader"
+            ],
+            "result": "Take a look here: https://www.youtube.com/watch?v=Myon8H111PQ",
+            "image": null
+        },
+        {
+            "command": [
+                "F4",
+                "f4"
+            ],
+            "result": "Take a look here: https://www.youtube.com/watch?v=b1123kz_3MM",
+            "image": null
+        },
+        {
+            "command": [
+                "resistor",
+                "res"
+            ],
+            "result": "There are two known resistor issues. For more info type ?R3 or ?R10",
+            "image": null
+        },
+        {
+            "command": [
+                "thank you",
+                "thanks"
+            ],
+            "result": "No problem!",
+            "image": null
+        },
+        {
+            "command": [
                 "R3",
                 "r3"
             ],

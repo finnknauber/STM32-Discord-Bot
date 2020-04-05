@@ -2,6 +2,16 @@
 
 For Everyone:
 
+#Bootloader
+    $bootloader
+    $hid
+    Link to bootloader video
+
+#F4
+    $F4
+    $f4
+    Link to f4 video
+
 #R10
     $R10
     $r10
@@ -13,7 +23,11 @@ For Everyone:
     R3 resistor problem explanation.
     Image of potential fix
 
-For specific roles:
+#patreon
+    $patreon
+    Link to Calebs patreon
+
+For specific Roles:
 
 #command adding
     $commandadd <name> <name> <name> ...
