@@ -73,13 +73,13 @@ def removeJson(key, jsonObject, data):
 
 async def addResult(data, message):
     editJson("lastadds", data, getOldEntry(message.author.name, data), "result", message.content)
-    await sendText(message, 'Enter an imgur link, or type "finish"')
+    await sendText(message, 'Enter an imgur link, or type "null"')
 
 async def finishAdding(data, message):
     jsonObject = getOldEntry(message.author.name, data)
     removeJson("lastadds", jsonObject, data)
     del jsonObject["user"]
-    if not message.content.lower() == "finish":
+    if not message.content.lower() == "null":
         await sendText(message, 'Command is ready to use')
         jsonObject["image"] = message.content
     else:
@@ -102,7 +102,7 @@ async def commandAdd(message, names, data):
         await sendText(message, "No names found, please try again")
 
 async def commandRemove(message, commandName, data):
-    if len(commandName) !=0:
+    if len(commandName) != 0:
         entry = getCommandEntry(commandName[0], data)
         if entry:
             removeJson("commands", entry, data)
@@ -111,6 +111,26 @@ async def commandRemove(message, commandName, data):
             await sendText(message, f"Command({commandName[0]}) was not found")
     else:
         await sendText(message, "Please type a command name!")
+
+async def commandEdit(message, command, data):
+    if len(command) >= 3:
+        entry = getCommandEntry(command[0], data)
+        if command[1] == "name":
+            editJson("commands", data, entry, "command", command[2:])
+            await sendText(message, f"Succesfully changed command to {'/'.join(command[2:])}")
+        elif command[1] == "response":
+            editJson("commands", data, entry, "result", ' '.join(command[2:]))
+            await sendText(message, f"Succesfully changed the response to {' '.join(command[2:])}")
+        elif command[1] == "image":
+            if command[2] == "null":
+                editJson("commands", data, entry, "image", None)
+            else:
+                editJson("commands", data, entry, "image", command[2])
+            await sendText(message, f"Succesfully changed the image url to {command[2]}")
+        else:
+            await sendText(message, "Please specify what parameter you want to edit!")
+    else:
+        await sendText(message, "Please enter all required parameters!")
 
 
 @client.event
@@ -136,7 +156,7 @@ async def on_message(message):
                 if commandSplit[0] == "commandadd":
                     await commandAdd(message, commandSplit[1:], data)
                 elif commandSplit[0] == "commandedit":
-                    pass
+                    await commandEdit(message, commandSplit[1:], data)
                 elif commandSplit[0] == "commandremove":
                     await commandRemove(message, commandSplit[1:], data)
                 else:
