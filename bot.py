@@ -13,6 +13,12 @@ client = discord.Client()
 async def on_ready():
     print('Connected to Discord!')
 
+def hasValidRole(roles, validRoles):
+    for role in roles:
+        if role.name in validRoles:
+            return True
+    return False
+
 async def sendText(message, text):
     await message.channel.send(text)
 
@@ -27,6 +33,12 @@ async def executeCommand(message, data, command):
                 if command_object["image"]:
                     await sendImage(message, command_object["image"])
 
+async def commandAdd(message, names):
+    if len(names) != 0:
+        pass
+    else:
+        await sendText(message, "No names found, please try again")
+
 @client.event
 async def on_message(message):
     if message.author == client.user:
@@ -37,17 +49,23 @@ async def on_message(message):
                 data = json.load(commands)
             
             command = message.content[1:]
+            commandSplit = command.split(" ")
 
-            if command.split(" ")[0] == "commandadd":
-                pass
-            elif command.split(" ")[0] == "commandedit":
-                pass
-            elif command.split(" ")[0] == "commandremove":
-                pass
-            elif command.split(" ")[0] == "roleadd":
-                pass
-            elif command.split(" ")[0] == "roleremove":
-                print("roleremove")
+            if hasValidRole(message.author.roles, data["roles"]):
+
+                if commandSplit[0] == "commandadd":
+                    await commandAdd(message, commandSplit[1:])
+                elif commandSplit[0] == "commandedit":
+                    pass
+                elif commandSplit[0] == "commandremove":
+                    pass
+                elif commandSplit[0] == "roleadd":
+                    pass
+                elif commandSplit[0] == "roleremove":
+                    pass
+                else:
+                    await executeCommand(message, data, command)
+
             else:
                 await executeCommand(message, data, command)
 
