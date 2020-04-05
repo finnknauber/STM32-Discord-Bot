@@ -33,6 +33,35 @@ async def executeCommand(message, data, command):
                 if command_object["image"]:
                     await sendImage(message, command_object["image"])
 
+def userIsEditing(author,data):
+    if getOldEntry(author, data):
+        return True
+    return False
+
+def getOldEntry(author,data):
+    for edit in data["lastadds"]:
+        if author == edit["user"]:
+            return edit
+    return None
+
+def writeJson(data):
+    with open("./commands.json", "w") as commands:
+        jsonString = json.dumps(data, indent=4)
+        commands.write(jsonString)
+
+
+def addJson(key, jsonObject, data):
+    data[key].append(jsonObject)
+    writeJson(data)
+
+def editJson(key, data, oldEntry, entryKey, value):
+    for entry in data[key]:
+        if entry == oldEntry:
+            entry[entryKey] = value 
+    writeJson(data)
+
+
+
 async def commandAdd(message, names, data):
     if len(names) != 0:
         jsonObject = {"user": message.author.name, "command": names, "result": None}
@@ -40,11 +69,6 @@ async def commandAdd(message, names, data):
     else:
         await sendText(message, "No names found, please try again")
 
-def addJson(key, jsonObject, data):
-    data[key].append(jsonObject)
-    with open("./commands.json", "w") as commands:
-        jsonString = json.dumps(data, indent=4)
-        commands.write(jsonString)
 
 
 @client.event
@@ -52,10 +76,12 @@ async def on_message(message):
     if message.author == client.user:
         return
     if len(message.content) > 0:
+
+        with open("./commands.json") as commands:
+            data = json.load(commands)
+
         if message.content[0] == "$":
-            with open("./commands.json") as commands:
-                data = json.load(commands)
-            
+
             command = message.content[1:]
             commandSplit = command.split(" ")
 
@@ -77,7 +103,19 @@ async def on_message(message):
             else:
                 await executeCommand(message, data, command)
 
-            """
+        elif userIsEditing(message.author.name, data):
+            editJson("lastadds", data, getOldEntry(message.author.name, data), "result", message.content)
+
+
+
+client.run(TOKEN)
+
+
+
+
+
+
+"""
             if 'test' in message.content:
                 await message.channel.send("I am up and running!")
             elif 'commands' in message.content:
@@ -100,6 +138,3 @@ async def on_message(message):
             elif 'thank you' in message.content or 'Thank you' in message.content:
                 await message.channel.send("No Problem!")
             """
-
-
-client.run(TOKEN)

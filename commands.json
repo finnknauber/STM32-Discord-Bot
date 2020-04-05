@@ -23,13 +23,11 @@
     ],
     "lastadds": [
         {
-            "user": "Finn",
+            "user": "Joshua",
             "command": [
-                "test",
-                "thing",
-                "32"
+                "coolcommand"
             ],
-            "result": null
+            "result": "Hi I'm a cool command"
         }
     ]
 }
