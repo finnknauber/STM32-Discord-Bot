@@ -2,30 +2,24 @@
 
 For Everyone:
 
-#Bootloader  
+#link to bootloader video  
     $bootloader  
     $hid  
-    Link to bootloader video  
 
-#F4  
+#link to f4 video
     $F4  
     $f4  
-    Link to f4 video  
 
-#R10  
+#R10 resistor problem explanation  
     $R10  
     $r10  
-    R10 resistor problem explanation.  
 
-#R3  
+#R3 resistor problem explanation  
     $R3  
-    $r3  
-    R3 resistor problem explanation.  
-    Image of potential fix  
+    $r3   
 
-#patreon  
+#link to calebs patreon  
     $patreon  
-    Link to Calebs patreon  
 
 For specific Roles:
 
