@@ -23,7 +23,7 @@ async def sendText(message, text):
     await message.channel.send(text)
 
 async def sendImage(message, image):
-    await message.channel.send(file=discord.File(image))
+    await message.channel.send(image)
 
 async def executeCommand(message, data, command):
     for command_object in data["commands"]:
@@ -80,10 +80,10 @@ async def finishAdding(data, message):
     removeJson("lastadds", jsonObject, data)
     del jsonObject["user"]
     if not message.content.lower() == "null":
-        await sendText(message, 'Command is ready to use')
+        await sendText(message, 'Command is ready to be used!')
         jsonObject["image"] = message.content
     else:
-        await sendText(message, 'Image added and command is ready to use')
+        await sendText(message, 'Image added and command is ready to be used!')
         jsonObject["image"] = None
     addJson("commands", jsonObject, data)
 
@@ -99,7 +99,7 @@ async def commandAdd(message, names, data):
         addJson("lastadds", jsonObject, data)
         await sendText(message, f"Type your response for {'/'.join(names)} next!")
     else:
-        await sendText(message, "No names found, please try again")
+        await sendText(message, "No names found, please try again or type $help")
 
 async def commandRemove(message, commandName, data):
     if len(commandName) != 0:
@@ -108,29 +108,29 @@ async def commandRemove(message, commandName, data):
             removeJson("commands", entry, data)
             await sendText(message, f"Removed {commandName[0]}!")
         else:
-            await sendText(message, f"Command({commandName[0]}) was not found")
+            await sendText(message, f"Command '{commandName[0]}' was not found!")
     else:
-        await sendText(message, "Please type a command name!")
+        await sendText(message, "Please type a command name or $help")
 
 async def commandEdit(message, command, data):
     if len(command) >= 3:
         entry = getCommandEntry(command[0], data)
         if command[1] == "name":
             editJson("commands", data, entry, "command", command[2:])
-            await sendText(message, f"Succesfully changed command to {'/'.join(command[2:])}")
+            await sendText(message, f"Succesfully changed command to '{'/'.join(command[2:])}'")
         elif command[1] == "response":
             editJson("commands", data, entry, "result", ' '.join(command[2:]))
-            await sendText(message, f"Succesfully changed the response to {' '.join(command[2:])}")
+            await sendText(message, f"Succesfully changed the response to '{' '.join(command[2:])}'")
         elif command[1] == "image":
             if command[2] == "null":
                 editJson("commands", data, entry, "image", None)
             else:
                 editJson("commands", data, entry, "image", command[2])
-            await sendText(message, f"Succesfully changed the image url to {command[2]}")
+            await sendText(message, f"Succesfully changed the image url to '{command[2]}'")
         else:
-            await sendText(message, "Please specify what parameter you want to edit!")
+            await sendText(message, "Please specify what parameter you want to edit or type $help")
     else:
-        await sendText(message, "Please enter all required parameters!")
+        await sendText(message, "Please enter all required parameters or type $help")
 
 
 @client.event
@@ -151,19 +151,24 @@ async def on_message(message):
             command = message.content[1:]
             commandSplit = command.split(" ")
 
-            if hasValidRole(message.author.roles, data["roles"]):
-
-                if commandSplit[0] == "commandadd":
-                    await commandAdd(message, commandSplit[1:], data)
-                elif commandSplit[0] == "commandedit":
-                    await commandEdit(message, commandSplit[1:], data)
-                elif commandSplit[0] == "commandremove":
-                    await commandRemove(message, commandSplit[1:], data)
-                else:
-                    await executeCommand(message, data, command)
+            if command == "help":
+                with open("./README.md") as helpMessage:
+                    await sendText(message, helpMessage.read())
 
             else:
-                await executeCommand(message, data, command)
+                if hasValidRole(message.author.roles, data["roles"]):
+
+                    if commandSplit[0] == "commandadd":
+                        await commandAdd(message, commandSplit[1:], data)
+                    elif commandSplit[0] == "commandedit":
+                        await commandEdit(message, commandSplit[1:], data)
+                    elif commandSplit[0] == "commandremove":
+                        await commandRemove(message, commandSplit[1:], data)
+                    else:
+                        await executeCommand(message, data, command)
+
+                else:
+                    await executeCommand(message, data, command)
 
         elif userIsEditing(message.author.name, data):
             if not userHasEntrywithResult(message.author.name, data):

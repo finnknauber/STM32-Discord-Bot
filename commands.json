@@ -13,7 +13,7 @@
                 "r3"
             ],
             "result": "Some blue pills have a wrong resistor at R3. Sometimes it is close to 100k when it should be around 10k. The high value causes a voltage drop, which results in about 0.8V at the BOOT0 pin on the chip. This voltage is not high enough to be recognized as a logic high. This means the board will not enter the bootmode. Potential fix: desolder the resistor and solder a new one with a value close to 10k. Example:",
-            "image": "R3.png"
+            "image": "https://i.imgur.com/hrd75KM.jpg"
         },
         {
             "command": [
