@@ -66,6 +66,7 @@ async def commandAdd(message, names, data):
     if len(names) != 0:
         jsonObject = {"user": message.author.name, "command": names, "result": None}
         addJson("lastadds", jsonObject, data)
+        await sendText(message, f"Type your response for {'/'.join(names)} next!")
     else:
         await sendText(message, "No names found, please try again")
 
