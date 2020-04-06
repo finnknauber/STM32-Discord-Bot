@@ -122,7 +122,7 @@ async def commandEdit(message, command, data):
             editJson("commands", data, entry, "result", ' '.join(command[2:]))
             await sendText(message, f"Succesfully changed the response to '{' '.join(command[2:])}'")
         elif command[1] == "image":
-            if command[2] == "null":
+            if command[2].lower() == "null":
                 editJson("commands", data, entry, "image", None)
             else:
                 editJson("commands", data, entry, "image", command[2])
