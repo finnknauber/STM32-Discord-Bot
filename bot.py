@@ -40,12 +40,14 @@ def generateReadme():
             +   "```\n"
             +   "add a command                       $commandadd <name> <name> <name> ...\n"
             +   "    type your response or cancel    <response / $>\n"
+            +   "    enter a short description       <description>\n"
             +   "    enter an image url or null      <image url / null>\n"
             +   "\n"
             +   "remove a command                    $commandremove <name>\n"
             +   "\n"
             +   "edit a command                      $commandedit <name> name <newname> <newname> ...\n"
             +   "                                    $commandedit <name> response <response>\n"
+            +   "                                    $commandedit <name> description <newdescription>\n
             +   "                                    $commandedit <name> image <imageurl>\n"
             +   "```")
 
