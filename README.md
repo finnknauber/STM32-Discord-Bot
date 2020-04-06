@@ -1,4 +1,6 @@
 # STM32-Discord-Bot Commands 
+This is a test
+
 **For everyone:**
 ```
 link to bootloader video            $bootloader  $hid
