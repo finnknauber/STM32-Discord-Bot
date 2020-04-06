@@ -24,3 +24,4 @@ edit a command                      $commandedit <name> name <newname> <newname>
                                     $commandedit <name> response <response>
                                     $commandedit <name> image <imageurl>
 ```
+or take a look here: https://github.com/finnknauber/STM32-Discord-Bot
