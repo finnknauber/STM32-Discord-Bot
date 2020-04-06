@@ -40,14 +40,6 @@
         },
         {
             "command": [
-                "thank you",
-                "thanks"
-            ],
-            "result": "No problem!",
-            "image": null
-        },
-        {
-            "command": [
                 "R3",
                 "r3"
             ],
