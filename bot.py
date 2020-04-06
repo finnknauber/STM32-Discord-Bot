@@ -79,11 +79,11 @@ async def finishAdding(data, message):
     jsonObject = getOldEntry(message.author.name, data)
     removeJson("lastadds", jsonObject, data)
     del jsonObject["user"]
-    if message.content.lower() == "null":
-        await sendText(message, 'Command is ready to be used!')
+    if not message.content.lower() == "null":
+        await sendText(message, 'Image added and command is ready to be used!')
         jsonObject["image"] = message.content
     else:
-        await sendText(message, 'Image added and command is ready to be used!')
+        await sendText(message, 'Command is ready to be used!')
         jsonObject["image"] = None
     addJson("commands", jsonObject, data)
 
