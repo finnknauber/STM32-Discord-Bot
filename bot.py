@@ -20,8 +20,8 @@ def generateReadme():
 
     with open("./commands.json") as commands:
         commands = json.load(commands)["commands"]
-        commands.insert(0, {"command":["help\n"],"result":"A list of commands","description":"List of commands","image":None})
-        commands.insert(0, {"command":["commands"],"result":"A list of commands for moderating users","description":"List of moderation commands","image":None})
+        commands.insert(0, {"command":["help\n"],"result":"List of commands","description":"List of commands","image":None})
+        commands.insert(0, {"command":["commands"],"result":"List of moderation commands:","description":"List of moderation commands","image":None})
 
         longestDescription = getLongestDescription(commands)
         longestCommand = getLongestCommand(commands)
