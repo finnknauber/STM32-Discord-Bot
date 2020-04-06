@@ -47,7 +47,7 @@ def generateReadme():
             +   "\n"
             +   "edit a command                      $commandedit <name> name <newname> <newname> ...\n"
             +   "                                    $commandedit <name> response <response>\n"
-            +   "                                    $commandedit <name> description <newdescription>\n
+            +   "                                    $commandedit <name> description <newdescription>\n"
             +   "                                    $commandedit <name> image <imageurl>\n"
             +   "```")
 
