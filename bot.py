@@ -15,13 +15,13 @@ async def on_ready():
 
 def generateReadme():
     readme =    ("# **STM32-Discord-Bot Commands**\n\n"
-            +   "**For everyone:**\n"
+            +   "**List of commands:**\n"
             +   "```")
 
     with open("./commands.json") as commands:
         commands = json.load(commands)["commands"]
         commands.insert(0, {"command":["help\n"],"result":"List of commands","description":"List of commands","image":None})
-        commands.insert(0, {"command":["commands"],"result":"List of moderation commands:","description":"List of moderation commands","image":None})
+        commands.insert(0, {"command":["commands"],"result":"List of moderation commands","description":"List of moderation commands","image":None})
 
         longestDescription = getLongestDescription(commands)
         longestCommand = getLongestCommand(commands)
@@ -231,16 +231,26 @@ async def on_message(message):
                     await sendText(message, msg)
 
             else:
-                if hasValidRole(message.author.roles, data["roles"]):
-
-                    if commandSplit[0] == "commandadd":
+                if commandSplit[0] == "commandadd":
+                    if hasValidRole(message.author.roles, data["roles"]):
                         await commandAdd(message, commandSplit[1:], data)
-                    elif commandSplit[0] == "commandedit":
+                    else:
+                        await sendText(message, "You do not have permission to use this command!")
+                elif commandSplit[0] == "commandedit":
+                    if hasValidRole(message.author.roles, data["roles"]):
                         await commandEdit(message, commandSplit[1:], data)
-                    elif commandSplit[0] == "commandremove":
+                    else:
+                        await sendText(message, "You do not have permission to use this command!")
+                elif commandSplit[0] == "commandremove":
+                    if hasValidRole(message.author.roles, data["roles"]):
                         await commandRemove(message, commandSplit[1:], data)
                     else:
+                        await sendText(message, "You do not have permission to use this command!")
+                else:
+                    if hasValidRole(message.author.roles, data["roles"]):
                         await executeCommand(message, data, command)
+                    else:
+                        await sendText(message, "You do not have permission to use this command!")
 
                 else:
                     await executeCommand(message, data, command)
