@@ -24,18 +24,18 @@ For Everyone:
 For specific Roles:
 
 #command adding  
-    $commandadd "name" <name> <name> ...  
+    $commandadd "name" "name" "name" ...  
     #Type your reponse next  
-    <response>  
+    "response"  
     #or type $ to cancel  
     #next type a image url or "null" for no picture  
-    <image url>  
-    <null>  
+    "image url"  
+    "null"  
 
 #command deleting  
-    $commandremove <name>  
+    $commandremove "name"  
 
 #command editing  
-    $commandedit <name> name <newname> ...  
-    $commandedit <name> response <newname>  
-    $commandedit <name> image <imageurl>  
+    $commandedit "name" name "newname" ...  
+    $commandedit "name" response "newname"  
+    $commandedit "name" image "imageurl"  
