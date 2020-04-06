@@ -1,30 +1,28 @@
 # STM32-Discord-Bot
 
 For Everyone:
-
 #link to bootloader video  
-    $bootloader  
-    $hid  
+    **$bootloader**  
+    **$hid**  
 
 #link to f4 video
-    $F4  
-    $f4  
+    **$F4**  
+    **$f4**  
 
 #R10 resistor problem explanation  
-    $R10  
-    $r10  
+    **$R10**  
+    **$r10**  
 
 #R3 resistor problem explanation  
-    $R3  
-    $r3   
+    **$R3**  
+    **$r3**   
 
 #link to calebs patreon  
-    $patreon  
+    **$patreon**  
 
 For specific Roles:
-
 #command adding  
-    $commandadd "name" "name" "name" ...  
+    **$commandadd** "name" "name" "name" ...  
     #Type your reponse next  
     "response"  
     #or type $ to cancel  
@@ -33,9 +31,9 @@ For specific Roles:
     "null"  
 
 #command deleting  
-    $commandremove "name"  
+    **$commandremove** "name"  
 
 #command editing  
-    $commandedit "name" name "newname" ...  
-    $commandedit "name" response "newname"  
-    $commandedit "name" image "imageurl"  
+    **$commandedit** "name" name "newname" ...  
+    **$commandedit** "name" response "newname"  
+    **$commandedit** "name" image "imageurl"  
