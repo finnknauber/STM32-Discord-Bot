@@ -1,40 +1,21 @@
-# STM32-Discord-Bot
+*** STM32-Discord-Bot Commands ***
+**For everyone:**
 ```
-For Everyone:  
-#link to bootloader video  
-        **$bootloader**  
-        **$hid**  
+link to bootloader video            $bootloader  $hid
+link to f4 video                    $F4          $f4
+R10 resistor problem explanation    $R10         $r10
+R3 resistor problem explanation     $R3          $r3
+#link to calebs patreon             $patreon
+```
+**For moderating roles:**
+```
+add a command                       $commandadd <name> <name> <name> ...
+    type your response or cancel    <response / $>
+    enter an image url or null      <image url / null>
 
-#link to f4 video
-        **$F4**  
-        **$f4**  
+remove a command                    $commandremove <name>
 
-#R10 resistor problem explanation  
-        **$R10**  
-        **$r10**  
-
-#R3 resistor problem explanation  
-        **$R3**  
-        **$r3**   
-
-#link to calebs patreon  
-        **$patreon**  
-
-For specific Roles:
-#command adding  
-        **$commandadd** "name" "name" "name" ...  
-        #Type your reponse next  
-        "response"  
-        #or type $ to cancel  
-        #next type a image url or "null" for no picture  
-        "image url"  
-        "null"  
-
-#command deleting  
-        **$commandremove** "name"  
-
-#command editing  
-        **$commandedit** "name" name "newname" ...  
-        **$commandedit** "name" response "newname"  
-        **$commandedit** "name" image "imageurl"  
+edit a command                      $commandedit <name> name <newname> <newname> ...
+                                    $commandedit <name> response <response>
+                                    $commandedit <name> image <imageurl>
 ```
