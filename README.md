@@ -24,7 +24,7 @@ For Everyone:
 For specific Roles:
 
 #command adding  
-    $commandadd <name> <name> <name> ...  
+    $commandadd "name" <name> <name> ...  
     #Type your reponse next  
     <response>  
     #or type $ to cancel  
