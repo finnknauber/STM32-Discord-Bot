@@ -247,12 +247,6 @@ async def on_message(message):
                     else:
                         await sendText(message, "You do not have permission to use this command!")
                 else:
-                    if hasValidRole(message.author.roles, data["roles"]):
-                        await executeCommand(message, data, command)
-                    else:
-                        await sendText(message, "You do not have permission to use this command!")
-
-                else:
                     await executeCommand(message, data, command)
 
         elif userIsEditing(message.author.name, data):
