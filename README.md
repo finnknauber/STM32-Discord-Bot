@@ -1,6 +1,6 @@
 # **STM32-Discord-Bot Commands**
 
-**For everyone:**
+**List of commands:**
 ```
 List of moderation commands       $commands     
 List of commands                  $help
@@ -24,4 +24,3 @@ edit a command                      $commandedit <name> name <newname> <newname>
                                     $commandedit <name> response <response>
                                     $commandedit <name> image <imageurl>
 ```
-or take a look here: https://github.com/finnknauber/STM32-Discord-Bot
