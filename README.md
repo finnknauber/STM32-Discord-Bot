@@ -1,14 +1,18 @@
-# **STM32-Discord-Bot Commands** 
+# **STM32-Discord-Bot Commands**
 
 **For everyone:**
 ```
-link to bootloader video            $bootloader  $hid
-link to f4 video                    $F4          $f4
-R10 resistor problem explanation    $R10         $r10
-R3 resistor problem explanation     $R3          $r3
-#link to calebs patreon             $patreon
+List of moderation commands       $commands     
+List of commands                  $help
+        
+link to calebs patreon            $patreon      
+link to bootloader video          $hid          $bootloader   
+link to f4 video                  $F4           $f4           
+Resistor info                     $resistor     $res          
+R3 resistor problem explanation   $R3           $r3           
+R10 resistor problem explanation  $R10          $r10          
 ```
-**For moderating roles:**
+**List of moderation commands:**
 ```
 add a command                       $commandadd <name> <name> <name> ...
     type your response or cancel    <response / $>
