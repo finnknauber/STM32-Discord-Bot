@@ -13,6 +13,63 @@ client = discord.Client()
 async def on_ready():
     print('Connected to Discord!')
 
+def generateReadme():
+    readme =    ("# **STM32-Discord-Bot Commands**\n\n"
+            +   "**For everyone:**\n"
+            +   "```")
+
+    with open("./commands.json") as commands:
+        commands = json.load(commands)["commands"]
+        commands.insert(0, {"command":["help\n"],"result":"A list of commands","description":"List of commands","image":None})
+        commands.insert(0, {"command":["commands"],"result":"A list of commands for moderating users","description":"List of moderation commands","image":None})
+
+        longestDescription = getLongestDescription(commands)
+        longestCommand = getLongestCommand(commands)
+
+        for command in commands:
+            line = command["description"]
+            line += " " * (longestDescription - len(command["description"]))
+
+            for name in command["command"]:
+                line += f"${name}"
+                line += " " * (longestCommand - len(name))
+            readme += "\n"+line
+
+    readme +=   ("\n```\n"
+            +   "**List of moderation commands:**\n"
+            +   "```\n"
+            +   "add a command                       $commandadd <name> <name> <name> ...\n"
+            +   "    type your response or cancel    <response / $>\n"
+            +   "    enter an image url or null      <image url / null>\n"
+            +   "\n"
+            +   "remove a command                    $commandremove <name>\n"
+            +   "\n"
+            +   "edit a command                      $commandedit <name> name <newname> <newname> ...\n"
+            +   "                                    $commandedit <name> response <response>\n"
+            +   "                                    $commandedit <name> image <imageurl>\n"
+            +   "```")
+
+    overwriteReadme(readme)
+
+def overwriteReadme(newReadme):
+    with open("./README.md","w") as readme:
+        readme.write(newReadme)
+        
+def getLongestDescription(commands):
+    longest = 0
+    for command in commands:
+        if len(command["description"]) > longest:
+            longest = len(command["description"])
+    return longest + 2
+
+def getLongestCommand(commands):
+    longest = 0
+    for command in commands:
+        for name in command["command"]:
+            if len(name)+1 > longest:
+                longest = len(name)+1
+    return longest + 2
+
 def hasValidRole(roles, validRoles):
     for role in roles:
         if role.name in validRoles:
@@ -38,12 +95,17 @@ def userIsEditing(author,data):
         return True
     return False
 
-def userHasEntrywithResult(author, data):
+def userHasEntryWithResult(author, data):
     if getOldEntry(author, data)["result"] == None:
         return False
     else:
         return True
 
+def userHasEntryWithDescription(author, data):
+    if getOldEntry(author, data)["description"] == None:
+        return False
+    else:
+        return True
 
 def getOldEntry(author,data):
     for edit in data["lastadds"]:
@@ -55,7 +117,7 @@ def writeJson(data):
     with open("./commands.json", "w") as commands:
         jsonString = json.dumps(data, indent=4)
         commands.write(jsonString)
-
+    generateReadme()
 
 def addJson(key, jsonObject, data):
     data[key].append(jsonObject)
@@ -73,6 +135,10 @@ def removeJson(key, jsonObject, data):
 
 async def addResult(data, message):
     editJson("lastadds", data, getOldEntry(message.author.name, data), "result", message.content)
+    await sendText(message, 'Enter a short description for this command')
+
+async def addDescription(data, message):
+    editJson("lastadds", data, getOldEntry(message.author.name, data), "description", message.content)
     await sendText(message, 'Enter an imgur link, or type "null"')
 
 async def finishAdding(data, message):
@@ -95,7 +161,7 @@ def getCommandEntry(command,data):
 
 async def commandAdd(message, names, data):
     if len(names) != 0:
-        jsonObject = {"user": message.author.name, "command": names, "result": None}
+        jsonObject = {"user": message.author.name, "command": names, "result": None, "description": None}
         addJson("lastadds", jsonObject, data)
         await sendText(message, f"Type your response for {'/'.join(names)} next!")
     else:
@@ -115,12 +181,17 @@ async def commandRemove(message, commandName, data):
 async def commandEdit(message, command, data):
     if len(command) >= 3:
         entry = getCommandEntry(command[0], data)
-        if command[1] == "name":
+        if entry == None:
+            await sendText(message, f"Command '{command[0]}' not found")
+        elif command[1] == "name":
             editJson("commands", data, entry, "command", command[2:])
             await sendText(message, f"Succesfully changed command to '{'/'.join(command[2:])}'")
         elif command[1] == "response":
             editJson("commands", data, entry, "result", ' '.join(command[2:]))
             await sendText(message, f"Succesfully changed the response to '{' '.join(command[2:])}'")
+        elif command[1] == "description":
+            editJson("commands", data, entry, "description", ' '.join(command[2:]))
+            await sendText(message, f"Succesfully changed the description to '{' '.join(command[2:])}'")
         elif command[1] == "image":
             if command[2].lower() == "null":
                 editJson("commands", data, entry, "image", None)
@@ -153,7 +224,11 @@ async def on_message(message):
 
             if command == "help":
                 with open("./README.md") as helpMessage:
-                    await sendText(message, helpMessage.read())
+                    await sendText(message, helpMessage.read().split("**List of moderation commands:**")[0])
+            if command == "commands":
+                with open("./README.md") as helpMessage:
+                    msg = "**For moderating roles:**\n" + helpMessage.read().split("**List of moderation commands:**")[1]
+                    await sendText(message, msg)
 
             else:
                 if hasValidRole(message.author.roles, data["roles"]):
@@ -171,8 +246,10 @@ async def on_message(message):
                     await executeCommand(message, data, command)
 
         elif userIsEditing(message.author.name, data):
-            if not userHasEntrywithResult(message.author.name, data):
+            if not userHasEntryWithResult(message.author.name, data):
                 await addResult(data, message)
+            elif not userHasEntryWithDescription(message.author.name, data):
+                await addDescription(data, message)
             else:
                 await finishAdding(data, message)
 
