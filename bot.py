@@ -227,7 +227,7 @@ async def on_message(message):
                     await sendText(message, helpMessage.read().split("**List of moderation commands:**")[0])
             if command == "commands":
                 with open("./README.md") as helpMessage:
-                    msg = "**For moderating roles:**\n" + helpMessage.read().split("**List of moderation commands:**")[1]
+                    msg = "**List of moderation commands:**\n" + helpMessage.read().split("**List of moderation commands:**")[1]
                     await sendText(message, msg)
 
             else:
