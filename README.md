@@ -1,5 +1,4 @@
-# STM32-Discord-Bot Commands 
-This is a test
+# **STM32-Discord-Bot Commands** 
 
 **For everyone:**
 ```
