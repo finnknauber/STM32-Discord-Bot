@@ -1,5 +1,5 @@
 # STM32-Discord-Bot
-
+```
 For Everyone:  
 #link to bootloader video  
         **$bootloader**  
@@ -37,3 +37,4 @@ For specific Roles:
         **$commandedit** "name" name "newname" ...  
         **$commandedit** "name" response "newname"  
         **$commandedit** "name" image "imageurl"  
+```
