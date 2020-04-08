@@ -6,4 +6,3 @@ git add -u
 git commit -m "Serverlog"
 git push
 
-echo "discordstm32bot!"
