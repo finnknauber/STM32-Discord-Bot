@@ -14,15 +14,15 @@ R10 resistor problem explanation  $R10          $r10
 ```
 **List of moderation commands:**
 ```
-add a command                       $commandadd <name> <name> <name> ...
+add a command                       $commandadd <name> <name> ...
     type your response or cancel    <response / $>
     enter a short description       <description>
     enter an image url or null      <image url / null>
 
 remove a command                    $commandremove <name>
 
-edit a command                      $commandedit <name> name <newname> ...
-                                    $commandedit <name> response <newresponse>
+edit a command                      $commandedit <name> name <newname> <newname> ...
+                                    $commandedit <name> response <response>
                                     $commandedit <name> description <newdescription>
-                                    $commandedit <name> image <newimageurl>
+                                    $commandedit <name> image <imageurl>
 ```
