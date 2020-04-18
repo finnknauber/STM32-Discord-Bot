@@ -2,15 +2,16 @@
 
 **List of commands:**
 ```
-List of moderation commands       $commands     
+List of moderation commands       $commands      
 List of commands                  $help
-        
-link to calebs patreon            $patreon      
-link to bootloader video          $hid          $bootloader   
-link to f4 video                  $F4           $f4           
-Resistor info                     $resistor     $res          
-R3 resistor problem explanation   $R3           $r3           
-R10 resistor problem explanation  $R10          $r10          
+         
+link to calebs patreon            $patreon       
+link to bootloader video          $hid           $bootloader    
+link to f4 video                  $F4            $f4            
+Resistor info                     $resistor      $res           
+R3 resistor problem explanation   $R3            $r3            
+R10 resistor problem explanation  $R10           $r10           
+hid settings picture              $hidsettings   
 ```
 **List of moderation commands:**
 ```
