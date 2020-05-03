@@ -12,6 +12,7 @@ Resistor info                     $resistor      $res
 R3 resistor problem explanation   $R3            $r3            
 R10 resistor problem explanation  $R10           $r10           
 hid settings picture              $hidsettings   
+IDE options explained             $ide           $IDE           
 ```
 **List of moderation commands:**
 ```
