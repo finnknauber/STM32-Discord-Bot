@@ -76,15 +76,5 @@
         "Mod",
         "Community Helper"
     ],
-    "lastadds": [
-        {
-            "user": "Finn",
-            "command": [
-                "cks",
-                "fakechip"
-            ],
-            "result": null,
-            "description": null
-        }
-    ]
+    "lastadds": []
 }
