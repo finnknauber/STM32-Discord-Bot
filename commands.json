@@ -78,6 +78,14 @@
             "result": "These are the settings for using PlatformIO with the hid bootloader:\n\n```[env:bluepill_f103c8]\nplatform = ststm32\nboard = bluepill_f103c8\nframework = arduino\nupload_protocol = hid\nupload_port = COM?\nbuild_flags = \n    -D PIO_FRAMEWORK_ARDUINO_ENABLE_CDC\n    -D USBCON\n    -D USBD_VID=0x0483\n    -D USB_MANUFACTURER=\"Unknown\"\n    -D USB_PRODUCT=\"\"BLUEPILL_F103C8\"\"\n    -D HAL_PCD_MODULE_ENABLED```",
             "description": "PlatformIO hid settings",
             "image": null
+        },
+        {
+            "command": [
+                "pinout"
+            ],
+            "result": "This is the pinout of the blue pill:",
+            "description": "Blue Pill pinout",
+            "image": "https://imgur.com/a/9wPFtMc"
         }
     ],
     "roles": [

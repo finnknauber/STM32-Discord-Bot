@@ -14,6 +14,7 @@ R10 resistor problem explanation  $R10              $r10
 hid settings picture              $hidsettings      
 IDE options explained             $ide              $IDE              
 PlatformIO hid settings           $hidsettingspio   $hidpio           
+Blue Pill pinout                  $pinout           
 ```
 **List of moderation commands:**
 ```
