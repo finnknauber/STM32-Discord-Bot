@@ -31,7 +31,7 @@
                 "resistor",
                 "res"
             ],
-            "result": "There are two known resistor issues. For more info type ?R3 or ?R10",
+            "result": "There are two known resistor issues. For more info type $R3 or $R10",
             "description": "Resistor info",
             "image": null
         },
