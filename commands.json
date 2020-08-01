@@ -86,6 +86,15 @@
             "result": "This is the pinout of the blue pill:",
             "description": "Blue Pill pinout",
             "image": "https://imgur.com/a/9wPFtMc"
+        },
+        {
+            "command": [
+                "bppinout",
+                "f401pinout"
+            ],
+            "result": "Here's the pinout for the black pill:",
+            "description": "Black pill pinout",
+            "image": "https://imgur.com/a/VrOcGsP"
         }
     ],
     "roles": [

@@ -15,6 +15,7 @@ hid settings picture              $hidsettings
 IDE options explained             $ide              $IDE              
 PlatformIO hid settings           $hidsettingspio   $hidpio           
 Blue Pill pinout                  $pinout           
+Black pill pinout                 $bppinout         $f401pinout       
 ```
 **List of moderation commands:**
 ```
