@@ -14,9 +14,8 @@ client = discord.Client()
 async def on_ready():
     print("test")
     channel = client.get_channel(741002663650525245)
-    if channel:
-        await channel.send("test")
+    #if channel:
+        #await channel.send("test")
+    await client.close()
 
 client.run(TOKEN)
-
-client.logout()
