@@ -1,4 +1,5 @@
 # launches.py
+import os
 import requests
 import discord
 

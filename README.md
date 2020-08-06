@@ -16,6 +16,7 @@ IDE options explained             $ide              $IDE
 PlatformIO hid settings           $hidsettingspio   $hidpio           
 Blue Pill pinout                  $pinout           
 Black pill pinout                 $bppinout         $f401pinout       
+STM32 fake chip collection        $fake             $fakechip         $stmfakes         
 ```
 **List of moderation commands:**
 ```
