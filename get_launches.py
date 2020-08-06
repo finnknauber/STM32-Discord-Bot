@@ -1,5 +1,5 @@
 import requests
-import datetime
+import json
 
 def serializeTime(timeString):
     months = ["January","February","March","April","May","Juni","July","August","September","October","November","Dezember"]
@@ -69,3 +69,10 @@ def get_launches():
                 launches.append(launchData)
 
     return launches
+
+def write_launches():
+    with open("launches.json","w") as launchData:
+        launchData.write(json.dumps(get_launches(),indent=4))
+
+
+write_launches()
