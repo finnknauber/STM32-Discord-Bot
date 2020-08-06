@@ -95,6 +95,16 @@
             "result": "Here's the pinout for the black pill:",
             "description": "Black pill pinout",
             "image": "https://imgur.com/a/VrOcGsP"
+        },
+        {
+            "command": [
+                "fake",
+                "fakechip",
+                "stmfakes"
+            ],
+            "result": "https://github.com/keirf/Greaseweazle/wiki/STM32-Fakes",
+            "description": "STM32 fake chip collection",
+            "image": null
         }
     ],
     "roles": [
