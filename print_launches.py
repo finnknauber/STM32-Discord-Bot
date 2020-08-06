@@ -42,19 +42,19 @@ def getJson():
                     if now >= before and now < launchTime:
                         launch["posted"] = True
 
-                        message = "**Launching " + launch["name"] + "**\n"
-                        message += "*Time: *" + launch["time_raw"] + "\n"
+                        message = "**Launching '" + launch["name"] + "'**\n"
+                        message += "**Time:** " + launch["time_raw"] + "\n"
                         if launch["description"]:
-                            message += "*Info*: " + launch["description"] + "\n\n"
+                            message += "**Info**: " + launch["description"] + "\n\n"
 
                         for video in launch["videos"]:
-                            message += "*Watch here:*" + video + "\n"
+                            message += "*Watch here:* <" + video + ">\n"
                         if not launch["videos"]:
                             message += "*No livestream available*\n"
                             
                         if launch["info"]:
                             for info in launch["info"]:
-                                message += "*More info:*" + info + "\n"
+                                message += "*More info:* <" + info + ">\n"
                                 
                         if launch["image"]:
                             message += launch["image"]
