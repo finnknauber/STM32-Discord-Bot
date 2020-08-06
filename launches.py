@@ -12,7 +12,8 @@ client = discord.Client()
 
 @client.event
 async def on_ready():
-    #get_launches()
-
+    print("test")
     channel = client.get_channel(741002663650525245)
     await channel.send("test")
+
+client.run(TOKEN)
