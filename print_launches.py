@@ -10,12 +10,20 @@ TOKEN = os.getenv("DISCORD_TOKEN")
 
 client = discord.Client()
 
+message =""
+
 @client.event
 async def on_ready():
-    print("test")
+    print("Sending Message")
     channel = client.get_channel(741002663650525245)
-    #if channel:
-        #await channel.send("test")
+    if channel:
+        await channel.send(message)
     await client.close()
 
-client.run(TOKEN)
+def getJson():
+    message = "Next rocket launch"
+
+getJson()
+if message:
+    client.run(TOKEN)
+
