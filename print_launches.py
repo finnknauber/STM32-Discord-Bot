@@ -15,6 +15,7 @@ message = ""
 
 @client.event
 async def on_ready():
+    global message
     print("Sending Message")
     channel = client.get_channel(741002663650525245)
     if channel:
@@ -58,7 +59,6 @@ def getJson():
                                 
                         if launch["image"]:
                             message += launch["image"]
-
 
         with open("launches.json","w") as launchFile:
             launchFile.write(json.dumps(launchData,indent=4))
