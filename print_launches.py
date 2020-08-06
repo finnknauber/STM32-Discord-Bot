@@ -1,4 +1,4 @@
-# print_launches.py
+#!print_launches.py
 import os
 import json
 import datetime
