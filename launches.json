@@ -2,9 +2,9 @@
     {
         "posted": false,
         "name": "Astra Rocket 3.1 | Maiden Flight",
-        "time_raw": "August 7, 2020 02:00:00 UTC",
+        "time_raw": "August 8, 2020 02:00:00 UTC",
         "time": {
-            "day": 7,
+            "day": 8,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
@@ -19,24 +19,21 @@
     },
     {
         "posted": false,
-        "name": "Falcon 9 Block 5 | Starlink 9",
-        "time_raw": "August 7, 2020 05:12:00 UTC",
+        "name": "Electron | Return To Flight (Payload unknown)",
+        "time_raw": "August 12, 2020 03:00:00 UTC",
         "time": {
-            "day": 7,
+            "day": 12,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 5,
-            "minute": 12,
+            "hour": 3,
+            "minute": 0,
             "second": 0
         },
         "info": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=KU6KogxG5BE",
-            "https://www.youtube.com/watch?v=cG_d62T-yu8"
-        ],
-        "description": "A batch of 57 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. This launch will also carry two BlackSky Earth-imaging satellites as a rideshare.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+        "videos": [],
+        "description": "",
+        "image": ""
     },
     {
         "posted": false,

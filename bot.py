@@ -254,8 +254,7 @@ async def on_message(message):
 
             else:
                 if commandSplit[0] == "launches":
-                    channel = client.get_channel(741002663650525245)
-                    await channel.send(get_launchlist_message())
+                    await sendText(message, get_launchlist_message())
                 elif commandSplit[0] == "commandadd":
                     if hasValidRole(message.author.roles, data["roles"]):
                         await commandAdd(message, commandSplit[1:], data)
