@@ -1,0 +1,190 @@
+[
+    {
+        "posted": false,
+        "name": "Astra Rocket 3.1 | Maiden Flight",
+        "time_raw": "August 7, 2020 02:00:00 UTC",
+        "time": {
+            "day": 7,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | Starlink 9",
+        "time_raw": "August 7, 2020 05:12:00 UTC",
+        "time": {
+            "day": 7,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 5,
+            "minute": 12,
+            "second": 0
+        },
+        "info": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=KU6KogxG5BE",
+            "https://www.youtube.com/watch?v=cG_d62T-yu8"
+        ],
+        "description": "A batch of 57 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. This launch will also carry two BlackSky Earth-imaging satellites as a rideshare.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Ariane 5 ECA+ | Galaxy 30, MEV-2 & BSAT-4B",
+        "time_raw": "August 14, 2020 21:33:00 UTC",
+        "time": {
+            "day": 14,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 21,
+            "minute": 33,
+            "second": 0
+        },
+        "info": [
+            "https://www.arianespace.com/mission/ariane-flight-va253/"
+        ],
+        "videos": [],
+        "description": "Galaxy-30 is a geostationary communications satellite for Intelsat. Satellite is built by Northrop Grumman Innovation Systems (NGIS) and is planned to provide video distribution and broadcast services to customers in North America. \nGalaxy 30 satellite is launched in tandem with MEV-2 vehicle. MEV-2, which stands for Mission Extension Vehicle-2, is the second servicing mission by NGIS. MEV-2 will rendezvous and dock with the Intelsat 1002 satellite in early 2021. Then, MEV-2 will use its own thrusters and fuel supply to control the satellite\u2019s orbit, thereby extending its useful lifetime. \nAnother passenger of the flight is the BSAT-4b satellite for the Japanese operator BSAT. BSAT-4b will serve as a back-up for BSAT-4a satellite, launched in 2017. BSAT-4b will provide Direct-to-Home television services and is expected to operate for at least 15 years.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Vega | SSMS POC",
+        "time_raw": "August 17, 2020 01:51:10 UTC",
+        "time": {
+            "day": 17,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 1,
+            "minute": 51,
+            "second": 10
+        },
+        "info": [],
+        "videos": [
+            "https://www.arianespace.com/mission/vega-flight-vv16/",
+            "https://www.esa.int/ESA_Multimedia/ESA_Web_TV"
+        ],
+        "description": "The Vega POC (Proof Of Concept) flight will be the first mission of the SSMS (Small Spacecraft Mission Service), a modular carbon fiber dispenser, a program initiated by ESA in 2016, with the contribution of the European Commission. For all the European partners involved, its purpose is to address the burgeoning institutional and commercial small spacecraft market with a new rideshare concept.\n\nPayload includes dozens of satellites: Athena, ION CubeSat Carrier, ESAIL, NEMO-HD, GHGSat C1, six Flock-v cubesats, several Lemur-2 cubesats, twelve SpaceBEE nanosats, FSSCat A & B, RTAF-Sat, DIDO 3, IGOSat, PICASSO, PINO, PIXL, QARMAN, SIMBA, TRISAT, Casaa-Sat, TT\u00c3\u0153100, and more.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "August 26, 2020 05:50:00 UTC",
+        "time": {
+            "day": 26,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 5,
+            "minute": 50,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | Sirius SXM-7",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\n\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\n\nSXM-7 is meant to replace the XM-3 satellite.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | SAOCOM 1B",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "The SAOCOM 1B spacecraft is the second of the two SAOCOM constellation satellites. It is tasked with hydrology and land observaion, and will also operate jointly with the Italian COSMO-SkyMed constellation in X-band to provide frequent information relevant for emergency management.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1b/Fregat | Glonass-K1",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1a | Bars-M No. 3",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Bars-M is the second incarnation of the Bars project, which was started in the mid 1990ies to develop a successor for the Komtea class of area surveillance satellites. The original Bars project was halted in the early 2000s. In 2007, TsSKB-Progress was contracted for Bars-M, for which reportedly the Yantar-based service module was replaced by a new developed advanced service module.\n\nThe Bars-M satellites feature an electro-optical camera system called Karat, which is developed and built by the Leningrad Optical Mechanical Association (LOMO), and a dual laser altimeter instrument to deliver topographic imagery, stereo images, altimeter data and high-resolution images with a ground resolution around 1 meter.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Electron | STP-27RM",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "A U.S. Air Force experimental spacecraft.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
+    }
+]
