@@ -205,6 +205,26 @@ async def commandEdit(message, command, data):
     else:
         await sendText(message, "Please enter all required parameters or type $help")
 
+def get_launchlist_message():
+    message = "**Upcoming launches:**\n\n"
+    if os.path.exists("launches.json"):
+        with open("launches.json") as launchData:
+
+            launchData = json.loads(launchData.read())
+            if len(launchData) > 5:
+                launchData = launchData[:5]
+
+            for launch in launchData:
+                message += "• **" + launch["name"] + "** on " + launch["time_raw"] +  "\n"
+
+            if not len(launchData):
+                message += "*No upcoming launches found*"
+                
+    else:
+        message += "*No upcoming launches found*"
+
+    return message
+
 
 @client.event
 async def on_message(message):
@@ -233,7 +253,10 @@ async def on_message(message):
                     await sendText(message, msg)
 
             else:
-                if commandSplit[0] == "commandadd":
+                if commandSplit[0] == "launches":
+                    channel = client.get_channel(741002663650525245)
+                    await channel.send(get_launchlist_message())
+                elif commandSplit[0] == "commandadd":
                     if hasValidRole(message.author.roles, data["roles"]):
                         await commandAdd(message, commandSplit[1:], data)
                     else:
