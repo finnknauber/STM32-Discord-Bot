@@ -43,7 +43,7 @@ def getJson():
                     if now >= before and now < launchTime:
                         launch["posted"] = True
 
-                        message = "**Launching '" + launch["name"] + "'**\n"
+                        message = "**Launching '" + launch["name"] + "'** in 15 Minutes\n"
                         message += "**Time:** " + launch["time_raw"] + "\n"
                         if launch["description"]:
                             message += "**Info**: " + launch["description"] + "\n\n"
