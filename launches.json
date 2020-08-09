@@ -1,23 +1,5 @@
 [
     {
-        "posted": true,
-        "name": "Astra Rocket 3.1 | Maiden Flight",
-        "time_raw": "August 8, 2020 02:00:00 UTC",
-        "time": {
-            "day": 8,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 2,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
-        "image": ""
-    },
-    {
         "posted": false,
         "name": "Electron | Return To Flight (Payload unknown)",
         "time_raw": "August 12, 2020 03:00:00 UTC",
@@ -183,5 +165,23 @@
         "videos": [],
         "description": "A U.S. Air Force experimental spacecraft.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Astra Rocket 3.1 | Maiden Flight",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
+        "image": ""
     }
 ]
