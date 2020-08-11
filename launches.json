@@ -1,24 +1,6 @@
 [
     {
         "posted": false,
-        "name": "Electron | Return To Flight (Payload unknown)",
-        "time_raw": "August 12, 2020 03:00:00 UTC",
-        "time": {
-            "day": 12,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 3,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "",
-        "image": ""
-    },
-    {
-        "posted": false,
         "name": "Ariane 5 ECA+ | Galaxy 30, MEV-2 & BSAT-4B",
         "time_raw": "August 14, 2020 21:33:00 UTC",
         "time": {
@@ -182,6 +164,24 @@
         "info": [],
         "videos": [],
         "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Electron | Return To Flight (Payload unknown)",
+        "time_raw": "August 31, 2020 03:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 3,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
         "image": ""
     }
 ]

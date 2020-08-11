@@ -17,6 +17,7 @@ PlatformIO hid settings           $hidsettingspio   $hidpio
 Blue Pill pinout                  $pinout           
 Black pill pinout                 $bppinout         $f401pinout       
 STM32 fake chip collection        $fake             $fakechip         $stmfakes         
+Code formatting                   $code             $formatting       
 ```
 **List of moderation commands:**
 ```

@@ -105,6 +105,15 @@
             "result": "https://github.com/keirf/Greaseweazle/wiki/STM32-Fakes",
             "description": "STM32 fake chip collection",
             "image": null
+        },
+        {
+            "command": [
+                "code",
+                "formatting"
+            ],
+            "result": "Please send code blocks like this:",
+            "description": "Code formatting",
+            "image": "https://imgur.com/a/ZpyFbhQ"
         }
     ],
     "roles": [
