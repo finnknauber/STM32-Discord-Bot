@@ -21,24 +21,21 @@
     },
     {
         "posted": false,
-        "name": "Vega | SSMS POC",
-        "time_raw": "August 17, 2020 01:51:10 UTC",
+        "name": "Falcon 9 Block 5 | Starlink 10",
+        "time_raw": "August 18, 2020 14:31:00 UTC",
         "time": {
-            "day": 17,
+            "day": 18,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 1,
-            "minute": 51,
-            "second": 10
+            "hour": 14,
+            "minute": 31,
+            "second": 0
         },
         "info": [],
-        "videos": [
-            "https://www.arianespace.com/mission/vega-flight-vv16/",
-            "https://www.esa.int/ESA_Multimedia/ESA_Web_TV"
-        ],
-        "description": "The Vega POC (Proof Of Concept) flight will be the first mission of the SSMS (Small Spacecraft Mission Service), a modular carbon fiber dispenser, a program initiated by ESA in 2016, with the contribution of the European Commission. For all the European partners involved, its purpose is to address the burgeoning institutional and commercial small spacecraft market with a new rideshare concept.\n\nPayload includes dozens of satellites: Athena, ION CubeSat Carrier, ESAIL, NEMO-HD, GHGSat C1, six Flock-v cubesats, several Lemur-2 cubesats, twelve SpaceBEE nanosats, FSSCat A & B, RTAF-Sat, DIDO 3, IGOSat, PICASSO, PINO, PIXL, QARMAN, SIMBA, TRISAT, Casaa-Sat, TT\u00c3\u0153100, and more.",
-        "image": ""
+        "videos": [],
+        "description": "A batch of 58 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. This launch will also carry 3 SkySat Earth-imaging satellites as a rideshare.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
@@ -57,24 +54,6 @@
         "videos": [],
         "description": "",
         "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | Sirius SXM-7",
-        "time_raw": "August 31, 2020 00:00:00 UTC",
-        "time": {
-            "day": 31,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\n\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\n\nSXM-7 is meant to replace the XM-3 satellite.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
@@ -182,6 +161,24 @@
         "info": [],
         "videos": [],
         "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Atlas V 531 | NROL-101",
+        "time_raw": "September 1, 2020 00:00:00 UTC",
+        "time": {
+            "day": 1,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Classified payload for the U.S. National Reconnaissance Office.",
         "image": ""
     }
 ]
