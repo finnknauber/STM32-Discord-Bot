@@ -2,9 +2,9 @@
     {
         "posted": true,
         "name": "Ariane 5 ECA+ | Galaxy 30, MEV-2 & BSAT-4B",
-        "time_raw": "August 14, 2020 21:33:00 UTC",
+        "time_raw": "August 15, 2020 21:33:00 UTC",
         "time": {
-            "day": 14,
+            "day": 15,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
@@ -130,13 +130,13 @@
     {
         "posted": false,
         "name": "Astra Rocket 3.1 | Maiden Flight",
-        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time_raw": "August 31, 2020 02:00:00 UTC",
         "time": {
             "day": 31,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 0,
+            "hour": 2,
             "minute": 0,
             "second": 0
         },
