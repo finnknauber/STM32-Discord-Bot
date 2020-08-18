@@ -1,6 +1,6 @@
 [
     {
-        "posted": false,
+        "posted": true,
         "name": "Falcon 9 Block 5 | Starlink 10",
         "time_raw": "August 18, 2020 14:31:00 UTC",
         "time": {
@@ -13,7 +13,9 @@
             "second": 0
         },
         "info": [],
-        "videos": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=jTMJK7wb0rM"
+        ],
         "description": "A batch of 58 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system. This launch will also carry 3 SkySat Earth-imaging satellites as a rideshare.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
