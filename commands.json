@@ -85,7 +85,7 @@
             ],
             "result": "This is the pinout of the blue pill:",
             "description": "Blue Pill pinout",
-            "image": "https://imgur.com/a/9wPFtMc"
+            "image": "https://imgur.com/a/BHo7fCA"
         },
         {
             "command": [
@@ -114,6 +114,15 @@
             "result": "Please send code blocks like this:",
             "description": "Code formatting",
             "image": "https://imgur.com/a/ZpyFbhQ"
+        },
+        {
+            "command": [
+                "f0pinout",
+                "F0pinout"
+            ],
+            "result": "This is the pinout of the STM32F030",
+            "description": "STMF030 pinout",
+            "image": "https://imgur.com/a/Cd90255"
         }
     ],
     "roles": [
