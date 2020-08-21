@@ -193,34 +193,43 @@ async def commandAdd(message, names, data):
 async def commandRemove(message, commandName, data):
     if len(commandName) != 0:
         entry = getCommandEntry(commandName[0], data, message.channel.id)
+        name = commandName[0]
+        if commandName[1] == "channel":
+            entry = getCommandEntry(commandName[1], data, message.channel.id)
+            name = commandName[1]
+
         if entry:
             removeJson("commands", entry, data)
-            await sendText(message, f"Removed {commandName[0]}!")
+            await sendText(message, f"Removed {name}!")
         else:
-            await sendText(message, f"Command '{commandName[0]}' was not found!")
+            await sendText(message, f"Command '{name}' was not found!")
     else:
         await sendText(message, "Please type a command name or $help")
 
 async def commandEdit(message, command, data):
     if len(command) >= 3:
-        entry = getCommandEntry(command[0], data, message.channel.id)
+        channel = 0
+        if command[1] == "channel":
+            channel = 1
+
+        entry = getCommandEntry(command[1+channel], data, message.channel.id)
         if entry == None:
             await sendText(message, f"Command '{command[0]}' not found")
-        elif command[1] == "name":
-            editJson("commands", data, entry, "command", command[2:])
-            await sendText(message, f"Succesfully changed command to '{'/'.join(command[2:])}'")
-        elif command[1] == "response":
+        elif command[1+channel] == "name":
+            editJson("commands", data, entry, "command", command[2+channel:])
+            await sendText(message, f"Succesfully changed command to '{'/'.join(command[2+channel:])}'")
+        elif command[1+channel] == "response":
             editJson("commands", data, entry, "result", ' '.join(command[2:]))
-            await sendText(message, f"Succesfully changed the response to '{' '.join(command[2:])}'")
-        elif command[1] == "description":
+            await sendText(message, f"Succesfully changed the response to '{' '.join(command[2+channel:])}'")
+        elif command[1+channel] == "description":
             editJson("commands", data, entry, "description", ' '.join(command[2:]))
-            await sendText(message, f"Succesfully changed the description to '{' '.join(command[2:])}'")
-        elif command[1] == "image":
-            if command[2].lower() == "null":
+            await sendText(message, f"Succesfully changed the description to '{' '.join(command[2+channel:])}'")
+        elif command[1+channel] == "image":
+            if command[2+channel].lower() == "null":
                 editJson("commands", data, entry, "image", None)
             else:
-                editJson("commands", data, entry, "image", command[2])
-            await sendText(message, f"Succesfully changed the image url to '{command[2]}'")
+                editJson("commands", data, entry, "image", command[2+channel])
+            await sendText(message, f"Succesfully changed the image url to '{command[2+channel]}'")
         else:
             await sendText(message, "Please specify what parameter you want to edit or type $help")
     else:
