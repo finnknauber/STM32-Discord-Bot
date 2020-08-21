@@ -250,6 +250,7 @@ def get_launchlist_message():
                         message+=str(minutes) + " Minute"
                     else:
                         message+=str(minutes) + " Minutes"
+                message+="\n"
 
             if not len(launchData):
                 message += "*No upcoming launches found*"

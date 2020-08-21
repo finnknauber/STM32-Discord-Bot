@@ -18,6 +18,7 @@ Blue Pill pinout                  $pinout
 Black pill pinout                 $bppinout         $f401pinout       
 STM32 fake chip collection        $fake             $fakechip         $stmfakes         
 Code formatting                   $code             $formatting       
+STMF030 pinout                    $f0pinout         $F0pinout         
 ```
 **List of moderation commands:**
 ```
