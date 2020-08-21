@@ -1,6 +1,6 @@
 {
     "commands": [
-        {   
+        {
             "channel": 0,
             "command": [
                 "patreon"
@@ -91,24 +91,6 @@
         {
             "channel": 0,
             "command": [
-                "f1pinout"
-            ],
-            "result": "This is the pinout of the blue pill:",
-            "description": "Blue Pill pinout",
-            "image": "https://imgur.com/a/BHo7fCA"
-        },
-        {
-            "channel": 0,
-            "command": [
-                "f4pinout"
-            ],
-            "result": "Here's the pinout for the black pill:",
-            "description": "Black pill pinout",
-            "image": "https://imgur.com/a/VrOcGsP"
-        },
-        {
-            "channel": 0,
-            "command": [
                 "fake",
                 "fakechip",
                 "stmfakes"
@@ -128,13 +110,13 @@
             "image": "https://imgur.com/a/ZpyFbhQ"
         },
         {
-            "channel": 717583151538634852,
+            "channel": 640197334201925681,
             "command": [
                 "pinout"
             ],
-            "result": "This is the pinout of the STM32F030:",
-            "description": "STMF030 pinout",
-            "image": "https://imgur.com/a/Cd90255"
+            "result": "Black pill pinout:",
+            "description": "Black Pill Pinout",
+            "image": "https://imgur.com/a/VrOcGsP"
         }
     ],
     "roles": [

@@ -14,15 +14,13 @@ R10 resistor problem explanation  $R10              $r10
 hid settings picture              $hidsettings      
 IDE options explained             $ide              $IDE              
 PlatformIO hid settings           $hidsettingspio   $hidpio           
-Blue Pill pinout                  $pinout           
-Black pill pinout                 $bppinout         $f401pinout       
 STM32 fake chip collection        $fake             $fakechip         $stmfakes         
 Code formatting                   $code             $formatting       
-STMF030 pinout                    $f0pinout         $F0pinout         
+Black Pill Pinout                 $pinout           
 ```
 **List of moderation commands:**
 ```
-add a command                       $commandadd <name> <name> ...
+add a command                       $commandadd channel(optional) <name> <name> ...
     type your response or cancel    <response / $>
     enter a short description       <description>
     enter an image url or null      <image url / null>
