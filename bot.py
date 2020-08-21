@@ -44,12 +44,12 @@ def generateReadme():
             +   "    enter a short description       <description>\n"
             +   "    enter an image url or null      <image url / null>\n"
             +   "\n"
-            +   "remove a command                    $commandremove <name>\n"
+            +   "remove a command                    $commandremove channel(if channel specific) <name>\n"
             +   "\n"
-            +   "edit a command                      $commandedit <name> name <newname> <newname> ...\n"
-            +   "                                    $commandedit <name> response <response>\n"
-            +   "                                    $commandedit <name> description <newdescription>\n"
-            +   "                                    $commandedit <name> image <imageurl>\n"
+            +   "edit a command                      $commandedit channel(if channel specific) <name> name <newname> <newname> ...\n"
+            +   "                                    $commandedit channel(if channel specific) <name> response <response>\n"
+            +   "                                    $commandedit channel(if channel specific) <name> description <newdescription>\n"
+            +   "                                    $commandedit channel(if channel specific) <name> image <imageurl>\n"
             +   "```")
 
     overwriteReadme(readme)
@@ -86,18 +86,25 @@ async def sendImage(message, image):
     await message.channel.send(image)
 
 async def executeCommand(message, data, command):
+    found_command = False
+
     for command_object in data["commands"]:
         for command_name in command_object["command"]:
             if command_name == command:
                 if command_object["channel"]:
                     if command_object["channel"] == message.channel.id:
+                        found_command = True
                         await sendText(message, command_object["result"])
                         if command_object["image"]:
                             await sendImage(message, command_object["image"])
                 else:
+                    found_command = True
                     await sendText(message, command_object["result"])
                     if command_object["image"]:
                         await sendImage(message, command_object["image"])
+
+    if not found_command:
+        await sendText(message, f"Command '{command}' was not found!")
 
 def userIsEditing(author,data):
     if getOldEntry(author, data):
@@ -162,10 +169,11 @@ async def finishAdding(data, message):
         jsonObject["image"] = None
     addJson("commands", jsonObject, data)
 
-def getCommandEntry(command,data):
+def getCommandEntry(command, data, channel):
     for entry in data["commands"]:
         if command in entry["command"]:
-            return entry
+            if channel == entry["channel"] or entry["channel"] == 0:
+                return entry
     return None
 
 async def commandAdd(message, names, data):
@@ -184,7 +192,7 @@ async def commandAdd(message, names, data):
 
 async def commandRemove(message, commandName, data):
     if len(commandName) != 0:
-        entry = getCommandEntry(commandName[0], data)
+        entry = getCommandEntry(commandName[0], data, message.channel.id)
         if entry:
             removeJson("commands", entry, data)
             await sendText(message, f"Removed {commandName[0]}!")
@@ -195,7 +203,7 @@ async def commandRemove(message, commandName, data):
 
 async def commandEdit(message, command, data):
     if len(command) >= 3:
-        entry = getCommandEntry(command[0], data)
+        entry = getCommandEntry(command[0], data, message.channel.id)
         if entry == None:
             await sendText(message, f"Command '{command[0]}' not found")
         elif command[1] == "name":
