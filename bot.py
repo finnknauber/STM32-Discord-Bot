@@ -175,7 +175,7 @@ async def commandAdd(message, names, data):
         await sendText(message, f"Type your response for {'/'.join(names)} next!")
 
     elif len(names) >= 2 and names[0] == "channel":
-        jsonObject = {"channel": message.channel.id, "user": message.author.name, "command": names, "result": None, "description": None}
+        jsonObject = {"channel": message.channel.id, "user": message.author.name, "command": names[1:], "result": None, "description": None}
         addJson("lastadds", jsonObject, data)
         await sendText(message, f"Type your response for {'/'.join(names[1:])} next!")
 
