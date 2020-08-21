@@ -44,12 +44,12 @@ def generateReadme():
             +   "    enter a short description       <description>\n"
             +   "    enter an image url or null      <image url / null>\n"
             +   "\n"
-            +   "remove a command                    $commandremove channel(if channel specific) <name>\n"
+            +   "remove a command                    $commandremove <name>\n"
             +   "\n"
-            +   "edit a command                      $commandedit channel(if channel specific) <name> name <newname> <newname> ...\n"
-            +   "                                    $commandedit channel(if channel specific) <name> response <response>\n"
-            +   "                                    $commandedit channel(if channel specific) <name> description <newdescription>\n"
-            +   "                                    $commandedit channel(if channel specific) <name> image <imageurl>\n"
+            +   "edit a command                      $commandedit <name> name <newname> <newname> ...\n"
+            +   "                                    $commandedit <name> response <response>\n"
+            +   "                                    $commandedit <name> description <newdescription>\n"
+            +   "                                    $commandedit <name> image <imageurl>\n"
             +   "```")
 
     overwriteReadme(readme)
@@ -86,25 +86,18 @@ async def sendImage(message, image):
     await message.channel.send(image)
 
 async def executeCommand(message, data, command):
-    found_command = False
-
     for command_object in data["commands"]:
         for command_name in command_object["command"]:
             if command_name == command:
                 if command_object["channel"]:
                     if command_object["channel"] == message.channel.id:
-                        found_command = True
                         await sendText(message, command_object["result"])
                         if command_object["image"]:
                             await sendImage(message, command_object["image"])
                 else:
-                    found_command = True
                     await sendText(message, command_object["result"])
                     if command_object["image"]:
                         await sendImage(message, command_object["image"])
-
-    if not found_command:
-        await sendText(message, f"Command '{command}' was not found!")
 
 def userIsEditing(author,data):
     if getOldEntry(author, data):
@@ -169,11 +162,10 @@ async def finishAdding(data, message):
         jsonObject["image"] = None
     addJson("commands", jsonObject, data)
 
-def getCommandEntry(command, data, channel):
+def getCommandEntry(command,data):
     for entry in data["commands"]:
         if command in entry["command"]:
-            if channel == entry["channel"] or entry["channel"] == 0:
-                return entry
+            return entry
     return None
 
 async def commandAdd(message, names, data):
@@ -192,44 +184,35 @@ async def commandAdd(message, names, data):
 
 async def commandRemove(message, commandName, data):
     if len(commandName) != 0:
-        entry = getCommandEntry(commandName[0], data, message.channel.id)
-        name = commandName[0]
-        if commandName[1] == "channel":
-            entry = getCommandEntry(commandName[1], data, message.channel.id)
-            name = commandName[1]
-
+        entry = getCommandEntry(commandName[0], data)
         if entry:
             removeJson("commands", entry, data)
-            await sendText(message, f"Removed {name}!")
+            await sendText(message, f"Removed {commandName[0]}!")
         else:
-            await sendText(message, f"Command '{name}' was not found!")
+            await sendText(message, f"Command '{commandName[0]}' was not found!")
     else:
         await sendText(message, "Please type a command name or $help")
 
 async def commandEdit(message, command, data):
     if len(command) >= 3:
-        channel = 0
-        if command[1] == "channel":
-            channel = 1
-
-        entry = getCommandEntry(command[1+channel], data, message.channel.id)
+        entry = getCommandEntry(command[0], data)
         if entry == None:
             await sendText(message, f"Command '{command[0]}' not found")
-        elif command[1+channel] == "name":
-            editJson("commands", data, entry, "command", command[2+channel:])
-            await sendText(message, f"Succesfully changed command to '{'/'.join(command[2+channel:])}'")
-        elif command[1+channel] == "response":
+        elif command[1] == "name":
+            editJson("commands", data, entry, "command", command[2:])
+            await sendText(message, f"Succesfully changed command to '{'/'.join(command[2:])}'")
+        elif command[1] == "response":
             editJson("commands", data, entry, "result", ' '.join(command[2:]))
-            await sendText(message, f"Succesfully changed the response to '{' '.join(command[2+channel:])}'")
-        elif command[1+channel] == "description":
+            await sendText(message, f"Succesfully changed the response to '{' '.join(command[2:])}'")
+        elif command[1] == "description":
             editJson("commands", data, entry, "description", ' '.join(command[2:]))
-            await sendText(message, f"Succesfully changed the description to '{' '.join(command[2+channel:])}'")
-        elif command[1+channel] == "image":
-            if command[2+channel].lower() == "null":
+            await sendText(message, f"Succesfully changed the description to '{' '.join(command[2:])}'")
+        elif command[1] == "image":
+            if command[2].lower() == "null":
                 editJson("commands", data, entry, "image", None)
             else:
-                editJson("commands", data, entry, "image", command[2+channel])
-            await sendText(message, f"Succesfully changed the image url to '{command[2+channel]}'")
+                editJson("commands", data, entry, "image", command[2])
+            await sendText(message, f"Succesfully changed the image url to '{command[2]}'")
         else:
             await sendText(message, "Please specify what parameter you want to edit or type $help")
     else:
