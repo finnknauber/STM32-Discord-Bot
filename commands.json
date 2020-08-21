@@ -1,6 +1,7 @@
 {
     "commands": [
-        {
+        {   
+            "channel": 0,
             "command": [
                 "patreon"
             ],
@@ -9,6 +10,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "hid",
                 "bootloader"
@@ -18,6 +20,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "F4",
                 "f4"
@@ -27,6 +30,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "resistor",
                 "res"
@@ -36,6 +40,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "R3",
                 "r3"
@@ -45,6 +50,7 @@
             "image": "https://i.imgur.com/hrd75KM.jpg"
         },
         {
+            "channel": 0,
             "command": [
                 "R10",
                 "r10"
@@ -54,6 +60,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "hidsettings"
             ],
@@ -62,6 +69,7 @@
             "image": "https://imgur.com/u23mBhS"
         },
         {
+            "channel": 0,
             "command": [
                 "ide",
                 "IDE"
@@ -71,6 +79,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "hidsettingspio",
                 "hidpio"
@@ -80,23 +89,25 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
-                "pinout"
+                "f1pinout"
             ],
             "result": "This is the pinout of the blue pill:",
             "description": "Blue Pill pinout",
             "image": "https://imgur.com/a/BHo7fCA"
         },
         {
+            "channel": 0,
             "command": [
-                "bppinout",
-                "f401pinout"
+                "f4pinout"
             ],
             "result": "Here's the pinout for the black pill:",
             "description": "Black pill pinout",
             "image": "https://imgur.com/a/VrOcGsP"
         },
         {
+            "channel": 0,
             "command": [
                 "fake",
                 "fakechip",
@@ -107,6 +118,7 @@
             "image": null
         },
         {
+            "channel": 0,
             "command": [
                 "code",
                 "formatting"
@@ -116,11 +128,11 @@
             "image": "https://imgur.com/a/ZpyFbhQ"
         },
         {
+            "channel": 717583151538634852,
             "command": [
-                "f0pinout",
-                "F0pinout"
+                "pinout"
             ],
-            "result": "This is the pinout of the STM32F030",
+            "result": "This is the pinout of the STM32F030:",
             "description": "STMF030 pinout",
             "image": "https://imgur.com/a/Cd90255"
         }

@@ -89,9 +89,15 @@ async def executeCommand(message, data, command):
     for command_object in data["commands"]:
         for command_name in command_object["command"]:
             if command_name == command:
-                await sendText(message, command_object["result"])
-                if command_object["image"]:
-                    await sendImage(message, command_object["image"])
+                if command_object["channel"]:
+                    if command_object["channel"] == message.channel.id:
+                        await sendText(message, command_object["result"])
+                        if command_object["image"]:
+                            await sendImage(message, command_object["image"])
+                else:
+                    await sendText(message, command_object["result"])
+                    if command_object["image"]:
+                        await sendImage(message, command_object["image"])
 
 def userIsEditing(author,data):
     if getOldEntry(author, data):
@@ -163,10 +169,16 @@ def getCommandEntry(command,data):
     return None
 
 async def commandAdd(message, names, data):
-    if len(names) != 0:
-        jsonObject = {"user": message.author.name, "command": names, "result": None, "description": None}
+    if len(names) != 0 and names[0] != "channel":
+        jsonObject = {"channel": 0, "user": message.author.name, "command": names, "result": None, "description": None}
         addJson("lastadds", jsonObject, data)
         await sendText(message, f"Type your response for {'/'.join(names)} next!")
+
+    elif len(names) >= 2 and names[0] == "channel":
+        jsonObject = {"channel": message.channel.id, "user": message.author.name, "command": names, "result": None, "description": None}
+        addJson("lastadds", jsonObject, data)
+        await sendText(message, f"Type your response for {'/'.join(names[1:])} next!")
+
     else:
         await sendText(message, "No names found, please try again or type $help")
 
