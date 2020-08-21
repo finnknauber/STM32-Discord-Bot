@@ -39,7 +39,7 @@ def generateReadme():
     readme +=   ("\n```\n"
             +   "**List of moderation commands:**\n"
             +   "```\n"
-            +   "add a command                       $commandadd <name> <name> ...\n"
+            +   "add a command                       $commandadd channel(optional) <name> <name> ...\n"
             +   "    type your response or cancel    <response / $>\n"
             +   "    enter a short description       <description>\n"
             +   "    enter an image url or null      <image url / null>\n"
