@@ -117,6 +117,24 @@
             "result": "Black pill pinout:",
             "description": "Black Pill Pinout",
             "image": "https://imgur.com/a/VrOcGsP"
+        },
+        {
+            "channel": 717583151538634852,
+            "command": [
+                "pinout"
+            ],
+            "result": "This is the pinout of the STM32F030:",
+            "description": "STM32F0 Pinout",
+            "image": "https://imgur.com/a/Cd90255"
+        },
+        {
+            "channel": 640197371069726720,
+            "command": [
+                "pinout"
+            ],
+            "result": "This is the pinout of the blue pill:",
+            "description": "F1 Pinout",
+            "image": "https://imgur.com/a/BHo7fCA"
         }
     ],
     "roles": [
