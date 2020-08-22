@@ -1,6 +1,24 @@
 [
     {
         "posted": false,
+        "name": "Long March 2D | Gaofen-9-05",
+        "time_raw": "August 23, 2020 02:25:00 UTC",
+        "time": {
+            "day": 23,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 2,
+            "minute": 25,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
         "name": "Delta IV Heavy | NROL-44",
         "time_raw": "August 26, 2020 06:16:00 UTC",
         "time": {
@@ -10,6 +28,24 @@
             "timezone": "UTC",
             "hour": 6,
             "minute": 16,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Electron | Return To Flight (Payload unknown)",
+        "time_raw": "August 27, 2020 03:05:00 UTC",
+        "time": {
+            "day": 27,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 3,
+            "minute": 5,
             "second": 0
         },
         "info": [],
@@ -55,24 +91,6 @@
     },
     {
         "posted": false,
-        "name": "Electron | STP-27RM",
-        "time_raw": "August 31, 2020 00:00:00 UTC",
-        "time": {
-            "day": 31,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "A U.S. Air Force experimental spacecraft.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
-    },
-    {
-        "posted": false,
         "name": "Astra Rocket 3.1 | Maiden Flight",
         "time_raw": "August 31, 2020 02:00:00 UTC",
         "time": {
@@ -87,24 +105,6 @@
         "info": [],
         "videos": [],
         "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
-        "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Electron | Return To Flight (Payload unknown)",
-        "time_raw": "August 31, 2020 03:00:00 UTC",
-        "time": {
-            "day": 31,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 3,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "",
         "image": ""
     },
     {
