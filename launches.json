@@ -1,6 +1,6 @@
 [
     {
-        "posted": false,
+        "posted": true,
         "name": "Long March 2D | Gaofen-9-05",
         "time_raw": "August 23, 2020 02:25:00 UTC",
         "time": {
@@ -91,6 +91,24 @@
     },
     {
         "posted": false,
+        "name": "Falcon 9 Block 5 | Starlink 11",
+        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
         "name": "Astra Rocket 3.1 | Maiden Flight",
         "time_raw": "August 31, 2020 02:00:00 UTC",
         "time": {
@@ -163,23 +181,5 @@
         "videos": [],
         "description": "",
         "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | Sirius SXM-7",
-        "time_raw": "September 30, 2020 00:00:00 UTC",
-        "time": {
-            "day": 30,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\n\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\n\nSXM-7 is meant to replace the XM-3 satellite.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     }
 ]
