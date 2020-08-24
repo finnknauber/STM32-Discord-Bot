@@ -1,23 +1,5 @@
 [
     {
-        "posted": true,
-        "name": "Long March 2D | Gaofen-9-05",
-        "time_raw": "August 23, 2020 02:25:00 UTC",
-        "time": {
-            "day": 23,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 2,
-            "minute": 25,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "",
-        "image": ""
-    },
-    {
         "posted": false,
         "name": "Delta IV Heavy | NROL-44",
         "time_raw": "August 26, 2020 06:16:00 UTC",
@@ -56,38 +38,20 @@
     {
         "posted": false,
         "name": "Falcon 9 Block 5 | SAOCOM 1B",
-        "time_raw": "August 27, 2020 23:19:00 UTC",
+        "time_raw": "August 27, 2020 23:24:00 UTC",
         "time": {
             "day": 27,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
             "hour": 23,
-            "minute": 19,
+            "minute": 24,
             "second": 0
         },
         "info": [],
         "videos": [],
         "description": "The SAOCOM 1B spacecraft is the second of the two SAOCOM constellation satellites. It is tasked with hydrology and land observaion, and will also operate jointly with the Italian COSMO-SkyMed constellation in X-band to provide frequent information relevant for emergency management.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Soyuz 2.1a | Bars-M No. 3",
-        "time_raw": "August 31, 2020 00:00:00 UTC",
-        "time": {
-            "day": 31,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "Bars-M is the second incarnation of the Bars project, which was started in the mid 1990ies to develop a successor for the Komtea class of area surveillance satellites. The original Bars project was halted in the early 2000s. In 2007, TsSKB-Progress was contracted for Bars-M, for which reportedly the Yantar-based service module was replaced by a new developed advanced service module.\n\nThe Bars-M satellites feature an electro-optical camera system called Karat, which is developed and built by the Leningrad Optical Mechanical Association (LOMO), and a dual laser altimeter instrument to deliver topographic imagery, stereo images, altimeter data and high-resolution images with a ground resolution around 1 meter.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
     },
     {
         "posted": false,
@@ -181,5 +145,41 @@
         "videos": [],
         "description": "",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | Sirius SXM-7",
+        "time_raw": "September 30, 2020 00:00:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\n\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\n\nSXM-7 is meant to replace the XM-3 satellite.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1a | Bars-M No. 3",
+        "time_raw": "September 30, 2020 00:00:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Bars-M is the second incarnation of the Bars project, which was started in the mid 1990ies to develop a successor for the Komtea class of area surveillance satellites. The original Bars project was halted in the early 2000s. In 2007, TsSKB-Progress was contracted for Bars-M, for which reportedly the Yantar-based service module was replaced by a new developed advanced service module.\n\nThe Bars-M satellites feature an electro-optical camera system called Karat, which is developed and built by the Leningrad Optical Mechanical Association (LOMO), and a dual laser altimeter instrument to deliver topographic imagery, stereo images, altimeter data and high-resolution images with a ground resolution around 1 meter.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
     }
 ]
