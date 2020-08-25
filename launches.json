@@ -12,14 +12,18 @@
             "minute": 16,
             "second": 0
         },
-        "info": [],
-        "videos": [],
-        "description": "",
-        "image": ""
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=Fx5GjjCtcgo"
+        ],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
-        "name": "Electron | Return To Flight (Payload unknown)",
+        "name": "Electron | I Can\u2019t Believe It\u2019s Not Optical",
         "time_raw": "August 27, 2020 03:05:00 UTC",
         "time": {
             "day": 27,
@@ -32,8 +36,8 @@
         },
         "info": [],
         "videos": [],
-        "description": "",
-        "image": ""
+        "description": "This return to flight mission for Capella Space carries Sequoia - a 100 kg class radar imaging microsatellite that will be positioned in a 45-degree inclination. This mid-inclination allows to give customers immediate access to rapid coverage of important regions, including the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S. Like all of Capella satellites, Sequoia will be able to see through clouds and in the dark and detect sub-0.5 meter changes on Earth\u2019s surface. When fully deployed, Capella's satellite constellation will offer hourly coverage of every point on Earth.\n\nThe name of the mission is a nod to the infamous advertisement campaign for \u201cI Can\u2019t Believe It\u2019s Not Butter.\u201d",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
     },
     {
         "posted": false,
@@ -56,9 +60,9 @@
     {
         "posted": false,
         "name": "Falcon 9 Block 5 | Starlink 11",
-        "time_raw": "August 31, 2020 00:00:00 UTC",
+        "time_raw": "August 29, 2020 00:00:00 UTC",
         "time": {
-            "day": 31,
+            "day": 29,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
@@ -87,24 +91,6 @@
         "info": [],
         "videos": [],
         "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
-        "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Atlas V 531 | NROL-101",
-        "time_raw": "September 1, 2020 00:00:00 UTC",
-        "time": {
-            "day": 1,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "Classified payload for the U.S. National Reconnaissance Office.",
         "image": ""
     },
     {
@@ -163,6 +149,24 @@
         "videos": [],
         "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\n\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\n\nSXM-7 is meant to replace the XM-3 satellite.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Atlas V 531 | NROL-101",
+        "time_raw": "September 30, 2020 00:00:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Classified payload for the U.S. National Reconnaissance Office.",
+        "image": ""
     },
     {
         "posted": false,
