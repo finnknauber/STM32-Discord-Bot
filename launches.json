@@ -2,9 +2,9 @@
     {
         "posted": false,
         "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "August 26, 2020 06:16:00 UTC",
+        "time_raw": "August 27, 2020 06:16:00 UTC",
         "time": {
-            "day": 26,
+            "day": 27,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
@@ -23,33 +23,15 @@
     },
     {
         "posted": false,
-        "name": "Electron | I Can\u2019t Believe It\u2019s Not Optical",
-        "time_raw": "August 27, 2020 03:05:00 UTC",
-        "time": {
-            "day": 27,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 3,
-            "minute": 5,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "This return to flight mission for Capella Space carries Sequoia - a 100 kg class radar imaging microsatellite that will be positioned in a 45-degree inclination. This mid-inclination allows to give customers immediate access to rapid coverage of important regions, including the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S. Like all of Capella satellites, Sequoia will be able to see through clouds and in the dark and detect sub-0.5 meter changes on Earth\u2019s surface. When fully deployed, Capella's satellite constellation will offer hourly coverage of every point on Earth.\n\nThe name of the mission is a nod to the infamous advertisement campaign for \u201cI Can\u2019t Believe It\u2019s Not Butter.\u201d",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
-    },
-    {
-        "posted": false,
         "name": "Falcon 9 Block 5 | SAOCOM 1B",
-        "time_raw": "August 27, 2020 23:24:00 UTC",
+        "time_raw": "August 28, 2020 23:20:00 UTC",
         "time": {
-            "day": 27,
+            "day": 28,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
             "hour": 23,
-            "minute": 24,
+            "minute": 20,
             "second": 0
         },
         "info": [],
@@ -74,6 +56,26 @@
         "videos": [],
         "description": "",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Electron | I Can\u2019t Believe It\u2019s Not Optical",
+        "time_raw": "August 29, 2020 03:05:00 UTC",
+        "time": {
+            "day": 29,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 3,
+            "minute": 5,
+            "second": 0
+        },
+        "info": [],
+        "videos": [
+            "https://www.rocketlabusa.com/live-stream"
+        ],
+        "description": "This return to flight mission is dedicated for Capella Space, an information services company providing Earth observation data on demand.\n\nCapella\u2019s payload, \u2018Sequoia\u2019, is a single 100 kg class microsatellite which will be the first publicly available satellite in the company\u2019s commercial Synthetic Aperture Radar (SAR) constellation. By positioning the satellite to a 45-degree inclination, Capella Space will maximize coverage over important areas such as the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S.\n\nThe mission name is a nod to Capella\u2019s SAR technology that provides high quality images of the Earth day or night, and in any weather conditions, as well as a nod to the infamous advertisement campaign for \u201cI Can\u2019t Believe It\u2019s Not Butter\u201d. Capella\u2019s space-based radar can detect sub-0.5 meter changes on the surface of the Earth, providing insights and data that can be used for security, agricultural and infrastructure monitoring, as well as disaster response and recovery.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
     },
     {
         "posted": false,
