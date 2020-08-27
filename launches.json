@@ -1,6 +1,6 @@
 [
     {
-        "posted": false,
+        "posted": true,
         "name": "Delta IV Heavy | NROL-44",
         "time_raw": "August 27, 2020 06:16:00 UTC",
         "time": {
@@ -41,24 +41,6 @@
     },
     {
         "posted": false,
-        "name": "Falcon 9 Block 5 | Starlink 11",
-        "time_raw": "August 29, 2020 00:00:00 UTC",
-        "time": {
-            "day": 29,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "",
-        "image": ""
-    },
-    {
-        "posted": false,
         "name": "Electron | I Can\u2019t Believe It\u2019s Not Optical",
         "time_raw": "August 29, 2020 03:05:00 UTC",
         "time": {
@@ -76,6 +58,24 @@
         ],
         "description": "This return to flight mission is dedicated for Capella Space, an information services company providing Earth observation data on demand.\n\nCapella\u2019s payload, \u2018Sequoia\u2019, is a single 100 kg class microsatellite which will be the first publicly available satellite in the company\u2019s commercial Synthetic Aperture Radar (SAR) constellation. By positioning the satellite to a 45-degree inclination, Capella Space will maximize coverage over important areas such as the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S.\n\nThe mission name is a nod to Capella\u2019s SAR technology that provides high quality images of the Earth day or night, and in any weather conditions, as well as a nod to the infamous advertisement campaign for \u201cI Can\u2019t Believe It\u2019s Not Butter\u201d. Capella\u2019s space-based radar can detect sub-0.5 meter changes on the surface of the Earth, providing insights and data that can be used for security, agricultural and infrastructure monitoring, as well as disaster response and recovery.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | Starlink 11",
+        "time_raw": "August 30, 2020 14:08:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 8,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 14,
+            "minute": 8,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
@@ -136,24 +136,6 @@
     },
     {
         "posted": false,
-        "name": "Falcon 9 Block 5 | Sirius SXM-7",
-        "time_raw": "September 30, 2020 00:00:00 UTC",
-        "time": {
-            "day": 30,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "SXM-7 is a large high power broadcasting satellite for SiriusXM's digital audio radio service (DARS).\n\nSpace Systems/Loral (SS/L) got in July 2016 the contract to build the two satellites based on their SSL-1300 bus - SXM-7 and SXM-8. Both operate in the S-band spectrum. Each satellite will generate more than 20-kW of power and will have a large unfurlable antenna reflector, which enables broadcast to radios without the need for large dish-type antennas on the ground.\n\nSXM-7 is meant to replace the XM-3 satellite.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
         "name": "Atlas V 531 | NROL-101",
         "time_raw": "September 30, 2020 00:00:00 UTC",
         "time": {
@@ -187,5 +169,23 @@
         "videos": [],
         "description": "Bars-M is the second incarnation of the Bars project, which was started in the mid 1990ies to develop a successor for the Komtea class of area surveillance satellites. The original Bars project was halted in the early 2000s. In 2007, TsSKB-Progress was contracted for Bars-M, for which reportedly the Yantar-based service module was replaced by a new developed advanced service module.\n\nThe Bars-M satellites feature an electro-optical camera system called Karat, which is developed and built by the Leningrad Optical Mechanical Association (LOMO), and a dual laser altimeter instrument to deliver topographic imagery, stereo images, altimeter data and high-resolution images with a ground resolution around 1 meter.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Electron | STP-27RM",
+        "time_raw": "September 30, 2020 00:00:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "A U.S. Air Force experimental spacecraft.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
     }
 ]
