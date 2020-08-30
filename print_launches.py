@@ -3,6 +3,7 @@ import os
 import json
 import datetime
 import discord
+import get_launches
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -41,24 +42,28 @@ def getJson():
                     before = launchTime - datetime.timedelta(minutes=15)
                     
                     if now >= before and now < launchTime:
-                        launch["posted"] = True
+                        if launchData != get_launches.get_launches():
+                            get_launches.write_launches()
+                            return None
+                        else:
+                            launch["posted"] = True
 
-                        message = "**Launching '" + launch["name"] + "'** in 15 Minutes\n"
-                        message += "**Time:** " + launch["time_raw"] + "\n"
-                        if launch["description"]:
-                            message += "**Info**: " + launch["description"] + "\n\n"
+                            message = "**Launching '" + launch["name"] + "'** in 15 Minutes\n"
+                            message += "**Time:** " + launch["time_raw"] + "\n"
+                            if launch["description"]:
+                                message += "**Info**: " + launch["description"] + "\n\n"
 
-                        for video in launch["videos"]:
-                            message += "*Watch here:* <" + video + ">\n"
-                        if not launch["videos"]:
-                            message += "*No livestream available*\n"
-                            
-                        if launch["info"]:
-                            for info in launch["info"]:
-                                message += "*More info:* <" + info + ">\n"
+                            for video in launch["videos"]:
+                                message += "*Watch here:* <" + video + ">\n"
+                            if not launch["videos"]:
+                                message += "*No livestream available*\n"
                                 
-                        if launch["image"]:
-                            message += launch["image"]
+                            if launch["info"]:
+                                for info in launch["info"]:
+                                    message += "*More info:* <" + info + ">\n"
+                                    
+                            if launch["image"]:
+                                message += launch["image"]
 
         with open("launches.json","w") as launchFile:
             launchFile.write(json.dumps(launchData,indent=4))
