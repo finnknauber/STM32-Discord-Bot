@@ -1,60 +1,22 @@
 [
     {
-        "posted": true,
-        "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "August 29, 2020 06:04:00 UTC",
-        "time": {
-            "day": 29,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 6,
-            "minute": 4,
-            "second": 0
-        },
-        "info": [
-            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=Fx5GjjCtcgo"
-        ],
-        "description": "Classified payload for NRO.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | Starlink 11",
-        "time_raw": "August 30, 2020 14:08:00 UTC",
-        "time": {
-            "day": 30,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 14,
-            "minute": 8,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
         "posted": false,
         "name": "Falcon 9 Block 5 | SAOCOM 1B",
-        "time_raw": "August 30, 2020 23:20:00 UTC",
+        "time_raw": "August 30, 2020 23:18:00 UTC",
         "time": {
             "day": 30,
             "month": 8,
             "year": 2020,
             "timezone": "UTC",
             "hour": 23,
-            "minute": 20,
+            "minute": 18,
             "second": 0
         },
         "info": [],
-        "videos": [],
-        "description": "The SAOCOM 1B spacecraft is the second of the two SAOCOM constellation satellites. It is tasked with hydrology and land observaion, and will also operate jointly with the Italian COSMO-SkyMed constellation in X-band to provide frequent information relevant for emergency management.",
+        "videos": [
+            "https://www.youtube.com/watch?v=P-gLOsDjE3E"
+        ],
+        "description": "The SAOCOM 1B spacecraft is the second of the two SAOCOM constellation satellites. It is tasked with hydrology and land observation, and will also operate jointly with the Italian COSMO-SkyMed constellation in X-band to provide frequent information relevant for emergency management.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
@@ -79,6 +41,26 @@
     },
     {
         "posted": false,
+        "name": "Falcon 9 Block 5 | Starlink 11",
+        "time_raw": "September 1, 2020 13:29:00 UTC",
+        "time": {
+            "day": 1,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 13,
+            "minute": 29,
+            "second": 0
+        },
+        "info": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=_j4xR7LMCGY"
+        ],
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
         "name": "Vega | SSMS PoC",
         "time_raw": "September 2, 2020 01:51:10 UTC",
         "time": {
@@ -97,6 +79,26 @@
         ],
         "description": "The Vega POC (Proof Of Concept) flight will be the first mission of the SSMS (Small Spacecraft Mission Service), a modular carbon fiber dispenser, a program initiated by ESA in 2016, with the contribution of the European Commission. For all the European partners involved, its purpose is to address the burgeoning institutional and commercial small spacecraft market with a new rideshare concept.\n\nPayload includes dozens of satellites: Athena, ION CubeSat Carrier, ESAIL, NEMO-HD, GHGSat C1, six Flock-v cubesats, several Lemur-2 cubesats, twelve SpaceBEE nanosats, FSSCat A & B, RTAF-Sat, DIDO 3, IGOSat, PICASSO, PINO, PIXL, QARMAN, SIMBA, TRISAT, Casaa-Sat, TT\u00c3\u0153100, and more.",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "September 5, 2020 07:28:00 UTC",
+        "time": {
+            "day": 5,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 7,
+            "minute": 28,
+            "second": 0
+        },
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
