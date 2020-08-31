@@ -1,46 +1,6 @@
 [
     {
         "posted": false,
-        "name": "Falcon 9 Block 5 | SAOCOM 1B",
-        "time_raw": "August 30, 2020 23:18:00 UTC",
-        "time": {
-            "day": 30,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 23,
-            "minute": 18,
-            "second": 0
-        },
-        "info": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=P-gLOsDjE3E"
-        ],
-        "description": "The SAOCOM 1B spacecraft is the second of the two SAOCOM constellation satellites. It is tasked with hydrology and land observation, and will also operate jointly with the Italian COSMO-SkyMed constellation in X-band to provide frequent information relevant for emergency management.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Electron | I Can\u2019t Believe It\u2019s Not Optical",
-        "time_raw": "August 31, 2020 03:05:00 UTC",
-        "time": {
-            "day": 31,
-            "month": 8,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 3,
-            "minute": 5,
-            "second": 0
-        },
-        "info": [],
-        "videos": [
-            "https://www.rocketlabusa.com/live-stream"
-        ],
-        "description": "This return to flight mission is dedicated for Capella Space, an information services company providing Earth observation data on demand.\n\nCapella\u2019s payload, \u2018Sequoia\u2019, is a single 100 kg class microsatellite which will be the first publicly available satellite in the company\u2019s commercial Synthetic Aperture Radar (SAR) constellation. By positioning the satellite to a 45-degree inclination, Capella Space will maximize coverage over important areas such as the Middle East, Korea, Japan, Europe, South East Asia, Africa, and the U.S.\n\nThe mission name is a nod to Capella\u2019s SAR technology that provides high quality images of the Earth day or night, and in any weather conditions, as well as a nod to the infamous advertisement campaign for \u201cI Can\u2019t Believe It\u2019s Not Butter\u201d. Capella\u2019s space-based radar can detect sub-0.5 meter changes on the surface of the Earth, providing insights and data that can be used for security, agricultural and infrastructure monitoring, as well as disaster response and recovery.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
-    },
-    {
-        "posted": false,
         "name": "Falcon 9 Block 5 | Starlink 11",
         "time_raw": "September 1, 2020 13:29:00 UTC",
         "time": {
@@ -189,5 +149,41 @@
         "videos": [],
         "description": "A U.S. Air Force experimental spacecraft.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Antares 230+ | Cygnus CRS-2 NG-14",
+        "time_raw": "September 30, 2020 02:26:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 2,
+            "minute": 26,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-82",
+        "time_raw": "October 1, 2020 00:00:00 UTC",
+        "time": {
+            "day": 1,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Classified payload for the U.S. National Reconnaissance Office.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     }
 ]
