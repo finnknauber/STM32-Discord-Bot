@@ -45,7 +45,7 @@ def get_launch_details(id):
 
     return description, image
 
-def get_launches():
+def get_launches(old_launchData):
     launches = []
     requestData = requests.get('https://launchlibrary.net/1.4/launch', auth=('user', 'pass'))
 
@@ -54,6 +54,11 @@ def get_launches():
 
         for launch in requestData["launches"]:
             launchData = {"posted":False}
+
+            for old_launch in old_launchData:
+                if launch["name"] == old_launch["name"]:
+                    launchData = {"posted": old_launch["posted"]}
+
             launchData["name"] = launch["name"]
             launchData["time_raw"] = launch["net"]
             launchData["time"] = serializeTime(launch["net"])
@@ -72,8 +77,11 @@ def get_launches():
     return launches
 
 def write_launches():
+    with open("launches.json") as old_launchData:
+        old_launchData = json.loads(old_launchData.read())
+
     with open("launches.json","w") as launchData:
-        launchData.write(json.dumps(get_launches(),indent=4))
+        launchData.write(json.dumps(get_launches(old_launchData),indent=4))
 
 
 write_launches()
