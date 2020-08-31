@@ -30,7 +30,7 @@ def getJson():
             launchData = json.loads(launchData.read())
             now = datetime.datetime.utcnow()
 
-            for launch in launchData:
+            for x, launch in enumerate(launchData):
                 if not launch["posted"]:
                     
                     launchTime = datetime.datetime(day=launch["time"]["day"],
@@ -39,10 +39,10 @@ def getJson():
                                             hour=launch["time"]["hour"],
                                             minute=launch["time"]["minute"],
                                             second=launch["time"]["second"])
-                    before = launchTime - datetime.timedelta(minutes=15)
-                    
+                    before = launchTime - datetime.timedelta(minutes=16)
+
                     if now >= before and now < launchTime:
-                        if launchData != get_launches.get_launches():
+                        if launchData != get_launches.get_launches(launchData):
                             get_launches.write_launches()
                             return None
                         else:
@@ -64,9 +64,20 @@ def getJson():
                                     
                             if launch["image"]:
                                 message += launch["image"]
+                else:
+                    launchTime = datetime.datetime(day=launch["time"]["day"],
+                                                    month=launch["time"]["month"],
+                                                    year=launch["time"]["year"],
+                                                    hour=launch["time"]["hour"],
+                                                    minute=launch["time"]["minute"],
+                                                    second=launch["time"]["second"])
+                    after = now + datetime.timedelta(minutes=16)
 
-        with open("launches.json","w") as launchFile:
-            launchFile.write(json.dumps(launchData,indent=4))
+                    if launchTime >= after:
+                        launchData[x]["posted"] = False
+                        with open("launches.json","w") as launchFile:
+                            launchFile.write(json.dumps(launchData,indent=4))
+                        return None
 
 getJson()
 if message:
