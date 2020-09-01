@@ -2,9 +2,9 @@
     {
         "posted": false,
         "name": "Vega | SSMS PoC",
-        "time_raw": "September 2, 2020 01:51:10 UTC",
+        "time_raw": "September 3, 2020 01:51:10 UTC",
         "time": {
-            "day": 2,
+            "day": 3,
             "month": 9,
             "year": 2020,
             "timezone": "UTC",
@@ -14,6 +14,7 @@
         },
         "info": [],
         "videos": [
+            "https://www.youtube.com/watch?v=IveCBs-cCTw",
             "https://www.arianespace.com/mission/vega-flight-vv16/",
             "https://www.esa.int/ESA_Multimedia/ESA_Web_TV"
         ],
@@ -76,6 +77,24 @@
         "info": [],
         "videos": [],
         "description": "This is the first orbital attempt of Astra Space small satellite launch vehicle. Rocket carries no payload for this flight.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Long March 11 | Gaofen-03-1",
+        "time_raw": "September 15, 2020 00:00:00 UTC",
+        "time": {
+            "day": 15,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
         "image": ""
     },
     {
@@ -167,23 +186,5 @@
         "videos": [],
         "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
         "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Delta IV Heavy | NROL-82",
-        "time_raw": "October 1, 2020 00:00:00 UTC",
-        "time": {
-            "day": 1,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "Classified payload for the U.S. National Reconnaissance Office.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     }
 ]
