@@ -73,7 +73,7 @@ def getJson():
                     after = now + datetime.timedelta(minutes=16)
 
                     if launchTime >= after:
-                        launchData[x]["posted"] = True
+                        launchData[x]["posted"] = False
 
         with open("launches.json","w") as launchFile:
             launchFile.write(json.dumps(launchData,indent=4))

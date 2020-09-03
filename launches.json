@@ -1,6 +1,6 @@
 [
     {
-        "posted": false,
+        "posted": true,
         "name": "Falcon 9 Block 5 | Starlink 11",
         "time_raw": "September 3, 2020 12:46:00 UTC",
         "time": {
@@ -18,28 +18,6 @@
         ],
         "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Vega | SSMS PoC",
-        "time_raw": "September 4, 2020 01:51:10 UTC",
-        "time": {
-            "day": 4,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 1,
-            "minute": 51,
-            "second": 10
-        },
-        "info": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=IveCBs-cCTw",
-            "https://www.arianespace.com/mission/vega-flight-vv16/",
-            "https://www.esa.int/ESA_Multimedia/ESA_Web_TV"
-        ],
-        "description": "The Vega POC (Proof Of Concept) flight will be the first mission of the SSMS (Small Spacecraft Mission Service), a modular carbon fiber dispenser, a program initiated by ESA in 2016, with the contribution of the European Commission. For all the European partners involved, its purpose is to address the burgeoning institutional and commercial small spacecraft market with a new rideshare concept.\n\nPayload includes dozens of satellites: Athena, ION CubeSat Carrier, ESAIL, NEMO-HD, GHGSat C1, six Flock-v cubesats, several Lemur-2 cubesats, twelve SpaceBEE nanosats, FSSCat A & B, RTAF-Sat, DIDO 3, IGOSat, PICASSO, PINO, PIXL, QARMAN, SIMBA, TRISAT, Casaa-Sat, TT\u00c3\u0153100, and more.",
-        "image": ""
     },
     {
         "posted": false,
@@ -186,5 +164,23 @@
         "videos": [],
         "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA.",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-82",
+        "time_raw": "October 1, 2020 00:00:00 UTC",
+        "time": {
+            "day": 1,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Classified payload for the U.S. National Reconnaissance Office.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     }
 ]
