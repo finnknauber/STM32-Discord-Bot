@@ -32,7 +32,6 @@ def getJson():
 
             for x, launch in enumerate(launchData):
                 if not launch["posted"]:
-                    
                     launchTime = datetime.datetime(day=launch["time"]["day"],
                                             month=launch["time"]["month"],
                                             year=launch["time"]["year"],
@@ -46,7 +45,7 @@ def getJson():
                             get_launches.write_launches()
                             return None
                         else:
-                            launch["posted"] = True
+                            launchData[x]["posted"] = True
 
                             message = "**Launching '" + launch["name"] + "'** in 15 Minutes\n"
                             message += "**Time:** " + launch["time_raw"] + "\n"
@@ -74,10 +73,10 @@ def getJson():
                     after = now + datetime.timedelta(minutes=16)
 
                     if launchTime >= after:
-                        launchData[x]["posted"] = False
-                        with open("launches.json","w") as launchFile:
-                            launchFile.write(json.dumps(launchData,indent=4))
-                        return None
+                        launchData[x]["posted"] = True
+
+        with open("launches.json","w") as launchFile:
+            launchFile.write(json.dumps(launchData,indent=4))
 
 getJson()
 if message:
