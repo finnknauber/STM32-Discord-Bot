@@ -1,41 +1,21 @@
 [
     {
         "posted": false,
-        "name": "Long March 2F | Unknown payload",
-        "time_raw": "September 4, 2020 05:30:00 UTC",
+        "name": "Long March 4B | Gaofen-11-02",
+        "time_raw": "September 7, 2020 06:00:00 UTC",
         "time": {
-            "day": 4,
+            "day": 7,
             "month": 9,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 5,
-            "minute": 30,
+            "hour": 6,
+            "minute": 0,
             "second": 0
         },
         "info": [],
         "videos": [],
-        "description": "Details about the mission have not been released, however the payload is rumored to be an experimental autonomous spacecraft. It is rumored to be a prototype of a reusable spaceplane (similar to Boeing X-37B vehicle).",
+        "description": "Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
         "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "September 5, 2020 07:28:00 UTC",
-        "time": {
-            "day": 5,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 7,
-            "minute": 28,
-            "second": 0
-        },
-        "info": [
-            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
-        ],
-        "videos": [],
-        "description": "Classified payload for NRO.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
@@ -72,6 +52,26 @@
         "videos": [],
         "description": "Gaofen is a series of civilian Earth observation satellites developed and launched for the China High-definition Earth Observation System (CHEOS), a state-sponsored programme aimed to develop a near-real time, all-weather, global surveillance network consisting of satellite, near-space (stratosphere) airships, and aerial observation platforms.",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "September 15, 2020 07:28:00 UTC",
+        "time": {
+            "day": 15,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 7,
+            "minute": 28,
+            "second": 0
+        },
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
