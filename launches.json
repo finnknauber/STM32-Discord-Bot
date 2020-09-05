@@ -165,7 +165,7 @@
     },
     {
         "posted": false,
-        "name": "Delta IV Heavy | NROL-82",
+        "name": "H-IIA | Inmarsat-6 F1",
         "time_raw": "October 1, 2020 00:00:00 UTC",
         "time": {
             "day": 1,
@@ -178,7 +178,7 @@
         },
         "info": [],
         "videos": [],
-        "description": "Classified payload for the U.S. National Reconnaissance Office.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
+        "description": "",
+        "image": ""
     }
 ]
