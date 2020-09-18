@@ -2,14 +2,14 @@
     {
         "posted": false,
         "name": "Falcon 9 Block 5 | Starlink 12",
-        "time_raw": "September 18, 2020 17:57:00 UTC",
+        "time_raw": "September 20, 2020 17:00:00 UTC",
         "time": {
-            "day": 18,
+            "day": 20,
             "month": 9,
             "year": 2020,
             "timezone": "UTC",
             "hour": 17,
-            "minute": 57,
+            "minute": 0,
             "second": 0
         },
         "info": [],
