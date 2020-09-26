@@ -1,0 +1,188 @@
+[
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "September 28, 2020 04:10:00 UTC",
+        "time": {
+            "day": 28,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 4,
+            "minute": 10,
+            "second": 0
+        },
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=ssnh8KznSeM"
+        ],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1b/Fregat-M | Gonets-M27, Gonets-M28, Gonets-M29 and others",
+        "time_raw": "September 28, 2020 11:20:00 UTC",
+        "time": {
+            "day": 28,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 11,
+            "minute": 20,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region. \nThis launch also carries 22 small satellites as a rideshare payloads. These are cubesats for commercial companies such as Spire and Kepler Communications, as well as cubesats for various international universities.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | Starlink 12",
+        "time_raw": "September 28, 2020 14:22:00 UTC",
+        "time": {
+            "day": 28,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 14,
+            "minute": 22,
+            "second": 0
+        },
+        "info": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=8O8Z2yPyTnc"
+        ],
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | GPS III SV04",
+        "time_raw": "September 30, 2020 01:55:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 1,
+            "minute": 55,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Antares 230+ | Cygnus CRS-2 NG-14 (S.S. Kalpana Chawla)",
+        "time_raw": "September 30, 2020 02:26:00 UTC",
+        "time": {
+            "day": 30,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 2,
+            "minute": 26,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of NASA astronaut Kalpana Chawla, who was the first female astronaut of Indian descent.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1a | Soyuz MS-17",
+        "time_raw": "October 14, 2020 05:45:00 UTC",
+        "time": {
+            "day": 14,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 5,
+            "minute": 45,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Soyuz MS-17 begins expedition 63 by carrying Roscosmos cosmonauts Sergey Ryzhikov, Sergey Kud-Sverchkov and NASA astronaut Kathleen Rubins to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Atlas V 551 | STP-3",
+        "time_raw": "October 15, 2020 00:00:00 UTC",
+        "time": {
+            "day": 15,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Long March 6  | Satellogic x 13",
+        "time_raw": "October 15, 2020 00:00:00 UTC",
+        "time": {
+            "day": 15,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "First batch of remote sensing satellites for Satellogic's constellation.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1a/Fregat-M | CAS500-1 & rideshare",
+        "time_raw": "October 15, 2020 00:00:00 UTC",
+        "time": {
+            "day": 15,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Electron | In Focus",
+        "time_raw": "October 15, 2020 00:00:00 UTC",
+        "time": {
+            "day": 15,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    }
+]
