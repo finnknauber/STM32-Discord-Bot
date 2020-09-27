@@ -1,28 +1,6 @@
 [
     {
         "posted": false,
-        "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "September 28, 2020 04:10:00 UTC",
-        "time": {
-            "day": 28,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 4,
-            "minute": 10,
-            "second": 0
-        },
-        "info": [
-            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=ssnh8KznSeM"
-        ],
-        "description": "Classified payload for NRO.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
-    },
-    {
-        "posted": false,
         "name": "Soyuz 2.1b/Fregat-M | Gonets-M27, Gonets-M28, Gonets-M29 and others",
         "time_raw": "September 28, 2020 11:20:00 UTC",
         "time": {
@@ -58,6 +36,28 @@
         ],
         "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "September 29, 2020 04:02:00 UTC",
+        "time": {
+            "day": 29,
+            "month": 9,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 4,
+            "minute": 2,
+            "second": 0
+        },
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [
+            "https://www.youtube.com/watch?v=ssnh8KznSeM"
+        ],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
