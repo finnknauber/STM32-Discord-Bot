@@ -1,44 +1,6 @@
 [
     {
         "posted": false,
-        "name": "Soyuz 2.1b/Fregat-M | Gonets-M27, Gonets-M28, Gonets-M29 and others",
-        "time_raw": "September 28, 2020 11:20:00 UTC",
-        "time": {
-            "day": 28,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 11,
-            "minute": 20,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "Gonets-M are an upgraded version of Gonets satellites, derived from military  communications system Strela-3. Gonets-M constellation is tasked with monitoring ecological and industrial objects, providing communication and data transmission services, covering also the remote areas like the Far North region. \nThis launch also carries 22 small satellites as a rideshare payloads. These are cubesats for commercial companies such as Spire and Kepler Communications, as well as cubesats for various international universities.",
-        "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | Starlink 12",
-        "time_raw": "September 28, 2020 14:22:00 UTC",
-        "time": {
-            "day": 28,
-            "month": 9,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 14,
-            "minute": 22,
-            "second": 0
-        },
-        "info": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=8O8Z2yPyTnc"
-        ],
-        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
         "name": "Delta IV Heavy | NROL-44",
         "time_raw": "September 29, 2020 04:02:00 UTC",
         "time": {
@@ -79,19 +41,39 @@
     },
     {
         "posted": false,
-        "name": "Antares 230+ | Cygnus CRS-2 NG-14 (S.S. Kalpana Chawla)",
-        "time_raw": "September 30, 2020 02:26:00 UTC",
+        "name": "Falcon 9 Block 5 | Starlink 12",
+        "time_raw": "October 1, 2020 13:00:00 UTC",
         "time": {
-            "day": 30,
-            "month": 9,
+            "day": 1,
+            "month": 10,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 2,
-            "minute": 26,
+            "hour": 13,
+            "minute": 0,
             "second": 0
         },
         "info": [],
         "videos": [],
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Antares 230+ | Cygnus CRS-2 NG-14 (S.S. Kalpana Chawla)",
+        "time_raw": "October 2, 2020 01:38:00 UTC",
+        "time": {
+            "day": 2,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 1,
+            "minute": 38,
+            "second": 0
+        },
+        "info": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=w8AAdZ1TDUw"
+        ],
         "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of NASA astronaut Kalpana Chawla, who was the first female astronaut of Indian descent.",
         "image": ""
     },
@@ -173,6 +155,24 @@
         "time_raw": "October 15, 2020 00:00:00 UTC",
         "time": {
             "day": 15,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Soyuz 2.1b/Fregat | Glonass-K1",
+        "time_raw": "October 17, 2020 00:00:00 UTC",
+        "time": {
+            "day": 17,
             "month": 10,
             "year": 2020,
             "timezone": "UTC",
