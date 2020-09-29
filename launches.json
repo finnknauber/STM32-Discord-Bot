@@ -2,14 +2,14 @@
     {
         "posted": false,
         "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "September 29, 2020 04:02:00 UTC",
+        "time_raw": "September 30, 2020 03:58:00 UTC",
         "time": {
-            "day": 29,
+            "day": 30,
             "month": 9,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 4,
-            "minute": 2,
+            "hour": 3,
+            "minute": 58,
             "second": 0
         },
         "info": [
@@ -24,14 +24,14 @@
     {
         "posted": false,
         "name": "Falcon 9 Block 5 | GPS III SV04",
-        "time_raw": "September 30, 2020 01:55:00 UTC",
+        "time_raw": "October 1, 2020 01:51:00 UTC",
         "time": {
-            "day": 30,
-            "month": 9,
+            "day": 1,
+            "month": 10,
             "year": 2020,
             "timezone": "UTC",
             "hour": 1,
-            "minute": 55,
+            "minute": 51,
             "second": 0
         },
         "info": [],
@@ -42,14 +42,14 @@
     {
         "posted": false,
         "name": "Falcon 9 Block 5 | Starlink 12",
-        "time_raw": "October 1, 2020 13:00:00 UTC",
+        "time_raw": "October 1, 2020 13:17:00 UTC",
         "time": {
             "day": 1,
             "month": 10,
             "year": 2020,
             "timezone": "UTC",
             "hour": 13,
-            "minute": 0,
+            "minute": 17,
             "second": 0
         },
         "info": [],
