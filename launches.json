@@ -2,14 +2,14 @@
     {
         "posted": false,
         "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "September 30, 2020 03:58:00 UTC",
+        "time_raw": "October 1, 2020 03:54:00 UTC",
         "time": {
-            "day": 30,
-            "month": 9,
+            "day": 1,
+            "month": 10,
             "year": 2020,
             "timezone": "UTC",
             "hour": 3,
-            "minute": 58,
+            "minute": 54,
             "second": 0
         },
         "info": [
@@ -20,24 +20,6 @@
         ],
         "description": "Classified payload for NRO.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | GPS III SV04",
-        "time_raw": "October 1, 2020 01:51:00 UTC",
-        "time": {
-            "day": 1,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 1,
-            "minute": 51,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
@@ -76,6 +58,24 @@
         ],
         "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of NASA astronaut Kalpana Chawla, who was the first female astronaut of Indian descent.",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | GPS III SV04",
+        "time_raw": "October 3, 2020 01:43:00 UTC",
+        "time": {
+            "day": 3,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 1,
+            "minute": 43,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
