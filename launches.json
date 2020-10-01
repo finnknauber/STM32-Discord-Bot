@@ -1,46 +1,6 @@
 [
     {
         "posted": false,
-        "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "October 1, 2020 03:54:00 UTC",
-        "time": {
-            "day": 1,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 3,
-            "minute": 54,
-            "second": 0
-        },
-        "info": [
-            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
-        ],
-        "videos": [
-            "https://www.youtube.com/watch?v=ssnh8KznSeM"
-        ],
-        "description": "Classified payload for NRO.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | Starlink 12",
-        "time_raw": "October 1, 2020 13:17:00 UTC",
-        "time": {
-            "day": 1,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 13,
-            "minute": 17,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
         "name": "Antares 230+ | Cygnus CRS-2 NG-14 (S.S. Kalpana Chawla)",
         "time_raw": "October 2, 2020 01:38:00 UTC",
         "time": {
@@ -76,6 +36,46 @@
         "videos": [],
         "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | Starlink 12",
+        "time_raw": "October 3, 2020 12:34:00 UTC",
+        "time": {
+            "day": 3,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 12,
+            "minute": 34,
+            "second": 0
+        },
+        "info": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=UZkaE_9zwQQ"
+        ],
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "October 7, 2020 03:54:00 UTC",
+        "time": {
+            "day": 7,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 3,
+            "minute": 54,
+            "second": 0
+        },
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
