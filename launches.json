@@ -2,19 +2,19 @@
     {
         "posted": false,
         "name": "Antares 230+ | Cygnus CRS-2 NG-14 (S.S. Kalpana Chawla)",
-        "time_raw": "October 2, 2020 01:38:00 UTC",
+        "time_raw": "October 3, 2020 01:16:12 UTC",
         "time": {
-            "day": 2,
+            "day": 3,
             "month": 10,
             "year": 2020,
             "timezone": "UTC",
             "hour": 1,
-            "minute": 38,
-            "second": 0
+            "minute": 16,
+            "second": 12
         },
         "info": [],
         "videos": [
-            "https://www.youtube.com/watch?v=w8AAdZ1TDUw"
+            "https://www.youtube.com/watch?v=tQW_2qtBDfY"
         ],
         "description": "This is the 15th planned flight of the Orbital ATK's uncrewed resupply spacecraft Cygnus and its 14th flight to the International Space Station under the Commercial Resupply Services contract with NASA. This Cygnus spacecraft carries the name of NASA astronaut Kalpana Chawla, who was the first female astronaut of Indian descent.",
         "image": ""
@@ -33,7 +33,9 @@
             "second": 0
         },
         "info": [],
-        "videos": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=JESG7x0X0ek"
+        ],
         "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
