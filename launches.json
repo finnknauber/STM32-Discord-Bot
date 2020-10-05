@@ -2,39 +2,21 @@
     {
         "posted": false,
         "name": "Falcon 9 Block 5 | Starlink 12",
-        "time_raw": "October 5, 2020 11:51:00 UTC",
-        "time": {
-            "day": 5,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 11,
-            "minute": 51,
-            "second": 0
-        },
-        "info": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=UZkaE_9zwQQ"
-        ],
-        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | GPS III SV04",
-        "time_raw": "October 6, 2020 01:39:00 UTC",
+        "time_raw": "October 6, 2020 11:29:00 UTC",
         "time": {
             "day": 6,
             "month": 10,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 1,
-            "minute": 39,
+            "hour": 11,
+            "minute": 29,
             "second": 0
         },
         "info": [],
-        "videos": [],
-        "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
+        "videos": [
+            "https://www.youtube.com/watch?v=W0MGgQZIYNk"
+        ],
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
@@ -56,6 +38,24 @@
         "videos": [],
         "description": "Classified payload for NRO.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Falcon 9 Block 5 | GPS III SV04",
+        "time_raw": "October 10, 2020 01:39:00 UTC",
+        "time": {
+            "day": 10,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 1,
+            "minute": 39,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
