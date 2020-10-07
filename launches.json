@@ -2,7 +2,7 @@
     {
         "posted": false,
         "name": "Soyuz 2.1a | Soyuz MS-17",
-        "time_raw": "October 14, 2020 05:45:00 UTC",
+        "time_raw": "October 14, 2020 05:45:04 UTC",
         "time": {
             "day": 14,
             "month": 10,
@@ -10,7 +10,7 @@
             "timezone": "UTC",
             "hour": 5,
             "minute": 45,
-            "second": 0
+            "second": 4
         },
         "info": [],
         "videos": [],
@@ -37,42 +37,6 @@
     },
     {
         "posted": false,
-        "name": "Soyuz 2.1a/Fregat-M | CAS500-1 & rideshare",
-        "time_raw": "October 15, 2020 00:00:00 UTC",
-        "time": {
-            "day": 15,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "",
-        "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Electron | In Focus",
-        "time_raw": "October 15, 2020 00:00:00 UTC",
-        "time": {
-            "day": 15,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "",
-        "image": ""
-    },
-    {
-        "posted": false,
         "name": "Falcon 9 Block 5 | GPS III SV04",
         "time_raw": "October 15, 2020 01:39:00 UTC",
         "time": {
@@ -92,14 +56,14 @@
     {
         "posted": false,
         "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "October 15, 2020 03:54:00 UTC",
+        "time_raw": "October 16, 2020 02:00:00 UTC",
         "time": {
-            "day": 15,
+            "day": 16,
             "month": 10,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 3,
-            "minute": 54,
+            "hour": 2,
+            "minute": 0,
             "second": 0
         },
         "info": [
@@ -120,6 +84,24 @@
             "timezone": "UTC",
             "hour": 0,
             "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Electron | In Focus",
+        "time_raw": "October 20, 2020 21:14:00 UTC",
+        "time": {
+            "day": 20,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 21,
+            "minute": 14,
             "second": 0
         },
         "info": [],
@@ -166,6 +148,24 @@
     {
         "posted": false,
         "name": "Atlas V 551 | STP-3",
+        "time_raw": "October 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Atlas V 511 | USSF-8",
         "time_raw": "October 31, 2020 00:00:00 UTC",
         "time": {
             "day": 31,
