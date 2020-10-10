@@ -13,7 +13,9 @@
             "second": 4
         },
         "info": [],
-        "videos": [],
+        "videos": [
+            "https://www.youtube.com/watch?v=rqJTcQqDIro"
+        ],
         "description": "Soyuz MS-17 begins expedition 63 by carrying Roscosmos cosmonauts Sergey Ryzhikov, Sergey Kud-Sverchkov and NASA astronaut Kathleen Rubins to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
     },
