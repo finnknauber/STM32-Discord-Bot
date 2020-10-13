@@ -21,59 +21,21 @@
     },
     {
         "posted": false,
-        "name": "Long March 6  | Satellogic x 13",
-        "time_raw": "October 15, 2020 00:00:00 UTC",
+        "name": "Falcon 9 Block 5 | Starlink 13",
+        "time_raw": "October 18, 2020 12:27:00 UTC",
         "time": {
-            "day": 15,
+            "day": 18,
             "month": 10,
             "year": 2020,
             "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
+            "hour": 12,
+            "minute": 27,
             "second": 0
         },
         "info": [],
         "videos": [],
-        "description": "First batch of remote sensing satellites for Satellogic's constellation.",
+        "description": "",
         "image": ""
-    },
-    {
-        "posted": false,
-        "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "October 16, 2020 02:00:00 UTC",
-        "time": {
-            "day": 16,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 2,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [
-            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
-        ],
-        "videos": [],
-        "description": "Classified payload for NRO.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
-    },
-    {
-        "posted": false,
-        "name": "Falcon 9 Block 5 | GPS III SV04",
-        "time_raw": "October 20, 2020 01:39:00 UTC",
-        "time": {
-            "day": 20,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 1,
-            "minute": 39,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "GPS-IIIA (Global Positioning System) is the first evolution stage of the third generation of the GPS satellites. It consists of the first ten (known as \"tranche\") of GPS III satellites.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
@@ -92,6 +54,26 @@
         "videos": [],
         "description": "",
         "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Delta IV Heavy | NROL-44",
+        "time_raw": "October 23, 2020 02:00:00 UTC",
+        "time": {
+            "day": 23,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 2,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [
+            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
+        ],
+        "videos": [],
+        "description": "Classified payload for NRO.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
     },
     {
         "posted": false,
@@ -182,5 +164,23 @@
         "videos": [],
         "description": "A U.S. Air Force experimental spacecraft.",
         "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
+    },
+    {
+        "posted": false,
+        "name": "Long March 6  | Satellogic x 13",
+        "time_raw": "October 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "First batch of remote sensing satellites for Satellogic's constellation.",
+        "image": ""
     }
 ]
