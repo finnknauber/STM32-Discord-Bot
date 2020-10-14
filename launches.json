@@ -1,26 +1,6 @@
 [
     {
         "posted": false,
-        "name": "Soyuz 2.1a | Soyuz MS-17",
-        "time_raw": "October 14, 2020 05:45:04 UTC",
-        "time": {
-            "day": 14,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 5,
-            "minute": 45,
-            "second": 4
-        },
-        "info": [],
-        "videos": [
-            "https://www.youtube.com/watch?v=rqJTcQqDIro"
-        ],
-        "description": "Soyuz MS-17 begins expedition 63 by carrying Roscosmos cosmonauts Sergey Ryzhikov, Sergey Kud-Sverchkov and NASA astronaut Kathleen Rubins to the International Space Station aboard the Soyuz spacecraft from the Baikonur Cosmodrome in Kazakhstan. After launching from the Baikonur Cosmodrome in Kazakhstan, they will rendezvous to the station where they will remain for their 6 month stay.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Soyuz+2.1a_1440.jpg"
-    },
-    {
-        "posted": false,
         "name": "Falcon 9 Block 5 | Starlink 13",
         "time_raw": "October 18, 2020 12:27:00 UTC",
         "time": {
@@ -34,8 +14,8 @@
         },
         "info": [],
         "videos": [],
-        "description": "",
-        "image": ""
+        "description": "A batch of 60 satellites for Starlink mega-constellation - SpaceX's project for space-based Internet communication system.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Falcon9Block5.jpg_1920.jpg"
     },
     {
         "posted": false,
@@ -52,8 +32,8 @@
         },
         "info": [],
         "videos": [],
-        "description": "",
-        "image": ""
+        "description": "\"In Focus\" is a rideshare mission carrying 10 Earth observation satellites for Planet and Canon Electronics.",
+        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
     },
     {
         "posted": false,
@@ -90,7 +70,7 @@
         },
         "info": [],
         "videos": [],
-        "description": "",
+        "description": "Glonass-K are the third generation of satellite design for GLONASS satellite navigation system. GLONASS is a Russian space-based navigation system comparable to the similar GPS and Galileo systems. This generation improves on accuracy, power consumption and design life. Each satellite is unpressurized and weighs 935 kg,  and has an operational lifetime of 10 years.",
         "image": ""
     },
     {
@@ -149,24 +129,6 @@
     },
     {
         "posted": false,
-        "name": "Electron | STP-27RM",
-        "time_raw": "October 31, 2020 00:00:00 UTC",
-        "time": {
-            "day": 31,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 0,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [],
-        "videos": [],
-        "description": "A U.S. Air Force experimental spacecraft.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Electron.jpg_1440.jpg"
-    },
-    {
-        "posted": false,
         "name": "Long March 6  | Satellogic x 13",
         "time_raw": "October 31, 2020 00:00:00 UTC",
         "time": {
@@ -181,6 +143,42 @@
         "info": [],
         "videos": [],
         "description": "First batch of remote sensing satellites for Satellogic's constellation.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Kuaizhou-1A | Jilin-1-02D",
+        "time_raw": "October 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Kuaizhou-1A | Jilin-1-02F",
+        "time_raw": "October 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
         "image": ""
     }
 ]
