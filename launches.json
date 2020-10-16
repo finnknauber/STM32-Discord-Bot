@@ -55,26 +55,6 @@
     },
     {
         "posted": false,
-        "name": "Delta IV Heavy | NROL-44",
-        "time_raw": "October 23, 2020 02:00:00 UTC",
-        "time": {
-            "day": 23,
-            "month": 10,
-            "year": 2020,
-            "timezone": "UTC",
-            "hour": 2,
-            "minute": 0,
-            "second": 0
-        },
-        "info": [
-            "https://www.ulalaunch.com/missions/next-launch/delta-iv-heavy-nrol-44"
-        ],
-        "videos": [],
-        "description": "Classified payload for NRO.",
-        "image": "https://launchlibrary1.nyc3.digitaloceanspaces.com/RocketImages/Delta+IV+Heavy_1920.jpg"
-    },
-    {
-        "posted": false,
         "name": "Soyuz 2.1b/Fregat | Glonass-K1",
         "time_raw": "October 25, 2020 00:00:00 UTC",
         "time": {
@@ -166,6 +146,24 @@
     {
         "posted": false,
         "name": "Kuaizhou-1A | Jilin-1-02D",
+        "time_raw": "October 31, 2020 00:00:00 UTC",
+        "time": {
+            "day": 31,
+            "month": 10,
+            "year": 2020,
+            "timezone": "UTC",
+            "hour": 0,
+            "minute": 0,
+            "second": 0
+        },
+        "info": [],
+        "videos": [],
+        "description": "Jilin-1 is a series of Chinese commercial remote sensing satellites.",
+        "image": ""
+    },
+    {
+        "posted": false,
+        "name": "Kuaizhou-1A | Jilin-1-02F",
         "time_raw": "October 31, 2020 00:00:00 UTC",
         "time": {
             "day": 31,
