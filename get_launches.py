@@ -21,16 +21,16 @@ def write_launches(launch_data):
             print("Failed when trying to write to json file")
 
 def get_upcoming(launch_data):
-    launches = ""
+    launches = "**Upcoming launches:**\n\n"
     if "results" in launch_data:
         for launch in launch_data["results"]:
             if launch["status"]["name"] != "Success":
-                launch_string=launch["name"]
+                launch_string="• **" + launch["name"] + "**"
                 if "lsp_name" in launch:
-                    launch_string+=" by " + launch["lsp_name"]
+                    launch_string+=" by *" + launch["lsp_name"] + "*"
 
                 launch_string+=" is launching on " + launch["net"]
-                launch_string+=". \nThe current mission status is " + launch["status"]["name"]
+                launch_string+=". \nThe current mission status is **" + launch["status"]["name"] + "**"
                 launches+=launch_string + "\n\n"
 
     return launches
