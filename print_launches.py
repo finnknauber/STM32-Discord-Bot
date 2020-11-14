@@ -38,7 +38,7 @@ def add_posted(id, net):
 
     with open("posted.json", "w") as postedData:
         oldData["posted"].append({id: net})
-        newData = json.dumps(oldData, skipkeys=True, indent=4)
+        newData = json.dumps(oldData)
         postedData.seek(0)
         postedData.write(newData)
         postedData.truncate()

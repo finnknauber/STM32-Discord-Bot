@@ -20,6 +20,19 @@ def get_launch_json():
         return requestData.json()
     return get_file_json()
 
+def checkPosted(launch_data):
+    with open("posted.json") as postedData:
+        postedData = json.loads(postedData.read())
+
+    new_postData = {"posted": []}
+    for post in postedData:
+        is_activeLaunch = False
+        for launch in launch_data["results"]:
+            if launch["id"] in post:
+                if launch["net"] == post[launch["id"]]:
+                    is_activeLaunch = True
+        if is_activeLaunch:
+            new_postData["posted"].append(post)
 
 def write_launches(launch_data):
     if launch_data:
@@ -31,6 +44,7 @@ def write_launches(launch_data):
                 json_file.truncate()
         except:
             print("Failed when trying to write to json file")
+        # checkPosted(launch_data)
     return launch_data
 
 
