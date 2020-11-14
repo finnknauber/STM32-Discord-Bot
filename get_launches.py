@@ -13,7 +13,7 @@ def write_launches(launch_data):
     if launch_data:
         try:
             launch_data = json.dumps(launch_data, skipkeys=True, indent=4)
-            with open("/launches.json", "w") as json_file:
+            with open("launches.json", "w") as json_file:
                 json_file.seek(0)
                 json_file.write(launch_data)
                 json_file.truncate()
@@ -86,7 +86,7 @@ def get_launches(launch_data):
     return launches
 
 def get_file_json():
-    with open("/launches.json") as requestData:
+    with open("launches.json") as requestData:
         try:
             requestData = json.loads(requestData.read())
             return requestData
