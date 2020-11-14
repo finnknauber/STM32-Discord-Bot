@@ -13,12 +13,27 @@ def write_launches(launch_data):
     if launch_data:
         try:
             launch_data = json.dumps(launch_data, skipkeys=True, indent=4)
-            with open(os.path.dirname(os.path.realpath(__file__)) + "/launches.json", "w") as json_file:
+            with open("/launches.json", "w") as json_file:
                 json_file.seek(0)
                 json_file.write(launch_data)
                 json_file.truncate()
         except:
             print("Failed when trying to write to json file")
+
+def get_upcoming(launch_data):
+    launches = ""
+    if "results" in launch_data:
+        for launch in launch_data["results"]:
+            if launch["status"]["name"] != "Success":
+                launch_string=launch["name"]
+                if "lsp_name" in launch:
+                    launch_string+=" by " + launch["lsp_name"]
+
+                launch_string+=" is launching on " + launch["net"]
+                launch_string+=". \nThe current mission status is " + launch["status"]["name"]
+                launches+=launch_string + "\n\n"
+
+    return launches
 
 def get_launches(launch_data):
     launches = ""
@@ -71,7 +86,7 @@ def get_launches(launch_data):
     return launches
 
 def get_file_json():
-    with open(os.path.dirname(os.path.realpath(__file__)) + "/launches.json") as requestData:
+    with open("/launches.json") as requestData:
         try:
             requestData = json.loads(requestData.read())
             return requestData

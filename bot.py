@@ -220,11 +220,13 @@ async def commandEdit(message, command, data):
         await sendText(message, "Please enter all required parameters or type $help")
 
 def get_launchlist_message():
-    message = get_launches.get_launches(get_launches.get_launch_json())
+    message = get_launches.get_upcoming(get_launches.get_launch_json())
     if not message:
         message = "*No upcoming launches found*"
 
-    return message[:1999]
+    if len(message) >= 2000:
+        return message[:1999]
+    return message
 
 
 @client.event
