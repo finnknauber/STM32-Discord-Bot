@@ -36,7 +36,7 @@ def get_first_launch(launch_data):
 def get_launch(launch_data):
     launch = ""
     if launch_data != "":
-        launch_string="**" + launch["name"] + "**"
+        launch_string="**" + launch_data["name"] + "**"
 
         if "lsp_name" in launch_data:
             launch_string+=" by *" + launch_data["lsp_name"] + "*"
@@ -75,7 +75,7 @@ def get_launch(launch_data):
             if launch_data["image"]:
                 launch_string+="\n"+launch_data["image"]
 
-        launches+=launch_string + "\n\n"
+        launch+=launch_string + "\n\n"
 
     return launch
 
