@@ -58,7 +58,7 @@ def get_upcoming(launch_data):
 
 
 def get_file_json():
-    with open("/launches.json") as requestData:
+    with open("launches.json") as requestData:
         try:
             requestData = json.loads(requestData.read())
             return requestData
