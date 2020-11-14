@@ -224,7 +224,7 @@ def get_launchlist_message():
     if not message:
         message = "*No upcoming launches found*"
 
-    return message
+    return message[:1999]
 
 
 @client.event
