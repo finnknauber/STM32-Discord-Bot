@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-11-16T01:44:00Z",
-            "window_end": "2020-11-16T04:34:00Z",
-            "window_start": "2020-11-16T01:44:00Z",
+            "net": "2020-11-17T01:44:00Z",
+            "window_end": "2020-11-17T04:34:00Z",
+            "window_start": "2020-11-17T01:44:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "Return to Sender",
             "mission_type": "Dedicated Rideshare",
