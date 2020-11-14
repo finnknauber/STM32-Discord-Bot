@@ -7,7 +7,7 @@ def get_launch_json():
     requestData = requests.get('https://ll.thespacedevs.com/2.0.0/launch/upcoming?mode=list')
     if requestData.status_code == 200:
         return requestData.json()
-    return {}
+    return get_file_json()
 
 
 def write_launches(launch_data):
