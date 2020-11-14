@@ -41,7 +41,7 @@ def get_upcoming(launch_data):
             if launch["status"]["name"] != "Success":
                 launch_string="• **" + launch["name"] + "**"
                 if "lsp_name" in launch:
-                    launch_string+=" by *" + launch["lsp_name"] + "*"
+                    launch_string+=" by ***" + launch["lsp_name"] + "***"
 
                 utc_time = datetime.datetime.utcnow()
                 utc_time = datetime.datetime(utc_time.year, utc_time.month, utc_time.day, utc_time.hour, utc_time.minute)
@@ -58,7 +58,7 @@ def get_upcoming(launch_data):
 
 
 def get_file_json():
-    with open(os.path.dirname(os.path.realpath(__file__)) + "/launches.json") as requestData:
+    with open("/launches.json") as requestData:
         try:
             requestData = json.loads(requestData.read())
             return requestData
