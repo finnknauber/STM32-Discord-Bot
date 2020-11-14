@@ -3,6 +3,7 @@ import os
 import discord
 import json
 import datetime
+import get_launches
 
 from dotenv import load_dotenv
 load_dotenv()
@@ -219,57 +220,9 @@ async def commandEdit(message, command, data):
         await sendText(message, "Please enter all required parameters or type $help")
 
 def get_launchlist_message():
-    message = "**Upcoming launches:**\n\n"
-    if os.path.exists("launches.json"):
-        with open("launches.json") as launchData:
-            now = datetime.datetime.utcnow()
-
-            launchData = json.loads(launchData.read())
-            if len(launchData) > 5:
-                launchData = launchData[:5]
-
-            for launch in launchData:
-                launchTime = datetime.datetime(day=launch["time"]["day"],month=launch["time"]["month"],year=launch["time"]["year"],hour=launch["time"]["hour"],minute=launch["time"]["minute"],second=launch["time"]["second"])
-                time = launchTime - now
-                time = time.total_seconds()
-                if time > 0:
-                    day = time // 86400
-                    day = int(day)
-                    time = time - day*86400
-                    hour = time // 3600
-                    hour = int(hour)
-                    time = time - hour*3600
-                    minutes = time // 60
-                    minutes = int(minutes)
-                    
-                    message += "• **" + launch["name"] + "** on " + launch["time_raw"] + " or T- "
-                    if day:
-                        if day == 1:
-                            message+=str(day) + " Day"
-                        else:
-                            message+=str(day) + " Days"
-                    if hour:
-                        if day:
-                            message+=", "
-                        if hour == 1:
-                            message+=str(hour) + " Hour"
-                        else:
-                            message+=str(hour) + " Hours"
-
-                    if minutes:
-                        if hour or day:
-                            message+=", "
-                        if minutes == 1:
-                            message+=str(minutes) + " Minute"
-                        else:
-                            message+=str(minutes) + " Minutes"
-                    message+="\n"
-
-            if not len(launchData):
-                message += "*No upcoming launches found*"
-                
-    else:
-        message += "*No upcoming launches found*"
+    message = get_launches.get_launches(get_launches.get_launch_json())
+    if not message:
+        message = "*No upcoming launches found*"
 
     return message
 

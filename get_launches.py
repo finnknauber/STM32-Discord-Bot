@@ -1,87 +1,90 @@
 #get_launches.py
 import requests
 import json
+import os
 
-def serializeTime(timeString):
-    months = ["January","February","March","April","May","Juni","July","August","September","October","November","Dezember"]
-    if timeString:
+def get_launch_json():
+    requestData = requests.get('https://ll.thespacedevs.com/2.0.0/launch/upcoming?mode=list')
+    if requestData.status_code == 200:
+        return requestData.json()
+    return {}
+
+def write_launches(launch_data):
+    if launch_data:
         try:
-            time = {}
-            time["day"] = int(timeString.split(",")[0].split(" ")[-1])
-            time["month"] = months.index( timeString.split(" ")[0] ) + 1
-            time["year"] = int( timeString.split(",")[-1].strip().split(" ")[0] )
-            time["timezone"] = timeString.split(" ")[-1]
-            time["hour"] = int( timeString.split(" ")[-2].split(":")[0] )
-            time["minute"] = int( timeString.split(" ")[-2].split(":")[1] )
-            time["second"] = int( timeString.split(" ")[-2].split(":")[2] )
-
+            launch_data = json.dumps(launch_data, skipkeys=True, indent=4)
+            with open(os.path.dirname(os.path.realpath(__file__)) + "/launches.json", "w") as json_file:
+                json_file.seek(0)
+                json_file.write(launch_data)
+                json_file.truncate()
         except:
-            time = None
-            print("Error in serializing time string")
+            print("Failed when trying to write to json file")
 
-    return time
+def get_launches(launch_data):
+    launches = ""
+    if "results" in launch_data:
+        for launch in launch_data["results"]:
+            if launch["status"]["name"] != "Success":
+                launch_string = ""
 
-def get_launch_details(id):
-    description = ""
-    image = ""
-    requestData = requests.get('https://launchlibrary.net/1.4/launch/'+str(id), auth=('user', 'pass'))
+                launch_string+=launch["name"]
 
-    if requestData.status_code == 200:
-        requestData = requestData.json()
-        if "launches" in requestData:
-            for launch in requestData["launches"]:
+                if "lsp_name" in launch:
+                    launch_string+=" by " + launch["lsp_name"]
+                
+                launch_string+=" is launching on " + launch["net"]
 
-                try:
-                    if "missions" in launch and not description:
-                        description = launch["missions"][0]["description"]
+                if "launcher" in launch:
+                    if launch["launcher"]:
+                        launch_string+=" using " + launch["launcher"]
 
-                    if not image and "rocket" in launch:
-                        if "imageURL" in launch["rocket"]:
-                            if not "placeholder" in launch["rocket"]["imageURL"]:
-                                if launch["rocket"]["imageURL"].split(".")[-1].replace("/","") in ["jpg","png","jpeg","gif"]:
-                                    image = launch["rocket"]["imageURL"]
+                if "pad" in launch:
+                    launch_string+=" from " + launch["pad"]
+                    launch_string+=" in " + launch["location"]
+                
+                if "landing" in launch:
+                    if launch["landing"]:
+                        launch_string+=" a landing will be attempted on/at " + launch["landing"]
 
-                except: pass
+                launch_string+=". \nThe current mission status is " + launch["status"]["name"]
 
-    return description, image
+                if "mission_type" in launch:
+                    launch_string+="\nThe missions purpose is " + launch["mission_type"]
 
-def get_launches(old_launchData):
-    launches = []
-    requestData = requests.get('https://launchlibrary.net/1.4/launch', auth=('user', 'pass'))
+                if "orbit" in launch:
+                    if launch["orbit"]:
+                        launch_string+=".\nIt is headed to " + launch["orbit"]
 
-    if requestData.status_code == 200:
-        requestData = requestData.json()
+                if "infographic" in launch:
+                    if launch["infographic"]:
+                        launch_string+="\n"+launch["infographic"]
+                    elif "image" in launch:
+                        if launch["image"]:
+                            launch_string+="\n"+launch["image"]
 
-        for launch in requestData["launches"]:
-            launchData = {"posted":False}
+                elif "image" in launch:
+                    if launch["image"]:
+                        launch_string+="\n"+launch["image"]
 
-            for old_launch in old_launchData:
-                if launch["name"] == old_launch["name"]:
-                    launchData = {"posted": old_launch["posted"]}
-
-            launchData["name"] = launch["name"]
-            launchData["time_raw"] = launch["net"]
-            launchData["time"] = serializeTime(launch["net"])
-            launchData["info"] = launchInfoUrls = []
-            launchData["videos"] = launchVidUrls = []
-            launchData["description"], launchData["image"] = get_launch_details(launch["id"])
-
-            if "infoURLs" in launch:
-                launchData["info"] = launch["infoURLs"]
-            if "vidURLs" in launch:
-                launchData["videos"] = launch["vidURLs"]
-
-            if launchData["time"]:
-                launches.append(launchData)
+                launches+=launch_string + "\n\n"
 
     return launches
 
-def write_launches():
-    with open("launches.json") as old_launchData:
-        old_launchData = json.loads(old_launchData.read())
+def get_file_json():
+    with open(os.path.dirname(os.path.realpath(__file__)) + "/launches.json") as requestData:
+        try:
+            requestData = json.loads(requestData.read())
+            return requestData
+        except:
+            print("Failed while trying to read file")
+    return {}
 
-    with open("launches.json","w") as launchData:
-        launchData.write(json.dumps(get_launches(old_launchData),indent=4))
+def update_launches():
+    requestData = get_file_json()
+    if requestData != {}:
+        launch_data = get_launch_json()
+        if requestData != launch_data and launch_data != {}:
+            write_launches(launch_data)
 
+update_launches()
 
-write_launches()
