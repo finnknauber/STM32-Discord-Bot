@@ -1,0 +1,462 @@
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
+Traceback (most recent call last):
+  File "print_launches.py", line 112, in <module>
+    message = get_launch(get_first_launch(get_launches.get_file_json()))
+  File "print_launches.py", line 107, in get_launch
+    add_posted(launch["id"], launch["net"])
+TypeError: string indices must be integers
