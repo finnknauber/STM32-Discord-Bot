@@ -1,58 +1,8 @@
 {
-    "count": 195,
+    "count": 194,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "c5a9ba01-d03f-4fd7-940a-8a10d535809a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c5a9ba01-d03f-4fd7-940a-8a10d535809a/",
-            "launch_library_id": 1312,
-            "slug": "atlas-v-531-nrol-101",
-            "name": "Atlas V 531 | NROL-101",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-11-13T22:32:00Z",
-            "window_end": "2020-11-14T01:05:00Z",
-            "window_start": "2020-11-13T22:13:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "NROL-101",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20201110095715.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_infographic_20201101011525.png"
-        },
-        {
-            "id": "0ede12be-ac6d-4571-9d0c-b2a85b5cf280",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0ede12be-ac6d-4571-9d0c-b2a85b5cf280/",
-            "launch_library_id": 1657,
-            "slug": "falcon-9-block-5-spx-uscv-1-nasa-crew-flight-1",
-            "name": "Falcon 9 Block 5 | SpX USCV-1 (NASA Crew Flight 1)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-16T00:27:00Z",
-            "window_end": "2020-11-16T00:27:00Z",
-            "window_start": "2020-11-16T00:27:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SpX USCV-1 (NASA Crew Flight 1)",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1061",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201110155425.jpeg",
-            "infographic": null
-        },
         {
             "id": "1514d38c-b1ed-4a4a-9878-04646f0b6b94",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1514d38c-b1ed-4a4a-9878-04646f0b6b94/",
@@ -63,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-11-16T01:44:00Z",
-            "window_end": "2020-11-16T04:34:00Z",
-            "window_start": "2020-11-16T01:44:00Z",
+            "net": "2020-11-20T01:44:00Z",
+            "window_end": "2020-11-20T04:34:00Z",
+            "window_start": "2020-11-20T01:44:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "Return to Sender",
             "mission_type": "Dedicated Rideshare",
@@ -77,31 +27,6 @@
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20201112150118.png"
-        },
-        {
-            "id": "d9486816-bb61-4b16-bcfa-0d1e9ba40696",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9486816-bb61-4b16-bcfa-0d1e9ba40696/",
-            "launch_library_id": 1643,
-            "slug": "vega-ingenio-seosat-taranis",
-            "name": "Vega | Ingenio (SEOSat) & Taranis",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-17T01:52:20Z",
-            "window_end": "2020-11-17T01:52:20Z",
-            "window_start": "2020-11-17T01:52:20Z",
-            "lsp_name": "Arianespace",
-            "mission": "Ingenio (SEOSat)",
-            "mission_type": "Earth Science",
-            "pad": "Ariane Launch Area 1",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-            "infographic": null
         },
         {
             "id": "56623c2d-7174-489c-b0ed-bf6f039b2412",
@@ -129,28 +54,28 @@
             "infographic": null
         },
         {
-            "id": "107fb32b-7f28-4560-af33-2790bc4118e8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8/",
-            "launch_library_id": 1687,
-            "slug": "soyuz-21bfregat-m-gonets-m30-gonets-m31-gonets-m32",
-            "name": "Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32",
+            "id": "145b2935-8b72-44b2-8bda-4c27887721fd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/145b2935-8b72-44b2-8bda-4c27887721fd/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-15",
+            "name": "Falcon 9 Block 5 | Starlink 15",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2020-11-24T00:00:00Z",
-            "window_end": "2020-11-24T00:00:00Z",
-            "window_start": "2020-11-24T00:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Gonets-M30, Gonets-M31, Gonets-M32",
+            "net": "2020-11-22T03:17:00Z",
+            "window_end": "2020-11-22T03:17:00Z",
+            "window_start": "2020-11-22T03:17:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 15",
             "mission_type": "Communications",
-            "pad": "43/3 (43L)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png",
             "infographic": null
         },
         {
@@ -179,27 +104,28 @@
             "infographic": null
         },
         {
-            "id": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776/",
-            "launch_library_id": 1650,
-            "slug": "angara-a5briz-m-dummy-payload",
-            "name": "Angara A5/Briz-M | Dummy payload",
+            "id": "107fb32b-7f28-4560-af33-2790bc4118e8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8/",
+            "launch_library_id": 1687,
+            "slug": "soyuz-21bfregat-m-gonets-m30-gonets-m31-gonets-m32",
+            "name": "Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2020-11-28T00:00:00Z",
-            "window_end": "2020-11-28T00:00:00Z",
-            "window_start": "2020-11-28T00:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": null,
-            "pad": "35/1",
+            "net": "2020-11-24T02:12:15Z",
+            "window_end": "2020-11-24T02:12:15Z",
+            "window_start": "2020-11-24T02:12:15Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Gonets-M30, Gonets-M31, Gonets-M32",
+            "mission_type": "Communications",
+            "pad": "43/3 (43L)",
             "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
             "infographic": null
         },
         {
@@ -228,6 +154,30 @@
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
         },
         {
+            "id": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776/",
+            "launch_library_id": 1650,
+            "slug": "angara-a5briz-m-dummy-payload",
+            "name": "Angara A5/Briz-M | Dummy payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-11-28T05:22:00Z",
+            "window_end": "2020-11-28T05:22:00Z",
+            "window_start": "2020-11-28T05:22:00Z",
+            "lsp_name": "Khrunichev State Research and Production Space Center",
+            "mission": null,
+            "pad": "35/1",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
+            "infographic": null
+        },
+        {
             "id": "3f8dd709-4231-49ca-aa9f-694a2c0c107f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f/",
             "launch_library_id": 2105,
@@ -250,6 +200,56 @@
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg",
             "infographic": null
+        },
+        {
+            "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f/",
+            "launch_library_id": 2098,
+            "slug": "kuaizhou-1a-jilin-1-02d",
+            "name": "Kuaizhou-1A | Jilin-1-02D",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-11-30T00:00:00Z",
+            "window_end": "2020-11-30T00:00:00Z",
+            "window_start": "2020-11-30T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02D",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6cdf9823-7574-4c0d-a3b2-956c7b364756",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756/",
+            "launch_library_id": 1973,
+            "slug": "delta-iv-heavy-nrol-44",
+            "name": "Delta IV Heavy | NROL-44",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-11-30T00:00:00Z",
+            "window_end": "2020-11-30T00:00:00Z",
+            "window_start": "2020-11-30T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-44",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 37B",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_infographic_20200828105447.png"
         }
     ]
 }
