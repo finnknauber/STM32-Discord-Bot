@@ -104,7 +104,7 @@ def get_launch(launch_data):
                         launch_string+="\n"+launch_data["image"]
 
                 launch+=launch_string + "\n\n"
-                add_posted(launch["id"], launch["net"])
+                add_posted(launch_data["id"], launch_data["net"])
 
     return launch
 
