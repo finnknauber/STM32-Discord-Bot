@@ -13,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-11-20T01:44:00Z",
+            "net": "2020-11-20T01:46:00Z",
             "window_end": "2020-11-20T04:34:00Z",
             "window_start": "2020-11-20T01:44:00Z",
             "lsp_name": "Rocket Lab Ltd",
@@ -50,7 +50,7 @@
             "landing_success": 0,
             "launcher": "B1063",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201119211105.jpeg",
             "infographic": null
         },
         {
@@ -60,8 +60,8 @@
             "slug": "falcon-9-block-5-starlink-15",
             "name": "Falcon 9 Block 5 | Starlink 15",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2020-11-22T03:17:00Z",
             "window_end": "2020-11-22T03:17:00Z",
@@ -71,9 +71,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1049",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png",
             "infographic": null
@@ -85,12 +85,12 @@
             "slug": "long-march-5-change-5",
             "name": "Long March 5  | Chang'e 5",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-11-24T00:00:00Z",
-            "window_end": "2020-11-24T00:00:00Z",
-            "window_start": "2020-11-24T00:00:00Z",
+            "net": "2020-11-23T20:00:00Z",
+            "window_end": "2020-11-23T23:00:00Z",
+            "window_start": "2020-11-23T20:00:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Chang'e 5",
             "mission_type": "Robotic Exploration",
@@ -100,7 +100,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25205_image_20191228095452.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201119165033.png",
             "infographic": null
         },
         {
@@ -129,31 +129,6 @@
             "infographic": null
         },
         {
-            "id": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05/",
-            "launch_library_id": 1827,
-            "slug": "soyuz-stafregat-falcon-eye-2",
-            "name": "Soyuz STA/Fregat | Falcon Eye 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2020-11-28T01:33:28Z",
-            "window_end": "2020-11-28T01:33:28Z",
-            "window_start": "2020-11-28T01:33:28Z",
-            "lsp_name": "Arianespace",
-            "mission": "Falcon Eye 2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Soyuz Launch Complex",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
-        },
-        {
             "id": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776/",
             "launch_library_id": 1650,
@@ -176,6 +151,31 @@
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
             "infographic": null
+        },
+        {
+            "id": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05/",
+            "launch_library_id": 1827,
+            "slug": "soyuz-stafregat-falcon-eye-2",
+            "name": "Soyuz STA/Fregat | Falcon Eye 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-11-29T01:33:28Z",
+            "window_end": "2020-11-29T01:33:28Z",
+            "window_start": "2020-11-29T01:33:28Z",
+            "lsp_name": "Arianespace",
+            "mission": "Falcon Eye 2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Soyuz Launch Complex",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
         },
         {
             "id": "3f8dd709-4231-49ca-aa9f-694a2c0c107f",
