@@ -10,10 +10,10 @@
             "slug": "electron-return-to-sender",
             "name": "Electron | Return to Sender",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2020-11-20T01:46:00Z",
+            "net": "2020-11-20T02:20:00Z",
             "window_end": "2020-11-20T04:34:00Z",
             "window_start": "2020-11-20T01:44:00Z",
             "lsp_name": "Rocket Lab Ltd",
@@ -21,11 +21,11 @@
             "mission_type": "Dedicated Rideshare",
             "pad": "Rocket Lab Launch Complex 1A",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "PAC",
+            "landing_success": 1,
+            "launcher": "Electron",
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/flight252016_image_20201102201340.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20201120015105.jpg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20201112150118.png"
         },
         {
@@ -51,7 +51,7 @@
             "launcher": "B1063",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201119211105.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201120193858.png"
         },
         {
             "id": "145b2935-8b72-44b2-8bda-4c27887721fd",
@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-11-22T03:17:00Z",
-            "window_end": "2020-11-22T03:17:00Z",
-            "window_start": "2020-11-22T03:17:00Z",
+            "net": "2020-11-23T02:56:00Z",
+            "window_end": "2020-11-23T02:56:00Z",
+            "window_start": "2020-11-23T02:56:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 15",
             "mission_type": "Communications",
@@ -76,7 +76,7 @@
             "launcher": "B1049",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201116063830.png",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201120194911.png"
         },
         {
             "id": "9828537e-e017-4f77-96b6-49799d439363",
