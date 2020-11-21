@@ -228,6 +228,17 @@ def get_launchlist_message():
         return message[:1999]
     return message
 
+def changePosts(post):
+    with open("posted.json") as oldData:
+        oldData = json.loads(oldData.read())
+
+    with open("posted.json", "w") as postedData:
+        oldData["post"] = post
+        newData = json.dumps(oldData)
+        postedData.seek(0)
+        postedData.write(newData)
+        postedData.truncate()
+
 
 @client.event
 async def on_message(message):
@@ -258,6 +269,18 @@ async def on_message(message):
             else:
                 if commandSplit[0] == "launches":
                     await sendText(message, get_launchlist_message())
+                elif commandSplit[0] == "turnOffLaunches":
+                    if hasValidRole(message.author.roles, data["roles"]):
+                        changePosts(False)
+                        await sendText(message, "Turned off launch posts from Morpheus!")
+                    else:
+                        await sendText(message, "You do not have permission to use this command!")
+                elif commandSplit[0] == "turnOnLaunches":
+                    if hasValidRole(message.author.roles, data["roles"]):
+                        changePosts(True)
+                        await sendText(message, "Turned on launch posts from Morpheus!")
+                    else:
+                        await sendText(message, "You do not have permission to use this command!")
                 elif commandSplit[0] == "commandadd":
                     if hasValidRole(message.author.roles, data["roles"]):
                         await commandAdd(message, commandSplit[1:], data)

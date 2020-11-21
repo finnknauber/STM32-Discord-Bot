@@ -46,13 +46,21 @@ def add_posted(id, net):
 def is_posted(id):
     with open("posted.json") as postedData:
         postedData = json.loads(postedData.read())
-        return id in postedData["posted"]
+        for post in postedData["posted"]:
+            if id in post:
+                return True
+        return False
+
+def posts_on():
+    with open("posted.json") as postedData:
+        postedData = json.loads(postedData.read())
+        return postedData["post"]
 
 
 def get_launch(launch_data):
     launch = ""
     if launch_data != "":
-        if not is_posted(launch_data["id"]):
+        if not is_posted(launch_data["id"]) and posts_on():
             time = datetime.datetime.utcnow()
             time = datetime.datetime(time.year, time.month, time.day, time.hour, time.minute)
             if get_launches.format_time(launch_data["net"]) - datetime.timedelta(minutes=15) <= time:
