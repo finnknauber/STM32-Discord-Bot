@@ -22,6 +22,9 @@ F1 Pinout                         $pinout
 ```
 **List of moderation commands:**
 ```
+turn off launches                   $turnOffLaunches
+turn on launches                    $turnOnLaunches
+
 add a command                       $commandadd channel(optional) <name> <name> ...
     type your response or cancel    <response / $>
     enter a short description       <description>
