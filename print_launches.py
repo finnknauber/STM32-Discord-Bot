@@ -63,7 +63,7 @@ def get_launch(launch_data):
         if not is_posted(launch_data["id"]) and posts_on():
             time = datetime.datetime.utcnow()
             time = datetime.datetime(time.year, time.month, time.day, time.hour, time.minute)
-            if get_launches.format_time(launch_data["net"]) - datetime.timedelta(minutes=15) <= time:
+            if get_launches.format_time(launch_data["net"]) - datetime.timedelta(minutes=16) <= time:
                 current_launch_data = get_launches.get_launch_json()
                 if current_launch_data != get_launches.get_file_json():
                     current_launch_data = get_launches.write_launches(current_launch_data)
@@ -73,7 +73,7 @@ def get_launch(launch_data):
 
                 if "lsp_name" in launch_data:
                     launch_string+=" by ***" + launch_data["lsp_name"] + "***"
-                
+
                 launch_string+=" is launching in **15 Minutes**!\n"
 
                 if launch_data["launcher"]:
