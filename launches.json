@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05/",
-            "launch_library_id": 1827,
-            "slug": "soyuz-stafregat-falcon-eye-2",
-            "name": "Soyuz STA/Fregat | Falcon Eye 2",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-11-29T01:33:28Z",
-            "window_end": "2020-11-29T01:33:28Z",
-            "window_start": "2020-11-29T01:33:28Z",
-            "lsp_name": "Arianespace",
-            "mission": "Falcon Eye 2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Soyuz Launch Complex",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
-        },
-        {
             "id": "3f8dd709-4231-49ca-aa9f-694a2c0c107f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3f8dd709-4231-49ca-aa9f-694a2c0c107f/",
             "launch_library_id": 2105,
@@ -52,6 +27,31 @@
             "orbit": "GSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-ii_image_20190224012325.jpeg",
             "infographic": null
+        },
+        {
+            "id": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05/",
+            "launch_library_id": 1827,
+            "slug": "soyuz-stafregat-falcon-eye-2",
+            "name": "Soyuz STA/Fregat | Falcon Eye 2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-11-30T01:33:00Z",
+            "window_end": "2020-11-30T01:33:00Z",
+            "window_start": "2020-11-30T01:33:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "Falcon Eye 2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Soyuz Launch Complex",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
         },
         {
             "id": "fdfc71c4-37a7-4d36-a27c-90b132f0e4aa",
@@ -104,30 +104,6 @@
             "infographic": null
         },
         {
-            "id": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776/",
-            "launch_library_id": 1650,
-            "slug": "angara-a5briz-m-dummy-payload",
-            "name": "Angara A5/Briz-M | Dummy payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2020-12-04T00:00:00Z",
-            "window_end": "2020-12-04T00:00:00Z",
-            "window_start": "2020-12-04T00:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": null,
-            "pad": "35/1",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
-            "infographic": null
-        },
-        {
             "id": "06dfcb34-0b76-4fbc-9046-09ab66db7b83",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83/",
             "launch_library_id": 1958,
@@ -144,7 +120,7 @@
             "mission": null,
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "LZ-1",
+            "landing": "N/A",
             "landing_success": 0,
             "launcher": "B1058",
             "orbit": null,
@@ -199,6 +175,30 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
+            "infographic": null
+        },
+        {
+            "id": "5ef7ae3d-8667-49c9-aeea-548a34f82776",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5ef7ae3d-8667-49c9-aeea-548a34f82776/",
+            "launch_library_id": 1650,
+            "slug": "angara-a5briz-m-dummy-payload",
+            "name": "Angara A5/Briz-M | Dummy payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-11T00:00:00Z",
+            "window_end": "2020-12-11T00:00:00Z",
+            "window_start": "2020-12-11T00:00:00Z",
+            "lsp_name": "Khrunichev State Research and Production Space Center",
+            "mission": null,
+            "pad": "35/1",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
             "infographic": null
         },
         {
