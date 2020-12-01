@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-12-01T01:33:28Z",
-            "window_end": "2020-12-01T01:33:28Z",
-            "window_start": "2020-12-01T01:33:28Z",
+            "net": "2020-12-02T01:33:28Z",
+            "window_end": "2020-12-02T01:33:28Z",
+            "window_start": "2020-12-02T01:33:28Z",
             "lsp_name": "Arianespace",
             "mission": "Falcon Eye 2",
             "mission_type": "Government/Top Secret",
@@ -27,31 +27,6 @@
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
-        },
-        {
-            "id": "fdfc71c4-37a7-4d36-a27c-90b132f0e4aa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa/",
-            "launch_library_id": null,
-            "slug": "starship-sn8-15-km-flight",
-            "name": "Starship SN8 | 15 km Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2020-12-02T23:00:00Z",
-            "window_end": "2020-12-02T23:00:00Z",
-            "window_start": "2020-12-02T14:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "15 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "SpaceX South Texas Launch Site",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 0,
-            "launcher": "SN8",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201117085818.jpeg",
-            "infographic": null
         },
         {
             "id": "107fb32b-7f28-4560-af33-2790bc4118e8",
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+            "infographic": null
+        },
+        {
+            "id": "fdfc71c4-37a7-4d36-a27c-90b132f0e4aa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa/",
+            "launch_library_id": null,
+            "slug": "starship-sn8-15-km-flight",
+            "name": "Starship SN8 | 15 km Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-03T23:00:00Z",
+            "window_end": "2020-12-03T23:00:00Z",
+            "window_start": "2020-12-03T14:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "15 km Flight",
+            "mission_type": "Test Flight",
+            "pad": "SpaceX South Texas Launch Site",
+            "location": "SpaceX Space Launch Facility, TX, USA",
+            "landing": "LZ",
+            "landing_success": 0,
+            "launcher": "SN8",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201117085818.jpeg",
             "infographic": null
         },
         {
@@ -126,6 +126,31 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
+            "infographic": null
+        },
+        {
+            "id": "fd63c683-f3e4-465a-8230-b9ba62744c7d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d/",
+            "launch_library_id": 1416,
+            "slug": "falcon-9-block-5-sirius-sxm-7",
+            "name": "Falcon 9 Block 5 | Sirius SXM-7",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-10T16:19:00Z",
+            "window_end": "2020-12-10T16:19:00Z",
+            "window_start": "2020-12-10T16:19:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SXM-7",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
         },
         {
@@ -225,30 +250,6 @@
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20200828105447.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_infographic_20200828105447.png"
-        },
-        {
-            "id": "294e456a-fccc-4af1-a75e-990f8bb9ffba",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba/",
-            "launch_library_id": 1944,
-            "slug": "soyuz-21bfregat-m-oneweb-4",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2020-12-17T00:00:00Z",
-            "window_end": "2020-12-17T00:00:00Z",
-            "window_start": "2020-12-17T00:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": null,
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
         }
     ]
 }
