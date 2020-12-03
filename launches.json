@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "4a6fdee5-34db-4f9a-9f02-888a84b29d05",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a6fdee5-34db-4f9a-9f02-888a84b29d05/",
-            "launch_library_id": 1827,
-            "slug": "soyuz-stafregat-falcon-eye-2",
-            "name": "Soyuz STA/Fregat | Falcon Eye 2",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-02T01:33:28Z",
-            "window_end": "2020-12-02T01:33:28Z",
-            "window_start": "2020-12-02T01:33:28Z",
-            "lsp_name": "Arianespace",
-            "mission": "Falcon Eye 2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Soyuz Launch Complex",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520sta2_infographic_20200301184443.png"
-        },
-        {
             "id": "107fb32b-7f28-4560-af33-2790bc4118e8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/107fb32b-7f28-4560-af33-2790bc4118e8/",
             "launch_library_id": 1687,
             "slug": "soyuz-21bfregat-m-gonets-m30-gonets-m31-gonets-m32",
             "name": "Soyuz 2.1b/Fregat-M | Gonets-M30, Gonets-M31, Gonets-M32",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2020-12-03T01:14:36Z",
             "window_end": "2020-12-03T01:14:36Z",
@@ -101,6 +76,31 @@
             "launcher": "B1058",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b83dc12b-3758-4f13-a079-74493a8228e2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2/",
+            "launch_library_id": null,
+            "slug": "long-march-3be-gaofen-14",
+            "name": "Long March 3B/E | Gaofen 14",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-06T03:55:00Z",
+            "window_end": "2020-12-06T04:17:00Z",
+            "window_start": "2020-12-06T03:49:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Gaofen 14",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
             "infographic": null
         },
         {
@@ -188,16 +188,17 @@
                 "name": "TBD"
             },
             "net": "2020-12-12T10:09:30Z",
-            "window_end": "2020-12-12T10:09:30Z",
-            "window_start": "2020-12-12T10:09:30Z",
+            "window_end": "2020-12-12T10:59:00Z",
+            "window_start": "2020-12-12T09:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
-            "mission": null,
+            "mission": "StriX-\u03b1 (The Owl's Night Begins)",
+            "mission_type": "Earth Science",
             "pad": "Rocket Lab Launch Complex 1A",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
