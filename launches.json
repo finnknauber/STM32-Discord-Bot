@@ -1,58 +1,8 @@
 {
-    "count": 187,
+    "count": 185,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b83dc12b-3758-4f13-a079-74493a8228e2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b83dc12b-3758-4f13-a079-74493a8228e2/",
-            "launch_library_id": null,
-            "slug": "long-march-3be-gaofen-14",
-            "name": "Long March 3B/E | Gaofen 14",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-06T03:58:00Z",
-            "window_end": "2020-12-06T04:17:00Z",
-            "window_start": "2020-12-06T03:49:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Gaofen 14",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06dfcb34-0b76-4fbc-9046-09ab66db7b83",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06dfcb34-0b76-4fbc-9046-09ab66db7b83/",
-            "launch_library_id": 1958,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-21",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-21",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-06T16:17:00Z",
-            "window_end": "2020-12-06T16:17:00Z",
-            "window_start": "2020-12-06T16:17:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-21",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1058",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201205112911.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201206153550.png"
-        },
         {
             "id": "fdfc71c4-37a7-4d36-a27c-90b132f0e4aa",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa/",
@@ -60,12 +10,12 @@
             "slug": "starship-sn8-125-km-flight",
             "name": "Starship SN8 | 12.5 km Flight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-12-07T23:30:00Z",
-            "window_end": "2020-12-07T23:30:00Z",
-            "window_start": "2020-12-07T14:00:00Z",
+            "net": "2020-12-08T14:00:00Z",
+            "window_end": "2020-12-08T23:00:00Z",
+            "window_start": "2020-12-08T14:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "12.5 km Flight",
             "mission_type": "Test Flight",
@@ -75,7 +25,7 @@
             "landing_success": 0,
             "launcher": "SN8",
             "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201117085818.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20201204160134.png"
         },
         {
@@ -185,12 +135,12 @@
             "slug": "angara-a5briz-m-dummy-payload",
             "name": "Angara A5/Briz-M | Dummy payload",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-12-14T00:00:00Z",
-            "window_end": "2020-12-14T00:00:00Z",
-            "window_start": "2020-12-14T00:00:00Z",
+            "net": "2020-12-14T05:50:00Z",
+            "window_end": "2020-12-14T05:50:00Z",
+            "window_start": "2020-12-14T05:50:00Z",
             "lsp_name": "Khrunichev State Research and Production Space Center",
             "mission": null,
             "pad": "35/1",
@@ -249,6 +199,55 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+            "infographic": null
+        },
+        {
+            "id": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2/",
+            "launch_library_id": 2103,
+            "slug": "falcon-9-block-5-nrol-108",
+            "name": "Falcon 9 Block 5 | NROL-108",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-17T00:00:00Z",
+            "window_end": "2020-12-17T00:00:00Z",
+            "window_start": "2020-12-17T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "NROL-108",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1059",
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
+            "launch_library_id": 2080,
+            "slug": "launcherone-launch-demo-2",
+            "name": "LauncherOne | Launch Demo 2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-19T18:00:00Z",
+            "window_end": "2020-12-19T22:00:00Z",
+            "window_start": "2020-12-19T18:00:00Z",
+            "lsp_name": "Virgin Orbit",
+            "mission": null,
+            "pad": "Mojave Air and Space Port",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
             "infographic": null
         }
     ]
