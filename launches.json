@@ -1,58 +1,8 @@
 {
-    "count": 186,
+    "count": 184,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "067f8b0d-f2bb-43aa-9106-291467fcc63a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/067f8b0d-f2bb-43aa-9106-291467fcc63a/",
-            "launch_library_id": null,
-            "slug": "long-march-11-gecam",
-            "name": "Long March 11 | GECAM",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-09T20:14:00Z",
-            "window_end": "2020-12-09T20:31:00Z",
-            "window_start": "2020-12-09T20:05:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "GECAM",
-            "mission_type": "Astrophysics",
-            "pad": "Unknown",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "fdfc71c4-37a7-4d36-a27c-90b132f0e4aa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fdfc71c4-37a7-4d36-a27c-90b132f0e4aa/",
-            "launch_library_id": null,
-            "slug": "starship-sn8-125-km-flight",
-            "name": "Starship SN8 | 12.5 km Flight",
-            "status": {
-                "id": 7,
-                "name": "Partial Failure"
-            },
-            "net": "2020-12-09T22:45:25Z",
-            "window_end": "2020-12-09T23:00:00Z",
-            "window_start": "2020-12-09T14:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "12.5 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "SpaceX South Texas Launch Site",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 2,
-            "launcher": "SN8",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20201207200347.png",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20201204160134.png"
-        },
         {
             "id": "6cdf9823-7574-4c0d-a3b2-956c7b364756",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6cdf9823-7574-4c0d-a3b2-956c7b364756/",
@@ -63,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-12-10T23:15:00Z",
+            "net": "2020-12-11T01:09:00Z",
             "window_end": "2020-12-11T03:30:00Z",
             "window_start": "2020-12-10T22:50:00Z",
             "lsp_name": "United Launch Alliance",
@@ -237,9 +187,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2020-12-17T12:31:00Z",
-            "window_end": "2020-12-17T12:31:00Z",
-            "window_start": "2020-12-17T12:31:00Z",
+            "net": "2020-12-18T12:26:26Z",
+            "window_end": "2020-12-18T12:26:26Z",
+            "window_start": "2020-12-18T12:26:26Z",
             "lsp_name": "Khrunichev State Research and Production Space Center",
             "mission": null,
             "pad": "Cosmodrome Site 1S",
@@ -249,6 +199,55 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+            "infographic": null
+        },
+        {
+            "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
+            "launch_library_id": 2080,
+            "slug": "launcherone-launch-demo-2",
+            "name": "LauncherOne | Launch Demo 2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-19T18:00:00Z",
+            "window_end": "2020-12-19T22:00:00Z",
+            "window_start": "2020-12-19T18:00:00Z",
+            "lsp_name": "Virgin Orbit",
+            "mission": null,
+            "pad": "Mojave Air and Space Port",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "7409ce63-4f65-44d6-804c-5784189bf7b5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5/",
+            "launch_library_id": 1666,
+            "slug": "soyuz-stafregat-cso-2",
+            "name": "Soyuz STA/Fregat | CSO 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-28T15:42:00Z",
+            "window_end": "2020-12-28T15:42:00Z",
+            "window_start": "2020-12-28T15:42:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "CSO 2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Soyuz Launch Complex",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
             "infographic": null
         }
     ]
