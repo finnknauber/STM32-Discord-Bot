@@ -10,8 +10,8 @@
             "slug": "delta-iv-heavy-nrol-44",
             "name": "Delta IV Heavy | NROL-44",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2020-12-11T01:09:00Z",
             "window_end": "2020-12-11T03:30:00Z",
@@ -29,43 +29,18 @@
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_infographic_20200828105447.png"
         },
         {
-            "id": "fd63c683-f3e4-465a-8230-b9ba62744c7d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d/",
-            "launch_library_id": 1416,
-            "slug": "falcon-9-block-5-sirius-sxm-7",
-            "name": "Falcon 9 Block 5 | Sirius SXM-7",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-11T16:19:00Z",
-            "window_end": "2020-12-11T18:19:00Z",
-            "window_start": "2020-12-11T16:19:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SXM-7",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "B1051",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-            "infographic": null
-        },
-        {
             "id": "ffaceda9-2d21-4c79-b854-3414b774d8af",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af/",
             "launch_library_id": null,
             "slug": "astra-rocket-32-flight-2",
             "name": "Astra Rocket 3.2 | Flight 2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2020-12-11T19:00:00Z",
-            "window_end": "2020-12-11T22:00:00Z",
-            "window_start": "2020-12-11T19:00:00Z",
+            "net": "2020-12-12T19:00:00Z",
+            "window_end": "2020-12-12T22:00:00Z",
+            "window_start": "2020-12-12T19:00:00Z",
             "lsp_name": "Astra Space",
             "mission": "Flight 2",
             "mission_type": "Test Flight",
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
+            "infographic": null
+        },
+        {
+            "id": "fd63c683-f3e4-465a-8230-b9ba62744c7d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fd63c683-f3e4-465a-8230-b9ba62744c7d/",
+            "launch_library_id": 1416,
+            "slug": "falcon-9-block-5-sirius-sxm-7",
+            "name": "Falcon 9 Block 5 | Sirius SXM-7",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-13T16:21:00Z",
+            "window_end": "2020-12-13T18:20:00Z",
+            "window_start": "2020-12-13T16:21:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SXM-7",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1051",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201211135247.jpeg",
             "infographic": null
         },
         {
@@ -109,12 +109,12 @@
             "slug": "electron-strix-the-owls-night-begins",
             "name": "Electron | StriX-\u03b1 (The Owl's Night Begins)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-12-14T10:09:30Z",
-            "window_end": "2020-12-14T10:59:00Z",
-            "window_start": "2020-12-14T09:00:00Z",
+            "net": "2020-12-15T10:09:30Z",
+            "window_end": "2020-12-15T10:59:00Z",
+            "window_start": "2020-12-15T09:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "StriX-\u03b1 (The Owl's Night Begins)",
             "mission_type": "Earth Science",
@@ -125,31 +125,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d/",
-            "launch_library_id": 2089,
-            "slug": "pslv-xl-cms-01-gsat-12r",
-            "name": "PSLV-XL | CMS-01 (GSAT-12R)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2020-12-17T00:00:00Z",
-            "window_end": "2020-12-17T00:00:00Z",
-            "window_start": "2020-12-17T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "CMS-01 (GSAT-12R)",
-            "mission_type": "Communications",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
             "infographic": null
         },
         {
@@ -175,6 +150,31 @@
             "launcher": "B1059",
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d/",
+            "launch_library_id": 2089,
+            "slug": "pslv-xl-cms-01-gsat-12r",
+            "name": "PSLV-XL | CMS-01 (GSAT-12R)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-17T10:11:00Z",
+            "window_end": "2020-12-17T10:11:00Z",
+            "window_start": "2020-12-17T10:11:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "CMS-01 (GSAT-12R)",
+            "mission_type": "Communications",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
             "infographic": null
         },
         {
@@ -235,9 +235,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2020-12-28T15:42:00Z",
-            "window_end": "2020-12-28T15:42:00Z",
-            "window_start": "2020-12-28T15:42:00Z",
+            "net": "2020-12-28T16:42:00Z",
+            "window_end": "2020-12-28T16:42:00Z",
+            "window_start": "2020-12-28T16:42:00Z",
             "lsp_name": "Arianespace",
             "mission": "CSO 2",
             "mission_type": "Government/Top Secret",
