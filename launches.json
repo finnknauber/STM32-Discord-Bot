@@ -1,58 +1,8 @@
 {
-    "count": 182,
+    "count": 181,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3277ea9a-9ce3-4e96-9d2a-dfd15155ea61",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3277ea9a-9ce3-4e96-9d2a-dfd15155ea61/",
-            "launch_library_id": 2060,
-            "slug": "electron-strix-the-owls-night-begins",
-            "name": "Electron | StriX-\u03b1 (The Owl's Night Begins)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-15T10:09:27Z",
-            "window_end": "2020-12-15T10:09:27Z",
-            "window_start": "2020-12-15T10:09:27Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "StriX-\u03b1 (The Owl's Night Begins)",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ffaceda9-2d21-4c79-b854-3414b774d8af",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ffaceda9-2d21-4c79-b854-3414b774d8af/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-32-flight-2",
-            "name": "Astra Rocket 3.2 | Flight 2",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2020-12-15T20:55:00Z",
-            "window_end": "2020-12-15T22:00:00Z",
-            "window_start": "2020-12-15T19:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "Flight 2",
-            "mission_type": "Test Flight",
-            "pad": "LP-3B",
-            "location": "Kodiak Launch Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra2520rocket25203.0_image_20200216210731.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_infographic_20201211234220.png"
-        },
         {
             "id": "3d0a75ba-674a-4424-9554-21ef7933421d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3d0a75ba-674a-4424-9554-21ef7933421d/",
@@ -129,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "57c418cc-97ae-4d8e-b806-bb0e0345217f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f/",
+            "launch_library_id": null,
+            "slug": "long-march-8-xjy-7-others",
+            "name": "Long March 8  | XJY-7 & others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-20T04:00:00Z",
+            "window_end": "2020-12-20T07:00:00Z",
+            "window_start": "2020-12-20T04:00:00Z",
+            "lsp_name": "China Aerospace Corporation",
+            "mission": "XJY-7 & others",
+            "mission_type": "Government/Top Secret",
+            "pad": "Wenchang",
+            "location": "Wenchang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg",
+            "infographic": null
+        },
+        {
             "id": "7409ce63-4f65-44d6-804c-5784189bf7b5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5/",
             "launch_library_id": 1666,
@@ -151,30 +126,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520sta_image_20191210133244.jpg",
-            "infographic": null
-        },
-        {
-            "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
-            "launch_library_id": 2080,
-            "slug": "launcherone-launch-demo-2",
-            "name": "LauncherOne | Launch Demo 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2020-12-31T00:00:00Z",
-            "window_end": "2020-12-31T00:00:00Z",
-            "window_start": "2020-12-31T00:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": null,
-            "pad": "Mojave Air and Space Port",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
             "infographic": null
         },
         {
@@ -250,6 +201,55 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "c179a24e-416b-4077-af8a-4670dfdb880a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c179a24e-416b-4077-af8a-4670dfdb880a/",
+            "launch_library_id": 1595,
+            "slug": "soyuz-21a-bars-m-no-3",
+            "name": "Soyuz 2.1a | Bars-M No. 3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2020-12-31T00:00:00Z",
+            "window_end": "2020-12-31T00:00:00Z",
+            "window_start": "2020-12-31T00:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Bars-M No. 3",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "021c99fe-5a1e-4911-a3d5-ba201f7aa9f8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/021c99fe-5a1e-4911-a3d5-ba201f7aa9f8/",
+            "launch_library_id": 2008,
+            "slug": "ariane-5-eca-measat-3d",
+            "name": "Ariane 5 ECA | Measat-3d",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-01T00:00:00Z",
+            "window_end": "2021-01-01T00:00:00Z",
+            "window_start": "2021-01-01T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": null,
+            "pad": "Ariane Launch Area 3",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
             "infographic": null
         }
     ]
