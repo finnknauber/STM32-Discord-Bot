@@ -10,8 +10,8 @@
             "slug": "pslv-xl-cms-01-gsat-12r",
             "name": "PSLV-XL | CMS-01 (GSAT-12R)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2020-12-17T10:11:00Z",
             "window_end": "2020-12-17T10:11:00Z",
@@ -25,32 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2/",
-            "launch_library_id": 2103,
-            "slug": "falcon-9-block-5-nrol-108",
-            "name": "Falcon 9 Block 5 | NROL-108",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2020-12-17T14:00:00Z",
-            "window_end": "2020-12-17T17:00:00Z",
-            "window_start": "2020-12-17T14:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "NROL-108",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "B1059",
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pslv-xl252025_image_20201217073636.jpeg",
             "infographic": null
         },
         {
@@ -79,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2/",
+            "launch_library_id": 2103,
+            "slug": "falcon-9-block-5-nrol-108",
+            "name": "Falcon 9 Block 5 | NROL-108",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2020-12-18T14:00:00Z",
+            "window_end": "2020-12-18T17:00:00Z",
+            "window_start": "2020-12-18T14:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "NROL-108",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1059",
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20201217162942.png"
+        },
+        {
             "id": "57c418cc-97ae-4d8e-b806-bb0e0345217f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f/",
             "launch_library_id": null,
@@ -99,7 +99,7 @@
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "LEO",
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20201216110501.jpeg",
             "infographic": null
         },
