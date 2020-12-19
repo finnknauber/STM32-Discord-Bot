@@ -1,33 +1,8 @@
 {
-    "count": 180,
+    "count": 178,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "294e456a-fccc-4af1-a75e-990f8bb9ffba",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/294e456a-fccc-4af1-a75e-990f8bb9ffba/",
-            "launch_library_id": 1944,
-            "slug": "soyuz-21bfregat-m-oneweb-4",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 4",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-18T12:26:26Z",
-            "window_end": "2020-12-18T12:26:26Z",
-            "window_start": "2020-12-18T12:26:26Z",
-            "lsp_name": "Arianespace",
-            "mission": "OneWeb 4",
-            "mission_type": "Communications",
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
-        },
         {
             "id": "528b72ff-e47e-46a3-b7ad-23b2ffcec2f2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/528b72ff-e47e-46a3-b7ad-23b2ffcec2f2/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-nrol-108",
             "name": "Falcon 9 Block 5 | NROL-108",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2020-12-19T14:00:00Z",
             "window_end": "2020-12-19T17:00:00Z",
@@ -47,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1059",
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20201217060406.jpeg",
@@ -60,12 +35,12 @@
             "slug": "long-march-8-xjy-7-others",
             "name": "Long March 8  | XJY-7 & others",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-12-20T04:00:00Z",
-            "window_end": "2020-12-20T07:00:00Z",
-            "window_start": "2020-12-20T04:00:00Z",
+            "net": "2020-12-20T04:29:00Z",
+            "window_end": "2020-12-20T05:03:00Z",
+            "window_start": "2020-12-20T04:29:00Z",
             "lsp_name": "China Aerospace Corporation",
             "mission": "XJY-7 & others",
             "mission_type": "Government/Top Secret",
@@ -154,78 +129,6 @@
             "infographic": null
         },
         {
-            "id": "021c99fe-5a1e-4911-a3d5-ba201f7aa9f8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/021c99fe-5a1e-4911-a3d5-ba201f7aa9f8/",
-            "launch_library_id": 2008,
-            "slug": "ariane-5-eca-measat-3d",
-            "name": "Ariane 5 ECA | Measat-3d",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-01T00:00:00Z",
-            "window_end": "2021-01-01T00:00:00Z",
-            "window_start": "2021-01-01T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": null,
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0914dabd-ac92-444b-bf9f-7a6b08bb06e1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0914dabd-ac92-444b-bf9f-7a6b08bb06e1/",
-            "launch_library_id": 1928,
-            "slug": "launcherone-ignis-others",
-            "name": "LauncherOne | Ignis & others",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-01T00:00:00Z",
-            "window_end": "2021-01-01T00:00:00Z",
-            "window_start": "2021-01-01T00:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": null,
-            "pad": "Guam International Airport",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0f72968a-773c-4f73-bc34-5fe40e6affc3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0f72968a-773c-4f73-bc34-5fe40e6affc3/",
-            "launch_library_id": 1877,
-            "slug": "soyuz-21afregat-m-cas500-2-rideshare",
-            "name": "Soyuz 2.1a/Fregat-M | CAS500-2 & rideshare",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-01T00:00:00Z",
-            "window_end": "2021-01-01T00:00:00Z",
-            "window_start": "2021-01-01T00:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": null,
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-            "infographic": null
-        },
-        {
             "id": "0f770177-f502-465b-9ea5-d7a053ec903c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0f770177-f502-465b-9ea5-d7a053ec903c/",
             "launch_library_id": 1613,
@@ -247,6 +150,102 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara2520a5_image_20190630234836.jpg",
+            "infographic": null
+        },
+        {
+            "id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1/",
+            "launch_library_id": 1413,
+            "slug": "falcon-9-block-5-turksat-5b",
+            "name": "Falcon 9 Block 5 | T\u00fcrksat 5B",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-01T00:00:00Z",
+            "window_end": "2021-01-01T00:00:00Z",
+            "window_start": "2021-01-01T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Unknown Location",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1b9bed2f-7e00-4d95-b5d1-7b71c36a4ab1/",
+            "launch_library_id": 1364,
+            "slug": "soyuz-stbfregat-metop-sg-a1",
+            "name": "Soyuz STB/Fregat | METOP-SG A1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-01T00:00:00Z",
+            "window_end": "2023-12-30T00:00:00Z",
+            "window_start": "2021-01-01T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": null,
+            "pad": "Soyuz Launch Complex",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1c9140f6-b771-4312-882b-950ff427f36a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c9140f6-b771-4312-882b-950ff427f36a/",
+            "launch_library_id": 1887,
+            "slug": "launcherone-stp-27vp",
+            "name": "LauncherOne | STP-27VP",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-01T00:00:00Z",
+            "window_end": "2021-01-01T00:00:00Z",
+            "window_start": "2021-01-01T00:00:00Z",
+            "lsp_name": "Virgin Orbit",
+            "mission": null,
+            "pad": "Andersen Air Force Base",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "220e6d9f-33dc-4533-8a48-535ba4c559e2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/220e6d9f-33dc-4533-8a48-535ba4c559e2/",
+            "launch_library_id": 2030,
+            "slug": "gslv-idrss-2",
+            "name": "GSLV | IDRSS-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-01T00:00:00Z",
+            "window_end": "2021-01-01T00:00:00Z",
+            "window_start": "2021-01-01T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": null,
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv_image_20190604000621.jpg",
             "infographic": null
         }
     ]
