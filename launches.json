@@ -10,12 +10,12 @@
             "slug": "long-march-8-xjy-7-others",
             "name": "Long March 8  | XJY-7 & others",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-12-22T04:29:00Z",
+            "net": "2020-12-22T04:40:00Z",
             "window_end": "2020-12-22T05:03:00Z",
-            "window_start": "2020-12-22T04:29:00Z",
+            "window_start": "2020-12-22T04:39:00Z",
             "lsp_name": "China Aerospace Corporation",
             "mission": "XJY-7 & others",
             "mission_type": "Government/Top Secret",
