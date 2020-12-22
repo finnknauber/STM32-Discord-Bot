@@ -5,18 +5,18 @@
     "results": [
         {
             "id": "57c418cc-97ae-4d8e-b806-bb0e0345217f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/57c418cc-97ae-4d8e-b806-bb0e0345217f/",
             "launch_library_id": null,
             "slug": "long-march-8-xjy-7-others",
             "name": "Long March 8  | XJY-7 & others",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2020-12-22T04:40:00Z",
             "window_end": "2020-12-22T05:03:00Z",
             "window_start": "2020-12-22T04:39:00Z",
-            "lsp_name": "China Aerospace Corporation",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "XJY-7 & others",
             "mission_type": "Government/Top Secret",
             "pad": "Wenchang",
@@ -30,17 +30,17 @@
         },
         {
             "id": "7409ce63-4f65-44d6-804c-5784189bf7b5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5/",
             "launch_library_id": 1666,
             "slug": "soyuz-stafregat-cso-2",
             "name": "Soyuz STA/Fregat | CSO 2",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2020-12-28T16:42:00Z",
-            "window_end": "2020-12-28T16:42:00Z",
-            "window_start": "2020-12-28T16:42:00Z",
+            "net": "2020-12-28T16:42:07Z",
+            "window_end": "2020-12-28T16:42:07Z",
+            "window_start": "2020-12-28T16:42:07Z",
             "lsp_name": "Arianespace",
             "mission": "CSO 2",
             "mission_type": "Government/Top Secret",
@@ -55,7 +55,7 @@
         },
         {
             "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f/",
             "launch_library_id": 2098,
             "slug": "kuaizhou-1a-jilin-1-02d",
             "name": "Kuaizhou-1A | Jilin-1-02D",
@@ -80,7 +80,7 @@
         },
         {
             "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
             "launch_library_id": 2099,
             "slug": "kuaizhou-1a-jilin-1-02f",
             "name": "Kuaizhou-1A | Jilin-1-02F",
@@ -105,7 +105,7 @@
         },
         {
             "id": "d5d607b7-05ed-4142-8703-14b553c195e0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0/",
             "launch_library_id": 1412,
             "slug": "falcon-9-block-5-turksat-5a",
             "name": "Falcon 9 Block 5 | T\u00fcrksat 5A",
@@ -117,19 +117,20 @@
             "window_end": "2021-01-05T05:29:00Z",
             "window_start": "2021-01-05T01:27:00Z",
             "lsp_name": "SpaceX",
-            "mission": null,
+            "mission": "T\u00fcrksat 5A",
+            "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1060",
+            "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
         },
         {
             "id": "f213a5df-579a-4682-8143-df228e463049",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f213a5df-579a-4682-8143-df228e463049/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049/",
             "launch_library_id": 1965,
             "slug": "falcon-9-block-5-dedicated-sso-rideshare-mission-1",
             "name": "Falcon 9 Block 5 | Dedicated SSO Rideshare Mission 1",
@@ -153,7 +154,7 @@
         },
         {
             "id": "120c53d4-d3a1-42fe-b2a5-a63e3b11d72b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/120c53d4-d3a1-42fe-b2a5-a63e3b11d72b/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/120c53d4-d3a1-42fe-b2a5-a63e3b11d72b/",
             "launch_library_id": 1640,
             "slug": "electron-stp-27rm",
             "name": "Electron | STP-27RM",
@@ -178,7 +179,7 @@
         },
         {
             "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
             "launch_library_id": 2080,
             "slug": "launcherone-launch-demo-2",
             "name": "LauncherOne | Launch Demo 2",
@@ -203,7 +204,7 @@
         },
         {
             "id": "504ba71a-bf09-48f1-9346-48c3d79e580b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/504ba71a-bf09-48f1-9346-48c3d79e580b/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/504ba71a-bf09-48f1-9346-48c3d79e580b/",
             "launch_library_id": null,
             "slug": "momo-flight-7",
             "name": "MOMO | Flight 7",
@@ -228,7 +229,7 @@
         },
         {
             "id": "54542f3a-1a28-430b-a416-03f58e1a88d2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/54542f3a-1a28-430b-a416-03f58e1a88d2/",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/54542f3a-1a28-430b-a416-03f58e1a88d2/",
             "launch_library_id": 1357,
             "slug": "long-march-3b-fengyun-4b",
             "name": "Long March 3B | Fengyun-4B",
