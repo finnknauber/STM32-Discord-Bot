@@ -7,13 +7,13 @@
             "id": "9612be5b-2f6d-424b-b622-6c1baea94029",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029/",
             "launch_library_id": null,
-            "slug": "long-march-4c-unknown",
-            "name": "Long March 4C | Unknown",
+            "slug": "long-march-4c-yaogan-33r",
+            "name": "Long March 4C | Yaogan-33(R)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2020-12-27T15:40:00Z",
+            "net": "2020-12-27T15:44:00Z",
             "window_end": "2020-12-27T15:55:00Z",
             "window_start": "2020-12-27T15:38:00Z",
             "lsp_name": "China Aerospace Corporation",
