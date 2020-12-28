@@ -1,32 +1,8 @@
 {
-    "count": 177,
+    "count": 176,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "9612be5b-2f6d-424b-b622-6c1baea94029",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/9612be5b-2f6d-424b-b622-6c1baea94029/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-yaogan-33r",
-            "name": "Long March 4C | Yaogan-33(R)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2020-12-27T15:44:00Z",
-            "window_end": "2020-12-27T15:55:00Z",
-            "window_start": "2020-12-27T15:38:00Z",
-            "lsp_name": "China Aerospace Corporation",
-            "mission": null,
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null
-        },
         {
             "id": "7409ce63-4f65-44d6-804c-5784189bf7b5",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5/",
@@ -37,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2020-12-28T16:42:07Z",
-            "window_end": "2020-12-28T16:42:07Z",
-            "window_start": "2020-12-28T16:42:07Z",
+            "net": "2020-12-29T16:42:07Z",
+            "window_end": "2020-12-29T16:42:07Z",
+            "window_start": "2020-12-29T16:42:07Z",
             "lsp_name": "Arianespace",
             "mission": "CSO 2",
             "mission_type": "Government/Top Secret",
@@ -81,8 +57,8 @@
             "id": "f213a5df-579a-4682-8143-df228e463049",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049/",
             "launch_library_id": 1965,
-            "slug": "falcon-9-block-5-dedicated-sso-rideshare-mission-1",
-            "name": "Falcon 9 Block 5 | Dedicated SSO Rideshare Mission 1",
+            "slug": "falcon-9-block-5-transporter-1-dedicated-sso-rides",
+            "name": "Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -91,13 +67,14 @@
             "window_end": "2021-01-14T00:00:00Z",
             "window_start": "2021-01-14T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": null,
+            "mission": "Transporter 1 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
         },
@@ -248,6 +225,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
+            "launch_library_id": 2099,
+            "slug": "kuaizhou-1a-jilin-1-02f",
+            "name": "Kuaizhou-1A | Jilin-1-02F",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-31T00:00:00Z",
+            "window_end": "2021-01-31T00:00:00Z",
+            "window_start": "2021-01-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02F",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         }
     ]
