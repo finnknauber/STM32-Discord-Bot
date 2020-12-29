@@ -8,16 +8,16 @@
             "url": "https://ll.thespacedevs.com/2.1.0/launch/7409ce63-4f65-44d6-804c-5784189bf7b5/",
             "launch_library_id": 1666,
             "slug": "soyuz-stafregat-cso-2",
-            "name": "Soyuz STA/Fregat | CSO 2",
+            "name": "Soyuz STA/Fregat | CSO-2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2020-12-29T16:42:07Z",
             "window_end": "2020-12-29T16:42:07Z",
             "window_start": "2020-12-29T16:42:07Z",
             "lsp_name": "Arianespace",
-            "mission": "CSO 2",
+            "mission": "CSO-2",
             "mission_type": "Government/Top Secret",
             "pad": "Soyuz Launch Complex",
             "location": "Kourou, French Guiana",
