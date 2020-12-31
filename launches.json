@@ -29,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
+            "launch_library_id": 2080,
+            "slug": "launcherone-launch-demo-2",
+            "name": "LauncherOne | Launch Demo 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-10T18:00:00Z",
+            "window_end": "2021-01-10T22:00:00Z",
+            "window_start": "2021-01-10T18:00:00Z",
+            "lsp_name": "Virgin Orbit",
+            "mission": "Launch Demo 2 (VCLS ELaNa XX)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Mojave Air and Space Port",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "infographic": null
+        },
+        {
             "id": "f213a5df-579a-4682-8143-df228e463049",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049/",
             "launch_library_id": 1965,
@@ -51,31 +76,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
-            "launch_library_id": 2080,
-            "slug": "launcherone-launch-demo-2",
-            "name": "LauncherOne | Launch Demo 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-15T00:00:00Z",
-            "window_end": "2021-01-15T00:00:00Z",
-            "window_start": "2021-01-15T00:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": "Launch Demo 2 (VCLS ELaNa XX)",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Mojave Air and Space Port",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
             "infographic": null
         },
         {
