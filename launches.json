@@ -4,6 +4,31 @@
     "previous": null,
     "results": [
         {
+            "id": "d5d607b7-05ed-4142-8703-14b553c195e0",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0/",
+            "launch_library_id": 1412,
+            "slug": "falcon-9-block-5-turksat-5a",
+            "name": "Falcon 9 Block 5 | T\u00fcrksat 5A",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-01-07T01:28:00Z",
+            "window_end": "2021-01-07T05:28:00Z",
+            "window_start": "2021-01-07T01:28:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "T\u00fcrksat 5A",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1060",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "infographic": null
+        },
+        {
             "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/20d9789c-dfdf-46b5-a964-de5f031615a5/",
             "launch_library_id": 2080,
@@ -50,31 +75,6 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d5d607b7-05ed-4142-8703-14b553c195e0",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0/",
-            "launch_library_id": 1412,
-            "slug": "falcon-9-block-5-turksat-5a",
-            "name": "Falcon 9 Block 5 | T\u00fcrksat 5A",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-15T01:27:00Z",
-            "window_end": "2021-01-15T05:29:00Z",
-            "window_start": "2021-01-15T01:27:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "T\u00fcrksat 5A",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "B1060",
-            "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
         },
