@@ -25,7 +25,7 @@
             "landing_success": 0,
             "launcher": "B1060",
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210107183433.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210105214353.png"
         },
         {
@@ -44,13 +44,13 @@
             "lsp_name": "SpaceX",
             "mission": "12.5 km Flight",
             "mission_type": "Test Flight",
-            "pad": "Launch Pad A",
+            "pad": "Launch Pad B",
             "location": "SpaceX Space Launch Facility, TX, USA",
             "landing": "LZ",
             "landing_success": 0,
             "launcher": "SN9",
             "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_protot_image_20201211072211.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
             "infographic": null
         },
         {
@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-01-10T18:00:00Z",
-            "window_end": "2021-01-10T22:00:00Z",
-            "window_start": "2021-01-10T18:00:00Z",
+            "net": "2021-01-13T15:00:00Z",
+            "window_end": "2021-01-13T18:00:00Z",
+            "window_start": "2021-01-13T15:00:00Z",
             "lsp_name": "Virgin Orbit",
             "mission": "Launch Demo 2 (VCLS ELaNa XX)",
             "mission_type": "Dedicated Rideshare",
