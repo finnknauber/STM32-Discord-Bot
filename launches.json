@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-turksat-5a",
             "name": "Falcon 9 Block 5 | T\u00fcrksat 5A",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-01-08T01:28:00Z",
+            "net": "2021-01-08T02:15:00Z",
             "window_end": "2021-01-08T05:28:00Z",
             "window_start": "2021-01-08T01:28:00Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210107183433.jpeg",
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-01-08T14:00:00Z",
-            "window_end": "2021-01-08T23:59:00Z",
-            "window_start": "2021-01-08T14:00:00Z",
+            "net": "2021-01-10T14:00:00Z",
+            "window_end": "2021-01-10T23:59:00Z",
+            "window_start": "2021-01-10T14:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "12.5 km Flight",
             "mission_type": "Test Flight",
@@ -85,12 +85,12 @@
             "slug": "falcon-9-block-5-transporter-1-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-01-14T00:00:00Z",
-            "window_end": "2021-01-14T00:00:00Z",
-            "window_start": "2021-01-14T00:00:00Z",
+            "net": "2021-01-14T14:19:00Z",
+            "window_end": "2021-01-14T16:16:00Z",
+            "window_start": "2021-01-14T14:19:00Z",
             "lsp_name": "SpaceX",
             "mission": "Transporter 1 (Dedicated SSO Rideshare)",
             "mission_type": "Dedicated Rideshare",
@@ -108,14 +108,14 @@
             "url": "https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e/",
             "launch_library_id": null,
             "slug": "electron-another-one-leaves-the-crust",
-            "name": "Electron | Another One Leaves the Crust",
+            "name": "Electron | Another One Leaves The Crust",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-01-16T00:00:00Z",
-            "window_end": "2021-01-16T00:00:00Z",
-            "window_start": "2021-01-16T00:00:00Z",
+            "net": "2021-01-16T07:38:00Z",
+            "window_end": "2021-01-16T07:45:00Z",
+            "window_start": "2021-01-16T07:38:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": null,
             "pad": "Rocket Lab Launch Complex 1A",
