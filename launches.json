@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "d5d607b7-05ed-4142-8703-14b553c195e0",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/d5d607b7-05ed-4142-8703-14b553c195e0/",
-            "launch_library_id": 1412,
-            "slug": "falcon-9-block-5-turksat-5a",
-            "name": "Falcon 9 Block 5 | T\u00fcrksat 5A",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-01-08T02:15:00Z",
-            "window_end": "2021-01-08T05:28:00Z",
-            "window_start": "2021-01-08T01:28:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "T\u00fcrksat 5A",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1060",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210107183433.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210105214353.png"
-        },
-        {
             "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6/",
             "launch_library_id": null,
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-01-10T14:00:00Z",
-            "window_end": "2021-01-10T23:59:00Z",
-            "window_start": "2021-01-10T14:00:00Z",
+            "net": "2021-01-12T14:00:00Z",
+            "window_end": "2021-01-12T23:59:00Z",
+            "window_start": "2021-01-12T14:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "12.5 km Flight",
             "mission_type": "Test Flight",
@@ -85,8 +60,8 @@
             "slug": "falcon-9-block-5-transporter-1-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
             "net": "2021-01-14T14:19:00Z",
             "window_end": "2021-01-14T16:16:00Z",
@@ -96,9 +71,9 @@
             "mission_type": "Dedicated Rideshare",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1051",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
@@ -125,6 +100,30 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "74426779-131d-416f-9ff5-dd879e231292",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/74426779-131d-416f-9ff5-dd879e231292/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-16",
+            "name": "Falcon 9 Block 5 | Starlink 16",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-01-17T20:45:00Z",
+            "window_end": "2021-01-17T20:45:00Z",
+            "window_start": "2021-01-17T20:45:00Z",
+            "lsp_name": "SpaceX",
+            "mission": null,
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
         },
         {
