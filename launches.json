@@ -10,10 +10,10 @@
             "slug": "new-shepard-ns-14",
             "name": "New Shepard | NS-14",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-01-14T15:45:00Z",
+            "net": "2021-01-14T17:19:00Z",
             "window_end": "2021-01-17T21:00:00Z",
             "window_start": "2021-01-14T14:45:00Z",
             "lsp_name": "Blue Origin",
@@ -22,36 +22,11 @@
             "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
             "location": "Corn Ranch, USA",
             "landing": "CR",
-            "landing_success": 0,
-            "launcher": "NS-3",
+            "landing_success": 1,
+            "launcher": "NS-4",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/new2520shepard_infographic_20210113162106.png"
-        },
-        {
-            "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6/",
-            "launch_library_id": null,
-            "slug": "starship-sn9-125-km-flight",
-            "name": "Starship SN9 | 12.5 km Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-15T14:00:00Z",
-            "window_end": "2021-01-15T23:59:00Z",
-            "window_start": "2021-01-15T14:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "12.5 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad B",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 0,
-            "launcher": "SN9",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210113221012.png"
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/new2520shepard_infographic_20210114171713.png"
         },
         {
             "id": "68e50165-a929-424a-ab8b-ec7a1ae7465e",
@@ -67,15 +42,16 @@
             "window_end": "2021-01-16T07:45:00Z",
             "window_start": "2021-01-16T07:38:00Z",
             "lsp_name": "Rocket Lab Ltd",
-            "mission": null,
+            "mission": "Another One Leaves The Crust",
+            "mission_type": "Communications",
             "pad": "Rocket Lab Launch Complex 1A",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20210114192915.png"
         },
         {
             "id": "20d9789c-dfdf-46b5-a964-de5f031615a5",
@@ -100,7 +76,7 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/launcherone252_infographic_20210114193003.png"
         },
         {
             "id": "74426779-131d-416f-9ff5-dd879e231292",
@@ -112,9 +88,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-01-17T18:23:00Z",
-            "window_end": "2021-01-17T18:23:00Z",
-            "window_start": "2021-01-17T18:23:00Z",
+            "net": "2021-01-18T13:45:00Z",
+            "window_end": "2021-01-18T13:45:00Z",
+            "window_start": "2021-01-18T13:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 16",
             "mission_type": "Communications",
@@ -125,7 +101,32 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210114224122.png"
+        },
+        {
+            "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6/",
+            "launch_library_id": null,
+            "slug": "starship-sn9-125-km-flight",
+            "name": "Starship SN9 | 12.5 km Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-18T14:00:00Z",
+            "window_end": "2021-01-18T23:59:00Z",
+            "window_start": "2021-01-18T14:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "12.5 km Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad B",
+            "location": "SpaceX Space Launch Facility, TX, USA",
+            "landing": "LZ",
+            "landing_success": 0,
+            "launcher": "SN9",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210114191531.png"
         },
         {
             "id": "f213a5df-579a-4682-8143-df228e463049",
