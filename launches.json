@@ -10,12 +10,12 @@
             "slug": "launcherone-launch-demo-2",
             "name": "LauncherOne | Launch Demo 2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-01-17T15:00:00Z",
-            "window_end": "2021-01-17T18:00:00Z",
-            "window_start": "2021-01-17T15:00:00Z",
+            "net": "2021-01-17T19:38:00Z",
+            "window_end": "2021-01-17T22:00:00Z",
+            "window_start": "2021-01-17T18:00:00Z",
             "lsp_name": "Virgin Orbit",
             "mission": "Launch Demo 2 (VCLS ELaNa XX)",
             "mission_type": "Dedicated Rideshare",
@@ -27,31 +27,6 @@
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/launcherone252_infographic_20210114193003.png"
-        },
-        {
-            "id": "68e50165-a929-424a-ab8b-ec7a1ae7465e",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e/",
-            "launch_library_id": null,
-            "slug": "electron-another-one-leaves-the-crust",
-            "name": "Electron | Another One Leaves The Crust",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-18T07:30:00Z",
-            "window_end": "2021-01-18T07:50:00Z",
-            "window_start": "2021-01-18T07:30:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Another One Leaves The Crust",
-            "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20210114192915.png"
         },
         {
             "id": "74426779-131d-416f-9ff5-dd879e231292",
@@ -76,32 +51,7 @@
             "launcher": "B1051",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210115152725.png"
-        },
-        {
-            "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6/",
-            "launch_library_id": null,
-            "slug": "starship-sn9-10-km-flight",
-            "name": "Starship SN9 | 10 km Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-01-18T14:00:00Z",
-            "window_end": "2021-01-18T23:59:00Z",
-            "window_start": "2021-01-18T14:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "10 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad B",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 0,
-            "launcher": "SN9",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210115063436.png"
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210117184152.png"
         },
         {
             "id": "72c9cbcc-804d-499b-ab03-5fa63028cda7",
@@ -129,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "68e50165-a929-424a-ab8b-ec7a1ae7465e",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/68e50165-a929-424a-ab8b-ec7a1ae7465e/",
+            "launch_library_id": null,
+            "slug": "electron-another-one-leaves-the-crust",
+            "name": "Electron | Another One Leaves The Crust",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-20T07:30:00Z",
+            "window_end": "2021-01-20T07:50:00Z",
+            "window_start": "2021-01-20T07:30:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Another One Leaves The Crust",
+            "mission_type": "Communications",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20210114192915.png"
+        },
+        {
             "id": "f213a5df-579a-4682-8143-df228e463049",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/f213a5df-579a-4682-8143-df228e463049/",
             "launch_library_id": 1965,
@@ -152,6 +127,31 @@
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon25209_image_20190224025007.jpeg",
             "infographic": null
+        },
+        {
+            "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6/",
+            "launch_library_id": null,
+            "slug": "starship-sn9-10-km-flight",
+            "name": "Starship SN9 | 10 km Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-01-22T14:00:00Z",
+            "window_end": "2021-01-22T23:59:00Z",
+            "window_start": "2021-01-22T14:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "10 km Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad B",
+            "location": "SpaceX Space Launch Facility, TX, USA",
+            "landing": "LZ",
+            "landing_success": 0,
+            "launcher": "SN9",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210117073923.png"
         },
         {
             "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
