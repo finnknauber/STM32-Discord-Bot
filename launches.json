@@ -35,12 +35,12 @@
             "slug": "electron-another-one-leaves-the-crust",
             "name": "Electron | Another One Leaves The Crust",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-01-20T06:45:00Z",
+            "net": "2021-01-20T07:26:00Z",
             "window_end": "2021-01-20T08:15:00Z",
-            "window_start": "2021-01-20T06:45:00Z",
+            "window_start": "2021-01-20T06:58:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "Another One Leaves The Crust",
             "mission_type": "Communications",
@@ -76,7 +76,7 @@
             "launcher": "B1051",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210111072734.png",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210119025524.png"
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210120043036.png"
         },
         {
             "id": "f213a5df-579a-4682-8143-df228e463049",
