@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-transporter-1-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 1 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-01-24T15:00:00Z",
             "window_end": "2021-01-24T15:22:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1058",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210122224307.jpeg",
@@ -32,8 +32,8 @@
             "id": "44670393-85da-4504-99f3-e5b95d71cbb6",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/44670393-85da-4504-99f3-e5b95d71cbb6/",
             "launch_library_id": null,
-            "slug": "starship-sn9-10-km-flight",
-            "name": "Starship SN9 | 10 km Flight",
+            "slug": "starship-sn9-125-km-flight",
+            "name": "Starship SN9 | 12.5 km Flight",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -42,7 +42,7 @@
             "window_end": "2021-01-25T23:59:00Z",
             "window_start": "2021-01-25T14:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "10 km Flight",
+            "mission": "12.5 km Flight",
             "mission_type": "Test Flight",
             "pad": "Launch Pad B",
             "location": "SpaceX Space Launch Facility, TX, USA",
@@ -51,7 +51,7 @@
             "launcher": "SN9",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210107083733.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210122053825.png"
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210124205946.png"
         },
         {
             "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
