@@ -1,5 +1,5 @@
 {
-    "count": 177,
+    "count": 178,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,20 +10,20 @@
             "slug": "falcon-9-block-5-starlink-18",
             "name": "Falcon 9 Block 5 | Starlink 18",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-02-04T06:19:00Z",
-            "window_end": "2021-02-04T06:19:00Z",
-            "window_start": "2021-02-04T06:19:00Z",
+            "net": "2021-02-04T06:19:54Z",
+            "window_end": "2021-02-04T06:19:54Z",
+            "window_start": "2021-02-04T06:19:54Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 18",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1059",
+            "landing_success": 1,
+            "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210130064420.png",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210203034428.jpeg"
@@ -32,17 +32,17 @@
             "id": "7b9544ce-4507-4f04-9a77-697c35aa082c",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/7b9544ce-4507-4f04-9a77-697c35aa082c/",
             "launch_library_id": null,
-            "slug": "long-march-3b-tianhui-3",
-            "name": "Long March 3B | Tianhui-3",
+            "slug": "long-march-3b-tjsw-6",
+            "name": "Long March 3B | TJSW-6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-02-04T15:45:00Z",
+            "net": "2021-02-04T15:36:00Z",
             "window_end": "2021-02-04T16:25:00Z",
             "window_start": "2021-02-04T15:29:00Z",
             "lsp_name": "China Aerospace Corporation",
-            "mission": "Tianhui-3",
+            "mission": "TJSW-6",
             "mission_type": "Earth Science",
             "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-02-05T10:14:00Z",
-            "window_end": "2021-02-05T10:14:00Z",
-            "window_start": "2021-02-05T10:14:00Z",
+            "net": "2021-02-07T09:31:00Z",
+            "window_end": "2021-02-07T09:31:00Z",
+            "window_start": "2021-02-07T09:31:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 17",
             "mission_type": "Communications",
