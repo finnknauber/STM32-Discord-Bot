@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-19",
             "name": "Falcon 9 Block 5 | Starlink 19",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-02-11T05:50:00Z",
-            "window_end": "2021-02-11T05:50:00Z",
-            "window_start": "2021-02-11T05:50:00Z",
+            "net": "2021-02-12T05:25:00Z",
+            "window_end": "2021-02-12T05:25:00Z",
+            "window_start": "2021-02-12T05:25:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 19",
             "mission_type": "Communications",
