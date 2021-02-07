@@ -19,8 +19,8 @@
             "lsp_name": "SpaceX",
             "mission": "Starlink 19",
             "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -60,8 +60,8 @@
             "slug": "soyuz-21a-progress-ms-16-77p",
             "name": "Soyuz 2.1a | Progress MS-16 (77P)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-02-15T04:45:00Z",
             "window_end": "2021-02-15T04:45:00Z",
@@ -82,17 +82,17 @@
             "id": "f1a8d62e-709d-4e89-ade9-a8779492c7a9",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/f1a8d62e-709d-4e89-ade9-a8779492c7a9/",
             "launch_library_id": 2044,
-            "slug": "antares-230-cygnus-crs-2-ng-15",
-            "name": "Antares 230+ | Cygnus CRS-2 NG-15",
+            "slug": "antares-230-cygnus-crs-2-ng-15-ss-katherine-johnso",
+            "name": "Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-02-20T17:36:00Z",
             "window_end": "2021-02-20T17:36:00Z",
             "window_start": "2021-02-20T17:36:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "Cygnus CRS-2 NG-15 (Katherine Johnson)",
+            "mission": "Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)",
             "mission_type": "Resupply",
             "pad": "Launch Area 0 A",
             "location": "Wallops Island, Virginia, USA",
