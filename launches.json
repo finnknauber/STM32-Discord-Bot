@@ -29,31 +29,6 @@
             "infographic": null
         },
         {
-            "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-17",
-            "name": "Falcon 9 Block 5 | Starlink 17",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-02-15T00:00:00Z",
-            "window_end": "2021-02-15T00:00:00Z",
-            "window_start": "2021-02-15T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink 17",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "B1049",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210203034450.jpeg"
-        },
-        {
             "id": "19407719-d66c-492d-9288-e5e6ddbadbd6",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6/",
             "launch_library_id": 2026,
@@ -77,6 +52,31 @@
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
+        },
+        {
+            "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-17",
+            "name": "Falcon 9 Block 5 | Starlink 17",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-02-16T06:17:00Z",
+            "window_end": "2021-02-16T06:17:00Z",
+            "window_start": "2021-02-16T06:17:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 17",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1049",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210203034450.jpeg"
         },
         {
             "id": "f1a8d62e-709d-4e89-ade9-a8779492c7a9",
