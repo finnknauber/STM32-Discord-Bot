@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-02-14T04:42:00Z",
-            "window_end": "2021-02-14T04:42:00Z",
-            "window_start": "2021-02-14T04:42:00Z",
+            "net": "2021-02-15T04:21:00Z",
+            "window_end": "2021-02-15T04:21:00Z",
+            "window_start": "2021-02-15T04:21:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 19",
             "mission_type": "Communications",
