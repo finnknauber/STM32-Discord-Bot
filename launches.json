@@ -1,5 +1,5 @@
 {
-    "count": 178,
+    "count": 179,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -21,9 +21,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1059",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png",
             "infographic": null
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-02-15T04:45:00Z",
-            "window_end": "2021-02-15T04:45:00Z",
-            "window_start": "2021-02-15T04:45:00Z",
+            "net": "2021-02-15T04:45:06Z",
+            "window_end": "2021-02-15T04:45:06Z",
+            "window_start": "2021-02-15T04:45:06Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-16",
             "mission_type": "Resupply",
