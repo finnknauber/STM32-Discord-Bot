@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "985f1cc1-82c1-4a89-b2cc-e9dc91829a0e",
-            "url": "https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-19",
-            "name": "Falcon 9 Block 5 | Starlink 19",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-02-15T04:21:00Z",
-            "window_end": "2021-02-15T04:21:00Z",
-            "window_start": "2021-02-15T04:21:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink 19",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1059",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png",
-            "infographic": null
-        },
-        {
             "id": "19407719-d66c-492d-9288-e5e6ddbadbd6",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/19407719-d66c-492d-9288-e5e6ddbadbd6/",
             "launch_library_id": 2026,
             "slug": "soyuz-21a-progress-ms-16-77p",
             "name": "Soyuz 2.1a | Progress MS-16 (77P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-02-15T04:45:06Z",
             "window_end": "2021-02-15T04:45:06Z",
@@ -54,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "985f1cc1-82c1-4a89-b2cc-e9dc91829a0e",
+            "url": "https://ll.thespacedevs.com/2.1.0/launch/985f1cc1-82c1-4a89-b2cc-e9dc91829a0e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-19",
+            "name": "Falcon 9 Block 5 | Starlink 19",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-02-16T03:59:00Z",
+            "window_end": "2021-02-16T03:59:00Z",
+            "window_start": "2021-02-16T03:59:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 19",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1059",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210202223956.png",
+            "infographic": null
+        },
+        {
             "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
             "url": "https://ll.thespacedevs.com/2.1.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269/",
             "launch_library_id": null,
@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-02-16T06:17:00Z",
-            "window_end": "2021-02-16T06:17:00Z",
-            "window_start": "2021-02-16T06:17:00Z",
+            "net": "2021-02-17T05:55:00Z",
+            "window_end": "2021-02-17T05:55:00Z",
+            "window_start": "2021-02-17T05:55:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 17",
             "mission_type": "Communications",
