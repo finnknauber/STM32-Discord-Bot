@@ -10,11 +10,11 @@
             "slug": "antares-230-cygnus-crs-2-ng-15-ss-katherine-johnso",
             "name": "Antares 230+ | Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-02-20T17:36:00Z",
-            "window_end": "2021-02-20T17:36:00Z",
+            "window_end": "2021-02-20T17:41:00Z",
             "window_start": "2021-02-20T17:36:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
             "mission": "Cygnus CRS-2 NG-15 (S.S. Katherine Johnson)",
@@ -27,31 +27,6 @@
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/antares2520230_infographic_20210219161454.jpeg"
-        },
-        {
-            "id": "134eb787-244e-4131-8b03-c9fbd0a11efc",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-20",
-            "name": "Falcon 9 Block 5 | Starlink 20",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-02-25T00:00:00Z",
-            "window_end": "2021-02-25T00:00:00Z",
-            "window_start": "2021-02-25T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink 20",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png",
-            "infographic": null
         },
         {
             "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
@@ -149,6 +124,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "134eb787-244e-4131-8b03-c9fbd0a11efc",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/134eb787-244e-4131-8b03-c9fbd0a11efc/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-20",
+            "name": "Falcon 9 Block 5 | Starlink 20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-03-08T00:00:00Z",
+            "window_end": "2021-03-08T00:00:00Z",
+            "window_start": "2021-03-08T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210218213404.png",
             "infographic": null
         },
         {
