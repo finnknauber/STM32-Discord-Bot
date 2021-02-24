@@ -10,10 +10,10 @@
             "slug": "long-march-4c-yaogan-31-03",
             "name": "Long March 4C | Yaogan-31-03",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-02-24T02:20:00Z",
+            "net": "2021-02-24T02:22:00Z",
             "window_end": "2021-02-24T02:40:00Z",
             "window_start": "2021-02-24T02:13:00Z",
             "lsp_name": "China Aerospace Corporation",
@@ -25,6 +25,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "c0ac9a61-5aac-40d7-9919-3c29ea7d4172",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/c0ac9a61-5aac-40d7-9919-3c29ea7d4172/",
+            "launch_library_id": null,
+            "slug": "starship-sn10-10-km-flight",
+            "name": "Starship SN10 | 10 km Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-02-26T18:00:00Z",
+            "window_end": "2021-02-27T00:30:00Z",
+            "window_start": "2021-02-26T15:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "10 km Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad A",
+            "location": "SpaceX Space Launch Facility, TX, USA",
+            "landing": "LZ",
+            "landing_success": 0,
+            "launcher": "SN10",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210217140457.jpeg",
             "infographic": null
         },
         {
@@ -53,39 +78,14 @@
             "infographic": null
         },
         {
-            "id": "c0ac9a61-5aac-40d7-9919-3c29ea7d4172",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c0ac9a61-5aac-40d7-9919-3c29ea7d4172/",
-            "launch_library_id": null,
-            "slug": "starship-sn10-10-km-flight",
-            "name": "Starship SN10 | 10 km Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-02-28T15:00:00Z",
-            "window_end": "2021-02-28T23:59:00Z",
-            "window_start": "2021-02-28T13:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "10 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad A",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 0,
-            "launcher": "SN10",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210217140457.jpeg",
-            "infographic": null
-        },
-        {
             "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-17",
             "name": "Falcon 9 Block 5 | Starlink 17",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-03-01T01:37:00Z",
             "window_end": "2021-03-01T01:37:00Z",
@@ -95,37 +95,12 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
+            "landing": "OCISLY",
             "landing_success": 0,
             "launcher": "B1049",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210203034450.jpeg"
-        },
-        {
-            "id": "be2342f2-5ae2-4a91-a64f-681106da2aab",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/be2342f2-5ae2-4a91-a64f-681106da2aab/",
-            "launch_library_id": 1344,
-            "slug": "ariane-5-eca-star-one-d2-eutelsat-quantum",
-            "name": "Ariane 5 ECA | Star One D2 & Eutelsat Quantum",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-03-04T00:00:00Z",
-            "window_end": "2021-03-04T00:00:00Z",
-            "window_start": "2021-03-04T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Star One D2 & Eutelsat Quantum",
-            "mission_type": "Communications",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
-            "infographic": null
         },
         {
             "id": "134eb787-244e-4131-8b03-c9fbd0a11efc",
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/sslv_image_20190830213312.jpg",
+            "infographic": null
+        },
+        {
+            "id": "54c50fe1-bbd1-4515-9630-37612383c3c1",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/54c50fe1-bbd1-4515-9630-37612383c3c1/",
+            "launch_library_id": 1983,
+            "slug": "soyuz-21afregat-m-cas500-1-rideshare",
+            "name": "Soyuz 2.1a/Fregat-M | CAS500-1 & rideshare",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-03-20T00:00:00Z",
+            "window_end": "2021-03-20T00:00:00Z",
+            "window_start": "2021-03-20T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "CAS500-1 & rideshare",
+            "mission_type": "Earth Science",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
             "infographic": null
         }
     ]
