@@ -1,32 +1,8 @@
 {
-    "count": 179,
+    "count": 178,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "80e1d8bd-bae1-4db8-a509-a7c8b26435c5",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/80e1d8bd-bae1-4db8-a509-a7c8b26435c5/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-yaogan-31-03",
-            "name": "Long March 4C | Yaogan-31-03",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-02-24T02:22:00Z",
-            "window_end": "2021-02-24T02:40:00Z",
-            "window_start": "2021-02-24T02:13:00Z",
-            "lsp_name": "China Aerospace Corporation",
-            "mission": null,
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null
-        },
         {
             "id": "c0ac9a61-5aac-40d7-9919-3c29ea7d4172",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/c0ac9a61-5aac-40d7-9919-3c29ea7d4172/",
@@ -75,6 +51,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b7e42e9f-7c6c-4a7b-ade3-e19df59209ae",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/b7e42e9f-7c6c-4a7b-ade3-e19df59209ae/",
+            "launch_library_id": 1326,
+            "slug": "soyuz-21bfregat-m-arktika-m-no1",
+            "name": "Soyuz 2.1b/Fregat-M | Arktika-M No.1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-02-28T07:00:00Z",
+            "window_end": "2021-02-28T09:00:00Z",
+            "window_start": "2021-02-28T07:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Arktika-M No.1",
+            "mission_type": "Earth Science",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Elliptical",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
             "infographic": null
         },
         {
