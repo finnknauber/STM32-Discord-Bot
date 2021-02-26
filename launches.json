@@ -4,36 +4,11 @@
     "previous": null,
     "results": [
         {
-            "id": "c0ac9a61-5aac-40d7-9919-3c29ea7d4172",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c0ac9a61-5aac-40d7-9919-3c29ea7d4172/",
-            "launch_library_id": null,
-            "slug": "starship-sn10-10-km-flight",
-            "name": "Starship SN10 | 10 km Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-02-26T18:00:00Z",
-            "window_end": "2021-02-27T00:30:00Z",
-            "window_start": "2021-02-26T15:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "10 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad A",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 0,
-            "launcher": "SN10",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210217140457.jpeg",
-            "infographic": null
-        },
-        {
             "id": "2a787f32-69db-4f78-b69e-df26e5c2ab88",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88/",
             "launch_library_id": 1662,
-            "slug": "pslv-dl-amazonia-1-anand-sdsat",
-            "name": "PSLV-DL | Amazonia 1, Anand & SDsat",
+            "slug": "pslv-dl-amazonia-1-18-others",
+            "name": "PSLV-DL | Amazonia 1 & 18 others",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -42,7 +17,7 @@
             "window_end": "2021-02-28T04:53:00Z",
             "window_start": "2021-02-28T04:53:00Z",
             "lsp_name": "Indian Space Research Organization",
-            "mission": "Amazonia 1, Anand & SDsat",
+            "mission": "Amazonia & 18 others",
             "mission_type": "Earth Science",
             "pad": "Satish Dhawan Space Centre First Launch Pad",
             "location": "Sriharikota, Republic of India",
@@ -60,12 +35,12 @@
             "slug": "soyuz-21bfregat-m-arktika-m-no1",
             "name": "Soyuz 2.1b/Fregat-M | Arktika-M No.1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-02-28T07:00:00Z",
-            "window_end": "2021-02-28T09:00:00Z",
-            "window_start": "2021-02-28T07:00:00Z",
+            "net": "2021-02-28T06:55:00Z",
+            "window_end": "2021-02-28T06:55:00Z",
+            "window_start": "2021-02-28T06:55:00Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Arktika-M No.1",
             "mission_type": "Earth Science",
@@ -102,6 +77,31 @@
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210121062346.png",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210203034450.jpeg"
+        },
+        {
+            "id": "c0ac9a61-5aac-40d7-9919-3c29ea7d4172",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/c0ac9a61-5aac-40d7-9919-3c29ea7d4172/",
+            "launch_library_id": null,
+            "slug": "starship-sn10-10-km-flight",
+            "name": "Starship SN10 | 10 km Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-03-01T18:00:00Z",
+            "window_end": "2021-03-02T00:30:00Z",
+            "window_start": "2021-03-01T15:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "10 km Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad A",
+            "location": "SpaceX Space Launch Facility, TX, USA",
+            "landing": "LZ",
+            "landing_success": 0,
+            "launcher": "SN10",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210217140457.jpeg",
+            "infographic": null
         },
         {
             "id": "134eb787-244e-4131-8b03-c9fbd0a11efc",
