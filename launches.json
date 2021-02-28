@@ -10,12 +10,12 @@
             "slug": "pslv-dl-amazonia-1-18-others",
             "name": "PSLV-DL | Amazonia 1 & 18 others",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-02-28T04:53:00Z",
-            "window_end": "2021-02-28T04:53:00Z",
-            "window_start": "2021-02-28T04:53:00Z",
+            "net": "2021-02-28T04:54:00Z",
+            "window_end": "2021-02-28T04:54:00Z",
+            "window_start": "2021-02-28T04:54:00Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "Amazonia & 18 others",
             "mission_type": "Earth Science",
@@ -35,8 +35,8 @@
             "slug": "soyuz-21bfregat-m-arktika-m-no1",
             "name": "Soyuz 2.1b/Fregat-M | Arktika-M No.1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-02-28T06:55:00Z",
             "window_end": "2021-02-28T06:55:00Z",
@@ -89,7 +89,7 @@
                 "name": "TBD"
             },
             "net": "2021-03-01T18:00:00Z",
-            "window_end": "2021-03-02T00:30:00Z",
+            "window_end": "2021-03-02T00:00:00Z",
             "window_start": "2021-03-01T15:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "10 km Flight",
