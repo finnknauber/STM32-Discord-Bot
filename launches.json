@@ -1,58 +1,8 @@
 {
-    "count": 181,
+    "count": 179,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "2a787f32-69db-4f78-b69e-df26e5c2ab88",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2a787f32-69db-4f78-b69e-df26e5c2ab88/",
-            "launch_library_id": 1662,
-            "slug": "pslv-dl-amazonia-1-18-others",
-            "name": "PSLV-DL | Amazonia 1 & 18 others",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-02-28T04:54:00Z",
-            "window_end": "2021-02-28T04:54:00Z",
-            "window_start": "2021-02-28T04:54:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "Amazonia & 18 others",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b7e42e9f-7c6c-4a7b-ade3-e19df59209ae",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/b7e42e9f-7c6c-4a7b-ade3-e19df59209ae/",
-            "launch_library_id": 1326,
-            "slug": "soyuz-21bfregat-m-arktika-m-no1",
-            "name": "Soyuz 2.1b/Fregat-M | Arktika-M No.1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-02-28T06:55:00Z",
-            "window_end": "2021-02-28T06:55:00Z",
-            "window_start": "2021-02-28T06:55:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Arktika-M No.1",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Elliptical",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
-        },
         {
             "id": "dfd4f0e0-0ab4-494d-bd88-1b93b934b269",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/dfd4f0e0-0ab4-494d-bd88-1b93b934b269/",
@@ -63,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-03-01T01:37:00Z",
-            "window_end": "2021-03-01T01:37:00Z",
-            "window_start": "2021-03-01T01:37:00Z",
+            "net": "2021-03-03T00:53:00Z",
+            "window_end": "2021-03-03T00:53:00Z",
+            "window_start": "2021-03-03T00:53:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 17",
             "mission_type": "Communications",
@@ -88,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-03-01T18:00:00Z",
-            "window_end": "2021-03-02T00:00:00Z",
-            "window_start": "2021-03-01T15:00:00Z",
+            "net": "2021-03-03T18:00:00Z",
+            "window_end": "2021-03-04T00:00:00Z",
+            "window_start": "2021-03-03T15:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "10 km Flight",
             "mission_type": "Test Flight",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
+            "infographic": null
+        },
+        {
+            "id": "dff2b6dc-933a-42b4-8d74-db543ada94bb",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/dff2b6dc-933a-42b4-8d74-db543ada94bb/",
+            "launch_library_id": null,
+            "slug": "electron-they-go-up-so-fast",
+            "name": "Electron | They Go Up So Fast",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-03-20T23:00:00Z",
+            "window_end": "2021-03-20T23:00:00Z",
+            "window_start": "2021-03-20T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "They Go Up So Fast",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6bd4d3d9-d76d-4348-99d3-fad749b6b863",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863/",
+            "launch_library_id": 1945,
+            "slug": "soyuz-21bfregat-m-oneweb-5",
+            "name": "Soyuz 2.1b/Fregat-M | OneWeb 5",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-03-25T00:00:00Z",
+            "window_end": "2021-03-25T00:00:00Z",
+            "window_start": "2021-03-25T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "OneWeb 5",
+            "mission_type": "Communications",
+            "pad": "Cosmodrome Site 1S",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
             "infographic": null
         }
     ]
