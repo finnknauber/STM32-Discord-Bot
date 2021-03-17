@@ -60,12 +60,12 @@
             "slug": "falcon-9-block-5-starlink-22",
             "name": "Falcon 9 Block 5 | Starlink 22",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-03-21T04:37:00Z",
-            "window_end": "2021-03-21T04:37:00Z",
-            "window_start": "2021-03-21T04:37:00Z",
+            "net": "2021-03-22T22:19:00Z",
+            "window_end": "2021-03-22T22:19:00Z",
+            "window_start": "2021-03-22T22:19:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 22",
             "mission_type": "Communications",
