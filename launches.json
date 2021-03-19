@@ -29,31 +29,6 @@
             "infographic": null
         },
         {
-            "id": "fc7a010b-0e88-43cb-8953-9a969c475dd6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/fc7a010b-0e88-43cb-8953-9a969c475dd6/",
-            "launch_library_id": null,
-            "slug": "starship-sn11-10-km-flight",
-            "name": "Starship SN11 | 10 km Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-03-22T14:00:00Z",
-            "window_end": "2021-03-23T00:30:00Z",
-            "window_start": "2021-03-22T11:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "10 km Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad B",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "LZ",
-            "landing_success": 0,
-            "launcher": "SN11",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210314064221.jpeg",
-            "infographic": null
-        },
-        {
             "id": "ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de/",
             "launch_library_id": null,
@@ -104,18 +79,43 @@
             "infographic": null
         },
         {
+            "id": "fc7a010b-0e88-43cb-8953-9a969c475dd6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/fc7a010b-0e88-43cb-8953-9a969c475dd6/",
+            "launch_library_id": null,
+            "slug": "starship-sn11-10-km-flight",
+            "name": "Starship SN11 | 10 km Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-03-24T15:00:00Z",
+            "window_end": "2021-03-24T20:00:00Z",
+            "window_start": "2021-03-24T12:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "10 km Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad B",
+            "location": "SpaceX Space Launch Facility, TX, USA",
+            "landing": "LZ",
+            "landing_success": 0,
+            "launcher": "SN11",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210314064221.jpeg",
+            "infographic": null
+        },
+        {
             "id": "6bd4d3d9-d76d-4348-99d3-fad749b6b863",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/6bd4d3d9-d76d-4348-99d3-fad749b6b863/",
             "launch_library_id": 1945,
             "slug": "soyuz-21bfregat-m-oneweb-5",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 5",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-03-25T00:00:00Z",
-            "window_end": "2021-03-25T00:00:00Z",
-            "window_start": "2021-03-25T00:00:00Z",
+            "net": "2021-03-25T02:47:00Z",
+            "window_end": "2021-03-25T02:47:00Z",
+            "window_start": "2021-03-25T02:47:00Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 5",
             "mission_type": "Communications",
