@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-03-20T06:07:00Z",
-            "window_end": "2021-03-20T06:07:00Z",
-            "window_start": "2021-03-20T06:07:00Z",
+            "net": "2021-03-22T06:07:00Z",
+            "window_end": "2021-03-22T06:07:00Z",
+            "window_start": "2021-03-22T06:07:00Z",
             "lsp_name": "GK Launch Services",
             "mission": "CAS500-1 & rideshare",
             "mission_type": "Earth Science",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-            "infographic": null
-        },
-        {
-            "id": "ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-22",
-            "name": "Falcon 9 Block 5 | Starlink 22",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-03-22T22:19:00Z",
-            "window_end": "2021-03-22T22:19:00Z",
-            "window_start": "2021-03-22T22:19:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink 22",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "B1060",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png",
             "infographic": null
         },
         {
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ec03fe36-fe2a-4e43-8e10-d07d5349f1de",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/ec03fe36-fe2a-4e43-8e10-d07d5349f1de/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-22",
+            "name": "Falcon 9 Block 5 | Starlink 22",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-03-24T08:58:00Z",
+            "window_end": "2021-03-24T08:58:00Z",
+            "window_start": "2021-03-24T08:58:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 22",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1060",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png",
             "infographic": null
         },
         {
