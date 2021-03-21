@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-03-22T06:07:00Z",
-            "window_end": "2021-03-22T06:07:00Z",
-            "window_start": "2021-03-22T06:07:00Z",
+            "net": "2021-03-22T06:07:12Z",
+            "window_end": "2021-03-22T06:07:12Z",
+            "window_start": "2021-03-22T06:07:12Z",
             "lsp_name": "GK Launch Services",
             "mission": "CAS500-1 & rideshare",
             "mission_type": "Earth Science",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1a_image_20210321183012.jpg",
             "infographic": null
         },
         {
@@ -35,12 +35,12 @@
             "slug": "electron-they-go-up-so-fast",
             "name": "Electron | They Go Up So Fast",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-03-22T22:30:00Z",
-            "window_end": "2021-03-22T22:30:00Z",
-            "window_start": "2021-03-22T22:30:00Z",
+            "net": "2021-03-22T22:20:00Z",
+            "window_end": "2021-03-23T00:05:00Z",
+            "window_start": "2021-03-22T21:50:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "They Go Up So Fast",
             "mission_type": "Dedicated Rideshare",
