@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-22",
             "name": "Falcon 9 Block 5 | Starlink 22",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-03-24T08:28:00Z",
             "window_end": "2021-03-24T08:28:00Z",
@@ -22,11 +22,11 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210314085034.png",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210323233023.jpeg"
         },
         {
             "id": "6bd4d3d9-d76d-4348-99d3-fad749b6b863",
@@ -50,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210324065550.jpeg",
             "infographic": null
         },
         {
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-03-25T15:00:00Z",
-            "window_end": "2021-03-25T20:00:00Z",
-            "window_start": "2021-03-25T12:00:00Z",
+            "net": "2021-03-26T15:00:00Z",
+            "window_end": "2021-03-26T20:00:00Z",
+            "window_start": "2021-03-26T12:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "10 km Flight",
             "mission_type": "Test Flight",
@@ -76,7 +76,7 @@
             "launcher": "SN11",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210314064221.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_infographic_20210324002218.jpeg"
         },
         {
             "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
