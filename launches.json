@@ -82,8 +82,8 @@
             "id": "4342580a-9380-47c8-803e-777265b3167b",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/4342580a-9380-47c8-803e-777265b3167b/",
             "launch_library_id": 1338,
-            "slug": "vega-pleiades-neo-1",
-            "name": "Vega | Pl\u00e9iades Neo 1",
+            "slug": "vega-pleiades-neo-3",
+            "name": "Vega | Pl\u00e9iades Neo 3",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -92,7 +92,7 @@
             "window_end": "2021-04-20T01:50:00Z",
             "window_start": "2021-04-20T01:50:00Z",
             "lsp_name": "Arianespace",
-            "mission": "Pl\u00e9iades Neo 1",
+            "mission": "Pl\u00e9iades Neo 3",
             "mission_type": "Government/Top Secret",
             "pad": "Ariane Launch Area 1",
             "location": "Kourou, French Guiana",
@@ -126,7 +126,7 @@
             "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075411.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210402174019.jpeg"
         },
         {
             "id": "199265ca-cfd9-4474-bf54-8e5eb52bacf0",
