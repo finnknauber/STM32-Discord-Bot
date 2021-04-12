@@ -10,12 +10,12 @@
             "slug": "new-shepard-ns-15",
             "name": "New Shepard | NS-15",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-04-14T12:00:00Z",
+            "net": "2021-04-14T13:00:00Z",
             "window_end": "2021-04-17T20:00:00Z",
-            "window_start": "2021-04-14T12:00:00Z",
+            "window_start": "2021-04-14T13:00:00Z",
             "lsp_name": "Blue Origin",
             "mission": "NS-15",
             "mission_type": "Suborbital",
@@ -26,7 +26,7 @@
             "launcher": "NS-4",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/new2520shepard_infographic_20210412202149.jpeg"
         },
         {
             "id": "32dcb5ad-7609-4fc0-8094-768ee5c2ebe0",
@@ -85,12 +85,12 @@
             "slug": "delta-iv-heavy-nrol-82",
             "name": "Delta IV Heavy | NROL-82",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-04-26T00:00:00Z",
-            "window_end": "2021-04-26T00:00:00Z",
-            "window_start": "2021-04-26T00:00:00Z",
+            "net": "2021-04-26T19:39:00Z",
+            "window_end": "2021-04-26T22:57:00Z",
+            "window_start": "2021-04-26T19:39:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "NROL-82",
             "mission_type": "Government/Top Secret",
