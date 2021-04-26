@@ -10,8 +10,8 @@
             "slug": "soyuz-21bfregat-m-oneweb-6",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-04-25T22:14:08Z",
             "window_end": "2021-04-25T22:14:08Z",
@@ -35,10 +35,10 @@
             "slug": "delta-iv-heavy-nrol-82",
             "name": "Delta IV Heavy | NROL-82",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2021-04-26T20:46:00Z",
+            "net": "2021-04-26T20:47:00Z",
             "window_end": "2021-04-26T22:57:00Z",
             "window_start": "2021-04-26T19:39:00Z",
             "lsp_name": "United Launch Alliance",
@@ -50,8 +50,8 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/delta2520iv2520heavy_image_20190224012313.jpeg",
-            "infographic": null
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_infographic_20210426131931.jpeg"
         },
         {
             "id": "6e8e2a5f-0221-471a-b407-f27acc524f40",
@@ -84,8 +84,8 @@
             "slug": "falcon-9-block-5-starlink-24",
             "name": "Falcon 9 Block 5 | Starlink 24",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-04-28T04:05:00Z",
             "window_end": "2021-04-28T04:05:00Z",
@@ -153,80 +153,6 @@
             "infographic": null
         },
         {
-            "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea/",
-            "launch_library_id": 1684,
-            "slug": "firefly-alpha-maiden-flight",
-            "name": "Firefly Alpha | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-04-30T00:00:00Z",
-            "window_end": "2021-04-30T00:00:00Z",
-            "window_start": "2021-04-30T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg AFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20200817170720.jpg",
-            "infographic": null
-        },
-        {
-            "id": "bc27a867-39e3-4cf7-9bb9-7a06c3a30543",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc27a867-39e3-4cf7-9bb9-7a06c3a30543/",
-            "launch_library_id": 2024,
-            "slug": "soyuz-21bfregat-glonass-k1-2",
-            "name": "Soyuz 2.1b/Fregat | Glonass-K1",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-04-30T00:00:00Z",
-            "window_end": "2021-04-30T00:00:00Z",
-            "window_start": "2021-04-30T00:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": null,
-            "pad": "43/3 (43L)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
-            "infographic": null
-        },
-        {
-            "id": "c179a24e-416b-4077-af8a-4670dfdb880a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c179a24e-416b-4077-af8a-4670dfdb880a/",
-            "launch_library_id": 1595,
-            "slug": "soyuz-21a-bars-m-no-3",
-            "name": "Soyuz 2.1a | Bars-M No. 3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-04-30T00:00:00Z",
-            "window_end": "2021-04-30T00:00:00Z",
-            "window_start": "2021-04-30T00:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Bars-M No. 3",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-            "infographic": null
-        },
-        {
             "id": "73ae8553-cc90-46e9-9a01-70a712493856",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/73ae8553-cc90-46e9-9a01-70a712493856/",
             "launch_library_id": null,
@@ -249,6 +175,80 @@
             "launcher": "SN15",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship2520sn_image_20210413205503.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0c2347a5-73f1-462c-91f7-8aa8b917ab0d",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0c2347a5-73f1-462c-91f7-8aa8b917ab0d/",
+            "launch_library_id": null,
+            "slug": "electron-running-out-of-toes",
+            "name": "Electron | Running Out Of Toes",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-05-10T00:00:00Z",
+            "window_end": "2021-05-10T00:00:00Z",
+            "window_start": "2021-05-10T00:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Running Out of Toes",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "397c50c5-8a2b-4ca5-807d-8911c14b7126",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126/",
+            "launch_library_id": 1131,
+            "slug": "gslv-mk-ii-eos-03-gisat-1",
+            "name": "GSLV Mk II | EOS-03 (GISAT-1)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-05-15T00:00:00Z",
+            "window_end": "2021-05-15T00:00:00Z",
+            "window_start": "2021-05-15T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "GISAT-1",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
+        },
+        {
+            "id": "137a0935-a14f-4690-9ce2-02c8c2ebd1c5",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/137a0935-a14f-4690-9ce2-02c8c2ebd1c5/",
+            "launch_library_id": 1690,
+            "slug": "atlas-v-421-sbirs-geo-5",
+            "name": "Atlas V 421 | SBIRS GEO-5",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-05-17T00:00:00Z",
+            "window_end": "2021-05-17T00:00:00Z",
+            "window_start": "2021-05-17T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": null,
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520421_image_20190510174748.jpg",
             "infographic": null
         }
     ]
