@@ -10,8 +10,8 @@
             "slug": "vega-pleiades-neo-3",
             "name": "Vega | Pl\u00e9iades Neo 3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-04-29T01:50:00Z",
             "window_end": "2021-04-29T01:50:00Z",
@@ -26,7 +26,7 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vega2520257c_infographic_20210429010508.jpeg"
         },
         {
             "id": "7596479f-0307-4c59-85be-204a9b6c4f55",
@@ -35,11 +35,11 @@
             "slug": "long-march-5b-tianhe",
             "name": "Long March 5B | Tianhe",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-04-29T03:18:00Z",
-            "window_end": "2021-04-29T03:18:00Z",
+            "net": "2021-04-29T03:23:15Z",
+            "window_end": "2021-04-29T03:30:00Z",
             "window_start": "2021-04-29T03:18:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Tianhe",
@@ -60,8 +60,8 @@
             "slug": "falcon-9-block-5-starlink-24",
             "name": "Falcon 9 Block 5 | Starlink 24",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-04-29T03:44:00Z",
             "window_end": "2021-04-29T03:44:00Z",
@@ -72,21 +72,21 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210416055040.png",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210429011247.jpeg"
         },
         {
             "id": "f75fc75d-3402-4aac-9d75-2b832af29a12",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/f75fc75d-3402-4aac-9d75-2b832af29a12/",
             "launch_library_id": null,
-            "slug": "long-march-4c-yaogan-31-group-05",
-            "name": "Long March 4C (??) | Yaogan 31 Group 05 (???)",
+            "slug": "long-march-4c-unknown",
+            "name": "Long March 4C | Unknown",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
             "net": "2021-04-30T07:25:00Z",
             "window_end": "2021-04-30T07:43:00Z",
@@ -112,9 +112,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-04-30T20:00:00Z",
+            "net": "2021-04-30T14:00:00Z",
             "window_end": "2021-05-01T01:00:00Z",
-            "window_start": "2021-04-30T17:00:00Z",
+            "window_start": "2021-04-30T12:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "10 km Flight",
             "mission_type": "Test Flight",
@@ -137,9 +137,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-05-04T19:35:00Z",
-            "window_end": "2021-05-04T19:35:00Z",
-            "window_start": "2021-05-04T19:35:00Z",
+            "net": "2021-05-04T19:01:00Z",
+            "window_end": "2021-05-04T19:01:00Z",
+            "window_start": "2021-05-04T19:01:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 25",
             "mission_type": "Communications",
