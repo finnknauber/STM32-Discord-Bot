@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-25",
             "name": "Falcon 9 Block 5 | Starlink 25",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-05-04T19:01:00Z",
             "window_end": "2021-05-04T19:01:00Z",
