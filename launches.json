@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-27",
             "name": "Falcon 9 Block 5 | Starlink 27",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-05-09T06:42:00Z",
             "window_end": "2021-05-09T06:42:00Z",
@@ -22,11 +22,11 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1051",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210505085947.png",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210508231429.jpeg"
         },
         {
             "id": "0c2347a5-73f1-462c-91f7-8aa8b917ab0d",
