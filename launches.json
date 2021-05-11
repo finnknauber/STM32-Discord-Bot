@@ -21,11 +21,11 @@
             "mission_type": "Earth Science",
             "pad": "Rocket Lab Launch Complex 1A",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "PAC",
+            "landing_success": 0,
+            "launcher": "20",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20210511101149.jpg",
             "infographic": null
         },
         {
