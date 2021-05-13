@@ -75,7 +75,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520421_image_20190510174748.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20210513080324.jpg",
             "infographic": null
         },
         {
@@ -100,7 +100,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg",
             "infographic": null
         },
         {
@@ -152,31 +152,6 @@
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
-        },
-        {
-            "id": "397c50c5-8a2b-4ca5-807d-8911c14b7126",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126/",
-            "launch_library_id": 1131,
-            "slug": "gslv-mk-ii-eos-03-gisat-1",
-            "name": "GSLV Mk II | EOS-03 (GISAT-1)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-05-31T00:00:00Z",
-            "window_end": "2021-05-31T00:00:00Z",
-            "window_start": "2021-05-31T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "GISAT-1",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
         },
         {
             "id": "54542f3a-1a28-430b-a416-03f58e1a88d2",
@@ -250,6 +225,30 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
+            "infographic": null
+        },
+        {
+            "id": "7b60de1e-7d8a-4213-a2f5-44a01ae21e28",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/7b60de1e-7d8a-4213-a2f5-44a01ae21e28/",
+            "launch_library_id": 1954,
+            "slug": "soyuz-21a-obzor-r-no1",
+            "name": "Soyuz 2.1a | Obzor-R No.1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-01T00:00:00Z",
+            "window_end": "2021-06-01T00:00:00Z",
+            "window_start": "2021-06-01T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": null,
+            "pad": "Cosmodrome Site 1S",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
         }
     ]
