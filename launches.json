@@ -10,10 +10,10 @@
             "slug": "electron-running-out-of-toes",
             "name": "Electron | Running Out Of Toes",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2021-05-15T10:00:00Z",
+            "net": "2021-05-15T11:11:00Z",
             "window_end": "2021-05-15T12:05:00Z",
             "window_start": "2021-05-15T10:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
@@ -26,7 +26,7 @@
             "launcher": "20",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20210511101149.jpg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_infographic_20210515005030.jpeg"
         },
         {
             "id": "c32d1f5e-2dd9-4b55-ac8b-3eb8c4a4e955",
@@ -42,7 +42,7 @@
             "window_end": "2021-05-15T22:54:00Z",
             "window_start": "2021-05-15T22:54:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink 26",
+            "mission": "Starlink 26 & Rideshare",
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
@@ -51,7 +51,7 @@
             "launcher": "B1058",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210508055736.png",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210515005039.jpg"
         },
         {
             "id": "137a0935-a14f-4690-9ce2-02c8c2ebd1c5",
@@ -75,8 +75,8 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20210513080324.jpg",
-            "infographic": null
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20210515205743.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_infographic_20210515005057.jpg"
         },
         {
             "id": "c9fb70ab-85b1-40dd-b98e-67b37efc7e94",
@@ -228,27 +228,28 @@
             "infographic": null
         },
         {
-            "id": "7b60de1e-7d8a-4213-a2f5-44a01ae21e28",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/7b60de1e-7d8a-4213-a2f5-44a01ae21e28/",
-            "launch_library_id": 1954,
-            "slug": "soyuz-21a-obzor-r-no1",
-            "name": "Soyuz 2.1a | Obzor-R No.1",
+            "id": "edaf9a8d-d67c-4e0e-8452-a37b111581d5",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/edaf9a8d-d67c-4e0e-8452-a37b111581d5/",
+            "launch_library_id": 1417,
+            "slug": "falcon-9-block-5-sirius-sxm-8",
+            "name": "Falcon 9 Block 5 | Sirius SXM-8",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-06-01T00:00:00Z",
-            "window_end": "2021-06-01T00:00:00Z",
-            "window_start": "2021-06-01T00:00:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": null,
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "net": "2021-06-01T04:25:00Z",
+            "window_end": "2021-06-01T04:25:00Z",
+            "window_start": "2021-06-01T04:25:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SXM-8",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Unknown Location",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
