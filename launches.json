@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-28",
             "name": "Falcon 9 Block 5 | Starlink 28",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-05-26T18:59:00Z",
             "window_end": "2021-05-26T18:59:00Z",
@@ -35,8 +35,8 @@
             "slug": "soyuz-21bfregat-m-oneweb-7",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 7",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-05-27T17:43:00Z",
             "window_end": "2021-05-27T17:43:00Z",
@@ -169,8 +169,8 @@
             "lsp_name": "SpaceX",
             "mission": "SXM-8",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Unknown Location",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -185,8 +185,8 @@
             "slug": "falcon-9-block-5-dragon-crs-2-spx-22",
             "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-22",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-06-03T17:29:00Z",
             "window_end": "2021-06-03T17:29:00Z",
