@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-28",
             "name": "Falcon 9 Block 5 | Starlink 28",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-05-26T18:59:00Z",
             "window_end": "2021-05-26T18:59:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1063",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210516094123.png",
@@ -154,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "edaf9a8d-d67c-4e0e-8452-a37b111581d5",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/edaf9a8d-d67c-4e0e-8452-a37b111581d5/",
-            "launch_library_id": 1417,
-            "slug": "falcon-9-block-5-sirius-sxm-8",
-            "name": "Falcon 9 Block 5 | Sirius SXM-8",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-01T04:25:00Z",
-            "window_end": "2021-06-01T04:25:00Z",
-            "window_start": "2021-06-01T04:25:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SXM-8",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
             "id": "89a150ea-6e4b-489f-853c-3603ae684611",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/89a150ea-6e4b-489f-853c-3603ae684611/",
             "launch_library_id": 2090,
@@ -226,6 +201,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2f_image_20210513092238.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "edaf9a8d-d67c-4e0e-8452-a37b111581d5",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/edaf9a8d-d67c-4e0e-8452-a37b111581d5/",
+            "launch_library_id": 1417,
+            "slug": "falcon-9-block-5-sirius-sxm-8",
+            "name": "Falcon 9 Block 5 | Sirius SXM-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-10T00:00:00Z",
+            "window_end": "2021-06-10T00:00:00Z",
+            "window_start": "2021-06-10T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SXM-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
