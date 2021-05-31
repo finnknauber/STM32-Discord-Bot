@@ -10,12 +10,12 @@
             "slug": "long-march-3b-fengyun-4b",
             "name": "Long March 3B | Fengyun-4B",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-06-02T16:00:00Z",
-            "window_end": "2021-06-02T17:30:00Z",
-            "window_start": "2021-06-02T16:00:00Z",
+            "net": "2021-06-01T16:25:00Z",
+            "window_end": "2021-06-01T16:46:00Z",
+            "window_start": "2021-06-01T16:11:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Fengyun-4B",
             "mission_type": "Earth Science",
