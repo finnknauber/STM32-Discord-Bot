@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-06-01T16:25:00Z",
-            "window_end": "2021-06-01T16:46:00Z",
-            "window_start": "2021-06-01T16:11:00Z",
+            "net": "2021-06-02T16:25:00Z",
+            "window_end": "2021-06-02T16:51:00Z",
+            "window_start": "2021-06-02T16:11:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Fengyun-4B",
             "mission_type": "Earth Science",
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "ba1331d1-2009-4083-80d9-ed654c05ad74",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/ba1331d1-2009-4083-80d9-ed654c05ad74/",
-            "launch_library_id": 1337,
-            "slug": "minotaur-i-nrol-111",
-            "name": "Minotaur I | NROL-111",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-15T00:00:00Z",
-            "window_end": "2021-06-15T00:00:00Z",
-            "window_start": "2021-06-15T00:00:00Z",
-            "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "NROL-111",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Area 0 B",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/minotaur2520i_image_20190224012247.jpeg",
-            "infographic": null
-        },
-        {
             "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea/",
             "launch_library_id": 1684,
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "ba1331d1-2009-4083-80d9-ed654c05ad74",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/ba1331d1-2009-4083-80d9-ed654c05ad74/",
+            "launch_library_id": 1337,
+            "slug": "minotaur-i-nrol-111",
+            "name": "Minotaur I | NROL-111",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-06-15T10:30:00Z",
+            "window_end": "2021-06-15T15:30:00Z",
+            "window_start": "2021-06-15T10:30:00Z",
+            "lsp_name": "Northrop Grumman Innovation Systems",
+            "mission": "NROL-111",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Area 0 B",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/minotaur2520i_image_20190224012247.jpeg",
             "infographic": null
         },
         {
