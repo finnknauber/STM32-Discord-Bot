@@ -10,10 +10,10 @@
             "slug": "long-march-3b-fengyun-4b",
             "name": "Long March 3B | Fengyun-4B",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-06-02T16:25:00Z",
+            "net": "2021-06-02T16:17:00Z",
             "window_end": "2021-06-02T16:51:00Z",
             "window_start": "2021-06-02T16:11:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-06-03T17:29:00Z",
-            "window_end": "2021-06-03T17:29:00Z",
-            "window_start": "2021-06-03T17:29:00Z",
+            "net": "2021-06-03T17:29:15Z",
+            "window_end": "2021-06-03T17:29:15Z",
+            "window_start": "2021-06-03T17:29:15Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-22",
             "mission_type": "Resupply",
@@ -50,7 +50,7 @@
             "landing_success": 0,
             "launcher": "B1067",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085644.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210602203321.jpeg",
             "infographic": null
         },
         {
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-06-06T04:25:00Z",
-            "window_end": "2021-06-06T06:26:00Z",
-            "window_start": "2021-06-06T04:25:00Z",
+            "net": "2021-06-06T04:26:00Z",
+            "window_end": "2021-06-06T06:25:00Z",
+            "window_start": "2021-06-06T04:26:00Z",
             "lsp_name": "SpaceX",
             "mission": "SXM-8",
             "mission_type": "Communications",
