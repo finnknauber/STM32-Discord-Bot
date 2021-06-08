@@ -1,8 +1,33 @@
 {
-    "count": 194,
+    "count": 196,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
+        {
+            "id": "8b7dcc7f-d44a-4e89-a680-1915b851bd9c",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/8b7dcc7f-d44a-4e89-a680-1915b851bd9c/",
+            "launch_library_id": null,
+            "slug": "long-march-2d-beijing-3",
+            "name": "Long March 2D | Beijing-3",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-06-11T03:05:00Z",
+            "window_end": "2021-06-11T03:18:00Z",
+            "window_start": "2021-06-11T02:56:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Beijing-3",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 9",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+            "infographic": null
+        },
         {
             "id": "ba1331d1-2009-4083-80d9-ed654c05ad74",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/ba1331d1-2009-4083-80d9-ed654c05ad74/",
@@ -13,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-06-15T10:30:00Z",
+            "net": "2021-06-15T11:00:00Z",
             "window_end": "2021-06-15T15:30:00Z",
             "window_start": "2021-06-15T10:30:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
@@ -79,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "1c9140f6-b771-4312-882b-950ff427f36a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/1c9140f6-b771-4312-882b-950ff427f36a/",
+            "launch_library_id": 1887,
+            "slug": "launcherone-tubular-bells-part-one",
+            "name": "LauncherOne | Tubular Bells, Part One",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-21T00:00:00Z",
+            "window_end": "2021-06-21T00:00:00Z",
+            "window_start": "2021-06-21T00:00:00Z",
+            "lsp_name": "Virgin Orbit",
+            "mission": "Tubular Bells, Part One",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Mojave Air and Space Port",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "infographic": null
+        },
+        {
             "id": "5d248abe-17ef-43ce-9c04-aef33af40520",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5d248abe-17ef-43ce-9c04-aef33af40520/",
             "launch_library_id": null,
@@ -92,13 +142,14 @@
             "window_end": "2021-06-24T00:00:00Z",
             "window_start": "2021-06-24T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": null,
+            "mission": "Transporter 2 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1060",
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
@@ -128,11 +179,11 @@
             "infographic": null
         },
         {
-            "id": "1c9140f6-b771-4312-882b-950ff427f36a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/1c9140f6-b771-4312-882b-950ff427f36a/",
-            "launch_library_id": 1887,
-            "slug": "launcherone-tubular-bells-part-one",
-            "name": "LauncherOne | Tubular Bells, Part One",
+            "id": "2873e5f4-dc84-4de7-a86b-7348143c1772",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2873e5f4-dc84-4de7-a86b-7348143c1772/",
+            "launch_library_id": null,
+            "slug": "pegasus-xl-tacrl-2",
+            "name": "Pegasus XL | TacRL-2",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -140,16 +191,16 @@
             "net": "2021-06-30T00:00:00Z",
             "window_end": "2021-06-30T00:00:00Z",
             "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": "Tubular Bells, Part One",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Mojave Air and Space Port",
+            "lsp_name": "Northrop Grumman Innovation Systems",
+            "mission": "TacRL-2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Vandenberg Air Force Base",
             "location": "Air launch to orbit",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pegasus2520xl_image_20190224025011.jpeg",
             "infographic": null
         },
         {
@@ -201,55 +252,6 @@
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
-        },
-        {
-            "id": "6d847530-c328-445b-9689-6969ae689d79",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6d847530-c328-445b-9689-6969ae689d79/",
-            "launch_library_id": 1420,
-            "slug": "long-march-4c-fengyun-3e",
-            "name": "Long March 4C | Fengyun-3E",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-30T00:00:00Z",
-            "window_end": "2021-06-30T00:00:00Z",
-            "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Unknown Pad",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
-            "launch_library_id": 2099,
-            "slug": "kuaizhou-1a-jilin-1-02f",
-            "name": "Kuaizhou-1A | Jilin-1-02F",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-30T00:00:00Z",
-            "window_end": "2021-06-30T00:00:00Z",
-            "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Industry Corporation",
-            "mission": "Jilin-1-02F",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
         }
     ]
 }
