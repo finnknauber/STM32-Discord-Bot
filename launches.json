@@ -29,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "2873e5f4-dc84-4de7-a86b-7348143c1772",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2873e5f4-dc84-4de7-a86b-7348143c1772/",
+            "launch_library_id": null,
+            "slug": "pegasus-xl-tacrl-2",
+            "name": "Pegasus XL | TacRL-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-13T07:39:00Z",
+            "window_end": "2021-06-13T08:55:00Z",
+            "window_start": "2021-06-13T07:39:00Z",
+            "lsp_name": "Northrop Grumman Innovation Systems",
+            "mission": "TacRL-2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Vandenberg Air Force Base",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pegasus2520xl_image_20190224025011.jpeg",
+            "infographic": null
+        },
+        {
             "id": "ba1331d1-2009-4083-80d9-ed654c05ad74",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/ba1331d1-2009-4083-80d9-ed654c05ad74/",
             "launch_library_id": 1337,
@@ -176,31 +201,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-            "infographic": null
-        },
-        {
-            "id": "2873e5f4-dc84-4de7-a86b-7348143c1772",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2873e5f4-dc84-4de7-a86b-7348143c1772/",
-            "launch_library_id": null,
-            "slug": "pegasus-xl-tacrl-2",
-            "name": "Pegasus XL | TacRL-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-30T00:00:00Z",
-            "window_end": "2021-06-30T00:00:00Z",
-            "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "TacRL-2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Vandenberg Air Force Base",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pegasus2520xl_image_20190224025011.jpeg",
             "infographic": null
         },
         {
