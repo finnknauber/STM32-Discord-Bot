@@ -35,10 +35,10 @@
             "slug": "pegasus-xl-tacrl-2",
             "name": "Pegasus XL | TacRL-2",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-06-13T07:39:00Z",
+            "net": "2021-06-13T08:11:00Z",
             "window_end": "2021-06-13T08:55:00Z",
             "window_start": "2021-06-13T07:39:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
@@ -49,7 +49,7 @@
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "LEO",
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pegasus2520xl_image_20190224025011.jpeg",
             "infographic": null
         },
@@ -121,7 +121,7 @@
             "mission_type": "Navigation",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1062",
             "orbit": "MEO",
@@ -171,7 +171,7 @@
             "mission_type": "Dedicated Rideshare",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1060",
             "orbit": "SSO",
