@@ -1,33 +1,8 @@
 {
-    "count": 196,
+    "count": 195,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "8b7dcc7f-d44a-4e89-a680-1915b851bd9c",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/8b7dcc7f-d44a-4e89-a680-1915b851bd9c/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-beijing-3",
-            "name": "Long March 2D | Beijing-3",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-06-11T03:03:00Z",
-            "window_end": "2021-06-11T03:18:00Z",
-            "window_start": "2021-06-11T02:56:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Beijing-3",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
         {
             "id": "2873e5f4-dc84-4de7-a86b-7348143c1772",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/2873e5f4-dc84-4de7-a86b-7348143c1772/",
@@ -110,8 +85,8 @@
             "slug": "falcon-9-block-5-gps-iii-sv05",
             "name": "Falcon 9 Block 5 | GPS III SV05",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-06-17T16:09:00Z",
             "window_end": "2021-06-17T16:24:00Z",
@@ -252,6 +227,30 @@
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
+        },
+        {
+            "id": "6d847530-c328-445b-9689-6969ae689d79",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6d847530-c328-445b-9689-6969ae689d79/",
+            "launch_library_id": 1420,
+            "slug": "long-march-4c-fengyun-3e",
+            "name": "Long March 4C | Fengyun-3E",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-30T00:00:00Z",
+            "window_end": "2021-06-30T00:00:00Z",
+            "window_start": "2021-06-30T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
         }
     ]
 }
