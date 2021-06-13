@@ -7,17 +7,17 @@
             "id": "2873e5f4-dc84-4de7-a86b-7348143c1772",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/2873e5f4-dc84-4de7-a86b-7348143c1772/",
             "launch_library_id": null,
-            "slug": "pegasus-xl-tacrl-2",
-            "name": "Pegasus XL | TacRL-2",
+            "slug": "pegasus-xl-odyssey-tacrl-2",
+            "name": "Pegasus XL | Odyssey (TacRL-2)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-06-13T08:11:00Z",
             "window_end": "2021-06-13T08:55:00Z",
             "window_start": "2021-06-13T07:39:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "TacRL-2",
+            "mission": "Odyssey (TacRL-2)",
             "mission_type": "Government/Top Secret",
             "pad": "Vandenberg Air Force Base",
             "location": "Air launch to orbit",
