@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "2873e5f4-dc84-4de7-a86b-7348143c1772",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2873e5f4-dc84-4de7-a86b-7348143c1772/",
-            "launch_library_id": null,
-            "slug": "pegasus-xl-odyssey-tacrl-2",
-            "name": "Pegasus XL | Odyssey (TacRL-2)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-06-13T08:11:00Z",
-            "window_end": "2021-06-13T08:55:00Z",
-            "window_start": "2021-06-13T07:39:00Z",
-            "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "Odyssey (TacRL-2)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Vandenberg Air Force Base",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pegasus2520xl_image_20190224025011.jpeg",
-            "infographic": null
-        },
-        {
             "id": "ba1331d1-2009-4083-80d9-ed654c05ad74",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/ba1331d1-2009-4083-80d9-ed654c05ad74/",
             "launch_library_id": 1337,
@@ -60,12 +35,12 @@
             "slug": "long-march-2f-shenzhou-12",
             "name": "Long March 2F | Shenzhou 12",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-06-17T00:00:00Z",
-            "window_end": "2021-06-17T00:00:00Z",
-            "window_start": "2021-06-17T00:00:00Z",
+            "net": "2021-06-17T01:20:00Z",
+            "window_end": "2021-06-17T01:54:00Z",
+            "window_start": "2021-06-17T01:13:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Shenzhou 12",
             "mission_type": "Human Exploration",
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2f_image_20210513092238.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "31c4ba41-c3a5-4cae-8749-d3afb84abad4",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/31c4ba41-c3a5-4cae-8749-d3afb84abad4/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-yaogan-30-09",
+            "name": "Long March 2C | Yaogan-30-09",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-06-17T06:55:00Z",
+            "window_end": "2021-06-17T07:05:00Z",
+            "window_start": "2021-06-17T06:47:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Yaogan-30-09",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
             "infographic": null
         },
         {
@@ -146,7 +146,7 @@
             "mission_type": "Dedicated Rideshare",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
+            "landing": "LZ-1",
             "landing_success": 0,
             "launcher": "B1060",
             "orbit": "SSO",
