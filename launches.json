@@ -10,10 +10,10 @@
             "slug": "minotaur-i-nrol-111",
             "name": "Minotaur I | NROL-111",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-06-15T11:00:00Z",
+            "net": "2021-06-15T13:35:00Z",
             "window_end": "2021-06-15T15:30:00Z",
             "window_start": "2021-06-15T10:30:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
@@ -26,7 +26,7 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/minotaur2520i_image_20190224012247.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/minotaur2520i_infographic_20210615033109.jpeg"
         },
         {
             "id": "5c1c76b1-fe29-4b3f-97d0-c35695d5fbd0",
@@ -229,11 +229,11 @@
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
         },
         {
-            "id": "6d847530-c328-445b-9689-6969ae689d79",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6d847530-c328-445b-9689-6969ae689d79/",
-            "launch_library_id": 1420,
-            "slug": "long-march-4c-fengyun-3e",
-            "name": "Long March 4C | Fengyun-3E",
+            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
+            "launch_library_id": 2099,
+            "slug": "kuaizhou-1a-jilin-1-02f",
+            "name": "Kuaizhou-1A | Jilin-1-02F",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -241,15 +241,16 @@
             "net": "2021-06-30T00:00:00Z",
             "window_end": "2021-06-30T00:00:00Z",
             "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02F",
+            "mission_type": "Earth Science",
             "pad": "Unknown Pad",
-            "location": "Taiyuan, People's Republic of China",
+            "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         }
     ]
