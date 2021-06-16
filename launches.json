@@ -1,33 +1,8 @@
 {
-    "count": 195,
+    "count": 194,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ba1331d1-2009-4083-80d9-ed654c05ad74",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/ba1331d1-2009-4083-80d9-ed654c05ad74/",
-            "launch_library_id": 1337,
-            "slug": "minotaur-i-nrol-111",
-            "name": "Minotaur I | NROL-111",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-06-15T13:35:00Z",
-            "window_end": "2021-06-15T15:30:00Z",
-            "window_start": "2021-06-15T10:30:00Z",
-            "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "NROL-111",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Area 0 B",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/minotaur2520i_image_20190224012247.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/minotaur2520i_infographic_20210615033109.jpeg"
-        },
         {
             "id": "5c1c76b1-fe29-4b3f-97d0-c35695d5fbd0",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5c1c76b1-fe29-4b3f-97d0-c35695d5fbd0/",
@@ -38,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-06-17T01:20:00Z",
+            "net": "2021-06-17T01:22:00Z",
             "window_end": "2021-06-17T01:54:00Z",
             "window_start": "2021-06-17T01:13:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -104,31 +79,6 @@
             "infographic": null
         },
         {
-            "id": "1c9140f6-b771-4312-882b-950ff427f36a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/1c9140f6-b771-4312-882b-950ff427f36a/",
-            "launch_library_id": 1887,
-            "slug": "launcherone-tubular-bells-part-one",
-            "name": "LauncherOne | Tubular Bells, Part One",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-21T00:00:00Z",
-            "window_end": "2021-06-21T00:00:00Z",
-            "window_start": "2021-06-21T00:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": "Tubular Bells, Part One",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Mojave Air and Space Port",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
             "id": "5d248abe-17ef-43ce-9c04-aef33af40520",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5d248abe-17ef-43ce-9c04-aef33af40520/",
             "launch_library_id": null,
@@ -151,6 +101,31 @@
             "launcher": "B1060",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1c9140f6-b771-4312-882b-950ff427f36a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/1c9140f6-b771-4312-882b-950ff427f36a/",
+            "launch_library_id": 1887,
+            "slug": "launcherone-tubular-bells-part-one",
+            "name": "LauncherOne | Tubular Bells, Part One",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-28T00:00:00Z",
+            "window_end": "2021-06-28T00:00:00Z",
+            "window_start": "2021-06-28T00:00:00Z",
+            "lsp_name": "Virgin Orbit",
+            "mission": "Tubular Bells, Part One",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Mojave Air and Space Port",
+            "location": "Air launch to orbit",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea/",
+            "launch_library_id": 1684,
+            "slug": "firefly-alpha-maiden-flight",
+            "name": "Firefly Alpha | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-06-30T00:00:00Z",
+            "window_end": "2021-06-30T00:00:00Z",
+            "window_start": "2021-06-30T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
