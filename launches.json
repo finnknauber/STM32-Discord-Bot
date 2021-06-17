@@ -10,8 +10,8 @@
             "slug": "long-march-2f-shenzhou-12",
             "name": "Long March 2F | Shenzhou 12",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-06-17T01:22:00Z",
             "window_end": "2021-06-17T01:54:00Z",
@@ -29,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "110c808a-a091-47ab-8532-4fa058c1de7a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/110c808a-a091-47ab-8532-4fa058c1de7a/",
+            "launch_library_id": 1526,
+            "slug": "falcon-9-block-5-gps-iii-sv05",
+            "name": "Falcon 9 Block 5 | GPS III SV05",
+            "status": {
+                "id": 3,
+                "name": "Success"
+            },
+            "net": "2021-06-17T16:09:35Z",
+            "window_end": "2021-06-17T16:24:00Z",
+            "window_start": "2021-06-17T16:09:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "GPS III SV05",
+            "mission_type": "Navigation",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 1,
+            "launcher": "B1062",
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210617145740.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210617130153.jpeg"
+        },
+        {
             "id": "31c4ba41-c3a5-4cae-8749-d3afb84abad4",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/31c4ba41-c3a5-4cae-8749-d3afb84abad4/",
             "launch_library_id": null,
@@ -38,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-06-17T06:55:00Z",
-            "window_end": "2021-06-17T07:05:00Z",
-            "window_start": "2021-06-17T06:47:00Z",
+            "net": "2021-06-18T06:25:00Z",
+            "window_end": "2021-06-18T06:35:00Z",
+            "window_start": "2021-06-18T06:20:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Yaogan-30-09",
             "mission_type": "Government/Top Secret",
@@ -51,31 +76,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "110c808a-a091-47ab-8532-4fa058c1de7a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/110c808a-a091-47ab-8532-4fa058c1de7a/",
-            "launch_library_id": 1526,
-            "slug": "falcon-9-block-5-gps-iii-sv05",
-            "name": "Falcon 9 Block 5 | GPS III SV05",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-06-17T16:09:00Z",
-            "window_end": "2021-06-17T16:24:00Z",
-            "window_start": "2021-06-17T16:09:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "GPS III SV05",
-            "mission_type": "Navigation",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "B1062",
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
