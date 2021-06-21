@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "015b59fc-e2f5-4715-97b5-75bf07502950",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/015b59fc-e2f5-4715-97b5-75bf07502950/",
-            "launch_library_id": null,
-            "slug": "soyuz-21b-pion-nks-no-1",
-            "name": "Soyuz 2.1b | Pion-NKS No. 1",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-25T00:00:00Z",
-            "window_end": "2021-06-25T00:00:00Z",
-            "window_start": "2021-06-25T00:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Pion-NKS No. 1",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
-            "infographic": null
-        },
-        {
             "id": "5d248abe-17ef-43ce-9c04-aef33af40520",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5d248abe-17ef-43ce-9c04-aef33af40520/",
             "launch_library_id": null,
@@ -51,6 +26,31 @@
             "launcher": "B1060",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "015b59fc-e2f5-4715-97b5-75bf07502950",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/015b59fc-e2f5-4715-97b5-75bf07502950/",
+            "launch_library_id": null,
+            "slug": "soyuz-21b-pion-nks-no-1",
+            "name": "Soyuz 2.1b | Pion-NKS No. 1",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-06-25T19:00:00Z",
+            "window_end": "2021-06-25T21:00:00Z",
+            "window_start": "2021-06-25T19:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Pion-NKS No. 1",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
             "infographic": null
         },
         {
@@ -129,31 +129,6 @@
             "infographic": null
         },
         {
-            "id": "397c50c5-8a2b-4ca5-807d-8911c14b7126",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126/",
-            "launch_library_id": 1131,
-            "slug": "gslv-mk-ii-eos-03-gisat-1",
-            "name": "GSLV Mk II | EOS-03 (GISAT-1)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-30T00:00:00Z",
-            "window_end": "2021-06-30T00:00:00Z",
-            "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "GISAT-1",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
-        },
-        {
             "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
             "launch_library_id": 2099,
@@ -204,30 +179,6 @@
             "infographic": null
         },
         {
-            "id": "bc27a867-39e3-4cf7-9bb9-7a06c3a30543",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc27a867-39e3-4cf7-9bb9-7a06c3a30543/",
-            "launch_library_id": 2024,
-            "slug": "soyuz-21bfregat-glonass-k1-2",
-            "name": "Soyuz 2.1b/Fregat | Glonass-K1",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-06-30T00:00:00Z",
-            "window_end": "2021-06-30T00:00:00Z",
-            "window_start": "2021-06-30T00:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": null,
-            "pad": "43/3 (43L)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
-            "infographic": null
-        },
-        {
             "id": "e614282e-107b-41b4-8bab-7d86062a7e34",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/e614282e-107b-41b4-8bab-7d86062a7e34/",
             "launch_library_id": 2016,
@@ -250,6 +201,55 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085926.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "120c53d4-d3a1-42fe-b2a5-a63e3b11d72b",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/120c53d4-d3a1-42fe-b2a5-a63e3b11d72b/",
+            "launch_library_id": 1640,
+            "slug": "electron-stp-27rm",
+            "name": "Electron | STP-27RM",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-07-01T23:00:00Z",
+            "window_end": "2021-07-01T23:00:00Z",
+            "window_start": "2021-07-01T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "STP-27RM",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 2",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6e99b22c-1a27-428c-96f3-c868b8b53cfe",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6e99b22c-1a27-428c-96f3-c868b8b53cfe/",
+            "launch_library_id": 2071,
+            "slug": "electron-rasr-3",
+            "name": "Electron | RASR-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-07-01T23:00:00Z",
+            "window_end": "2021-07-01T23:00:00Z",
+            "window_start": "2021-07-01T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": null,
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
