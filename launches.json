@@ -185,8 +185,8 @@
             "slug": "soyuz-21bfregat-m-oneweb-8",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 8",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-07-01T12:48:00Z",
             "window_end": "2021-07-01T12:48:00Z",
