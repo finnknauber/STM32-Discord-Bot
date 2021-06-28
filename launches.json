@@ -26,7 +26,7 @@
             "launcher": "B1060",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210628022041.jpeg"
         },
         {
             "id": "a330c94f-5191-42a2-9401-59a6268f590a",
@@ -60,12 +60,12 @@
             "slug": "launcherone-tubular-bells-part-one",
             "name": "LauncherOne | Tubular Bells, Part One",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-06-30T00:00:00Z",
-            "window_end": "2021-06-30T00:00:00Z",
-            "window_start": "2021-06-30T00:00:00Z",
+            "net": "2021-06-30T13:00:00Z",
+            "window_end": "2021-06-30T16:00:00Z",
+            "window_start": "2021-06-30T13:00:00Z",
             "lsp_name": "Virgin Orbit",
             "mission": "Tubular Bells, Part One",
             "mission_type": "Dedicated Rideshare",
