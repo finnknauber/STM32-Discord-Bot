@@ -510,3 +510,4 @@ Traceback (most recent call last):
     raise ConnectionError(e, request=request)
 requests.exceptions.ConnectionError: HTTPSConnectionPool(host='ll.thespacedevs.com', port=443): Max retries exceeded with url: /2.0.0/launch/upcoming?mode=list (Caused by NewConnectionError('<urllib3.connection.VerifiedHTTPSConnection object at 0x7f0156780080>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
 Sending Message
+Sending Message
