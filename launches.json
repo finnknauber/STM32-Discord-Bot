@@ -1,58 +1,8 @@
 {
-    "count": 193,
+    "count": 192,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "df8da745-9f99-4f85-8508-d326215421c0",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/df8da745-9f99-4f85-8508-d326215421c0/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-jilin-1-wideband-01b-high-resolution",
-            "name": "Long March 2D | Jilin-1 Wideband-01B & High Resolution 03D",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-07-03T02:51:00Z",
-            "window_end": "2021-07-03T03:05:00Z",
-            "window_start": "2021-07-03T02:44:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Jilin-1 Wideband-01B & High Resolution 03D",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "504ba71a-bf09-48f1-9346-48c3d79e580b",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/504ba71a-bf09-48f1-9346-48c3d79e580b/",
-            "launch_library_id": null,
-            "slug": "momo-flight-7",
-            "name": "MOMO | Flight 7",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-07-03T08:45:00Z",
-            "window_end": "2021-07-03T08:50:00Z",
-            "window_start": "2021-07-03T02:10:00Z",
-            "lsp_name": "Interstellar Technologies",
-            "mission": "Flight 7",
-            "mission_type": "Suborbital",
-            "pad": "Taiki-cho, Hokkaido, Japan",
-            "location": "Taiki-cho, Hokkaido, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/momo2520257c_image_20210703063014.jpeg",
-            "infographic": null
-        },
         {
             "id": "6d847530-c328-445b-9689-6969ae689d79",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/6d847530-c328-445b-9689-6969ae689d79/",
@@ -85,12 +35,12 @@
             "slug": "long-march-3ce-tianlian-1-05",
             "name": "Long March 3C/E | Tianlian 1-05",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-07-06T23:59:59Z",
-            "window_end": "2021-07-06T23:59:59Z",
-            "window_start": "2021-07-06T23:59:59Z",
+            "net": "2021-07-06T15:55:00Z",
+            "window_end": "2021-07-06T16:17:00Z",
+            "window_start": "2021-07-06T15:42:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Tianlian 1-05",
             "mission_type": "Communications",
@@ -101,6 +51,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": null,
+            "infographic": null
+        },
+        {
+            "id": "3b1d60f4-157a-436a-8679-73e91628a25c",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/3b1d60f4-157a-436a-8679-73e91628a25c/",
+            "launch_library_id": null,
+            "slug": "long-march-6-ningxia-1",
+            "name": "Long March 6 | Ningxia-1 (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-07-09T12:00:00Z",
+            "window_end": "2021-07-09T12:25:00Z",
+            "window_start": "2021-07-09T11:53:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Ningxia-1 (?)",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 16",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210423135258.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png",
+            "infographic": null
+        },
+        {
+            "id": "f1bcfbf6-d00d-42d7-bc68-82252817a57e",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/f1bcfbf6-d00d-42d7-bc68-82252817a57e/",
+            "launch_library_id": 2055,
+            "slug": "atlas-v-n22-cst-100-starliner-orbital-flight-tes-2",
+            "name": "Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (Uncrewed)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-07-30T18:53:00Z",
+            "window_end": "2021-07-30T18:53:00Z",
+            "window_start": "2021-07-30T18:53:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "CST-100 Starliner Orbital Flight Test 2 (Uncrewed)",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520n22_image_20190224012241.jpeg",
             "infographic": null
         }
     ]
