@@ -54,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-29",
-            "name": "Falcon 9 Block 5 | Starlink 29",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-07-12T00:00:00Z",
-            "window_end": "2021-07-12T00:00:00Z",
-            "window_start": "2021-07-12T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink 29",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png",
-            "infographic": null
-        },
-        {
             "id": "d0f9cb4e-8efe-4b70-a675-3f087acd6f74",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/d0f9cb4e-8efe-4b70-a675-3f087acd6f74/",
             "launch_library_id": null,
@@ -110,12 +85,12 @@
             "slug": "proton-m-mlm-nauka",
             "name": "Proton-M | MLM Nauka",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-07-21T14:58:00Z",
-            "window_end": "2021-07-21T14:58:00Z",
-            "window_start": "2021-07-21T14:58:00Z",
+            "net": "2021-07-21T14:58:21Z",
+            "window_end": "2021-07-21T14:58:21Z",
+            "window_start": "2021-07-21T14:58:21Z",
             "lsp_name": "Khrunichev State Research and Production Space Center",
             "mission": "MLM Nauka",
             "mission_type": "Human Exploration",
@@ -154,11 +129,11 @@
             "infographic": null
         },
         {
-            "id": "e4200e5c-2726-43f2-8439-36bd1be59821",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821/",
+            "id": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-30",
-            "name": "Falcon 9 Block 5 | Starlink 30",
+            "slug": "falcon-9-block-5-starlink-29",
+            "name": "Falcon 9 Block 5 | Starlink 29",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -167,7 +142,7 @@
             "window_end": "2021-07-30T00:00:00Z",
             "window_start": "2021-07-30T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink 30",
+            "mission": "Starlink 29",
             "mission_type": "Communications",
             "pad": "Unknown Pad",
             "location": "Cape Canaveral, FL, USA",
@@ -175,7 +150,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea/",
+            "launch_library_id": 1684,
+            "slug": "firefly-alpha-maiden-flight",
+            "name": "Firefly Alpha | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-07-31T00:00:00Z",
+            "window_end": "2021-07-31T00:00:00Z",
+            "window_start": "2021-07-31T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
