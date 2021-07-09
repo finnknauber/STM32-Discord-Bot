@@ -7,17 +7,17 @@
             "id": "3b1d60f4-157a-436a-8679-73e91628a25c",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/3b1d60f4-157a-436a-8679-73e91628a25c/",
             "launch_library_id": null,
-            "slug": "long-march-6-ningxia-1",
-            "name": "Long March 6 | Ningxia-1 (?)",
+            "slug": "long-march-6-zhongzi-group-02-ningxia-1-02",
+            "name": "Long March 6 | Zhongzi Group 02 (Ningxia-1-02)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-07-09T12:00:00Z",
+            "net": "2021-07-09T11:59:00Z",
             "window_end": "2021-07-09T12:25:00Z",
             "window_start": "2021-07-09T11:53:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Ningxia-1 (?)",
+            "mission": "Zhongzi Group 02 (Ningxia-1-02)",
             "mission_type": "Earth Science",
             "pad": "Launch Complex 16",
             "location": "Taiyuan, People's Republic of China",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210423135258.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
             "infographic": null
         },
         {
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-07-27T00:00:00Z",
-            "window_end": "2021-07-27T00:00:00Z",
-            "window_start": "2021-07-27T00:00:00Z",
+            "net": "2021-07-27T21:14:00Z",
+            "window_end": "2021-07-27T21:14:00Z",
+            "window_start": "2021-07-27T21:14:00Z",
             "lsp_name": "Arianespace",
             "mission": "Star One D2 & Eutelsat Quantum",
             "mission_type": "Communications",
