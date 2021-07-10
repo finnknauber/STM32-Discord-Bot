@@ -1,33 +1,8 @@
 {
-    "count": 190,
+    "count": 189,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3b1d60f4-157a-436a-8679-73e91628a25c",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/3b1d60f4-157a-436a-8679-73e91628a25c/",
-            "launch_library_id": null,
-            "slug": "long-march-6-zhongzi-group-02-ningxia-1-02",
-            "name": "Long March 6 | Zhongzi Group 02 (Ningxia-1-02)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-07-09T11:59:00Z",
-            "window_end": "2021-07-09T12:25:00Z",
-            "window_start": "2021-07-09T11:53:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Zhongzi Group 02 (Ningxia-1-02)",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 16",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
-            "infographic": null
-        },
         {
             "id": "3c0231ab-5764-4622-b4eb-50eff30ea8be",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/3c0231ab-5764-4622-b4eb-50eff30ea8be/",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "c179a24e-416b-4077-af8a-4670dfdb880a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/c179a24e-416b-4077-af8a-4670dfdb880a/",
+            "launch_library_id": 1595,
+            "slug": "soyuz-21a-bars-m-no-3",
+            "name": "Soyuz 2.1a | Bars-M No. 3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-07-31T00:00:00Z",
+            "window_end": "2021-07-31T00:00:00Z",
+            "window_start": "2021-07-31T00:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Bars-M No. 3",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
         }
     ]
