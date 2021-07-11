@@ -10,15 +10,15 @@
             "slug": "spaceshiptwo-vss-unity-22",
             "name": "SpaceShipTwo | VSS Unity 22",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-07-11T13:00:00Z",
-            "window_end": "2021-07-11T13:00:00Z",
-            "window_start": "2021-07-11T13:00:00Z",
+            "net": "2021-07-11T15:25:30Z",
+            "window_end": "2021-07-11T15:25:30Z",
+            "window_start": "2021-07-11T15:25:30Z",
             "lsp_name": "Virgin Galactic",
             "mission": "VSS Unity 22",
-            "mission_type": "Suborbital",
+            "mission_type": "Tourism",
             "pad": "Spaceport America",
             "location": "Air launch to Suborbital flight",
             "landing": null,
@@ -26,7 +26,7 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/spaceshiptwo25_infographic_20210711033153.jpeg"
         },
         {
             "id": "d0f9cb4e-8efe-4b70-a675-3f087acd6f74",
