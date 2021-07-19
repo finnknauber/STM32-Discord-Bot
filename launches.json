@@ -10,10 +10,10 @@
             "slug": "long-march-2c-yaogan-30-10",
             "name": "Long March 2C | Yaogan-30-10",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-07-19T00:15:00Z",
+            "net": "2021-07-19T00:19:00Z",
             "window_end": "2021-07-19T00:26:00Z",
             "window_start": "2021-07-19T00:08:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
