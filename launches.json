@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "e1140531-122d-4062-a5a5-194042674121",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121/",
-            "launch_library_id": null,
-            "slug": "soyuz-21v-emka",
-            "name": "Soyuz 2.1v | EMKA",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-07-24T19:59:47Z",
-            "window_end": "2021-07-24T21:00:00Z",
-            "window_start": "2021-07-24T19:00:00Z",
-            "lsp_name": "Ministry of Defence of the Russian Federation",
-            "mission": "EMKA",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-            "infographic": null
-        },
-        {
             "id": "1a899b5c-31f9-4aa8-baa9-4f88eb5d789e",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/1a899b5c-31f9-4aa8-baa9-4f88eb5d789e/",
             "launch_library_id": null,
@@ -101,6 +76,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "e1140531-122d-4062-a5a5-194042674121",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121/",
+            "launch_library_id": null,
+            "slug": "soyuz-21v-emka",
+            "name": "Soyuz 2.1v | EMKA",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-07-31T00:00:00Z",
+            "window_end": "2021-07-31T00:00:00Z",
+            "window_start": "2021-07-31T00:00:00Z",
+            "lsp_name": "Ministry of Defence of the Russian Federation",
+            "mission": "EMKA",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
             "infographic": null
         },
         {
