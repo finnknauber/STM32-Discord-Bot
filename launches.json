@@ -51,7 +51,7 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520n22_image_20190224012241.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_infographic_20210726173020.jpeg"
         },
         {
             "id": "be2342f2-5ae2-4a91-a64f-681106da2aab",
@@ -76,7 +76,7 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ariane2520525_infographic_20210726175537.jpeg"
         },
         {
             "id": "e1140531-122d-4062-a5a5-194042674121",
