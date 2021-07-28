@@ -29,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "120c53d4-d3a1-42fe-b2a5-a63e3b11d72b",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/120c53d4-d3a1-42fe-b2a5-a63e3b11d72b/",
+            "launch_library_id": 1640,
+            "slug": "electron-stp-27rm-its-a-little-chile-up-here",
+            "name": "Electron | STP-27RM (It\u2019s a Little Chile Up Here)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-07-29T06:00:00Z",
+            "window_end": "2021-07-29T08:00:00Z",
+            "window_start": "2021-07-29T06:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "STP-27RM (It\u2019s a Little Chile Up Here)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "f1bcfbf6-d00d-42d7-bc68-82252817a57e",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/f1bcfbf6-d00d-42d7-bc68-82252817a57e/",
             "launch_library_id": 2055,
@@ -129,28 +154,28 @@
             "infographic": null
         },
         {
-            "id": "c46cfec6-f135-41f9-995f-9482b8cbe668",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668/",
-            "launch_library_id": 1339,
-            "slug": "vega-pleiades-neo-4",
-            "name": "Vega | Pl\u00e9iades Neo 4",
+            "id": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-2-1",
+            "name": "Falcon 9 Block 5 | Starlink 2-1",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-08-10T01:50:00Z",
-            "window_end": "2021-08-10T01:50:00Z",
-            "window_start": "2021-08-10T01:50:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Pl\u00e9iades Neo 4",
-            "mission_type": "Government/Top Secret",
-            "pad": "Ariane Launch Area 1",
-            "location": "Kourou, French Guiana",
+            "net": "2021-08-10T00:00:00Z",
+            "window_end": "2021-08-10T00:00:00Z",
+            "window_start": "2021-08-10T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 2-1",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png",
             "infographic": null
         },
         {
@@ -160,12 +185,12 @@
             "slug": "antares-230-cygnus-crs-2-ng-16-ss-ellison-onizuka",
             "name": "Antares 230+ | Cygnus CRS-2 NG-16 (S.S. Ellison Onizuka)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-08-10T21:55:00Z",
-            "window_end": "2021-08-10T21:55:00Z",
-            "window_start": "2021-08-10T21:55:00Z",
+            "net": "2021-08-10T21:56:00Z",
+            "window_end": "2021-08-10T21:56:00Z",
+            "window_start": "2021-08-10T21:56:00Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
             "mission": "Cygnus CRS-2 NG-16 (S.S. Ellison Onizuka)",
             "mission_type": "Resupply",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-08-18T10:00:00Z",
-            "window_end": "2021-08-18T10:00:00Z",
-            "window_start": "2021-08-18T10:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-23",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
             "infographic": null
         }
     ]
