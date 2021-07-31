@@ -1,58 +1,8 @@
 {
-    "count": 187,
+    "count": 186,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "be2342f2-5ae2-4a91-a64f-681106da2aab",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/be2342f2-5ae2-4a91-a64f-681106da2aab/",
-            "launch_library_id": 1344,
-            "slug": "ariane-5-eca-star-one-d2-eutelsat-quantum",
-            "name": "Ariane 5 ECA | Star One D2 & Eutelsat Quantum",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-07-30T21:00:00Z",
-            "window_end": "2021-07-30T22:30:00Z",
-            "window_start": "2021-07-30T21:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Star One D2 & Eutelsat Quantum",
-            "mission_type": "Communications",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane252052520eca_image_20190224012333.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ariane2520525_infographic_20210726175537.jpeg"
-        },
-        {
-            "id": "e1140531-122d-4062-a5a5-194042674121",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121/",
-            "launch_library_id": null,
-            "slug": "soyuz-21v-emka",
-            "name": "Soyuz 2.1v | EMKA",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-07-31T00:00:00Z",
-            "window_end": "2021-07-31T00:00:00Z",
-            "window_start": "2021-07-31T00:00:00Z",
-            "lsp_name": "Ministry of Defence of the Russian Federation",
-            "mission": "EMKA",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-            "infographic": null
-        },
         {
             "id": "e3f345de-b866-4989-b2c2-edccf4305324",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/e3f345de-b866-4989-b2c2-edccf4305324/",
@@ -60,8 +10,8 @@
             "slug": "momo-flight-6",
             "name": "MOMO | Flight 6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-07-31T08:00:00Z",
             "window_end": "2021-07-31T09:20:00Z",
@@ -204,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "e1140531-122d-4062-a5a5-194042674121",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121/",
+            "launch_library_id": null,
+            "slug": "soyuz-21v-emka",
+            "name": "Soyuz 2.1v | EMKA",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-15T00:00:00Z",
+            "window_end": "2021-08-15T00:00:00Z",
+            "window_start": "2021-08-15T00:00:00Z",
+            "lsp_name": "Ministry of Defence of the Russian Federation",
+            "mission": "EMKA",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
+            "infographic": null
+        },
+        {
             "id": "e4200e5c-2726-43f2-8439-36bd1be59821",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-18T10:00:00Z",
+            "window_end": "2021-08-18T10:00:00Z",
+            "window_start": "2021-08-18T10:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-23",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
             "infographic": null
         }
     ]
