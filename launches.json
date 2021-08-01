@@ -1,33 +1,8 @@
 {
-    "count": 186,
+    "count": 185,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "e3f345de-b866-4989-b2c2-edccf4305324",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e3f345de-b866-4989-b2c2-edccf4305324/",
-            "launch_library_id": null,
-            "slug": "momo-flight-6",
-            "name": "MOMO | Flight 6",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-07-31T08:00:00Z",
-            "window_end": "2021-07-31T09:20:00Z",
-            "window_start": "2021-07-31T07:00:00Z",
-            "lsp_name": "Interstellar Technologies",
-            "mission": "Flight 6",
-            "mission_type": "Suborbital",
-            "pad": "Taiki-cho, Hokkaido, Japan",
-            "location": "Taiki-cho, Hokkaido, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/momo_v1_image_20210703092951.jpg",
-            "infographic": null
-        },
         {
             "id": "f1bcfbf6-d00d-42d7-bc68-82252817a57e",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/f1bcfbf6-d00d-42d7-bc68-82252817a57e/",
@@ -129,31 +104,6 @@
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
         },
         {
-            "id": "495fe114-753d-48b1-9d23-eb9adaa3fb23",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23/",
-            "launch_library_id": 1347,
-            "slug": "atlas-v-551-stp-3",
-            "name": "Atlas V 551 | STP-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-08-15T00:00:00Z",
-            "window_end": "2021-08-15T00:00:00Z",
-            "window_start": "2021-08-15T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "STP-3",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
-            "infographic": null
-        },
-        {
             "id": "e1140531-122d-4062-a5a5-194042674121",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121/",
             "launch_library_id": null,
@@ -229,6 +179,31 @@
             "infographic": null
         },
         {
+            "id": "c185a08e-9d82-4590-a13f-213c84c865e0",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/c185a08e-9d82-4590-a13f-213c84c865e0/",
+            "launch_library_id": null,
+            "slug": "soyuz-21bfregat-m-oneweb-9",
+            "name": "Soyuz 2.1b/Fregat-M | OneWeb 9",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-20T00:00:00Z",
+            "window_end": "2021-08-20T00:00:00Z",
+            "window_start": "2021-08-20T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "OneWeb 9",
+            "mission_type": "Communications",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
+            "infographic": null
+        },
+        {
             "id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f/",
             "launch_library_id": null,
@@ -238,9 +213,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-08-18T10:00:00Z",
-            "window_end": "2021-08-18T10:00:00Z",
-            "window_start": "2021-08-18T10:00:00Z",
+            "net": "2021-08-29T00:00:00Z",
+            "window_end": "2021-08-29T00:00:00Z",
+            "window_start": "2021-08-29T00:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-23",
             "mission_type": "Resupply",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f/",
+            "launch_library_id": 2098,
+            "slug": "kuaizhou-1a-jilin-1-02d",
+            "name": "Kuaizhou-1A | Jilin-1-02D",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-31T00:00:00Z",
+            "window_end": "2021-08-31T00:00:00Z",
+            "window_start": "2021-08-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02D",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         }
     ]
