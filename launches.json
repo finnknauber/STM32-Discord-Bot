@@ -10,12 +10,12 @@
             "slug": "hyperbola-1-unknown-2",
             "name": "Hyperbola-1 | Unknown",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2021-08-03T07:45:00Z",
+            "net": "2021-08-03T07:39:00Z",
             "window_end": "2021-08-03T08:15:00Z",
-            "window_start": "2021-08-03T07:43:00Z",
+            "window_start": "2021-08-03T07:39:00Z",
             "lsp_name": "iSpace",
             "mission": null,
             "pad": "Unknown Pad",
@@ -37,9 +37,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-08-03T17:20:00Z",
-            "window_end": "2021-08-03T17:20:00Z",
-            "window_start": "2021-08-03T17:20:00Z",
+            "net": "2021-08-04T16:57:00Z",
+            "window_end": "2021-08-04T16:57:00Z",
+            "window_start": "2021-08-04T16:57:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "CST-100 Starliner Orbital Flight Test 2 (Uncrewed)",
             "mission_type": "Test Flight",
