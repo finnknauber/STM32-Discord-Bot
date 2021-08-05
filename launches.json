@@ -1,33 +1,8 @@
 {
-    "count": 187,
+    "count": 188,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "64c62222-f8f8-4a35-a8d7-e1b3a0a9250d",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/64c62222-f8f8-4a35-a8d7-e1b3a0a9250d/",
-            "launch_library_id": null,
-            "slug": "long-march-6-kl-beta",
-            "name": "Long March 6 | KL-Beta",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-08-04T11:01:00Z",
-            "window_end": "2021-08-04T12:00:00Z",
-            "window_start": "2021-08-04T10:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "KL-Beta",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 16",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
-            "infographic": null
-        },
         {
             "id": "69b1d093-11c2-4e36-8d85-a22304b555ba",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/69b1d093-11c2-4e36-8d85-a22304b555ba/",
@@ -35,8 +10,8 @@
             "slug": "long-march-3b-zhongxing-2e-chinasat-2e",
             "name": "Long March 3B | Zhongxing 2E (Chinasat 2E)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-08-05T16:30:00Z",
             "window_end": "2021-08-05T16:56:00Z",
@@ -110,8 +85,8 @@
             "slug": "gslv-mk-ii-eos-03-gisat-1",
             "name": "GSLV Mk II | EOS-03 (GISAT-1)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-08-12T00:13:00Z",
             "window_end": "2021-08-12T00:13:00Z",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "5d461570-402b-46e6-bafc-3836d4dcd69d",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/5d461570-402b-46e6-bafc-3836d4dcd69d/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-stp-27ad1",
+            "name": "Astra Rocket 3 | STP-27AD1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-27T20:00:00Z",
+            "window_end": "2021-09-11T00:00:00Z",
+            "window_start": "2021-08-27T20:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "STP-27AD1",
+            "mission_type": "Government/Top Secret",
+            "pad": "LP-3B",
+            "location": "Kodiak Launch Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg",
             "infographic": null
         }
     ]
