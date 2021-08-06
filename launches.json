@@ -1,33 +1,8 @@
 {
-    "count": 188,
+    "count": 187,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "69b1d093-11c2-4e36-8d85-a22304b555ba",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/69b1d093-11c2-4e36-8d85-a22304b555ba/",
-            "launch_library_id": null,
-            "slug": "long-march-3b-zhongxing-2e-chinasat-2e",
-            "name": "Long March 3B | Zhongxing 2E (Chinasat 2E)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-08-05T16:30:00Z",
-            "window_end": "2021-08-05T16:56:00Z",
-            "window_start": "2021-08-05T16:20:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Zhongxing 2E (Chinasat 2E)",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null
-        },
         {
             "id": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d/",
@@ -213,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-08-20T00:00:00Z",
-            "window_end": "2021-08-20T00:00:00Z",
-            "window_start": "2021-08-20T00:00:00Z",
+            "net": "2021-08-19T22:33:00Z",
+            "window_end": "2021-08-19T22:33:00Z",
+            "window_start": "2021-08-19T22:33:00Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 9",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg",
+            "infographic": null
+        },
+        {
+            "id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/13386512-85bb-4c93-a9b0-f5eac05fbe4f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-23",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-23",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-28T07:30:00Z",
+            "window_end": "2021-08-28T07:30:00Z",
+            "window_start": "2021-08-28T07:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-23",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
             "infographic": null
         }
     ]
