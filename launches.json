@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "6476f988-3289-4065-95f4-266b86774d3d",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6476f988-3289-4065-95f4-266b86774d3d/",
-            "launch_library_id": null,
-            "slug": "antares-230-cygnus-crs-2-ng-16-ss-ellison-onizuka",
-            "name": "Antares 230+ | Cygnus CRS-2 NG-16 (S.S. Ellison Onizuka)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-08-10T22:01:05Z",
-            "window_end": "2021-08-10T22:01:05Z",
-            "window_start": "2021-08-10T22:01:05Z",
-            "lsp_name": "Northrop Grumman Innovation Systems",
-            "mission": "Cygnus CRS-2 NG-16 (S.S. Ellison Onizuka)",
-            "mission_type": "Resupply",
-            "pad": "Launch Area 0 A",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/antares2520230_infographic_20210810020828.jpg"
-        },
-        {
             "id": "397c50c5-8a2b-4ca5-807d-8911c14b7126",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126/",
             "launch_library_id": 1131,
             "slug": "gslv-mk-ii-eos-03-gisat-1",
             "name": "GSLV Mk II | EOS-03 (GISAT-1)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
             "net": "2021-08-12T00:13:00Z",
             "window_end": "2021-08-12T00:13:00Z",
@@ -110,12 +85,12 @@
             "slug": "soyuz-21bfregat-m-oneweb-9",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 9",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-08-19T22:33:00Z",
-            "window_end": "2021-08-19T22:33:00Z",
-            "window_start": "2021-08-19T22:33:00Z",
+            "net": "2021-08-19T22:23:00Z",
+            "window_end": "2021-08-19T22:23:00Z",
+            "window_start": "2021-08-19T22:23:00Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 9",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "3985e602-f22f-441f-a0b1-a450ea459da9",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9/",
+            "launch_library_id": null,
+            "slug": "electron-love-at-first-insight",
+            "name": "Electron | Love At First Insight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-31T00:00:00Z",
+            "window_end": "2021-08-31T00:00:00Z",
+            "window_start": "2021-08-31T00:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Love At First Insight",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
