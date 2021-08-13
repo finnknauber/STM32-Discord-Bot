@@ -1,58 +1,8 @@
 {
-    "count": 188,
+    "count": 187,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "397c50c5-8a2b-4ca5-807d-8911c14b7126",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/397c50c5-8a2b-4ca5-807d-8911c14b7126/",
-            "launch_library_id": 1131,
-            "slug": "gslv-mk-ii-eos-03-gisat-1",
-            "name": "GSLV Mk II | EOS-03 (GISAT-1)",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2021-08-12T00:13:00Z",
-            "window_end": "2021-08-12T00:13:00Z",
-            "window_start": "2021-08-12T00:13:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "GISAT-1",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gslv2520mk252_infographic_20200805202604.png"
-        },
-        {
-            "id": "f1bcfbf6-d00d-42d7-bc68-82252817a57e",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/f1bcfbf6-d00d-42d7-bc68-82252817a57e/",
-            "launch_library_id": 2055,
-            "slug": "atlas-v-n22-cst-100-starliner-orbital-flight-tes-2",
-            "name": "Atlas V N22 | CST-100 Starliner Orbital Flight Test 2 (Uncrewed)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-08-15T00:00:00Z",
-            "window_end": "2021-08-15T00:00:00Z",
-            "window_start": "2021-08-15T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "CST-100 Starliner Orbital Flight Test 2 (Uncrewed)",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520n22_image_20190224012241.jpeg",
-            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_infographic_20210729223540.jpeg"
-        },
         {
             "id": "c46cfec6-f135-41f9-995f-9482b8cbe668",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668/",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
+            "launch_library_id": 2099,
+            "slug": "kuaizhou-1a-jilin-1-02f",
+            "name": "Kuaizhou-1A | Jilin-1-02F",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-31T00:00:00Z",
+            "window_end": "2021-08-31T00:00:00Z",
+            "window_start": "2021-08-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02F",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea/",
+            "launch_library_id": 1684,
+            "slug": "firefly-alpha-maiden-flight",
+            "name": "Firefly Alpha | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-08-31T00:00:00Z",
+            "window_end": "2021-08-31T00:00:00Z",
+            "window_start": "2021-08-31T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
