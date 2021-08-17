@@ -1,5 +1,5 @@
 {
-    "count": 188,
+    "count": 187,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "vega-pleiades-neo-4",
             "name": "Vega | Pl\u00e9iades Neo 4",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-08-17T01:47:00Z",
             "window_end": "2021-08-17T01:47:00Z",
