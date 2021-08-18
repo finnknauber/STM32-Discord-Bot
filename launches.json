@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "c46cfec6-f135-41f9-995f-9482b8cbe668",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c46cfec6-f135-41f9-995f-9482b8cbe668/",
-            "launch_library_id": 1339,
-            "slug": "vega-pleiades-neo-4",
-            "name": "Vega | Pl\u00e9iades Neo 4",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-08-17T01:47:00Z",
-            "window_end": "2021-08-17T01:47:00Z",
-            "window_start": "2021-08-17T01:47:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Pl\u00e9iades Neo 4",
-            "mission_type": "Government/Top Secret",
-            "pad": "Ariane Launch Area 1",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-            "infographic": null
-        },
-        {
             "id": "0c6bdb4c-74cc-470b-9ffd-2df58d6408d6",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0c6bdb4c-74cc-470b-9ffd-2df58d6408d6/",
             "launch_library_id": null,
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ff3ef28b-afd5-414f-aab4-040d5b74fdd6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/ff3ef28b-afd5-414f-aab4-040d5b74fdd6/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-17",
+            "name": "New Shepard | NS-17",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-08-25T13:35:00Z",
+            "window_end": "2021-08-25T13:35:00Z",
+            "window_start": "2021-08-25T13:35:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-17",
+            "mission_type": "Suborbital",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, USA",
+            "landing": "CR",
+            "landing_success": 0,
+            "launcher": "NS-3",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
             "infographic": null
         },
         {
