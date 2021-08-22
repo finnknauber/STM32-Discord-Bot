@@ -1,5 +1,5 @@
 {
-    "count": 188,
+    "count": 189,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "soyuz-21bfregat-m-oneweb-9",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 9",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-08-21T22:13:40Z",
             "window_end": "2021-08-21T22:13:40Z",
@@ -27,6 +27,31 @@
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085931.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_infographic_20210820195950.jpeg"
+        },
+        {
+            "id": "6aaf04a1-85ee-4698-9933-31aca3e19ccf",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aaf04a1-85ee-4698-9933-31aca3e19ccf/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-yz-1s-internet-connectivity-test-sat",
+            "name": "Long March 2C / YZ-1S | Internet Connectivity Test Satellite",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-08-24T11:30:00Z",
+            "window_end": "2021-08-24T12:47:00Z",
+            "window_start": "2021-08-24T11:22:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Internet Connectivity Test Satellite (x2)",
+            "mission_type": "Communications",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": null,
+            "infographic": null
         },
         {
             "id": "67b4af9c-adf4-4ae7-922d-8f27e22b4b25",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
-            "infographic": null
-        },
-        {
-            "id": "0834f42e-8b04-4026-a3e1-df7a0d570bba",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/0834f42e-8b04-4026-a3e1-df7a0d570bba/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-oneweb-10",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 10",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-09T00:00:00Z",
-            "window_end": "2021-09-09T00:00:00Z",
-            "window_start": "2021-09-09T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "OneWeb 10",
-            "mission_type": "Communications",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085936.jpeg",
             "infographic": null
         }
     ]
