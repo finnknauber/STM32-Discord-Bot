@@ -10,11 +10,11 @@
             "slug": "new-shepard-ns-17",
             "name": "New Shepard | NS-17",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-08-26T13:35:00Z",
-            "window_end": "2021-08-26T13:35:00Z",
+            "net": "2021-08-26T14:31:00Z",
+            "window_end": "2021-08-26T14:31:00Z",
             "window_start": "2021-08-26T13:35:00Z",
             "lsp_name": "Blue Origin",
             "mission": "NS-17",
@@ -26,7 +26,7 @@
             "launcher": "NS-3",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/new2520shepard_infographic_20210826030422.jpeg"
         },
         {
             "id": "5d461570-402b-46e6-bafc-3836d4dcd69d",
@@ -51,7 +51,7 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20210805160125.jpg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_infographic_20210826031553.jpeg"
         },
         {
             "id": "13386512-85bb-4c93-a9b0-f5eac05fbe4f",
@@ -76,7 +76,7 @@
             "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210520085649.jpeg",
-            "infographic": null
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210826033644.jpeg"
         },
         {
             "id": "3985e602-f22f-441f-a0b1-a450ea459da9",
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "e1140531-122d-4062-a5a5-194042674121",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e1140531-122d-4062-a5a5-194042674121/",
-            "launch_library_id": null,
-            "slug": "soyuz-21v-emka",
-            "name": "Soyuz 2.1v | EMKA",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-08-31T00:00:00Z",
-            "window_end": "2021-08-31T00:00:00Z",
-            "window_start": "2021-08-31T00:00:00Z",
-            "lsp_name": "Ministry of Defence of the Russian Federation",
-            "mission": "EMKA",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-            "infographic": null
-        },
-        {
             "id": "bb2a5291-0aef-4c2a-8e29-93362d256fea",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/bb2a5291-0aef-4c2a-8e29-93362d256fea/",
             "launch_library_id": 1684,
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-09-02T00:00:00Z",
-            "window_end": "2021-09-02T00:00:00Z",
-            "window_start": "2021-09-02T00:00:00Z",
+            "net": "2021-09-03T00:00:00Z",
+            "window_end": "2021-09-03T00:00:00Z",
+            "window_start": "2021-09-03T00:00:00Z",
             "lsp_name": "Firefly Aerospace",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "30412a48-cb4d-43d6-a304-6ae5f062504f",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/30412a48-cb4d-43d6-a304-6ae5f062504f/",
+            "launch_library_id": 2098,
+            "slug": "kuaizhou-1a-jilin-1-02d",
+            "name": "Kuaizhou-1A | Jilin-1-02D",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-09-30T00:00:00Z",
+            "window_end": "2021-09-30T00:00:00Z",
+            "window_start": "2021-09-30T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02D",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         }
     ]
