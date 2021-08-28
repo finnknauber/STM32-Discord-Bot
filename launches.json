@@ -10,12 +10,12 @@
             "slug": "astra-rocket-3-stp-27ad1",
             "name": "Astra Rocket 3 | STP-27AD1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 5,
+                "name": "Hold"
             },
-            "net": "2021-08-27T21:45:00Z",
-            "window_end": "2021-08-28T00:30:00Z",
-            "window_start": "2021-08-27T21:00:00Z",
+            "net": "2021-08-28T22:30:00Z",
+            "window_end": "2021-08-29T00:30:00Z",
+            "window_start": "2021-08-28T21:00:00Z",
             "lsp_name": "Astra Space",
             "mission": "STP-27AD1",
             "mission_type": "Government/Top Secret",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-08-28T07:37:12Z",
-            "window_end": "2021-08-28T07:37:12Z",
-            "window_start": "2021-08-28T07:37:12Z",
+            "net": "2021-08-29T07:14:00Z",
+            "window_end": "2021-08-29T07:14:00Z",
+            "window_start": "2021-08-29T07:14:00Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-23",
             "mission_type": "Resupply",
@@ -85,12 +85,12 @@
             "slug": "firefly-alpha-maiden-flight",
             "name": "Firefly Alpha | Maiden Flight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-09-03T00:00:00Z",
-            "window_end": "2021-09-03T00:00:00Z",
-            "window_start": "2021-09-03T00:00:00Z",
+            "net": "2021-09-03T01:00:00Z",
+            "window_end": "2021-09-03T05:00:00Z",
+            "window_start": "2021-09-03T01:00:00Z",
             "lsp_name": "Firefly Aerospace",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
@@ -154,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "f8a96988-9ba4-4480-84c4-496492e67e23",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23/",
-            "launch_library_id": 1404,
-            "slug": "atlas-v-401-landsat-9",
-            "name": "Atlas V 401 | Landsat 9",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-16T18:11:00Z",
-            "window_end": "2021-09-16T18:11:00Z",
-            "window_start": "2021-09-16T18:11:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "Landsat 9",
-            "mission_type": "Earth Science",
-            "pad": "Space Launch Complex 3E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
-            "infographic": null
-        },
-        {
             "id": "cf0a0e4c-ce72-4b50-af07-016326cbceff",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/cf0a0e4c-ce72-4b50-af07-016326cbceff/",
             "launch_library_id": null,
@@ -201,6 +176,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f8a96988-9ba4-4480-84c4-496492e67e23",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/f8a96988-9ba4-4480-84c4-496492e67e23/",
+            "launch_library_id": 1404,
+            "slug": "atlas-v-401-landsat-9",
+            "name": "Atlas V 401 | Landsat 9",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-09-23T18:11:00Z",
+            "window_end": "2021-09-23T18:11:00Z",
+            "window_start": "2021-09-23T18:11:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "Landsat 9",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 3E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
             "infographic": null
         },
         {
