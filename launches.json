@@ -231,8 +231,8 @@
             "id": "6b9f9fe6-7f94-498b-a664-7c9e42dbe76d",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/6b9f9fe6-7f94-498b-a664-7c9e42dbe76d/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-2-1",
-            "name": "Falcon 9 Block 5 | Starlink 2-1",
+            "slug": "falcon-9-block-5-starlink-group-2-1",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-1",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -241,7 +241,7 @@
             "window_end": "2021-09-30T00:00:00Z",
             "window_start": "2021-09-30T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink 2-1",
+            "mission": "Starlink Group 2-1",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
