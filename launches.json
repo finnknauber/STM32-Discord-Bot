@@ -10,10 +10,10 @@
             "slug": "firefly-alpha-maiden-flight",
             "name": "Firefly Alpha | Maiden Flight",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2021-09-03T01:00:00Z",
+            "net": "2021-09-03T01:59:00Z",
             "window_end": "2021-09-03T05:00:00Z",
             "window_start": "2021-09-03T01:00:00Z",
             "lsp_name": "Firefly Aerospace",
@@ -85,11 +85,11 @@
             "slug": "falcon-9-block-5-inspiration4",
             "name": "Falcon 9 Block 5 | Inspiration4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-09-15T00:00:00Z",
-            "window_end": "2021-09-15T00:00:00Z",
+            "window_end": "2021-09-16T00:00:00Z",
             "window_start": "2021-09-15T00:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Inspiration4",
