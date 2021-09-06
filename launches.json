@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-09-06T02:40:00Z",
-            "window_end": "2021-09-06T03:56:00Z",
-            "window_start": "2021-09-06T02:40:00Z",
+            "net": "2021-09-07T02:35:00Z",
+            "window_end": "2021-09-07T03:56:00Z",
+            "window_start": "2021-09-07T02:35:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Gaofen-5-02",
             "mission_type": "Earth Science",
@@ -123,7 +123,7 @@
             "location": "Kennedy Space Center, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
-            "launcher": "B1067",
+            "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg",
             "infographic": null
