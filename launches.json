@@ -10,8 +10,8 @@
             "slug": "long-march-3b-chinasat-9b",
             "name": "Long March 3B | ChinaSat 9B",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-09-09T11:50:00Z",
             "window_end": "2021-09-09T12:09:00Z",
@@ -35,10 +35,10 @@
             "slug": "soyuz-21v-razbeg-1",
             "name": "Soyuz 2.1v | Razbeg 1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-09-09T19:00:00Z",
+            "net": "2021-09-09T19:59:47Z",
             "window_end": "2021-09-09T21:00:00Z",
             "window_start": "2021-09-09T19:00:00Z",
             "lsp_name": "Ministry of Defence of the Russian Federation",
