@@ -1,33 +1,8 @@
 {
-    "count": 185,
+    "count": 186,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "23e92c1c-1c4f-469c-8cf0-74200a6b05c8",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/23e92c1c-1c4f-469c-8cf0-74200a6b05c8/",
-            "launch_library_id": null,
-            "slug": "hapith-i-test-flight",
-            "name": "Hapith I | Test Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-12T20:30:00Z",
-            "window_end": "2021-09-13T08:30:00Z",
-            "window_start": "2021-09-12T20:30:00Z",
-            "lsp_name": "TiSPACE",
-            "mission": "Test Flight",
-            "mission_type": "Test Flight",
-            "pad": "Pad 1",
-            "location": "Whalers Way Orbital Launch Complex",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hapith_i_image_20210911031658.jpg",
-            "infographic": null
-        },
         {
             "id": "360fe91d-17ae-45b1-a636-340a27c1e6f8",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8/",
@@ -129,6 +104,31 @@
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210911160456.jpg"
         },
         {
+            "id": "23e92c1c-1c4f-469c-8cf0-74200a6b05c8",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/23e92c1c-1c4f-469c-8cf0-74200a6b05c8/",
+            "launch_library_id": null,
+            "slug": "hapith-i-test-flight",
+            "name": "Hapith I | Test Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-09-16T20:30:00Z",
+            "window_end": "2021-09-16T08:30:00Z",
+            "window_start": "2021-09-16T20:30:00Z",
+            "lsp_name": "TiSPACE",
+            "mission": "Test Flight",
+            "mission_type": "Test Flight",
+            "pad": "Pad 1",
+            "location": "Whalers Way Orbital Launch Complex",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hapith_i_image_20210911031658.jpg",
+            "infographic": null
+        },
+        {
             "id": "cf0a0e4c-ce72-4b50-af07-016326cbceff",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/cf0a0e4c-ce72-4b50-af07-016326cbceff/",
             "launch_library_id": null,
@@ -204,31 +204,6 @@
             "infographic": null
         },
         {
-            "id": "3985e602-f22f-441f-a0b1-a450ea459da9",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9/",
-            "launch_library_id": null,
-            "slug": "electron-love-at-first-insight",
-            "name": "Electron | Love At First Insight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-30T00:00:00Z",
-            "window_end": "2021-09-30T00:00:00Z",
-            "window_start": "2021-09-30T00:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Love At First Insight",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "671b829d-ec26-4b9f-ac13-e50bdc9cca05",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/671b829d-ec26-4b9f-ac13-e50bdc9cca05/",
             "launch_library_id": 1880,
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
+            "launch_library_id": 2099,
+            "slug": "kuaizhou-1a-jilin-1-02f",
+            "name": "Kuaizhou-1A | Jilin-1-02F",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-09-30T00:00:00Z",
+            "window_end": "2021-09-30T00:00:00Z",
+            "window_start": "2021-09-30T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02F",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         }
     ]
