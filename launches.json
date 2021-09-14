@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-2-1",
             "name": "Falcon 9 Block 5 | Starlink Group 2-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-09-14T03:55:00Z",
             "window_end": "2021-09-14T03:55:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1049",
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160237.png",
@@ -35,12 +35,12 @@
             "slug": "soyuz-21bfregat-m-oneweb-10",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 10",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2021-09-14T18:07:00Z",
-            "window_end": "2021-09-14T18:07:00Z",
-            "window_start": "2021-09-14T18:07:00Z",
+            "net": "2021-09-14T18:07:19Z",
+            "window_end": "2021-09-14T18:07:19Z",
+            "window_start": "2021-09-14T18:07:19Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 10",
             "mission_type": "Communications",
@@ -54,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "23e92c1c-1c4f-469c-8cf0-74200a6b05c8",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/23e92c1c-1c4f-469c-8cf0-74200a6b05c8/",
+            "launch_library_id": null,
+            "slug": "hapith-i-test-flight",
+            "name": "Hapith I | Test Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-09-15T08:30:00Z",
+            "window_end": "2021-09-15T08:30:00Z",
+            "window_start": "2021-09-14T20:45:00Z",
+            "lsp_name": "TiSPACE",
+            "mission": "Test Flight",
+            "mission_type": "Test Flight",
+            "pad": "Pad 1",
+            "location": "Whalers Way Orbital Launch Complex, South Australia",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hapith_i_image_20210911031658.jpg",
+            "infographic": null
+        },
+        {
             "id": "621d64e6-0513-45dc-8ffa-c9fd56518398",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/621d64e6-0513-45dc-8ffa-c9fd56518398/",
             "launch_library_id": null,
@@ -63,7 +88,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-09-16T00:02:00Z",
+            "net": "2021-09-16T00:02:56Z",
             "window_end": "2021-09-16T05:13:00Z",
             "window_start": "2021-09-16T00:02:00Z",
             "lsp_name": "SpaceX",
@@ -75,7 +100,7 @@
             "landing_success": 0,
             "launcher": "B1062",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075452.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_infographic_20210911160456.jpg"
         },
         {
@@ -225,31 +250,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "e4200e5c-2726-43f2-8439-36bd1be59821",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-30",
-            "name": "Falcon 9 Block 5 | Starlink 30",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-30T00:00:00Z",
-            "window_end": "2021-09-30T00:00:00Z",
-            "window_start": "2021-09-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink 30",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png",
             "infographic": null
         }
     ]
