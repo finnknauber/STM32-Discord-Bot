@@ -1,5 +1,5 @@
 {
-    "count": 184,
+    "count": 185,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-inspiration4",
             "name": "Falcon 9 Block 5 | Inspiration4",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-09-16T00:02:56Z",
             "window_end": "2021-09-16T05:13:00Z",
@@ -22,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210914155606.jpeg",
@@ -35,10 +35,10 @@
             "slug": "hapith-i-test-flight",
             "name": "Hapith I | Test Flight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2021-09-16T08:30:00Z",
+            "net": "2021-09-16T06:39:00Z",
             "window_end": "2021-09-16T08:30:00Z",
             "window_start": "2021-09-15T20:45:00Z",
             "lsp_name": "TiSPACE",
