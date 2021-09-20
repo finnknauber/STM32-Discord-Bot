@@ -10,8 +10,8 @@
             "slug": "long-march-7-tianzhou-3",
             "name": "Long March 7  | Tianzhou-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-09-20T07:10:00Z",
             "window_end": "2021-09-20T07:20:00Z",
