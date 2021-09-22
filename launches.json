@@ -1,5 +1,5 @@
 {
-    "count": 186,
+    "count": 195,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -154,30 +154,6 @@
             "infographic": null
         },
         {
-            "id": "aa88b853-9e04-4a28-9433-d87799331b1b",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/aa88b853-9e04-4a28-9433-d87799331b1b/",
-            "launch_library_id": 1695,
-            "slug": "falcon-heavy-ussf-44",
-            "name": "Falcon Heavy | USSF-44",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-10-09T00:00:00Z",
-            "window_end": "2021-10-09T00:00:00Z",
-            "window_start": "2021-10-09T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": null,
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
-            "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon2520heavy_image_20190224025007.jpeg",
-            "infographic": null
-        },
-        {
             "id": "53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194/",
             "launch_library_id": null,
@@ -250,6 +226,31 @@
             "launcher": null,
             "orbit": "Helio-N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1f79ce8e-dabc-4287-bb59-2a40f567c4e4",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/1f79ce8e-dabc-4287-bb59-2a40f567c4e4/",
+            "launch_library_id": null,
+            "slug": "nuri-maiden-flight",
+            "name": "Nuri | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-21T00:00:00Z",
+            "window_end": "2021-10-21T00:00:00Z",
+            "window_start": "2021-10-21T00:00:00Z",
+            "lsp_name": "Korea Aerospace Research Institute",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "LC-2",
+            "location": "Naro Space Center, South Korea",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/nuri_image_20210812064852.jpg",
             "infographic": null
         }
     ]
