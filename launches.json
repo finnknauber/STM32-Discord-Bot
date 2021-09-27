@@ -1,5 +1,5 @@
 {
-    "count": 196,
+    "count": 197,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,10 +10,10 @@
             "slug": "kuaizhou-1a-jilin-1-02d",
             "name": "Kuaizhou-1A | Jilin-1-02D",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-09-27T06:20:00Z",
+            "net": "2021-09-27T06:19:00Z",
             "window_end": "2021-09-27T06:31:00Z",
             "window_start": "2021-09-27T06:10:00Z",
             "lsp_name": "China Aerospace Science and Industry Corporation",
@@ -32,23 +32,24 @@
             "id": "b48423e2-ba38-46d4-88bb-45cdbb6d74a5",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/b48423e2-ba38-46d4-88bb-45cdbb6d74a5/",
             "launch_library_id": null,
-            "slug": "long-march-3be-unknown",
-            "name": "Long March 3B/E | Unknown",
+            "slug": "long-march-3be-beidou-4s",
+            "name": "Long March 3B/E | Beidou-4S (?)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2021-09-27T08:15:00Z",
             "window_end": "2021-09-27T08:30:00Z",
             "window_start": "2021-09-27T08:00:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Beidou-4S (?)",
+            "mission_type": "Navigation",
             "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "GSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
             "infographic": null
         },
@@ -59,12 +60,12 @@
             "slug": "atlas-v-401-landsat-9",
             "name": "Atlas V 401 | Landsat 9",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-09-27T18:11:00Z",
-            "window_end": "2021-09-27T18:11:00Z",
-            "window_start": "2021-09-27T18:11:00Z",
+            "net": "2021-09-27T18:12:00Z",
+            "window_end": "2021-09-27T18:42:00Z",
+            "window_start": "2021-09-27T18:12:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "Landsat 9",
             "mission_type": "Earth Science",
@@ -100,31 +101,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
-            "launch_library_id": 2099,
-            "slug": "kuaizhou-1a-jilin-1-02f",
-            "name": "Kuaizhou-1A | Jilin-1-02F",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-30T00:00:00Z",
-            "window_end": "2021-09-30T00:00:00Z",
-            "window_start": "2021-09-30T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Industry Corporation",
-            "mission": "Jilin-1-02F",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -175,6 +151,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-18",
+            "name": "New Shepard | NS-18",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-12T00:00:00Z",
+            "window_end": "2021-10-12T00:00:00Z",
+            "window_start": "2021-10-12T00:00:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": null,
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, USA",
+            "landing": "CR",
+            "landing_success": 0,
+            "launcher": "NS-3",
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
             "infographic": null
         },
         {
