@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "360fe91d-17ae-45b1-a636-340a27c1e6f8",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8/",
-            "launch_library_id": null,
-            "slug": "long-march-2cyz-1s-yaogan-32-02",
-            "name": "Long March 2C/YZ-1S | Yaogan-32-02",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-09-30T00:00:00Z",
-            "window_end": "2021-09-30T00:00:00Z",
-            "window_start": "2021-09-30T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan-32-02",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
-            "infographic": null
-        },
-        {
             "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
             "launch_library_id": null,
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-10-01T00:48:00Z",
-            "window_end": "2021-10-01T00:59:00Z",
-            "window_start": "2021-10-01T00:48:00Z",
+            "net": "2021-10-01T00:51:21Z",
+            "window_end": "2021-10-01T00:55:16Z",
+            "window_start": "2021-10-01T00:51:21Z",
             "lsp_name": "Japan Aerospace Exploration Agency",
             "mission": "RAISE-2 & Others",
             "mission_type": "Test Flight",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "GSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "5175abf5-6cac-4b57-ae16-edabc138966a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-progress-ms-18-79p",
+            "name": "Soyuz 2.1a | Progress MS-18 (79P)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-28T00:00:00Z",
+            "window_end": "2021-10-28T00:00:00Z",
+            "window_start": "2021-10-28T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Progress MS-18 (79P)",
+            "mission_type": "Resupply",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
         }
     ]
