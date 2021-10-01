@@ -1,5 +1,5 @@
 {
-    "count": 194,
+    "count": 195,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "epsilon-raise-2-others",
             "name": "Epsilon | RAISE-2 & Others",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2021-10-01T00:51:21Z",
-            "window_end": "2021-10-01T00:55:16Z",
-            "window_start": "2021-10-01T00:51:21Z",
+            "net": "2021-10-03T00:00:00Z",
+            "window_end": "2021-10-03T00:00:00Z",
+            "window_start": "2021-10-03T00:00:00Z",
             "lsp_name": "Japan Aerospace Exploration Agency",
             "mission": "RAISE-2 & Others",
             "mission_type": "Test Flight",
@@ -35,12 +35,12 @@
             "slug": "soyuz-21a-soyuz-ms-19",
             "name": "Soyuz 2.1a | Soyuz MS-19",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-10-05T08:55:05Z",
-            "window_end": "2021-10-05T08:55:05Z",
-            "window_start": "2021-10-05T08:55:05Z",
+            "net": "2021-10-05T08:55:02Z",
+            "window_end": "2021-10-05T08:55:02Z",
+            "window_start": "2021-10-05T08:55:02Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Soyuz MS-19",
             "mission_type": "Human Exploration",
@@ -139,7 +139,7 @@
                 "name": "TBD"
             },
             "net": "2021-10-16T09:34:00Z",
-            "window_end": "2021-10-16T09:34:00Z",
+            "window_end": "2021-10-16T10:49:00Z",
             "window_start": "2021-10-16T09:34:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "Lucy",
