@@ -13,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-10-03T00:00:00Z",
-            "window_end": "2021-10-03T00:00:00Z",
-            "window_start": "2021-10-03T00:00:00Z",
+            "net": "2021-10-05T00:00:00Z",
+            "window_end": "2021-10-05T00:00:00Z",
+            "window_start": "2021-10-05T00:00:00Z",
             "lsp_name": "Japan Aerospace Exploration Agency",
             "mission": "RAISE-2 & Others",
             "mission_type": "Test Flight",
