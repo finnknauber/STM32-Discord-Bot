@@ -10,8 +10,8 @@
             "slug": "soyuz-21a-soyuz-ms-19",
             "name": "Soyuz 2.1a | Soyuz MS-19",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-10-05T08:55:02Z",
             "window_end": "2021-10-05T08:55:02Z",
