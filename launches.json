@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/3637c9eb-25b4-4aaa-bb7e-2c3c53c46e56/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-soyuz-ms-19",
-            "name": "Soyuz 2.1a | Soyuz MS-19",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-10-05T08:55:02Z",
-            "window_end": "2021-10-05T08:55:02Z",
-            "window_start": "2021-10-05T08:55:02Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Soyuz MS-19",
-            "mission_type": "Human Exploration",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-            "infographic": null
-        },
-        {
             "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spx-uscv-3-nasa-crew-flight-3",
+            "name": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-10-30T06:43:00Z",
+            "window_end": "2021-10-30T06:43:00Z",
+            "window_start": "2021-10-30T06:43:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SpX USCV-3 (NASA Crew Flight 3)",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1067",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
             "infographic": null
         }
     ]
