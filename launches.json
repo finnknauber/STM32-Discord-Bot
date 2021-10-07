@@ -1,33 +1,8 @@
 {
-    "count": 196,
+    "count": 197,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
-            "launch_library_id": null,
-            "slug": "epsilon-raise-2-others",
-            "name": "Epsilon | RAISE-2 & Others",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-10-07T00:51:21Z",
-            "window_end": "2021-10-07T00:55:16Z",
-            "window_start": "2021-10-07T00:51:21Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "RAISE-2 & Others",
-            "mission_type": "Test Flight",
-            "pad": "M-V Pad",
-            "location": "Uchinoura Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
-            "infographic": null
-        },
         {
             "id": "ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/ede465a7-4aa0-41fe-a1f5-a8e3c8e68df8/",
@@ -54,31 +29,6 @@
             "infographic": null
         },
         {
-            "id": "53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194/",
-            "launch_library_id": null,
-            "slug": "long-march-2fg-shenzhou-13",
-            "name": "Long March 2F/G | Shenzhou 13",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-10-13T00:00:00Z",
-            "window_end": "2021-10-13T00:00:00Z",
-            "window_start": "2021-10-13T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Shenzhou 13",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Area 4 (SLS-1 / 921)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
-            "infographic": null
-        },
-        {
             "id": "665d4c52-a441-416f-b634-3e9ae9f1d3ab",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab/",
             "launch_library_id": null,
@@ -88,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-10-14T00:00:00Z",
-            "window_end": "2021-10-14T00:00:00Z",
-            "window_start": "2021-10-14T00:00:00Z",
+            "net": "2021-10-14T09:40:00Z",
+            "window_end": "2021-10-14T09:40:00Z",
+            "window_start": "2021-10-14T09:40:00Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 11",
             "mission_type": "Communications",
@@ -101,6 +51,56 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
+            "launch_library_id": null,
+            "slug": "epsilon-raise-2-others",
+            "name": "Epsilon | RAISE-2 & Others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-15T00:51:21Z",
+            "window_end": "2021-10-15T00:55:16Z",
+            "window_start": "2021-10-15T00:51:21Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "RAISE-2 & Others",
+            "mission_type": "Test Flight",
+            "pad": "M-V Pad",
+            "location": "Uchinoura Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-13",
+            "name": "Long March 2F/G | Shenzhou 13",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-15T16:24:00Z",
+            "window_end": "2021-10-15T16:24:00Z",
+            "window_start": "2021-10-15T16:24:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 13",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
             "infographic": null
         },
         {
