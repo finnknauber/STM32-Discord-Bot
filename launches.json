@@ -1,5 +1,5 @@
 {
-    "count": 197,
+    "count": 198,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -35,8 +35,8 @@
             "slug": "soyuz-21bfregat-m-oneweb-11",
             "name": "Soyuz 2.1b/Fregat-M | OneWeb 11",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-10-14T09:40:00Z",
             "window_end": "2021-10-14T09:40:00Z",
@@ -60,12 +60,12 @@
             "slug": "long-march-2fg-shenzhou-13",
             "name": "Long March 2F/G | Shenzhou 13",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-10-15T16:24:00Z",
-            "window_end": "2021-10-15T16:24:00Z",
-            "window_start": "2021-10-15T16:24:00Z",
+            "window_end": "2021-10-15T16:54:00Z",
+            "window_start": "2021-10-15T16:13:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Shenzhou 13",
             "mission_type": "Human Exploration",
@@ -85,8 +85,8 @@
             "slug": "atlas-v-401-lucy",
             "name": "Atlas V 401 | Lucy",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-10-16T09:34:00Z",
             "window_end": "2021-10-16T10:49:00Z",
@@ -135,12 +135,12 @@
             "slug": "ariane-5-eca-ses-17-syracuse-4a",
             "name": "Ariane 5 ECA | SES-17 & Syracuse 4A",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-10-22T00:15:00Z",
-            "window_end": "2021-10-22T00:15:00Z",
-            "window_start": "2021-10-22T00:15:00Z",
+            "net": "2021-10-23T01:01:00Z",
+            "window_end": "2021-10-23T01:01:00Z",
+            "window_start": "2021-10-23T01:01:00Z",
             "lsp_name": "Arianespace",
             "mission": "SES-17 & Syracuse 4A",
             "mission_type": "Communications",
