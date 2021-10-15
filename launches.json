@@ -1,58 +1,8 @@
 {
-    "count": 199,
+    "count": 197,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "665d4c52-a441-416f-b634-3e9ae9f1d3ab",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/665d4c52-a441-416f-b634-3e9ae9f1d3ab/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-oneweb-11",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 11",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-10-14T09:40:10Z",
-            "window_end": "2021-10-14T09:40:10Z",
-            "window_start": "2021-10-14T09:40:10Z",
-            "lsp_name": "Arianespace",
-            "mission": "OneWeb 11",
-            "mission_type": "Communications",
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085941.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "00190507-4918-491a-aa73-0e151775fada",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/00190507-4918-491a-aa73-0e151775fada/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-xihe-chase",
-            "name": "Long March 2D | Xihe (CHASE)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-10-14T10:51:00Z",
-            "window_end": "2021-10-14T11:12:00Z",
-            "window_start": "2021-10-14T10:44:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Xihe (CHASE)",
-            "mission_type": "Heliophysics",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
         {
             "id": "53d3f5c4-58ce-4aab-9f38-5d3dfa434194",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/53d3f5c4-58ce-4aab-9f38-5d3dfa434194/",
@@ -60,10 +10,10 @@
             "slug": "long-march-2fg-shenzhou-13",
             "name": "Long March 2F/G | Shenzhou 13",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-10-15T16:23:44Z",
+            "net": "2021-10-15T16:23:56Z",
             "window_end": "2021-10-15T16:54:00Z",
             "window_start": "2021-10-15T16:13:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -100,32 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "Helio-N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520401_image_20190224012334.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d4b0c0f-3d72-4cb2-b596-dc526ad178a6/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-2-2",
-            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-10-17T17:34:00Z",
-            "window_end": "2021-10-17T18:34:00Z",
-            "window_start": "2021-10-17T17:34:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 2-2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1051",
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211001182858.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_401_image_20211015133735.jpeg",
             "infographic": null
         },
         {
@@ -138,7 +63,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-10-21T06:05:00Z",
+            "net": "2021-10-21T07:00:00Z",
             "window_end": "2021-10-21T10:20:00Z",
             "window_start": "2021-10-21T06:05:00Z",
             "lsp_name": "Korea Aerospace Research Institute",
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spx-uscv-3-nasa-crew-flight-3",
+            "name": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-10-30T06:43:00Z",
+            "window_end": "2021-10-30T06:43:00Z",
+            "window_start": "2021-10-30T06:43:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SpX USCV-3 (NASA Crew Flight 3)",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1067",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d4b0c0f-3d72-4cb2-b596-dc526ad178a6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-31T00:00:00Z",
+            "window_end": "2021-10-31T00:00:00Z",
+            "window_start": "2021-10-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1051",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211001182858.png",
+            "infographic": null
+        },
+        {
+            "id": "360fe91d-17ae-45b1-a636-340a27c1e6f8",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8/",
+            "launch_library_id": null,
+            "slug": "long-march-2cyz-1s-yaogan-32-02",
+            "name": "Long March 2C/YZ-1S | Yaogan-32-02",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-31T00:00:00Z",
+            "window_end": "2021-10-31T00:00:00Z",
+            "window_start": "2021-10-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Yaogan-32-02",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
             "infographic": null
         }
     ]
