@@ -1,33 +1,8 @@
 {
-    "count": 195,
+    "count": 194,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "1f79ce8e-dabc-4287-bb59-2a40f567c4e4",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/1f79ce8e-dabc-4287-bb59-2a40f567c4e4/",
-            "launch_library_id": null,
-            "slug": "nuri-flight-test",
-            "name": "Nuri | Flight Test",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2021-10-21T08:00:00Z",
-            "window_end": "2021-10-21T10:20:00Z",
-            "window_start": "2021-10-21T06:05:00Z",
-            "lsp_name": "Korea Aerospace Research Institute",
-            "mission": "Flight Test",
-            "mission_type": "Test Flight",
-            "pad": "LC-2",
-            "location": "Naro Space Center, South Korea",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/nuri_image_20211020165148.jpg",
-            "infographic": null
-        },
         {
             "id": "7b412779-a9cd-442d-b067-1889a8f6b930",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/7b412779-a9cd-442d-b067-1889a8f6b930/",
@@ -35,12 +10,12 @@
             "slug": "ariane-5-eca-ses-17-syracuse-4a",
             "name": "Ariane 5 ECA | SES-17 & Syracuse 4A",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2021-10-23T01:01:00Z",
-            "window_end": "2021-10-23T03:30:00Z",
-            "window_start": "2021-10-23T01:01:00Z",
+            "net": "2021-10-25T01:01:00Z",
+            "window_end": "2021-10-25T03:30:00Z",
+            "window_start": "2021-10-25T01:01:00Z",
             "lsp_name": "Arianespace",
             "mission": "SES-17 & Syracuse 4A",
             "mission_type": "Communications",
@@ -79,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-stp-27ad2",
-            "name": "Astra Rocket 3 | STP-27AD2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-10-27T00:00:00Z",
-            "window_end": "2021-10-31T00:00:00Z",
-            "window_start": "2021-10-27T00:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "STP-27AD2",
-            "mission_type": "Test Flight",
-            "pad": "LP-3B",
-            "location": "Kodiak Launch Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
-            "infographic": null
-        },
-        {
             "id": "5175abf5-6cac-4b57-ae16-edabc138966a",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a/",
             "launch_library_id": null,
@@ -126,6 +76,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-stp-27ad2",
+            "name": "Astra Rocket 3 | STP-27AD2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-28T04:00:00Z",
+            "window_end": "2021-10-28T07:30:00Z",
+            "window_start": "2021-10-28T04:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "STP-27AD2",
+            "mission_type": "Test Flight",
+            "pad": "LP-3B",
+            "location": "Kodiak Launch Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png",
+            "infographic": null
+        },
+        {
+            "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spx-uscv-3-nasa-crew-flight-3",
+            "name": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-10-31T06:21:00Z",
+            "window_end": "2021-10-31T06:21:00Z",
+            "window_start": "2021-10-31T06:21:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SpX USCV-3 (NASA Crew Flight 3)",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1067",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
             "infographic": null
         }
     ]
