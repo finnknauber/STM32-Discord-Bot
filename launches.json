@@ -1,83 +1,8 @@
 {
-    "count": 195,
+    "count": 193,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "868fd262-e51f-472b-a991-da7996ff83f2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/868fd262-e51f-472b-a991-da7996ff83f2/",
-            "launch_library_id": null,
-            "slug": "long-march-3b-shijian-21",
-            "name": "Long March 3B | Shijian 21",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-10-24T01:27:00Z",
-            "window_end": "2021-10-24T01:45:00Z",
-            "window_start": "2021-10-24T01:15:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Shijian 21",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "7b412779-a9cd-442d-b067-1889a8f6b930",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/7b412779-a9cd-442d-b067-1889a8f6b930/",
-            "launch_library_id": 1369,
-            "slug": "ariane-5-eca-ses-17-syracuse-4a",
-            "name": "Ariane 5 ECA+ | SES-17 & Syracuse 4A",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-10-24T02:10:00Z",
-            "window_end": "2021-10-24T03:30:00Z",
-            "window_start": "2021-10-24T01:01:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "SES-17 & Syracuse 4A",
-            "mission_type": "Communications",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
-            "launch_library_id": 2099,
-            "slug": "kuaizhou-1a-jilin-1-02f",
-            "name": "Kuaizhou-1A | Jilin-1-02F",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-10-25T06:10:00Z",
-            "window_end": "2021-10-25T06:31:00Z",
-            "window_start": "2021-10-25T06:10:00Z",
-            "lsp_name": "China Aerospace Science and Industry Corporation",
-            "mission": "Jilin-1-02F",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
-        },
         {
             "id": "56e548c8-ff60-4cf5-bc60-d50a546a6a79",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/56e548c8-ff60-4cf5-bc60-d50a546a6a79/",
@@ -101,6 +26,31 @@
             "launcher": null,
             "orbit": "GSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
+            "launch_library_id": 2099,
+            "slug": "kuaizhou-1a-jilin-1-02f",
+            "name": "Kuaizhou-1A | Jilin-1-02F",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-10-26T06:10:00Z",
+            "window_end": "2021-10-26T06:31:00Z",
+            "window_start": "2021-10-26T06:10:00Z",
+            "lsp_name": "China Aerospace Science and Industry Corporation",
+            "mission": "Jilin-1-02F",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png",
+            "infographic": null
+        },
+        {
+            "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spx-uscv-3-nasa-crew-flight-3",
+            "name": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-10-31T06:21:00Z",
+            "window_end": "2021-10-31T06:21:00Z",
+            "window_start": "2021-10-31T06:21:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SpX USCV-3 (NASA Crew Flight 3)",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1067",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210310075417.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "3985e602-f22f-441f-a0b1-a450ea459da9",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9/",
+            "launch_library_id": null,
+            "slug": "electron-love-at-first-insight",
+            "name": "Electron | Love At First Insight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-11T04:25:00Z",
+            "window_end": "2021-11-11T04:25:00Z",
+            "window_start": "2021-11-11T04:25:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Love At First Insight",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
