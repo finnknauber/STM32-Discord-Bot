@@ -1,33 +1,8 @@
 {
-    "count": 192,
+    "count": 191,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "708c2b85-50d6-4baa-bd3e-fdfb0257ea50",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/708c2b85-50d6-4baa-bd3e-fdfb0257ea50/",
-            "launch_library_id": 2099,
-            "slug": "kuaizhou-1a-jilin-1-02f",
-            "name": "Kuaizhou-1A | Jilin-1-02F",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-10-27T06:19:00Z",
-            "window_end": "2021-10-27T06:31:00Z",
-            "window_start": "2021-10-27T06:10:00Z",
-            "lsp_name": "China Aerospace Science and Industry Corporation",
-            "mission": "Jilin-1-02F",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
-        },
         {
             "id": "5175abf5-6cac-4b57-ae16-edabc138966a",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5175abf5-6cac-4b57-ae16-edabc138966a/",
@@ -35,8 +10,8 @@
             "slug": "soyuz-21a-progress-ms-18-79p",
             "name": "Soyuz 2.1a | Progress MS-18 (79P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-10-28T00:00:32Z",
             "window_end": "2021-10-28T00:00:32Z",
@@ -88,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-10-31T06:21:00Z",
-            "window_end": "2021-10-31T06:21:00Z",
-            "window_start": "2021-10-31T06:21:00Z",
+            "net": "2021-10-31T06:21:06Z",
+            "window_end": "2021-10-31T06:21:06Z",
+            "window_start": "2021-10-31T06:21:06Z",
             "lsp_name": "SpaceX",
             "mission": "SpX USCV-3 (NASA Crew Flight 3)",
             "mission_type": "Human Exploration",
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-11-07T00:00:00Z",
-            "window_end": "2021-11-07T00:00:00Z",
-            "window_start": "2021-11-07T00:00:00Z",
+            "net": "2021-11-07T00:51:21Z",
+            "window_end": "2021-11-07T00:59:00Z",
+            "window_start": "2021-11-07T00:48:00Z",
             "lsp_name": "Japan Aerospace Exploration Agency",
             "mission": "RAISE-2 & Others",
             "mission_type": "Test Flight",
@@ -251,6 +226,31 @@
             "launcher": "B1063",
             "orbit": "Helio-N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "89ee335d-53bd-49e0-a774-921321f5926f",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f/",
+            "launch_library_id": 1598,
+            "slug": "soyuz-21b-uzlovoy-module-um-prichal",
+            "name": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-24T13:06:00Z",
+            "window_end": "2021-11-24T13:06:00Z",
+            "window_start": "2021-11-24T13:06:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Uzlovoy Module (UM) \"Prichal\"",
+            "mission_type": "Human Exploration",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
             "infographic": null
         }
     ]
