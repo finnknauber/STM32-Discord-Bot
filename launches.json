@@ -129,6 +129,30 @@
             "infographic": null
         },
         {
+            "id": "11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52/",
+            "launch_library_id": 1192,
+            "slug": "vega-ceres",
+            "name": "Vega | CERES",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-15T09:27:00Z",
+            "window_end": "2021-11-15T09:27:00Z",
+            "window_start": "2021-11-15T09:27:00Z",
+            "lsp_name": "Arianespace",
+            "mission": null,
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+            "infographic": null
+        },
+        {
             "id": "495fe114-753d-48b1-9d23-eb9adaa3fb23",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23/",
             "launch_library_id": 1347,
@@ -226,31 +250,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d4b0c0f-3d72-4cb2-b596-dc526ad178a6/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-2-2",
-            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-30T00:00:00Z",
-            "window_end": "2021-11-30T00:00:00Z",
-            "window_start": "2021-11-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 2-2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1051",
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211001182858.png",
             "infographic": null
         }
     ]
