@@ -10,10 +10,10 @@
             "slug": "long-march-2cyz-1s-yaogan-32-02",
             "name": "Long March 2C/YZ-1S | Yaogan-32-02",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-11-03T07:45:00Z",
+            "net": "2021-11-03T07:43:00Z",
             "window_end": "2021-11-03T08:04:00Z",
             "window_start": "2021-11-03T07:36:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-stp-27ad2",
-            "name": "Astra Rocket 3 | STP-27AD2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-05T00:00:00Z",
-            "window_end": "2021-11-05T00:00:00Z",
-            "window_start": "2021-11-05T00:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "STP-27AD2",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3B",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -129,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-stp-27ad2",
+            "name": "Astra Rocket 3 | STP-27AD2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-13T05:00:00Z",
+            "window_end": "2021-11-13T08:30:00Z",
+            "window_start": "2021-11-13T05:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "STP-27AD2",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3B",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "infographic": null
+        },
+        {
             "id": "11ae4d7c-e83c-4a52-94b8-1cf79bd16d52",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/11ae4d7c-e83c-4a52-94b8-1cf79bd16d52/",
             "launch_library_id": 1192,
@@ -138,9 +138,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-11-15T09:27:00Z",
-            "window_end": "2021-11-15T09:27:00Z",
-            "window_start": "2021-11-15T09:27:00Z",
+            "net": "2021-11-16T09:27:00Z",
+            "window_end": "2021-11-16T09:27:00Z",
+            "window_start": "2021-11-16T09:27:00Z",
             "lsp_name": "Arianespace",
             "mission": "CERES",
             "mission_type": "Government/Top Secret",
