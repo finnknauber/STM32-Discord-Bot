@@ -1,31 +1,54 @@
 {
-    "count": 193,
+    "count": 194,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "360fe91d-17ae-45b1-a636-340a27c1e6f8",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/360fe91d-17ae-45b1-a636-340a27c1e6f8/",
+            "id": "221552dc-18f2-438e-a858-e29b3eafcf1a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/221552dc-18f2-438e-a858-e29b3eafcf1a/",
             "launch_library_id": null,
-            "slug": "long-march-2cyz-1s-yaogan-32-02",
-            "name": "Long March 2C/YZ-1S | Yaogan-32-02",
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
             "status": {
-                "id": 3,
-                "name": "Success"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-11-03T07:43:00Z",
-            "window_end": "2021-11-03T08:04:00Z",
-            "window_start": "2021-11-03T07:36:00Z",
+            "net": "2021-11-05T02:20:00Z",
+            "window_end": "2021-11-05T02:39:00Z",
+            "window_start": "2021-11-05T02:12:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan-32-02",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan, People's Republic of China",
+            "mission": null,
+            "pad": "Launch Complex 9",
+            "location": "Taiyuan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2c__image_20210908193511.jpeg",
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ec8490e6-e1a8-4381-9040-3ba4b42d4f37",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/ec8490e6-e1a8-4381-9040-3ba4b42d4f37/",
+            "launch_library_id": null,
+            "slug": "long-march-2d-unknown-payload",
+            "name": "Long March 2D | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-11-06T03:00:00Z",
+            "window_end": "2021-11-06T03:35:00Z",
+            "window_start": "2021-11-06T02:50:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
             "infographic": null
         },
         {
@@ -60,12 +83,12 @@
             "slug": "falcon-9-block-5-spx-uscv-3-nasa-crew-flight-3",
             "name": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2021-11-07T03:36:00Z",
-            "window_end": "2021-11-07T03:36:00Z",
-            "window_start": "2021-11-07T03:36:00Z",
+            "net": "2021-11-09T02:51:00Z",
+            "window_end": "2021-11-09T02:51:00Z",
+            "window_start": "2021-11-09T02:51:00Z",
             "lsp_name": "SpaceX",
             "mission": "SpX USCV-3 (NASA Crew Flight 3)",
             "mission_type": "Human Exploration",
@@ -226,31 +249,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
-            "infographic": null
-        },
-        {
-            "id": "029615cc-ef67-4a1e-b98e-08bdbfb3ae7e",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/029615cc-ef67-4a1e-b98e-08bdbfb3ae7e/",
-            "launch_library_id": null,
-            "slug": "electron-a-data-with-destiny",
-            "name": "Electron | A Data With Destiny",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-27T00:00:00Z",
-            "window_end": "2021-11-27T00:00:00Z",
-            "window_start": "2021-11-27T00:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "A Data With Destiny",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
