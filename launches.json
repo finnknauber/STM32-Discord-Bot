@@ -7,24 +7,25 @@
             "id": "221552dc-18f2-438e-a858-e29b3eafcf1a",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/221552dc-18f2-438e-a858-e29b3eafcf1a/",
             "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
+            "slug": "long-march-6-sdgsat-1",
+            "name": "Long March 6 | SDGSAT-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-11-05T02:20:00Z",
+            "net": "2021-11-05T02:19:00Z",
             "window_end": "2021-11-05T02:39:00Z",
             "window_start": "2021-11-05T02:12:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Launch Complex 9",
+            "mission": "SDGSAT-1",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 16",
             "location": "Taiyuan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
             "infographic": null
         },
         {
@@ -49,31 +50,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
-            "launch_library_id": null,
-            "slug": "epsilon-raise-2-others",
-            "name": "Epsilon | RAISE-2 & Others",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-07T00:51:21Z",
-            "window_end": "2021-11-07T00:59:00Z",
-            "window_start": "2021-11-07T00:48:00Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "RAISE-2 & Others",
-            "mission_type": "Test Flight",
-            "pad": "M-V Pad",
-            "location": "Uchinoura Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
             "infographic": null
         },
         {
@@ -102,6 +78,56 @@
             "infographic": null
         },
         {
+            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-stp-27ad2",
+            "name": "Astra Rocket 3 | STP-27AD2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-09T05:00:00Z",
+            "window_end": "2021-11-09T08:30:00Z",
+            "window_start": "2021-11-09T05:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "STP-27AD2",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3B",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "infographic": null
+        },
+        {
+            "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
+            "launch_library_id": null,
+            "slug": "epsilon-raise-2-others",
+            "name": "Epsilon | RAISE-2 & Others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-10T00:51:21Z",
+            "window_end": "2021-11-10T00:59:00Z",
+            "window_start": "2021-11-10T00:48:00Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "RAISE-2 & Others",
+            "mission_type": "Test Flight",
+            "pad": "M-V Pad",
+            "location": "Uchinoura Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
+            "infographic": null
+        },
+        {
             "id": "3985e602-f22f-441f-a0b1-a450ea459da9",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9/",
             "launch_library_id": null,
@@ -127,28 +153,28 @@
             "infographic": null
         },
         {
-            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
+            "id": "e4200e5c-2726-43f2-8439-36bd1be59821",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/e4200e5c-2726-43f2-8439-36bd1be59821/",
             "launch_library_id": null,
-            "slug": "astra-rocket-3-stp-27ad2",
-            "name": "Astra Rocket 3 | STP-27AD2",
+            "slug": "falcon-9-block-5-starlink-4-1",
+            "name": "Falcon 9 Block 5 | Starlink 4-1",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-11-13T05:00:00Z",
-            "window_end": "2021-11-13T08:30:00Z",
-            "window_start": "2021-11-13T05:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "STP-27AD2",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3B",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "net": "2021-11-12T12:16:00Z",
+            "window_end": "2021-11-12T13:16:00Z",
+            "window_start": "2021-11-12T11:16:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink 4-1",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210619160353.png",
             "infographic": null
         },
         {
@@ -224,31 +250,6 @@
             "launcher": "B1063",
             "orbit": "Helio-N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "89ee335d-53bd-49e0-a774-921321f5926f",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/89ee335d-53bd-49e0-a774-921321f5926f/",
-            "launch_library_id": 1598,
-            "slug": "soyuz-21b-uzlovoy-module-um-prichal",
-            "name": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-24T13:06:00Z",
-            "window_end": "2021-11-24T13:06:00Z",
-            "window_start": "2021-11-24T13:06:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Uzlovoy Module (UM) \"Prichal\"",
-            "mission_type": "Human Exploration",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
             "infographic": null
         }
     ]
