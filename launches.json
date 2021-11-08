@@ -29,39 +29,14 @@
             "infographic": null
         },
         {
-            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-stp-27ad2",
-            "name": "Astra Rocket 3 | STP-27AD2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-09T05:00:00Z",
-            "window_end": "2021-11-09T08:30:00Z",
-            "window_start": "2021-11-09T05:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "STP-27AD2",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3B",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
-            "infographic": null
-        },
-        {
             "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-spx-uscv-3-nasa-crew-flight-3",
             "name": "Falcon 9 Block 5 | SpX USCV-3 (NASA Crew Flight 3)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-11-11T02:03:00Z",
             "window_end": "2021-11-11T02:03:00Z",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0d4b0c0f-3d72-4cb2-b596-dc526ad178a6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/0d4b0c0f-3d72-4cb2-b596-dc526ad178a6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-30T00:00:00Z",
+            "window_end": "2021-11-30T00:00:00Z",
+            "window_start": "2021-11-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1051",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211001182858.png",
             "infographic": null
         }
     ]
