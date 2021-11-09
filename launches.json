@@ -10,10 +10,10 @@
             "slug": "epsilon-raise-2-others",
             "name": "Epsilon | RAISE-2 & Others",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-11-09T00:51:21Z",
+            "net": "2021-11-09T00:55:16Z",
             "window_end": "2021-11-09T00:59:00Z",
             "window_start": "2021-11-09T00:48:00Z",
             "lsp_name": "Japan Aerospace Exploration Agency",
@@ -60,22 +60,47 @@
             "slug": "electron-love-at-first-insight",
             "name": "Electron | Love At First Insight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-11-11T04:25:00Z",
-            "window_end": "2021-11-11T04:25:00Z",
+            "window_end": "2021-11-11T06:35:00Z",
             "window_start": "2021-11-11T04:25:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "Love At First Insight",
             "mission_type": "Earth Science",
             "pad": "Rocket Lab Launch Complex 1A",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": "PAC",
+            "landing_success": 0,
+            "launcher": "22",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-stp-27ad2",
+            "name": "Astra Rocket 3 | STP-27AD2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-11-11T05:00:00Z",
+            "window_end": "2021-11-11T08:30:00Z",
+            "window_start": "2021-11-11T05:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "STP-27AD2",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3B",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -110,8 +135,8 @@
             "slug": "vega-ceres",
             "name": "Vega | CERES",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-11-16T09:27:00Z",
             "window_end": "2021-11-16T09:27:00Z",
@@ -126,31 +151,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "495fe114-753d-48b1-9d23-eb9adaa3fb23",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23/",
-            "launch_library_id": 1347,
-            "slug": "atlas-v-551-stp-3",
-            "name": "Atlas V 551 | STP-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-11-22T00:00:00Z",
-            "window_end": "2021-11-22T00:00:00Z",
-            "window_start": "2021-11-22T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "STP-3",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
             "infographic": null
         },
         {
