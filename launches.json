@@ -1,33 +1,8 @@
 {
-    "count": 192,
+    "count": 190,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "bc321d24-1c15-47e1-a966-497f1ca9dff2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/bc321d24-1c15-47e1-a966-497f1ca9dff2/",
-            "launch_library_id": null,
-            "slug": "epsilon-raise-2-others",
-            "name": "Epsilon | RAISE-2 & Others",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-11-09T00:55:16Z",
-            "window_end": "2021-11-09T00:59:00Z",
-            "window_start": "2021-11-09T00:48:00Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "RAISE-2 & Others",
-            "mission_type": "Test Flight",
-            "pad": "M-V Pad",
-            "location": "Uchinoura Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
-            "infographic": null
-        },
         {
             "id": "0d779392-1a36-4c1e-b0b8-ec11e3031ee6",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0d779392-1a36-4c1e-b0b8-ec11e3031ee6/",
@@ -46,7 +21,7 @@
             "mission_type": "Human Exploration",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "B1067",
             "orbit": "LEO",
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-11-11T05:00:00Z",
-            "window_end": "2021-11-11T08:30:00Z",
-            "window_start": "2021-11-11T05:00:00Z",
+            "net": "2021-11-12T05:00:00Z",
+            "window_end": "2021-11-12T08:30:00Z",
+            "window_start": "2021-11-12T05:00:00Z",
             "lsp_name": "Astra Space",
             "mission": "STP-27AD2",
             "mission_type": "Test Flight",
@@ -113,7 +88,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-11-12T12:31:00Z",
+            "net": "2021-11-12T12:40:00Z",
             "window_end": "2021-11-12T13:16:00Z",
             "window_start": "2021-11-12T11:16:00Z",
             "lsp_name": "SpaceX",
@@ -251,6 +226,30 @@
             "launcher": "B1051",
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211001182858.png",
+            "infographic": null
+        },
+        {
+            "id": "646a8a73-1276-4db5-b2a7-53c4992fa479",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/646a8a73-1276-4db5-b2a7-53c4992fa479/",
+            "launch_library_id": 1499,
+            "slug": "falcon-9-block-5-spaceflight-gto-2",
+            "name": "Falcon 9 Block 5 | Spaceflight GTO-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-12-01T00:00:00Z",
+            "window_end": "2021-12-01T00:00:00Z",
+            "window_start": "2021-12-01T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": null,
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
