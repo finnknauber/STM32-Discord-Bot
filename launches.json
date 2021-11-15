@@ -96,7 +96,7 @@
             "mission_type": "Robotic Exploration",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
+            "landing": "OCISLY",
             "landing_success": 0,
             "launcher": "B1063",
             "orbit": "Helio-N/A",
