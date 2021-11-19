@@ -1,58 +1,8 @@
 {
-    "count": 193,
+    "count": 192,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3985e602-f22f-441f-a0b1-a450ea459da9",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/3985e602-f22f-441f-a0b1-a450ea459da9/",
-            "launch_library_id": null,
-            "slug": "electron-love-at-first-insight",
-            "name": "Electron | Love At First Insight",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-11-18T01:38:13Z",
-            "window_end": "2021-11-18T03:30:00Z",
-            "window_start": "2021-11-18T01:20:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Love At First Insight",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": "PAC",
-            "landing_success": 1,
-            "launcher": "22",
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-stp-27ad2",
-            "name": "Astra Rocket 3 | STP-27AD2",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2021-11-19T05:00:00Z",
-            "window_end": "2021-11-20T08:30:00Z",
-            "window_start": "2021-11-19T05:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "STP-27AD2",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3B",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
-            "infographic": null
-        },
         {
             "id": "fcd23739-8135-43bb-9524-a5dba87d40ac",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac/",
@@ -75,6 +25,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
+            "infographic": null
+        },
+        {
+            "id": "d08f82c9-efa1-44a8-9004-2fb3305f828a",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/d08f82c9-efa1-44a8-9004-2fb3305f828a/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-stp-27ad2",
+            "name": "Astra Rocket 3 | STP-27AD2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-11-20T05:00:00Z",
+            "window_end": "2021-11-20T08:30:00Z",
+            "window_start": "2021-11-20T05:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "STP-27AD2",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3B",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -189,13 +164,14 @@
             "window_end": "2021-11-25T02:30:00Z",
             "window_start": "2021-11-25T00:30:00Z",
             "lsp_name": "Russian Space Forces",
-            "mission": null,
+            "mission": "EKS 5 (Tundra 5)",
+            "mission_type": "Government/Top Secret",
             "pad": "43/4 (43R)",
             "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "Elliptical",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
             "infographic": null
         },
@@ -247,6 +223,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211117170531.png",
+            "infographic": null
+        },
+        {
+            "id": "8464fae8-48ef-4e35-860c-07347f339ce2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/8464fae8-48ef-4e35-860c-07347f339ce2/",
+            "launch_library_id": 1371,
+            "slug": "soyuz-stbfregat-2-x-galileo",
+            "name": "Soyuz STB/Fregat | 2 x Galileo",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-12-02T00:31:00Z",
+            "window_end": "2021-12-02T00:31:00Z",
+            "window_start": "2021-12-02T00:31:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "2 x Galileo",
+            "mission_type": "Navigation",
+            "pad": "Soyuz Launch Complex",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz2520stb_image_20190224025011.jpeg",
             "infographic": null
         }
     ]
