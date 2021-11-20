@@ -8,22 +8,23 @@
             "url": "https://ll.thespacedevs.com/2.2.0/launch/fcd23739-8135-43bb-9524-a5dba87d40ac/",
             "launch_library_id": null,
             "slug": "long-march-4b-gaofen-11-03",
-            "name": "Long March 4B (?) | Gaofen-11-03 (?)",
+            "name": "Long March 4B | Gaofen-11-03",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-11-20T01:50:00Z",
+            "net": "2021-11-20T01:51:00Z",
             "window_end": "2021-11-20T02:05:00Z",
             "window_start": "2021-11-20T01:44:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Gaofen-11-03",
+            "mission_type": "Earth Science",
             "pad": "Launch Complex 9",
             "location": "Taiyuan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
             "infographic": null
         },
@@ -34,10 +35,10 @@
             "slug": "astra-rocket-3-stp-27ad2",
             "name": "Astra Rocket 3 | STP-27AD2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2021-11-20T05:00:00Z",
+            "net": "2021-11-20T06:16:00Z",
             "window_end": "2021-11-20T08:30:00Z",
             "window_start": "2021-11-20T05:00:00Z",
             "lsp_name": "Astra Space",
@@ -86,9 +87,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-11-24T06:20:00Z",
-            "window_end": "2021-11-24T06:20:00Z",
-            "window_start": "2021-11-24T06:20:00Z",
+            "net": "2021-11-24T06:21:00Z",
+            "window_end": "2021-11-24T06:21:00Z",
+            "window_start": "2021-11-24T06:21:00Z",
             "lsp_name": "SpaceX",
             "mission": "Double Asteroid Redirection Test (DART)",
             "mission_type": "Robotic Exploration",
@@ -108,8 +109,8 @@
             "slug": "soyuz-21b-uzlovoy-module-um-prichal",
             "name": "Soyuz 2.1b | Uzlovoy Module (UM) \"Prichal\"",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-11-24T13:06:36Z",
             "window_end": "2021-11-24T13:06:36Z",
@@ -210,9 +211,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-12-01T06:36:00Z",
-            "window_end": "2021-12-01T06:36:00Z",
-            "window_start": "2021-12-01T06:36:00Z",
+            "net": "2021-12-01T23:20:00Z",
+            "window_end": "2021-12-01T23:20:00Z",
+            "window_start": "2021-12-01T23:20:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink 4-3",
             "mission_type": "Communications",
