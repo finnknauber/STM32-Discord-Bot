@@ -1,5 +1,5 @@
 {
-    "count": 190,
+    "count": 191,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -78,27 +78,28 @@
             "infographic": null
         },
         {
-            "id": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa/",
+            "id": "407d5c9c-61df-4439-b780-5fe41c4b12d5",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/407d5c9c-61df-4439-b780-5fe41c4b12d5/",
             "launch_library_id": null,
-            "slug": "long-march-3b-chinasat-6d",
-            "name": "Long March 3B (?) | ChinaSat 6D (?)",
+            "slug": "ceres-1-fangzhou-2f",
+            "name": "Ceres-1 | Fangzhou-2F (?)",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-11-24T16:15:00Z",
-            "window_end": "2021-11-24T19:00:00Z",
-            "window_start": "2021-11-24T16:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "net": "2021-11-24T23:40:00Z",
+            "window_end": "2021-11-25T00:17:00Z",
+            "window_start": "2021-11-24T23:30:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": "Fangzhou-2F",
+            "mission_type": "Technology",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
             "infographic": null
         },
         {
@@ -124,6 +125,30 @@
             "launcher": null,
             "orbit": "Elliptical",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
+            "infographic": null
+        },
+        {
+            "id": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa/",
+            "launch_library_id": null,
+            "slug": "long-march-3b-chinasat-6d",
+            "name": "Long March 3B (?) | ChinaSat 6D (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-11-26T16:40:00Z",
+            "window_end": "2021-11-26T17:05:00Z",
+            "window_start": "2021-11-26T16:30:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 2 (LC-2)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
             "infographic": null
         },
         {
@@ -224,31 +249,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "495fe114-753d-48b1-9d23-eb9adaa3fb23",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/495fe114-753d-48b1-9d23-eb9adaa3fb23/",
-            "launch_library_id": 1347,
-            "slug": "atlas-v-551-stp-3",
-            "name": "Atlas V 551 | STP-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-12-04T09:04:00Z",
-            "window_end": "2021-12-04T11:04:00Z",
-            "window_start": "2021-12-04T09:04:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "STP-3",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
             "infographic": null
         }
     ]
