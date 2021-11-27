@@ -4,28 +4,27 @@
     "previous": null,
     "results": [
         {
-            "id": "6aa3fa12-04a7-4e87-9058-5aa24efb91aa",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6aa3fa12-04a7-4e87-9058-5aa24efb91aa/",
+            "id": "7ccf6526-6c1f-42f6-99d6-83a429249cef",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/7ccf6526-6c1f-42f6-99d6-83a429249cef/",
             "launch_library_id": null,
-            "slug": "long-march-3b-chinasat-1d",
-            "name": "Long March 3B | ChinaSat 1D",
+            "slug": "ceres-1-golden-bauhinia-1-03",
+            "name": "Ceres-1 | Golden Bauhinia 1-03 (?)",
             "status": {
-                "id": 3,
-                "name": "Success"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2021-11-26T16:40:04Z",
-            "window_end": "2021-11-26T17:05:00Z",
-            "window_start": "2021-11-26T16:30:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "ChinaSat 1D",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "net": "2021-11-30T00:00:00Z",
+            "window_end": "2021-11-30T00:00:00Z",
+            "window_start": "2021-11-30T00:00:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
             "infographic": null
         },
         {
@@ -82,8 +81,8 @@
             "id": "0914dabd-ac92-444b-bf9f-7a6b08bb06e1",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0914dabd-ac92-444b-bf9f-7a6b08bb06e1/",
             "launch_library_id": 1928,
-            "slug": "launcherone-ignis-others",
-            "name": "LauncherOne | Ignis & others",
+            "slug": "launcherone-above-the-clouds",
+            "name": "LauncherOne | Above the Clouds",
             "status": {
                 "id": 2,
                 "name": "TBD"
