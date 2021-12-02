@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-4-3",
             "name": "Falcon 9 Block 5 | Starlink 4-3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-12-02T23:12:00Z",
             "window_end": "2021-12-02T23:12:00Z",
@@ -21,9 +21,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211117170531.png",
             "infographic": null
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-03T00:27:00Z",
-            "window_end": "2021-12-03T00:27:00Z",
-            "window_start": "2021-12-03T00:27:00Z",
+            "net": "2021-12-04T00:23:22Z",
+            "window_end": "2021-12-04T00:23:22Z",
+            "window_start": "2021-12-04T00:23:22Z",
             "lsp_name": "Arianespace",
             "mission": "2 x Galileo",
             "mission_type": "Navigation",
