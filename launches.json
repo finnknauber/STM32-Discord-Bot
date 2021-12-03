@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-4-3",
             "name": "Falcon 9 Block 5 | Starlink 4-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-12-02T23:12:00Z",
             "window_end": "2021-12-02T23:12:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211117170531.png",
