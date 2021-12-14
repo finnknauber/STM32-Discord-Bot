@@ -1,58 +1,8 @@
 {
-    "count": 190,
+    "count": 188,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "700b3892-cff9-4164-b1cb-c60bb3d81635",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/700b3892-cff9-4164-b1cb-c60bb3d81635/",
-            "launch_library_id": null,
-            "slug": "proton-mbriz-m-ekspress-amu3-amu7",
-            "name": "Proton-M/Briz-M | Ekspress-AMU3 & AMU7",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2021-12-13T12:07:00Z",
-            "window_end": "2021-12-13T12:07:00Z",
-            "window_start": "2021-12-13T12:07:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": "Ekspress-AMU3 & AMU7",
-            "mission_type": "Communications",
-            "pad": "200/39 (200L)",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m2520briz-m_image_20190224012317.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "8bddef41-35c8-4170-9449-33a9ecb6d8fc",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/8bddef41-35c8-4170-9449-33a9ecb6d8fc/",
-            "launch_library_id": null,
-            "slug": "long-march-3b-tianlian-2-02",
-            "name": "Long March 3B | Tianlian 2-02",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-12-13T16:09:00Z",
-            "window_end": "2021-12-13T17:16:00Z",
-            "window_start": "2021-12-13T16:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Tianlian 2-02",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null
-        },
         {
             "id": "a0effefd-f827-4c82-b367-6dd5c95dfe65",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/a0effefd-f827-4c82-b367-6dd5c95dfe65/",
@@ -136,9 +86,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2021-12-19T04:58:00Z",
-            "window_end": "2021-12-19T04:58:00Z",
-            "window_start": "2021-12-19T04:58:00Z",
+            "net": "2021-12-19T03:58:00Z",
+            "window_end": "2021-12-19T03:58:00Z",
+            "window_start": "2021-12-19T03:58:00Z",
             "lsp_name": "SpaceX",
             "mission": "T\u00fcrksat 5B",
             "mission_type": "Communications",
@@ -249,6 +199,54 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "edeca0f9-cae5-44ea-a6e4-dc39043b37dc",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/edeca0f9-cae5-44ea-a6e4-dc39043b37dc/",
+            "launch_library_id": null,
+            "slug": "long-march-7a-hots",
+            "name": "Long March 7A (?) | HOTS (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2021-12-23T10:30:00Z",
+            "window_end": "2021-12-23T11:30:00Z",
+            "window_start": "2021-12-23T09:30:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "201",
+            "location": "Wenchang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7a_image_20210311201838.jpg",
+            "infographic": null
+        },
+        {
+            "id": "20054280-a20a-457e-b452-8a176f633907",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/20054280-a20a-457e-b452-8a176f633907/",
+            "launch_library_id": 1997,
+            "slug": "angara-a5persey-dummy-payload",
+            "name": "Angara A5/Persey | Dummy payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-12-23T15:00:00Z",
+            "window_end": "2021-12-23T15:00:00Z",
+            "window_start": "2021-12-23T15:00:00Z",
+            "lsp_name": "Khrunichev State Research and Production Space Center",
+            "mission": null,
+            "pad": "35/1",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": null,
             "infographic": null
         }
     ]
