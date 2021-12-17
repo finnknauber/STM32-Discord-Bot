@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-4-4",
             "name": "Falcon 9 Block 5 | Starlink Group 4-4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2021-12-18T09:24:00Z",
-            "window_end": "2021-12-18T09:24:00Z",
-            "window_start": "2021-12-18T09:24:00Z",
+            "net": "2021-12-18T09:24:40Z",
+            "window_end": "2021-12-18T09:24:40Z",
+            "window_start": "2021-12-18T09:24:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-4",
             "mission_type": "Communications",
@@ -183,8 +183,8 @@
             "slug": "ariane-5-eca-james-webb-space-telescope-jwst",
             "name": "Ariane 5 ECA+ | James Webb Space Telescope (JWST)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2021-12-24T12:20:00Z",
             "window_end": "2021-12-24T12:50:00Z",
