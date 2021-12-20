@@ -1,33 +1,8 @@
 {
-    "count": 186,
+    "count": 185,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/16d0c02e-0bb1-45d5-a3f5-7c4ff6cf6de1/",
-            "launch_library_id": 1413,
-            "slug": "falcon-9-block-5-turksat-5b",
-            "name": "Falcon 9 Block 5 | T\u00fcrksat 5B",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-12-19T03:58:39Z",
-            "window_end": "2021-12-19T05:28:00Z",
-            "window_start": "2021-12-19T03:58:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "T\u00fcrksat 5B",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1067",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211218165205.jpeg",
-            "infographic": null
-        },
         {
             "id": "878ba32c-5e93-4d2b-95c3-24b60c8b05e7",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/878ba32c-5e93-4d2b-95c3-24b60c8b05e7/",
@@ -249,6 +224,30 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "7323ed72-b69a-429c-8cfe-2ed454a8db28",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/7323ed72-b69a-429c-8cfe-2ed454a8db28/",
+            "launch_library_id": 1522,
+            "slug": "atlas-v-511-ussf-8",
+            "name": "Atlas V 511 | USSF-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-21T00:00:00Z",
+            "window_end": "2022-01-21T00:00:00Z",
+            "window_start": "2022-01-21T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": null,
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": null,
             "infographic": null
         }
     ]
