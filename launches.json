@@ -10,8 +10,8 @@
             "slug": "ariane-5-eca-james-webb-space-telescope-jwst",
             "name": "Ariane 5 ECA+ | James Webb Space Telescope (JWST)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2021-12-25T12:20:00Z",
             "window_end": "2021-12-25T12:52:00Z",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": "L2",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ariane2520525_image_20211224103958.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "20054280-a20a-457e-b452-8a176f633907",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/20054280-a20a-457e-b452-8a176f633907/",
-            "launch_library_id": 1997,
-            "slug": "angara-a5persey-dummy-payload",
-            "name": "Angara A5/Persey | Dummy payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2021-12-25T15:00:00Z",
-            "window_end": "2021-12-25T16:30:00Z",
-            "window_start": "2021-12-25T14:30:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": "Dummy payload",
-            "mission_type": "Test Flight",
-            "pad": "35/1",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": null,
             "infographic": null
         },
         {
@@ -100,6 +75,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520stb2_image_20210520090021.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "20054280-a20a-457e-b452-8a176f633907",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/20054280-a20a-457e-b452-8a176f633907/",
+            "launch_library_id": 1997,
+            "slug": "angara-a5persey-dummy-payload",
+            "name": "Angara A5/Persey | Dummy payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2021-12-27T15:00:00Z",
+            "window_end": "2021-12-27T16:30:00Z",
+            "window_start": "2021-12-27T14:30:00Z",
+            "lsp_name": "Khrunichev State Research and Production Space Center",
+            "mission": "Dummy payload",
+            "mission_type": "Test Flight",
+            "pad": "35/1",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Direct-GEO",
+            "image": null,
             "infographic": null
         },
         {
