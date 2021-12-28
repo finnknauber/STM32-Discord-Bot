@@ -1,58 +1,8 @@
 {
-    "count": 183,
+    "count": 181,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b4cb5f4f-247d-4a14-918a-a2e56f46289e",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/b4cb5f4f-247d-4a14-918a-a2e56f46289e/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-oneweb-12",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 12",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2021-12-27T13:10:37Z",
-            "window_end": "2021-12-27T13:10:37Z",
-            "window_start": "2021-12-27T13:10:37Z",
-            "lsp_name": "Arianespace",
-            "mission": "OneWeb 12",
-            "mission_type": "Communications",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz2520stb2_image_20210520090021.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "20054280-a20a-457e-b452-8a176f633907",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/20054280-a20a-457e-b452-8a176f633907/",
-            "launch_library_id": 1997,
-            "slug": "angara-a5persey-dummy-payload",
-            "name": "Angara A5/Persey | Dummy payload",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2021-12-27T19:00:00Z",
-            "window_end": "2021-12-27T19:00:00Z",
-            "window_start": "2021-12-27T19:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": "Dummy payload",
-            "mission_type": "Test Flight",
-            "pad": "35/1",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara_a52fper_image_20211227193648.jpg",
-            "infographic": null
-        },
         {
             "id": "9bc3ff6a-521d-4a3a-99a8-1d5e71957dab",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/9bc3ff6a-521d-4a3a-99a8-1d5e71957dab/",
@@ -87,9 +37,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2021-12-30T16:30:00Z",
-            "window_end": "2021-12-30T17:00:00Z",
-            "window_start": "2021-12-30T16:20:00Z",
+            "net": "2021-12-29T16:30:00Z",
+            "window_end": "2021-12-29T17:00:00Z",
+            "window_start": "2021-12-29T16:20:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": null,
             "pad": "Launch Complex 2 (LC-2)",
@@ -176,31 +126,6 @@
             "infographic": null
         },
         {
-            "id": "d91432d6-fe60-4786-86f3-3dfae0d7a898",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d91432d6-fe60-4786-86f3-3dfae0d7a898/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-oneweb-13",
-            "name": "Soyuz 2.1b/Fregat-M | OneWeb 13",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-01-27T00:00:00Z",
-            "window_end": "2022-01-27T00:00:00Z",
-            "window_start": "2022-01-27T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "OneWeb 13",
-            "mission_type": "Communications",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085946.jpeg",
-            "infographic": null
-        },
-        {
             "id": "0f770177-f502-465b-9ea5-d7a053ec903c",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0f770177-f502-465b-9ea5-d7a053ec903c/",
             "launch_library_id": 1613,
@@ -247,6 +172,80 @@
             "launcher": null,
             "orbit": null,
             "image": null,
+            "infographic": null
+        },
+        {
+            "id": "23229c2b-abb7-4b94-b624-981a9adc88d2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/23229c2b-abb7-4b94-b624-981a9adc88d2/",
+            "launch_library_id": 1822,
+            "slug": "falcon-9-block-5-csg-2",
+            "name": "Falcon 9 Block 5 | CSG-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-31T00:00:00Z",
+            "window_end": "2022-01-31T00:00:00Z",
+            "window_start": "2022-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "CSG-2",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-vcls-demo-2",
+            "name": "Astra Rocket 3 | VCLS Demo 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-31T00:00:00Z",
+            "window_end": "2022-01-31T00:00:00Z",
+            "window_start": "2022-01-31T00:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": null,
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "infographic": null
+        },
+        {
+            "id": "671b829d-ec26-4b9f-ac13-e50bdc9cca05",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/671b829d-ec26-4b9f-ac13-e50bdc9cca05/",
+            "launch_library_id": 1880,
+            "slug": "pslv-eos-4-risat-1a",
+            "name": "PSLV  | EOS-4 (RISAT-1A)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-31T00:00:00Z",
+            "window_end": "2022-01-31T00:00:00Z",
+            "window_start": "2022-01-31T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "EOS-4 (RISAT-1A)",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
             "infographic": null
         }
     ]
