@@ -44,7 +44,7 @@
             "lsp_name": "SpaceX",
             "mission": "Transporter 3 (Dedicated SSO Rideshare)",
             "mission_type": "Dedicated Rideshare",
-            "pad": "Unknown Pad",
+            "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
