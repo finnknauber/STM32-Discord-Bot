@@ -79,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "6ec66610-b96c-4e3d-86f2-207068789781",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/6ec66610-b96c-4e3d-86f2-207068789781/",
+            "launch_library_id": 1824,
+            "slug": "pslv-eos-6-oceansat-3",
+            "name": "PSLV  | EOS-6 (Oceansat-3)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-20T00:00:00Z",
+            "window_end": "2022-01-20T00:00:00Z",
+            "window_start": "2022-01-20T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "Oceansat-3",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
+            "infographic": null
+        },
+        {
             "id": "7323ed72-b69a-429c-8cfe-2ed454a8db28",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/7323ed72-b69a-429c-8cfe-2ed454a8db28/",
             "launch_library_id": 1522,
@@ -223,30 +248,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "82838641-de38-432c-b9d6-c967d3c01663",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/82838641-de38-432c-b9d6-c967d3c01663/",
-            "launch_library_id": 1421,
-            "slug": "long-march-4c-fengyun-3f",
-            "name": "Long March 4C | FengYun-3F",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-01-31T00:00:00Z",
-            "window_end": "2022-01-31T00:00:00Z",
-            "window_start": "2022-01-31T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Unknown Pad",
-            "location": "Unknown Location",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
             "infographic": null
         }
     ]
