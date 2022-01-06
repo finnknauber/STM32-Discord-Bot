@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-4-5",
             "name": "Falcon 9 Block 5 | Starlink Group 4-5",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2022-01-06T21:49:00Z",
             "window_end": "2022-01-06T21:49:00Z",
@@ -21,9 +21,9 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "ASOG",
+            "landing_success": 1,
+            "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220102052553.png",
             "infographic": null
@@ -128,6 +128,31 @@
             "infographic": null
         },
         {
+            "id": "23229c2b-abb7-4b94-b624-981a9adc88d2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/23229c2b-abb7-4b94-b624-981a9adc88d2/",
+            "launch_library_id": 1822,
+            "slug": "falcon-9-block-5-csg-2",
+            "name": "Falcon 9 Block 5 | CSG-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-24T23:11:12Z",
+            "window_end": "2022-01-24T23:11:12Z",
+            "window_start": "2022-01-24T23:11:12Z",
+            "lsp_name": "SpaceX",
+            "mission": "CSG-2",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
             "id": "0f770177-f502-465b-9ea5-d7a053ec903c",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0f770177-f502-465b-9ea5-d7a053ec903c/",
             "launch_library_id": 1613,
@@ -150,55 +175,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "13439df6-e99b-42b3-ab82-c0a8a2afe4d1",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/13439df6-e99b-42b3-ab82-c0a8a2afe4d1/",
-            "launch_library_id": 1981,
-            "slug": "h-iii-22-alos-3-maiden-flight",
-            "name": "H-III 22 | ALOS-3 (Maiden flight)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-01-31T00:00:00Z",
-            "window_end": "2022-01-31T00:00:00Z",
-            "window_start": "2022-01-31T00:00:00Z",
-            "lsp_name": "Mitsubishi Heavy Industries",
-            "mission": null,
-            "pad": "Yoshinobu Launch Complex",
-            "location": "Tanegashima, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": null,
-            "infographic": null
-        },
-        {
-            "id": "23229c2b-abb7-4b94-b624-981a9adc88d2",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/23229c2b-abb7-4b94-b624-981a9adc88d2/",
-            "launch_library_id": 1822,
-            "slug": "falcon-9-block-5-csg-2",
-            "name": "Falcon 9 Block 5 | CSG-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-01-31T00:00:00Z",
-            "window_end": "2022-01-31T00:00:00Z",
-            "window_start": "2022-01-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "CSG-2",
-            "mission_type": "Earth Science",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -248,6 +224,30 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "82838641-de38-432c-b9d6-c967d3c01663",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/82838641-de38-432c-b9d6-c967d3c01663/",
+            "launch_library_id": 1421,
+            "slug": "long-march-4c-fengyun-3f",
+            "name": "Long March 4C | FengYun-3F",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-31T00:00:00Z",
+            "window_end": "2022-01-31T00:00:00Z",
+            "window_start": "2022-01-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Unknown Location",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
             "infographic": null
         }
     ]
