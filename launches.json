@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "3ddb1934-2b57-489b-b5d2-31d4990604eb",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/3ddb1934-2b57-489b-b5d2-31d4990604eb/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-5",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-5",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2022-01-06T21:49:00Z",
-            "window_end": "2022-01-06T21:49:00Z",
-            "window_start": "2022-01-06T21:49:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-5",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1062",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220102052553.png",
-            "infographic": null
-        },
-        {
             "id": "0914dabd-ac92-444b-bf9f-7a6b08bb06e1",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/0914dabd-ac92-444b-bf9f-7a6b08bb06e1/",
             "launch_library_id": 1928,
@@ -76,6 +51,30 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-vcls-demo-2",
+            "name": "Astra Rocket 3 | VCLS Demo 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-01-18T00:00:00Z",
+            "window_end": "2022-01-18T00:00:00Z",
+            "window_start": "2022-01-18T00:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": null,
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -178,11 +177,11 @@
             "infographic": null
         },
         {
-            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
+            "id": "50ac28f2-024f-442f-837d-dab8107304ec",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/50ac28f2-024f-442f-837d-dab8107304ec/",
             "launch_library_id": null,
-            "slug": "astra-rocket-3-vcls-demo-2",
-            "name": "Astra Rocket 3 | VCLS Demo 2",
+            "slug": "falcon-9-block-5-starlink-group-4-6",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-6",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -190,15 +189,16 @@
             "net": "2022-01-31T00:00:00Z",
             "window_end": "2022-01-31T00:00:00Z",
             "window_start": "2022-01-31T00:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": null,
-            "pad": "Space Launch Complex 46",
-            "location": "Cape Canaveral, FL, USA",
+            "lsp_name": "SpaceX",
+            "mission": "Starlinkk Group 4-6",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220107203221.png",
             "infographic": null
         },
         {
