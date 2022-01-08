@@ -1,5 +1,5 @@
 {
-    "count": 181,
+    "count": 192,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-transporter-3-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 3 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-01-13T15:25:00Z",
             "window_end": "2022-01-13T15:25:00Z",
@@ -190,7 +190,7 @@
             "window_end": "2022-01-31T00:00:00Z",
             "window_start": "2022-01-31T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlinkk Group 4-6",
+            "mission": "Starlink Group 4-6",
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
