@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-01-18T00:00:00Z",
-            "window_end": "2022-01-18T00:00:00Z",
-            "window_start": "2022-01-18T00:00:00Z",
+            "net": "2022-01-18T18:00:00Z",
+            "window_end": "2022-01-18T21:00:00Z",
+            "window_start": "2022-01-18T18:00:00Z",
             "lsp_name": "Astra Space",
             "mission": null,
             "pad": "Space Launch Complex 46",
