@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-transporter-3-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 3 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-01-13T15:25:39Z",
             "window_end": "2022-01-13T15:54:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1058",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220112211335.jpeg",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-01-13T22:00:00Z",
-            "window_end": "2022-01-14T01:00:00Z",
-            "window_start": "2022-01-13T22:00:00Z",
+            "net": "2022-01-13T22:52:00Z",
+            "window_end": "2022-01-14T00:50:00Z",
+            "window_start": "2022-01-13T22:20:00Z",
             "lsp_name": "Virgin Orbit",
             "mission": "Above the Clouds",
             "mission_type": "Communications",
@@ -63,7 +63,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-01-18T00:16:00Z",
+            "net": "2022-01-18T00:26:00Z",
             "window_end": "2022-01-18T03:23:00Z",
             "window_start": "2022-01-18T00:16:00Z",
             "lsp_name": "SpaceX",
@@ -141,14 +141,15 @@
             "window_end": "2022-01-21T00:00:00Z",
             "window_start": "2022-01-21T00:00:00Z",
             "lsp_name": "United Launch Alliance",
-            "mission": null,
+            "mission": "USSF-8",
+            "mission_type": "Government/Top Secret",
             "pad": "Space Launch Complex 41",
             "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": null,
+            "orbit": "GSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_511_image_20220113033801.jpeg",
             "infographic": null
         },
         {
@@ -161,9 +162,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-01-24T23:11:12Z",
-            "window_end": "2022-01-24T23:11:12Z",
-            "window_start": "2022-01-24T23:11:12Z",
+            "net": "2022-01-27T23:11:12Z",
+            "window_end": "2022-01-27T23:11:12Z",
+            "window_start": "2022-01-27T23:11:12Z",
             "lsp_name": "SpaceX",
             "mission": "CSG-2",
             "mission_type": "Earth Science",
