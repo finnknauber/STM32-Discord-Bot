@@ -34,12 +34,12 @@
             "slug": "falcon-9-block-5-csg-2",
             "name": "Falcon 9 Block 5 | CSG-2",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-01-27T23:11:12Z",
-            "window_end": "2022-01-27T23:11:12Z",
-            "window_start": "2022-01-27T23:11:12Z",
+            "net": "2022-01-27T23:11:50Z",
+            "window_end": "2022-01-27T23:11:50Z",
+            "window_start": "2022-01-27T23:11:50Z",
             "lsp_name": "SpaceX",
             "mission": "CSG-2",
             "mission_type": "Earth Science",
@@ -75,31 +75,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220115211319.png",
-            "infographic": null
-        },
-        {
-            "id": "0f770177-f502-465b-9ea5-d7a053ec903c",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/0f770177-f502-465b-9ea5-d7a053ec903c/",
-            "launch_library_id": 1613,
-            "slug": "angara-12-mka-r",
-            "name": "Angara 1.2 | MKA-R",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-01-31T00:00:00Z",
-            "window_end": "2022-01-31T00:00:00Z",
-            "window_start": "2022-01-31T00:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": "MKA-R",
-            "mission_type": "Government/Top Secret",
-            "pad": "35/1",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg",
             "infographic": null
         },
         {
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085946.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b89e65d2-db7d-4617-9f47-e26fe954ba0e",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/b89e65d2-db7d-4617-9f47-e26fe954ba0e/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-progress-ms-19-80p",
+            "name": "Soyuz 2.1a | Progress MS-19 (80P)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-02-15T04:25:00Z",
+            "window_end": "2022-02-15T04:25:00Z",
+            "window_start": "2022-02-15T04:25:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Progress MS-19 (80P)",
+            "mission_type": "Resupply",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
         }
     ]
