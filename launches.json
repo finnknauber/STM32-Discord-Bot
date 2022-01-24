@@ -1,5 +1,5 @@
 {
-    "count": 191,
+    "count": 190,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -212,9 +212,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-02-10T00:00:00Z",
-            "window_end": "2022-02-10T00:00:00Z",
-            "window_start": "2022-02-10T00:00:00Z",
+            "net": "2022-02-10T18:09:00Z",
+            "window_end": "2022-02-10T18:09:00Z",
+            "window_start": "2022-02-10T18:09:00Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 13",
             "mission_type": "Communications",
