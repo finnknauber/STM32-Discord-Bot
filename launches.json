@@ -153,56 +153,6 @@
             "infographic": null
         },
         {
-            "id": "671b829d-ec26-4b9f-ac13-e50bdc9cca05",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/671b829d-ec26-4b9f-ac13-e50bdc9cca05/",
-            "launch_library_id": 1880,
-            "slug": "pslv-eos-4-risat-1a",
-            "name": "PSLV  | EOS-4 (RISAT-1A)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-02-04T00:00:00Z",
-            "window_end": "2022-02-04T00:00:00Z",
-            "window_start": "2022-02-04T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "EOS-4 (RISAT-1A)",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d1976b9e-46e5-41d2-9d0d-aa76f6c19ef8",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/d1976b9e-46e5-41d2-9d0d-aa76f6c19ef8/",
-            "launch_library_id": null,
-            "slug": "electron-without-mission-a-beat",
-            "name": "Electron | Without Mission A Beat",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-02-04T05:25:00Z",
-            "window_end": "2022-02-04T07:30:00Z",
-            "window_start": "2022-02-04T05:25:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Without Mission A Beat",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "d91432d6-fe60-4786-86f3-3dfae0d7a898",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/d91432d6-fe60-4786-86f3-3dfae0d7a898/",
             "launch_library_id": null,
@@ -228,6 +178,31 @@
             "infographic": null
         },
         {
+            "id": "d1976b9e-46e5-41d2-9d0d-aa76f6c19ef8",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/d1976b9e-46e5-41d2-9d0d-aa76f6c19ef8/",
+            "launch_library_id": null,
+            "slug": "electron-without-mission-a-beat",
+            "name": "Electron | Without Mission A Beat",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-02-14T00:55:00Z",
+            "window_end": "2022-02-14T03:00:00Z",
+            "window_start": "2022-02-14T00:55:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Without Mission A Beat",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "b89e65d2-db7d-4617-9f47-e26fe954ba0e",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/b89e65d2-db7d-4617-9f47-e26fe954ba0e/",
             "launch_library_id": null,
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "7005f701-25f1-4198-ab0a-362b48e13cdd",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/7005f701-25f1-4198-ab0a-362b48e13cdd/",
+            "launch_library_id": null,
+            "slug": "antares-230-cygnus-crs-2-ng-17",
+            "name": "Antares 230+ | Cygnus CRS-2 NG-17",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-02-19T17:39:00Z",
+            "window_end": "2022-02-19T17:39:00Z",
+            "window_start": "2022-02-19T17:39:00Z",
+            "lsp_name": "Northrop Grumman Innovation Systems",
+            "mission": "Cygnus CRS-2 NG-17",
+            "mission_type": "Resupply",
+            "pad": "Launch Area 0 A",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
             "infographic": null
         }
     ]
