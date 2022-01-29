@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-01-28T23:11:19Z",
-            "window_end": "2022-01-28T23:11:19Z",
-            "window_start": "2022-01-28T23:11:19Z",
+            "net": "2022-01-30T23:11:19Z",
+            "window_end": "2022-01-30T23:11:19Z",
+            "window_start": "2022-01-30T23:11:19Z",
             "lsp_name": "SpaceX",
             "mission": "CSG-2",
             "mission_type": "Earth Science",
@@ -25,7 +25,7 @@
             "landing_success": 0,
             "launcher": "B1052",
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220128193011.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220129095432.jpeg",
             "infographic": null
         },
         {
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-4-7",
             "name": "Falcon 9 Block 5 | Starlink Group 4-7",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-01-30T19:39:00Z",
-            "window_end": "2022-01-30T19:39:00Z",
-            "window_start": "2022-01-30T19:39:00Z",
+            "net": "2022-01-31T19:17:00Z",
+            "window_end": "2022-01-31T19:17:00Z",
+            "window_start": "2022-01-31T19:17:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-7",
             "mission_type": "Communications",
