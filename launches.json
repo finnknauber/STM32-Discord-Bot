@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-csg-2",
             "name": "Falcon 9 Block 5 | CSG-2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-01-31T23:11:14Z",
             "window_end": "2022-01-31T23:11:14Z",
@@ -22,35 +22,10 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1052",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220129095432.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "de39dd1a-0f72-4afd-a6b9-1b848b246071",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/de39dd1a-0f72-4afd-a6b9-1b848b246071/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-7",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-7",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-02-01T18:56:00Z",
-            "window_end": "2022-02-01T18:56:00Z",
-            "window_start": "2022-02-01T18:56:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-7",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220115211319.png",
             "infographic": null
         },
         {
@@ -79,14 +54,39 @@
             "infographic": null
         },
         {
+            "id": "de39dd1a-0f72-4afd-a6b9-1b848b246071",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/de39dd1a-0f72-4afd-a6b9-1b848b246071/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-7",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-7",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-02-02T21:51:00Z",
+            "window_end": "2022-02-02T21:51:00Z",
+            "window_start": "2022-02-02T21:51:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-7",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "B1061",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220115211319.png",
+            "infographic": null
+        },
+        {
             "id": "522cb7e0-141e-4ca8-9a33-703694a9d8be",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/522cb7e0-141e-4ca8-9a33-703694a9d8be/",
             "launch_library_id": null,
             "slug": "soyuz-21afregat-m-neitron",
             "name": "Soyuz 2.1a/Fregat-M | Neitron (?)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-02-03T07:00:00Z",
             "window_end": "2022-02-03T07:00:00Z",
@@ -100,6 +100,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
+            "infographic": null
+        },
+        {
+            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-elana-41",
+            "name": "Astra Rocket 3 | ELaNa 41",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-02-05T18:00:00Z",
+            "window_end": "2022-02-05T21:00:00Z",
+            "window_start": "2022-02-05T18:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "ELaNa 41",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -225,31 +250,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "66cccc8f-ed96-4b28-888c-33124c4ea892",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/66cccc8f-ed96-4b28-888c-33124c4ea892/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-s4-crossover",
-            "name": "Astra Rocket 3 | S4 CROSSOVER",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-02-20T14:30:00Z",
-            "window_end": "2022-02-20T15:30:00Z",
-            "window_start": "2022-02-20T14:30:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "S4 CROSSOVER",
-            "mission_type": "Technology",
-            "pad": "Launch Pad 3B",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         }
     ]
