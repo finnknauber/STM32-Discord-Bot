@@ -1,5 +1,5 @@
 {
-    "count": 190,
+    "count": 194,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,18 +7,18 @@
             "id": "522cb7e0-141e-4ca8-9a33-703694a9d8be",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/522cb7e0-141e-4ca8-9a33-703694a9d8be/",
             "launch_library_id": null,
-            "slug": "soyuz-21afregat-m-neitron",
-            "name": "Soyuz 2.1a/Fregat-M | Neitron (?)",
+            "slug": "soyuz-21afregat-m-kosmos-2553",
+            "name": "Soyuz 2.1a/Fregat-M | Kosmos 2553",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-02-05T07:00:00Z",
             "window_end": "2022-02-05T07:00:00Z",
             "window_start": "2022-02-05T07:00:00Z",
             "lsp_name": "Russian Aerospace Defence Forces",
             "mission": null,
-            "pad": "Unknown Pad",
+            "pad": "43/4 (43R)",
             "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
@@ -37,9 +37,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-02-05T18:00:00Z",
-            "window_end": "2022-02-05T21:00:00Z",
-            "window_start": "2022-02-05T18:00:00Z",
+            "net": "2022-02-06T18:00:00Z",
+            "window_end": "2022-02-06T21:00:00Z",
+            "window_start": "2022-02-06T18:00:00Z",
             "lsp_name": "Astra Space",
             "mission": "ELaNa 41",
             "mission_type": "Test Flight",
