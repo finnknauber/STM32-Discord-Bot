@@ -1,32 +1,8 @@
 {
-    "count": 194,
+    "count": 193,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "522cb7e0-141e-4ca8-9a33-703694a9d8be",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/522cb7e0-141e-4ca8-9a33-703694a9d8be/",
-            "launch_library_id": null,
-            "slug": "soyuz-21afregat-m-kosmos-2553",
-            "name": "Soyuz 2.1a/Fregat-M | Kosmos 2553",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-02-05T07:00:00Z",
-            "window_end": "2022-02-05T07:00:00Z",
-            "window_start": "2022-02-05T07:00:00Z",
-            "lsp_name": "Russian Aerospace Defence Forces",
-            "mission": null,
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-            "infographic": null
-        },
         {
             "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
@@ -37,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-02-06T18:00:00Z",
-            "window_end": "2022-02-06T21:00:00Z",
-            "window_start": "2022-02-06T18:00:00Z",
+            "net": "2022-02-07T18:00:00Z",
+            "window_end": "2022-02-07T21:00:00Z",
+            "window_start": "2022-02-07T18:00:00Z",
             "lsp_name": "Astra Space",
             "mission": "ELaNa 41",
             "mission_type": "Test Flight",
@@ -49,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220206175320.jpg",
             "infographic": null
         },
         {
@@ -250,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "c2f5d50b-f4e1-4929-9d37-f6d93313bd67",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/c2f5d50b-f4e1-4929-9d37-f6d93313bd67/",
+            "launch_library_id": null,
+            "slug": "kuaizhou-1a-centispace-1-s3",
+            "name": "Kuaizhou 1A | CentiSpace-1 S3 (?)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-02-28T00:00:00Z",
+            "window_end": "2022-02-28T00:00:00Z",
+            "window_start": "2022-02-28T00:00:00Z",
+            "lsp_name": "ExPace",
+            "mission": "CentiSpace-1 S3 (?)",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         }
     ]
