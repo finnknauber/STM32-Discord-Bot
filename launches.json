@@ -4,6 +4,31 @@
     "previous": null,
     "results": [
         {
+            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-elana-41",
+            "name": "Astra Rocket 3 | ELaNa 41",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-02-10T18:00:00Z",
+            "window_end": "2022-02-10T21:00:00Z",
+            "window_start": "2022-02-10T18:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "ELaNa 41",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220206175320.jpg",
+            "infographic": null
+        },
+        {
             "id": "d91432d6-fe60-4786-86f3-3dfae0d7a898",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/d91432d6-fe60-4786-86f3-3dfae0d7a898/",
             "launch_library_id": null,
@@ -29,43 +54,18 @@
             "infographic": null
         },
         {
-            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-elana-41",
-            "name": "Astra Rocket 3 | ELaNa 41",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-02-13T00:00:00Z",
-            "window_end": "2022-02-13T00:00:00Z",
-            "window_start": "2022-02-13T00:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "ELaNa 41",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 46",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220206175320.jpg",
-            "infographic": null
-        },
-        {
             "id": "671b829d-ec26-4b9f-ac13-e50bdc9cca05",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/671b829d-ec26-4b9f-ac13-e50bdc9cca05/",
             "launch_library_id": 1880,
             "slug": "pslv-eos-4-risat-1a",
             "name": "PSLV  | EOS-4 (RISAT-1A)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-02-14T00:00:00Z",
-            "window_end": "2022-02-14T00:00:00Z",
-            "window_start": "2022-02-14T00:00:00Z",
+            "net": "2022-02-14T00:29:00Z",
+            "window_end": "2022-02-14T00:29:00Z",
+            "window_start": "2022-02-14T00:29:00Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "EOS-4 (RISAT-1A)",
             "mission_type": "Earth Science",
@@ -188,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-02-28T00:00:00Z",
-            "window_end": "2022-02-28T00:00:00Z",
-            "window_start": "2022-02-28T00:00:00Z",
+            "net": "2022-02-20T15:00:00Z",
+            "window_end": "2022-02-20T19:00:00Z",
+            "window_start": "2022-02-20T15:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-8",
             "mission_type": "Communications",
