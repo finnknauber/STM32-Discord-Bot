@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-elana-41",
-            "name": "Astra Rocket 3 | ELaNa 41",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-02-10T18:00:00Z",
-            "window_end": "2022-02-10T21:00:00Z",
-            "window_start": "2022-02-10T18:00:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "ELaNa 41",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 46",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220206175320.jpg",
-            "infographic": null
-        },
-        {
             "id": "d91432d6-fe60-4786-86f3-3dfae0d7a898",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/d91432d6-fe60-4786-86f3-3dfae0d7a898/",
             "launch_library_id": null,
@@ -51,6 +26,31 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20210520085946.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2b74e95d-de9d-44e5-aefb-d1e48d9e35e6",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2b74e95d-de9d-44e5-aefb-d1e48d9e35e6/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-elana-41",
+            "name": "Astra Rocket 3 | ELaNa 41",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-02-10T20:00:00Z",
+            "window_end": "2022-02-10T21:00:00Z",
+            "window_start": "2022-02-10T20:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": "ELaNa 41",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/astra2520rocke_image_20220206175320.jpg",
             "infographic": null
         },
         {
