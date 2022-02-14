@@ -1,5 +1,5 @@
 {
-    "count": 202,
+    "count": 203,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,11 +7,11 @@
             "id": "671b829d-ec26-4b9f-ac13-e50bdc9cca05",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/671b829d-ec26-4b9f-ac13-e50bdc9cca05/",
             "launch_library_id": 1880,
-            "slug": "pslv-eos-4-risat-1a",
-            "name": "PSLV  | EOS-4 (RISAT-1A)",
+            "slug": "pslv-xl-eos-4-risat-1a",
+            "name": "PSLV-XL | EOS-4 (RISAT-1A)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-02-14T00:29:00Z",
             "window_end": "2022-02-14T00:29:00Z",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
             "infographic": null
         },
         {
