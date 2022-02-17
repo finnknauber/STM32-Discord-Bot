@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-02-20T14:54:00Z",
+            "net": "2022-02-20T16:13:00Z",
             "window_end": "2022-02-20T16:13:00Z",
-            "window_start": "2022-02-20T14:54:00Z",
+            "window_start": "2022-02-20T16:13:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-8",
             "mission_type": "Communications",
@@ -153,31 +153,6 @@
             "infographic": null
         },
         {
-            "id": "66cccc8f-ed96-4b28-888c-33124c4ea892",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/66cccc8f-ed96-4b28-888c-33124c4ea892/",
-            "launch_library_id": null,
-            "slug": "astra-rocket-3-s4-crossover",
-            "name": "Astra Rocket 3 | S4 CROSSOVER",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-02-28T14:30:00Z",
-            "window_end": "2022-02-28T15:30:00Z",
-            "window_start": "2022-02-28T14:30:00Z",
-            "lsp_name": "Astra Space",
-            "mission": "S4 CROSSOVER",
-            "mission_type": "Technology",
-            "pad": "Launch Pad 3B",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
-            "infographic": null
-        },
-        {
             "id": "9ec0e690-09dd-4fa7-83aa-249c05700165",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/9ec0e690-09dd-4fa7-83aa-249c05700165/",
             "launch_library_id": 2022,
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "859bf952-b4c6-40fb-a7e7-ac12efc386b2",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/859bf952-b4c6-40fb-a7e7-ac12efc386b2/",
+            "launch_library_id": 2041,
+            "slug": "electron-capstone",
+            "name": "Electron | CAPSTONE",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-03-19T00:00:00Z",
+            "window_end": "2022-03-19T00:00:00Z",
+            "window_start": "2022-03-19T00:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "CAPSTONE",
+            "mission_type": "Planetary Science",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
