@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-4-8",
             "name": "Falcon 9 Block 5 | Starlink Group 4-8",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-02-20T16:13:00Z",
             "window_end": "2022-02-20T16:13:00Z",
