@@ -10,12 +10,12 @@
             "slug": "antares-230-cygnus-crs-2-ng-17-ss-piers-sellers",
             "name": "Antares 230+ | Cygnus CRS-2 NG-17 (S.S. Piers Sellers)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-02-19T17:39:59Z",
-            "window_end": "2022-02-19T17:39:59Z",
-            "window_start": "2022-02-19T17:39:59Z",
+            "net": "2022-02-19T17:40:03Z",
+            "window_end": "2022-02-19T17:40:03Z",
+            "window_start": "2022-02-19T17:40:03Z",
             "lsp_name": "Northrop Grumman Innovation Systems",
             "mission": "Cygnus CRS-2 NG-17 (S.S. Piers Sellers)",
             "mission_type": "Resupply",
@@ -38,17 +38,17 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-02-20T16:13:00Z",
-            "window_end": "2022-02-20T16:13:00Z",
-            "window_start": "2022-02-20T16:13:00Z",
+            "net": "2022-02-21T14:44:00Z",
+            "window_end": "2022-02-21T14:44:00Z",
+            "window_start": "2022-02-21T14:44:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-8",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "B1058",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220128051224.png",
             "infographic": null
@@ -109,8 +109,8 @@
             "slug": "electron-the-owls-night-continues",
             "name": "Electron | The Owl\u2019s Night Continues",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-02-27T20:35:00Z",
             "window_end": "2022-02-27T20:35:00Z",
@@ -187,9 +187,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-03-04T22:41:00Z",
-            "window_end": "2022-03-04T22:41:00Z",
-            "window_start": "2022-03-04T22:41:00Z",
+            "net": "2022-03-04T22:41:02Z",
+            "window_end": "2022-03-04T22:41:02Z",
+            "window_start": "2022-03-04T22:41:02Z",
             "lsp_name": "Arianespace",
             "mission": "OneWeb 14",
             "mission_type": "Communications",
