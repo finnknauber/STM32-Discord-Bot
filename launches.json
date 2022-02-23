@@ -13,7 +13,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-02-25T15:40:00Z",
+            "net": "2022-02-25T17:08:00Z",
             "window_end": "2022-02-25T21:37:00Z",
             "window_start": "2022-02-25T15:40:00Z",
             "lsp_name": "SpaceX",
@@ -35,12 +35,12 @@
             "slug": "long-march-4c-l-sar-01b",
             "name": "Long March 4C | L-SAR 01B",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-02-25T23:44:00Z",
-            "window_end": "2022-02-25T23:44:00Z",
-            "window_start": "2022-02-25T23:44:00Z",
+            "net": "2022-02-26T23:44:00Z",
+            "window_end": "2022-02-26T23:58:00Z",
+            "window_start": "2022-02-26T23:33:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "L-SAR 01B",
             "mission_type": "Earth Science",
@@ -118,7 +118,7 @@
             "lsp_name": "Rocket Lab Ltd",
             "mission": "StriX-\u03b2 (The Owl\u2019s Night Continues)",
             "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
