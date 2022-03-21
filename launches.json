@@ -35,8 +35,8 @@
             "slug": "new-shepard-ns-20",
             "name": "New Shepard | NS-20",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-03-29T13:30:00Z",
             "window_end": "2022-03-29T16:30:00Z",
@@ -237,9 +237,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-04-19T10:30:00Z",
-            "window_end": "2022-04-19T10:30:00Z",
-            "window_start": "2022-04-19T10:30:00Z",
+            "net": "2022-04-19T10:45:00Z",
+            "window_end": "2022-04-19T10:45:00Z",
+            "window_start": "2022-04-19T10:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "Crew-4",
             "mission_type": "Human Exploration",
