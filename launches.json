@@ -1,5 +1,5 @@
 {
-    "count": 199,
+    "count": 201,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,16 +10,16 @@
             "slug": "soyuz-21afregat-m-meridian-m-no20l",
             "name": "Soyuz 2.1a/Fregat-M | Meridian-M No.20L",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-03-22T12:00:00Z",
+            "net": "2022-03-22T12:48:22Z",
             "window_end": "2022-03-22T14:00:00Z",
             "window_start": "2022-03-22T12:00:00Z",
             "lsp_name": "Russian Space Forces",
             "mission": "Meridian-M No.20L",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
+            "pad": "43/3 (43L)",
             "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
