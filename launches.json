@@ -1,8 +1,56 @@
 {
-    "count": 215,
+    "count": 217,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
+        {
+            "id": "fa1ef649-5c4d-42d2-a5e9-1252dc0469f3",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/fa1ef649-5c4d-42d2-a5e9-1252dc0469f3/",
+            "launch_library_id": null,
+            "slug": "long-march-11-unknown-payload",
+            "name": "Long March 11 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-03-29T02:25:00Z",
+            "window_end": "2022-03-29T02:50:00Z",
+            "window_start": "2022-03-29T02:18:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f9e39cde-55d5-4ee5-9bd9-dd855f55b3eb",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/f9e39cde-55d5-4ee5-9bd9-dd855f55b3eb/",
+            "launch_library_id": null,
+            "slug": "long-march-6-unknown-payload",
+            "name": "Long March 6 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-03-29T09:55:00Z",
+            "window_end": "2022-03-29T10:20:00Z",
+            "window_start": "2022-03-29T09:42:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 16",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
+            "infographic": null
+        },
         {
             "id": "08040943-ec97-413d-b134-22e516e50528",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/08040943-ec97-413d-b134-22e516e50528/",
@@ -51,31 +99,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
-            "infographic": null
-        },
-        {
-            "id": "c2f5d50b-f4e1-4929-9d37-f6d93313bd67",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/c2f5d50b-f4e1-4929-9d37-f6d93313bd67/",
-            "launch_library_id": null,
-            "slug": "kuaizhou-1a-centispace-1-s3",
-            "name": "Kuaizhou 1A | CentiSpace-1 S3 (?)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-03-31T00:00:00Z",
-            "window_end": "2022-03-31T00:00:00Z",
-            "window_start": "2022-03-31T00:00:00Z",
-            "lsp_name": "ExPace",
-            "mission": "CentiSpace-1 S3 (?)",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -201,31 +224,6 @@
             "launcher": "B1071",
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "0f770177-f502-465b-9ea5-d7a053ec903c",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/0f770177-f502-465b-9ea5-d7a053ec903c/",
-            "launch_library_id": 1613,
-            "slug": "angara-12-mka-r",
-            "name": "Angara 1.2 | MKA-R",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-04-19T00:00:00Z",
-            "window_end": "2022-04-19T00:00:00Z",
-            "window_start": "2022-04-19T00:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": "MKA-R",
-            "mission_type": "Government/Top Secret",
-            "pad": "35/1",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg",
             "infographic": null
         },
         {
