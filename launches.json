@@ -1,5 +1,5 @@
 {
-    "count": 214,
+    "count": 215,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -28,6 +28,31 @@
             "infographic": null
         },
         {
+            "id": "e9a72e56-a2c9-4036-9dbf-f29508687dbc",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/e9a72e56-a2c9-4036-9dbf-f29508687dbc/",
+            "launch_library_id": null,
+            "slug": "soyuz-21b-lotos-s1-6",
+            "name": "Soyuz 2.1b | Lotos-S1 #6",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-04-07T11:30:00Z",
+            "window_end": "2022-04-07T12:30:00Z",
+            "window_start": "2022-04-07T10:30:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Lotos-S1",
+            "mission_type": "Government/Top Secret",
+            "pad": "Unknown Pad",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20200513182641.jpg",
+            "infographic": null
+        },
+        {
             "id": "a3eeb03b-a209-4255-91b5-772dc0d2150e",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/a3eeb03b-a209-4255-91b5-772dc0d2150e/",
             "launch_library_id": 2048,
@@ -37,9 +62,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-04-07T15:39:00Z",
-            "window_end": "2022-04-07T15:39:00Z",
-            "window_start": "2022-04-07T15:39:00Z",
+            "net": "2022-04-08T15:17:00Z",
+            "window_end": "2022-04-08T15:17:00Z",
+            "window_start": "2022-04-08T15:17:00Z",
             "lsp_name": "SpaceX",
             "mission": "Axiom Space Mission 1",
             "mission_type": "Tourism",
@@ -59,12 +84,12 @@
             "slug": "falcon-9-block-5-nrol-85",
             "name": "Falcon 9 Block 5 | NROL-85",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-04-15T00:00:00Z",
-            "window_end": "2022-04-15T00:00:00Z",
-            "window_start": "2022-04-15T00:00:00Z",
+            "net": "2022-04-15T12:59:00Z",
+            "window_end": "2022-04-15T14:25:00Z",
+            "window_start": "2022-04-15T12:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "NROL-85",
             "mission_type": "Government/Top Secret",
@@ -222,31 +247,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "6ec66610-b96c-4e3d-86f2-207068789781",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6ec66610-b96c-4e3d-86f2-207068789781/",
-            "launch_library_id": 1824,
-            "slug": "pslv-eos-6-oceansat-3",
-            "name": "PSLV  | EOS-6 (Oceansat-3)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-04-30T00:00:00Z",
-            "window_end": "2022-04-30T00:00:00Z",
-            "window_start": "2022-04-30T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "Oceansat-3",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
             "infographic": null
         }
     ]
