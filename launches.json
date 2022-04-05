@@ -1,5 +1,5 @@
 {
-    "count": 215,
+    "count": 217,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -70,7 +70,7 @@
             "mission_type": "Tourism",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "B1062",
             "orbit": "LEO",
@@ -100,6 +100,31 @@
             "launcher": "B1071",
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "5e915de9-f574-433b-bf39-d90b616c0e8b",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/5e915de9-f574-433b-bf39-d90b616c0e8b/",
+            "launch_library_id": null,
+            "slug": "electron-there-and-back-again",
+            "name": "Electron | There and Back Again",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-04-19T00:00:00Z",
+            "window_end": "2022-04-19T00:00:00Z",
+            "window_start": "2022-04-19T00:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "There and Back Again",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": "PAC",
+            "landing_success": 0,
+            "launcher": "26",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -223,30 +248,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-            "infographic": null
-        },
-        {
-            "id": "6e99b22c-1a27-428c-96f3-c868b8b53cfe",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/6e99b22c-1a27-428c-96f3-c868b8b53cfe/",
-            "launch_library_id": 2071,
-            "slug": "electron-nrol-162-rasr-3",
-            "name": "Electron | NROL-162 (RASR-3)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-04-30T00:00:00Z",
-            "window_end": "2022-04-30T00:00:00Z",
-            "window_start": "2022-04-30T00:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": null,
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
