@@ -78,6 +78,31 @@
             "infographic": null
         },
         {
+            "id": "2c5447d7-36c5-40fd-88de-47ed6b258bdb",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/2c5447d7-36c5-40fd-88de-47ed6b258bdb/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-14",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-14",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-04-21T15:16:00Z",
+            "window_end": "2022-04-21T15:16:00Z",
+            "window_start": "2022-04-21T15:16:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-14",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220324065634.png",
+            "infographic": null
+        },
+        {
             "id": "5e915de9-f574-433b-bf39-d90b616c0e8b",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/5e915de9-f574-433b-bf39-d90b616c0e8b/",
             "launch_library_id": null,
@@ -87,9 +112,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-04-19T22:35:00Z",
-            "window_end": "2022-04-20T00:40:00Z",
-            "window_start": "2022-04-19T22:35:00Z",
+            "net": "2022-04-22T22:35:00Z",
+            "window_end": "2022-04-23T00:40:00Z",
+            "window_start": "2022-04-22T22:35:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "There and Back Again",
             "mission_type": "Dedicated Rideshare",
@@ -150,31 +175,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2c5447d7-36c5-40fd-88de-47ed6b258bdb",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/2c5447d7-36c5-40fd-88de-47ed6b258bdb/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-14",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-14",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-04-30T00:00:00Z",
-            "window_end": "2022-04-30T00:00:00Z",
-            "window_start": "2022-04-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-14",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220324065634.png",
             "infographic": null
         },
         {
