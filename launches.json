@@ -10,10 +10,10 @@
             "slug": "long-march-3b-chinasat-6d",
             "name": "Long March 3B | ChinaSat 6D",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-04-15T12:05:00Z",
+            "net": "2022-04-15T12:00:00Z",
             "window_end": "2022-04-15T12:30:00Z",
             "window_start": "2022-04-15T11:52:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -29,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "a45b9891-8967-4ea5-8703-cd74e959e3f7",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/a45b9891-8967-4ea5-8703-cd74e959e3f7/",
+            "launch_library_id": null,
+            "slug": "long-march-4c-daqi-1-aems",
+            "name": "Long March 4C | Daqi-1 (AEMS)",
+            "status": {
+                "id": 3,
+                "name": "Success"
+            },
+            "net": "2022-04-15T18:16:00Z",
+            "window_end": "2022-04-15T18:31:00Z",
+            "window_start": "2022-04-15T18:09:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Daqi-1 (AEMS)",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 9",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
             "id": "42932355-c450-4250-a885-2d2709fd7cfc",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/42932355-c450-4250-a885-2d2709fd7cfc/",
             "launch_library_id": 1693,
@@ -38,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-04-15T13:41:00Z",
-            "window_end": "2022-04-15T14:25:00Z",
-            "window_start": "2022-04-15T12:59:00Z",
+            "net": "2022-04-16T13:27:00Z",
+            "window_end": "2022-04-16T14:25:00Z",
+            "window_start": "2022-04-16T12:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "NROL-85",
             "mission_type": "Government/Top Secret",
@@ -50,31 +75,7 @@
             "landing_success": 0,
             "launcher": "B1071",
             "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "a45b9891-8967-4ea5-8703-cd74e959e3f7",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/a45b9891-8967-4ea5-8703-cd74e959e3f7/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-unknown-payload",
-            "name": "Long March 4C | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-04-15T18:15:00Z",
-            "window_end": "2022-04-15T18:31:00Z",
-            "window_start": "2022-04-15T18:09:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220415131351.jpeg",
             "infographic": null
         },
         {
@@ -97,7 +98,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1058",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220324065634.png",
             "infographic": null
@@ -134,8 +135,8 @@
             "slug": "falcon-9-block-5-crew-4",
             "name": "Falcon 9 Block 5 | Crew-4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-04-23T09:26:00Z",
             "window_end": "2022-04-23T09:26:00Z",
