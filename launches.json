@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "42932355-c450-4250-a885-2d2709fd7cfc",
-            "url": "https://ll.thespacedevs.com/2.2.0/launch/42932355-c450-4250-a885-2d2709fd7cfc/",
-            "launch_library_id": 1693,
-            "slug": "falcon-9-block-5-nrol-85",
-            "name": "Falcon 9 Block 5 | NROL-85",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-04-17T13:13:12Z",
-            "window_end": "2022-04-17T13:13:12Z",
-            "window_start": "2022-04-17T13:13:12Z",
-            "lsp_name": "SpaceX",
-            "mission": "NROL-85",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
-            "landing_success": 1,
-            "launcher": "B1071",
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220415131351.jpeg",
-            "infographic": null
-        },
-        {
             "id": "2c5447d7-36c5-40fd-88de-47ed6b258bdb",
             "url": "https://ll.thespacedevs.com/2.2.0/launch/2c5447d7-36c5-40fd-88de-47ed6b258bdb/",
             "launch_library_id": null,
@@ -231,6 +206,30 @@
             "launch_library_id": null,
             "slug": "astra-rocket-3-tropics-3-4",
             "name": "Astra Rocket 3 | TROPICS 3 & 4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-04-30T00:00:00Z",
+            "window_end": "2022-04-30T00:00:00Z",
+            "window_start": "2022-04-30T00:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": null,
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
+            "infographic": null
+        },
+        {
+            "id": "f4ffe15c-6009-4eaa-b60e-aef586c8cb5f",
+            "url": "https://ll.thespacedevs.com/2.2.0/launch/f4ffe15c-6009-4eaa-b60e-aef586c8cb5f/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-tropics-1-2",
+            "name": "Astra Rocket 3 | TROPICS 1 & 2",
             "status": {
                 "id": 2,
                 "name": "TBD"
