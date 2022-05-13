@@ -10,12 +10,12 @@
             "slug": "hyperbola-1-jilin-1-mofang-01ar",
             "name": "Hyperbola-1 | Jilin-1 Mofang-01A(R)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2022-05-13T07:20:00Z",
+            "net": "2022-05-13T07:09:00Z",
             "window_end": "2022-05-13T07:55:00Z",
-            "window_start": "2022-05-13T07:14:00Z",
+            "window_start": "2022-05-13T07:09:00Z",
             "lsp_name": "iSpace",
             "mission": "Jilin-1 Mofang-01A(R)",
             "mission_type": "Earth Science",
@@ -60,18 +60,18 @@
             "slug": "falcon-9-block-5-starlink-group-4-15",
             "name": "Falcon 9 Block 5 | Starlink Group 4-15",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-05-14T20:38:00Z",
-            "window_end": "2022-05-14T20:38:00Z",
-            "window_start": "2022-05-14T20:38:00Z",
+            "net": "2022-05-14T20:40:00Z",
+            "window_end": "2022-05-14T20:40:00Z",
+            "window_start": "2022-05-14T20:40:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-15",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1073",
             "orbit": "LEO",
@@ -96,7 +96,7 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -127,6 +127,31 @@
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_n22_image_20210813082339.jpeg",
             "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_infographic_20210729223540.jpeg"
+        },
+        {
+            "id": "f058ecca-bda7-4797-ae47-b5c450b1bd78",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f058ecca-bda7-4797-ae47-b5c450b1bd78/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-21",
+            "name": "New Shepard | NS-21",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-05-20T13:30:00Z",
+            "window_end": "2022-05-20T16:30:00Z",
+            "window_start": "2022-05-20T13:30:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-21",
+            "mission_type": "Tourism",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, USA",
+            "landing": "CR",
+            "landing_success": 0,
+            "launcher": "NS-4",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
+            "infographic": null
         },
         {
             "id": "949421ac-3802-499b-b383-d8274de7e147",
@@ -176,31 +201,6 @@
             "launcher": null,
             "orbit": "LO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "f058ecca-bda7-4797-ae47-b5c450b1bd78",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f058ecca-bda7-4797-ae47-b5c450b1bd78/",
-            "launch_library_id": null,
-            "slug": "new-shepard-ns-21",
-            "name": "New Shepard | NS-21",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-05-31T00:00:00Z",
-            "window_end": "2022-05-31T00:00:00Z",
-            "window_start": "2022-05-31T00:00:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "NS-21",
-            "mission_type": "Tourism",
-            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
-            "location": "Corn Ranch, USA",
-            "landing": "CR",
-            "landing_success": 0,
-            "launcher": "NS-4",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
             "infographic": null
         },
         {
