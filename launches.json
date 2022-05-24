@@ -138,9 +138,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-06-07T15:30:00Z",
-            "window_end": "2022-06-07T15:30:00Z",
-            "window_start": "2022-06-07T15:30:00Z",
+            "net": "2022-06-09T14:45:00Z",
+            "window_end": "2022-06-09T14:45:00Z",
+            "window_start": "2022-06-09T14:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-25",
             "mission_type": "Resupply",
@@ -173,7 +173,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220520120044.png",
             "infographic": null
