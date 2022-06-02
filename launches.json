@@ -1,5 +1,5 @@
 {
-    "count": 252,
+    "count": 253,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,23 +7,24 @@
             "id": "039197c4-f2bb-404a-916d-4790350ce5d8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/039197c4-f2bb-404a-916d-4790350ce5d8/",
             "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
+            "slug": "long-march-2c-geely-constellation-group-01",
+            "name": "Long March 2C | Geely Constellation Group 01",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-06-02T04:00:00Z",
             "window_end": "2022-06-02T04:15:00Z",
             "window_start": "2022-06-02T03:50:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Geely Constellation Group 01",
+            "mission_type": "Communications",
             "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
             "infographic": null
         },
@@ -37,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-06-03T09:32:54Z",
-            "window_end": "2022-06-03T09:32:54Z",
-            "window_start": "2022-06-03T09:32:54Z",
+            "net": "2022-06-03T09:32:16Z",
+            "window_end": "2022-06-03T09:32:16Z",
+            "window_start": "2022-06-03T09:32:16Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-20 (81P)",
             "mission_type": "Resupply",
@@ -112,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-07T21:03:00Z",
-            "window_end": "2022-06-07T21:03:00Z",
-            "window_start": "2022-06-07T21:03:00Z",
+            "net": "2022-06-08T21:03:00Z",
+            "window_end": "2022-06-08T21:03:00Z",
+            "window_start": "2022-06-08T21:03:00Z",
             "lsp_name": "SpaceX",
             "mission": null,
             "pad": "Space Launch Complex 40",
@@ -133,12 +134,12 @@
             "slug": "falcon-9-block-5-dragon-crs-2-spx-25",
             "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-25",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2022-06-09T14:45:00Z",
-            "window_end": "2022-06-09T14:45:00Z",
-            "window_start": "2022-06-09T14:45:00Z",
+            "net": "2022-06-10T14:22:00Z",
+            "window_end": "2022-06-10T14:22:00Z",
+            "window_start": "2022-06-10T14:22:00Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-25",
             "mission_type": "Resupply",
@@ -158,12 +159,12 @@
             "slug": "electron-capstone",
             "name": "Electron | CAPSTONE",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-06-13T00:00:00Z",
-            "window_end": "2022-06-13T00:00:00Z",
-            "window_start": "2022-06-13T00:00:00Z",
+            "net": "2022-06-13T09:03:00Z",
+            "window_end": "2022-06-13T09:03:00Z",
+            "window_start": "2022-06-13T09:03:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "CAPSTONE",
             "mission_type": "Planetary Science",
