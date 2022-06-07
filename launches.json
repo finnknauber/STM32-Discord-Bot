@@ -1,5 +1,5 @@
 {
-    "count": 254,
+    "count": 256,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-nilesat-301",
             "name": "Falcon 9 Block 5 | Nilesat-301",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-06-08T21:04:00Z",
             "window_end": "2022-06-08T21:04:00Z",
@@ -21,11 +21,35 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1062",
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "f4ffe15c-6009-4eaa-b60e-aef586c8cb5f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f4ffe15c-6009-4eaa-b60e-aef586c8cb5f/",
+            "launch_library_id": null,
+            "slug": "astra-rocket-3-tropics-1-2",
+            "name": "Astra Rocket 3 | TROPICS 1 & 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-06-12T00:00:00Z",
+            "window_end": "2022-06-12T00:00:00Z",
+            "window_start": "2022-06-12T00:00:00Z",
+            "lsp_name": "Astra Space",
+            "mission": null,
+            "pad": "Space Launch Complex 46",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/astra_rocket_3_image_20211012141057.jpg",
             "infographic": null
         },
         {
@@ -179,6 +203,31 @@
             "infographic": null
         },
         {
+            "id": "2773613e-58eb-4b99-8120-595c92aa3390",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2773613e-58eb-4b99-8120-595c92aa3390/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-25",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-25",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-06-28T07:00:00Z",
+            "window_end": "2022-06-28T07:00:00Z",
+            "window_start": "2022-06-28T07:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-25",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1067",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155026.jpeg",
+            "infographic": null
+        },
+        {
             "id": "83f38440-8a73-4209-911d-fb4f30b1bda9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/83f38440-8a73-4209-911d-fb4f30b1bda9/",
             "launch_library_id": 1523,
@@ -200,56 +249,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520541_image_20190224012314.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "e521d1a4-7f67-4a13-aaaa-c8faec0e824c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e521d1a4-7f67-4a13-aaaa-c8faec0e824c/",
-            "launch_library_id": null,
-            "slug": "launcherone-straight-up",
-            "name": "LauncherOne | Straight Up",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-06-29T03:00:00Z",
-            "window_end": "2022-06-29T03:00:00Z",
-            "window_start": "2022-06-29T03:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": "Straight Up",
-            "mission_type": "Government/Top Secret",
-            "pad": "Mojave Air and Space Port",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-06-30T00:00:00Z",
-            "window_end": "2022-06-30T00:00:00Z",
-            "window_start": "2022-06-30T00:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         }
     ]
