@@ -10,10 +10,10 @@
             "slug": "astra-rocket-3-tropics-1",
             "name": "Astra Rocket 3 | TROPICS-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2022-06-12T16:00:00Z",
+            "net": "2022-06-12T17:43:00Z",
             "window_end": "2022-06-12T18:00:00Z",
             "window_start": "2022-06-12T16:00:00Z",
             "lsp_name": "Astra Space",
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-16T14:50:00Z",
-            "window_end": "2022-06-16T14:50:00Z",
-            "window_start": "2022-06-16T14:50:00Z",
+            "net": "2022-06-17T14:50:00Z",
+            "window_end": "2022-06-17T14:50:00Z",
+            "window_start": "2022-06-17T14:50:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-19",
             "mission_type": "Communications",
