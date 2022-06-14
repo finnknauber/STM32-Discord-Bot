@@ -13,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-15T06:00:00Z",
-            "window_end": "2022-06-15T08:00:00Z",
-            "window_start": "2022-06-15T06:00:00Z",
+            "net": "2022-06-16T06:00:00Z",
+            "window_end": "2022-06-16T08:00:00Z",
+            "window_start": "2022-06-16T06:00:00Z",
             "lsp_name": "Korea Aerospace Research Institute",
             "mission": "Flight Test 2",
             "mission_type": "Test Flight",
@@ -154,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "2773613e-58eb-4b99-8120-595c92aa3390",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2773613e-58eb-4b99-8120-595c92aa3390/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-25",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-25",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-06-28T07:00:00Z",
-            "window_end": "2022-06-28T07:00:00Z",
-            "window_start": "2022-06-28T07:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-25",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "B1067",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155026.jpeg",
-            "infographic": null
-        },
-        {
             "id": "86a3010e-f8ef-4b64-a029-f4f92829772d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/86a3010e-f8ef-4b64-a029-f4f92829772d/",
             "launch_library_id": null,
@@ -188,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-28T21:00:00Z",
-            "window_end": "2022-06-28T21:00:00Z",
-            "window_start": "2022-06-28T21:00:00Z",
+            "net": "2022-06-28T21:04:00Z",
+            "window_end": "2022-06-28T21:04:00Z",
+            "window_start": "2022-06-28T21:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "SES-22",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "25d652f7-7e20-42d5-967e-b8e01305746c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/25d652f7-7e20-42d5-967e-b8e01305746c/",
+            "launch_library_id": 1685,
+            "slug": "terran-1-maiden-flight",
+            "name": "Terran 1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-06-30T00:00:00Z",
+            "window_end": "2022-06-30T00:00:00Z",
+            "window_start": "2022-06-30T00:00:00Z",
+            "lsp_name": "Relativity Space",
+            "mission": "Good Luck, Have Fun",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 16",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg",
             "infographic": null
         }
     ]
