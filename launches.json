@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "69f95edd-9075-4176-a9a1-103b7863d5e6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/69f95edd-9075-4176-a9a1-103b7863d5e6/",
-            "launch_library_id": null,
-            "slug": "nuri-flight-test-2",
-            "name": "Nuri | Flight Test 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-06-16T06:00:00Z",
-            "window_end": "2022-06-16T08:00:00Z",
-            "window_start": "2022-06-16T06:00:00Z",
-            "lsp_name": "Korea Aerospace Research Institute",
-            "mission": "Flight Test 2",
-            "mission_type": "Test Flight",
-            "pad": "LC-2",
-            "location": "Naro Space Center, South Korea",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/nuri_image_20211020165148.jpg",
-            "infographic": null
-        },
-        {
             "id": "179789f0-9380-4182-8ea2-676504c2f890",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/179789f0-9380-4182-8ea2-676504c2f890/",
             "launch_library_id": null,
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-17T14:50:00Z",
-            "window_end": "2022-06-17T14:50:00Z",
-            "window_start": "2022-06-17T14:50:00Z",
+            "net": "2022-06-17T16:08:50Z",
+            "window_end": "2022-06-17T16:08:50Z",
+            "window_start": "2022-06-17T16:08:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-19",
             "mission_type": "Communications",
@@ -88,17 +63,17 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-19T04:30:00Z",
-            "window_end": "2022-06-19T04:30:00Z",
-            "window_start": "2022-06-19T04:30:00Z",
+            "net": "2022-06-19T04:25:00Z",
+            "window_end": "2022-06-19T04:25:00Z",
+            "window_start": "2022-06-19T04:25:00Z",
             "lsp_name": "SpaceX",
             "mission": "Globalstar-2 FM15 & others",
             "mission_type": "Government/Top Secret",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
@@ -171,9 +146,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1073",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg",
+            "infographic": null
+        },
+        {
+            "id": "5336dd45-9773-463b-acda-2a633b725d94",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5336dd45-9773-463b-acda-2a633b725d94/",
+            "launch_library_id": 1611,
+            "slug": "sslv-eos-02-microsat-2a-demo-1",
+            "name": "SSLV | EOS-02 (Microsat-2A) (Demo 1)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-06-30T00:00:00Z",
+            "window_end": "2022-06-30T00:00:00Z",
+            "window_start": "2022-06-30T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "SSLV Demo 1",
+            "mission_type": "Test Flight",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/sslv_image_20190830213312.jpg",
             "infographic": null
         }
     ]
