@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-4-19",
             "name": "Falcon 9 Block 5 | Starlink Group 4-19",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-06-17T16:08:50Z",
             "window_end": "2022-06-17T16:08:50Z",
@@ -21,7 +21,7 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "B1060",
             "orbit": "LEO",
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-sarah-1",
             "name": "Falcon 9 Block 5 | SARah 1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-06-18T13:50:00Z",
-            "window_end": "2022-06-18T13:50:00Z",
-            "window_start": "2022-06-18T13:50:00Z",
+            "net": "2022-06-18T14:19:00Z",
+            "window_end": "2022-06-18T14:19:00Z",
+            "window_start": "2022-06-18T14:19:00Z",
             "lsp_name": "SpaceX",
             "mission": "SARah 1",
             "mission_type": "Government/Top Secret",
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-06-19T04:25:00Z",
-            "window_end": "2022-06-19T04:25:00Z",
-            "window_start": "2022-06-19T04:25:00Z",
+            "net": "2022-06-19T04:27:00Z",
+            "window_end": "2022-06-19T04:27:00Z",
+            "window_start": "2022-06-19T04:27:00Z",
             "lsp_name": "SpaceX",
             "mission": "Globalstar-2 FM15 & others",
             "mission_type": "Government/Top Secret",
@@ -110,12 +110,12 @@
             "slug": "electron-capstone",
             "name": "Electron | CAPSTONE",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-06-25T00:00:00Z",
-            "window_end": "2022-06-25T00:00:00Z",
-            "window_start": "2022-06-25T00:00:00Z",
+            "net": "2022-06-25T10:00:00Z",
+            "window_end": "2022-06-25T10:00:00Z",
+            "window_start": "2022-06-25T10:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "CAPSTONE",
             "mission_type": "Planetary Science",
