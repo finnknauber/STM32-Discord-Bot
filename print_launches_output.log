@@ -1765,3 +1765,26 @@ Sending Message
 Sending Message
 Sending Message
 Sending Message
+Traceback (most recent call last):
+  File "print_launches.py", line 123, in <module>
+    client.run(TOKEN)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 718, in run
+    return future.result()
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 697, in runner
+    await self.start(*args, **kwargs)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 660, in start
+    await self.login(*args, bot=bot)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 509, in login
+    await self.http.static_login(token.strip(), bot=bot)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/http.py", line 293, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/http.py", line 258, in request
+    raise DiscordServerError(r, data)
+discord.errors.DiscordServerError: 500 Internal Server Error (error code: 0): <html>
+<head><title>500 Internal Server Error</title><script async src='/cdn-cgi/bm/cv/669835187/api.js'></script></head>
+<body bgcolor="white">
+<center><h1>500 Internal Server Error</h1></center>
+<hr><center>nginx</center>
+<script type="text/javascript">(function(){window['__CF$cv$params']={r:'71eac7e23ea3906d',m:'REcgnW.fjRQGi3yubxQHAuZkDURCnd41HRIhitDRztU-1655793920-0-AZvFK5NpuZvaw3Qs9pyipP9zdGgP0JStYXcoWN11jdD+dNCeWM1CKc325hQrjMgOL72WCZ/FkB2zfOiD/VOhz0w7iosEEmoOvej/NE++q1yQk8NKbiXRctb7eqebVdSBvq5DWegSqpaIC4HBayq/NBU=',s:[0x0ed81bc5a3,0xa90f70ab4f],}})();</script></body>
+</html>
+
