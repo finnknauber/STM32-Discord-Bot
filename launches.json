@@ -10,11 +10,11 @@
             "slug": "black-brant-ix-xqc",
             "name": "Black Brant IX | XQC",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-06-26T13:14:00Z",
-            "window_end": "2022-06-26T13:14:00Z",
+            "net": "2022-06-26T14:30:00Z",
+            "window_end": "2022-06-26T16:14:00Z",
             "window_start": "2022-06-26T13:14:00Z",
             "lsp_name": "Equatorial Launch Australia",
             "mission": "XQC",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg",
-            "infographic": null
-        },
-        {
-            "id": "859bf952-b4c6-40fb-a7e7-ac12efc386b2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/859bf952-b4c6-40fb-a7e7-ac12efc386b2/",
-            "launch_library_id": 2041,
-            "slug": "electron-capstone",
-            "name": "Electron | CAPSTONE",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-06-27T10:00:00Z",
-            "window_end": "2022-06-27T10:00:00Z",
-            "window_start": "2022-06-27T10:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "CAPSTONE",
-            "mission_type": "Planetary Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220624215445.jpg",
             "infographic": null
         },
         {
@@ -78,6 +53,31 @@
             "infographic": null
         },
         {
+            "id": "859bf952-b4c6-40fb-a7e7-ac12efc386b2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/859bf952-b4c6-40fb-a7e7-ac12efc386b2/",
+            "launch_library_id": 2041,
+            "slug": "electron-capstone",
+            "name": "Electron | CAPSTONE",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-06-28T10:00:00Z",
+            "window_end": "2022-06-28T10:00:00Z",
+            "window_start": "2022-06-28T10:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "CAPSTONE",
+            "mission_type": "Planetary Science",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20220624215445.jpg",
+            "infographic": null
+        },
+        {
             "id": "86a3010e-f8ef-4b64-a029-f4f92829772d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/86a3010e-f8ef-4b64-a029-f4f92829772d/",
             "launch_library_id": null,
@@ -100,31 +100,6 @@
             "launcher": "B1073",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "83f38440-8a73-4209-911d-fb4f30b1bda9",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/83f38440-8a73-4209-911d-fb4f30b1bda9/",
-            "launch_library_id": 1523,
-            "slug": "atlas-v-541-ussf-12",
-            "name": "Atlas V 541 | USSF-12",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-06-30T00:00:00Z",
-            "window_end": "2022-06-30T00:00:00Z",
-            "window_start": "2022-06-30T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "USSF-12",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520541_image_20190224012314.jpeg",
             "infographic": null
         },
         {
@@ -200,6 +175,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190520163034.jpg",
+            "infographic": null
+        },
+        {
+            "id": "83f38440-8a73-4209-911d-fb4f30b1bda9",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/83f38440-8a73-4209-911d-fb4f30b1bda9/",
+            "launch_library_id": 1523,
+            "slug": "atlas-v-541-ussf-12",
+            "name": "Atlas V 541 | USSF-12",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-06-30T22:00:00Z",
+            "window_end": "2022-07-01T00:00:00Z",
+            "window_start": "2022-06-30T22:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "USSF-12",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520541_image_20190224012314.jpeg",
             "infographic": null
         },
         {
