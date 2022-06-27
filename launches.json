@@ -1,54 +1,30 @@
 {
-    "count": 259,
+    "count": 258,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "7533059e-732d-4ee5-9f5d-2974f85b9e88",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7533059e-732d-4ee5-9f5d-2974f85b9e88/",
+            "id": "6e27cdcd-0fe6-4be6-be38-526c6cb1df3e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6e27cdcd-0fe6-4be6-be38-526c6cb1df3e/",
             "launch_library_id": null,
-            "slug": "black-brant-ix-xqc",
-            "name": "Black Brant IX | XQC",
+            "slug": "long-march-4c-gaofen-12-03",
+            "name": "Long March 4C | Gaofen-12-03",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2022-06-26T14:30:00Z",
-            "window_end": "2022-06-26T16:14:00Z",
-            "window_start": "2022-06-26T13:14:00Z",
-            "lsp_name": "Equatorial Launch Australia",
-            "mission": "XQC",
-            "mission_type": "Astrophysics",
-            "pad": "Suborbital Launch Ramp",
-            "location": "Arnhem Space Centre",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg",
-            "infographic": null
-        },
-        {
-            "id": "6e27cdcd-0fe6-4be6-be38-526c6cb1df3e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6e27cdcd-0fe6-4be6-be38-526c6cb1df3e/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-unknown-payload",
-            "name": "Long March 4C | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-06-27T15:50:00Z",
+            "net": "2022-06-27T15:46:00Z",
             "window_end": "2022-06-27T16:01:00Z",
             "window_start": "2022-06-27T15:37:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Gaofen-12-03",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
             "infographic": null
         },
@@ -62,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-06-28T10:00:00Z",
-            "window_end": "2022-06-28T10:00:00Z",
-            "window_start": "2022-06-28T10:00:00Z",
+            "net": "2022-06-28T09:55:00Z",
+            "window_end": "2022-06-28T09:55:00Z",
+            "window_start": "2022-06-28T09:55:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "CAPSTONE",
             "mission_type": "Planetary Science",
@@ -88,7 +64,7 @@
                 "name": "Go"
             },
             "net": "2022-06-29T21:04:00Z",
-            "window_end": "2022-06-29T21:04:00Z",
+            "window_end": "2022-06-29T23:13:00Z",
             "window_start": "2022-06-29T21:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "SES-22",
@@ -103,39 +79,14 @@
             "infographic": null
         },
         {
-            "id": "86ea974e-6464-4960-85df-11af88852d57",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/86ea974e-6464-4960-85df-11af88852d57/",
-            "launch_library_id": 1959,
-            "slug": "zhuque-2-maiden-flight",
-            "name": "Zhuque-2 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-06-30T00:00:00Z",
-            "window_end": "2022-06-30T00:00:00Z",
-            "window_start": "2022-06-30T00:00:00Z",
-            "lsp_name": "LandSpace",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
-            "infographic": null
-        },
-        {
             "id": "e521d1a4-7f67-4a13-aaaa-c8faec0e824c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e521d1a4-7f67-4a13-aaaa-c8faec0e824c/",
             "launch_library_id": null,
             "slug": "launcherone-straight-up",
             "name": "LauncherOne | Straight Up",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-06-30T05:00:00Z",
             "window_end": "2022-06-30T09:00:00Z",
@@ -184,8 +135,8 @@
             "slug": "atlas-v-541-ussf-12",
             "name": "Atlas V 541 | USSF-12",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-06-30T22:00:00Z",
             "window_end": "2022-07-01T00:00:00Z",
@@ -250,6 +201,56 @@
             "launcher": null,
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20190224012332.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ac4ce8e1-fd76-4654-8809-5500ba792a8a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ac4ce8e1-fd76-4654-8809-5500ba792a8a/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-21",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-21",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-07-07T22:30:00Z",
+            "window_end": "2022-07-07T22:30:00Z",
+            "window_start": "2022-07-07T22:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-21",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1058",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090141.png",
+            "infographic": null
+        },
+        {
+            "id": "051c4c90-a89d-4a86-a77f-c7e22b9cb458",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/051c4c90-a89d-4a86-a77f-c7e22b9cb458/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-1",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-07-08T00:00:00Z",
+            "window_end": "2022-07-08T00:00:00Z",
+            "window_start": "2022-07-08T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-1",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1063",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090612.png",
             "infographic": null
         }
     ]
