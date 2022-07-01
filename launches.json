@@ -1,33 +1,8 @@
 {
-    "count": 256,
+    "count": 255,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "810bf981-6117-4905-9e87-6979b094b994",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/810bf981-6117-4905-9e87-6979b094b994/",
-            "launch_library_id": null,
-            "slug": "pslv-ca-ds-eo-others",
-            "name": "PSLV-CA | DS-EO & others",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-06-30T12:32:00Z",
-            "window_end": "2022-06-30T12:32:00Z",
-            "window_start": "2022-06-30T12:32:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "DS-EO & others",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190520163034.jpg",
-            "infographic": null
-        },
         {
             "id": "83f38440-8a73-4209-911d-fb4f30b1bda9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/83f38440-8a73-4209-911d-fb4f30b1bda9/",
@@ -35,12 +10,12 @@
             "slug": "atlas-v-541-ussf-12",
             "name": "Atlas V 541 | USSF-12",
             "status": {
-                "id": 5,
-                "name": "Hold"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-06-30T22:30:00Z",
-            "window_end": "2022-07-01T00:00:00Z",
-            "window_start": "2022-06-30T22:00:00Z",
+            "net": "2022-07-01T22:00:00Z",
+            "window_end": "2022-07-02T00:00:00Z",
+            "window_start": "2022-07-01T22:00:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "USSF-12",
             "mission_type": "Government/Top Secret",
@@ -60,12 +35,12 @@
             "slug": "launcherone-straight-up",
             "name": "LauncherOne | Straight Up",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-07-01T05:30:00Z",
-            "window_end": "2022-07-01T09:00:00Z",
-            "window_start": "2022-07-01T05:00:00Z",
+            "net": "2022-07-02T05:30:00Z",
+            "window_end": "2022-07-02T09:00:00Z",
+            "window_start": "2022-07-02T05:00:00Z",
             "lsp_name": "Virgin Orbit",
             "mission": "Straight Up",
             "mission_type": "Government/Top Secret",
@@ -251,6 +226,31 @@
             "launcher": "B1051",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085618.png",
+            "infographic": null
+        },
+        {
+            "id": "b3d0dafc-9b12-4c35-8ceb-3fa21802236f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b3d0dafc-9b12-4c35-8ceb-3fa21802236f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-07-14T00:00:00Z",
+            "window_end": "2022-07-14T00:00:00Z",
+            "window_start": "2022-07-14T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090423.png",
             "infographic": null
         }
     ]
