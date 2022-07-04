@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-07-04T10:54:00Z",
-            "window_end": "2022-07-04T10:54:00Z",
-            "window_start": "2022-07-04T10:54:00Z",
+            "net": "2022-07-05T10:54:00Z",
+            "window_end": "2022-07-05T10:54:00Z",
+            "window_start": "2022-07-05T10:54:00Z",
             "lsp_name": "Equatorial Launch Australia",
             "mission": "SISTINE",
             "mission_type": "Astrophysics",
@@ -29,28 +29,27 @@
             "infographic": null
         },
         {
-            "id": "b8173cec-0f32-4268-bbb6-af7bab0be436",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8173cec-0f32-4268-bbb6-af7bab0be436/",
-            "launch_library_id": 1934,
-            "slug": "vega-c-lares-2-maiden-flight",
-            "name": "Vega-C | LARES-2 (Maiden flight)",
+            "id": "bc27a867-39e3-4cf7-9bb9-7a06c3a30543",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/bc27a867-39e3-4cf7-9bb9-7a06c3a30543/",
+            "launch_library_id": 2024,
+            "slug": "soyuz-21bfregat-glonass-k1-2",
+            "name": "Soyuz 2.1b/Fregat | Glonass-K1",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-07-07T11:13:00Z",
-            "window_end": "2022-07-07T11:13:00Z",
-            "window_start": "2022-07-07T11:13:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "LARES-2 (Maiden flight)",
-            "mission_type": "Earth Science",
-            "pad": "Ariane Launch Area 1",
-            "location": "Kourou, French Guiana",
+            "net": "2022-07-07T09:05:00Z",
+            "window_end": "2022-07-07T10:00:00Z",
+            "window_start": "2022-07-07T08:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": null,
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20190224012332.jpeg",
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
             "infographic": null
         },
         {
@@ -154,6 +153,31 @@
             "infographic": null
         },
         {
+            "id": "b8173cec-0f32-4268-bbb6-af7bab0be436",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8173cec-0f32-4268-bbb6-af7bab0be436/",
+            "launch_library_id": 1934,
+            "slug": "vega-c-lares-2-maiden-flight",
+            "name": "Vega-C | LARES-2 (Maiden flight)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-07-13T11:13:00Z",
+            "window_end": "2022-07-13T11:13:00Z",
+            "window_start": "2022-07-13T11:13:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "LARES-2 (Maiden flight)",
+            "mission_type": "Earth Science",
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20190224012332.jpeg",
+            "infographic": null
+        },
+        {
             "id": "4ddf282b-94a1-418e-b3f6-7d8e753fdfec",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4ddf282b-94a1-418e-b3f6-7d8e753fdfec/",
             "launch_library_id": null,
@@ -226,31 +250,6 @@
             "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155026.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flight-two",
-            "name": "Firefly Alpha | Flight Two",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-07-17T00:00:00Z",
-            "window_end": "2022-07-17T00:00:00Z",
-            "window_start": "2022-07-17T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "Flight Two",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
