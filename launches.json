@@ -10,12 +10,12 @@
             "slug": "black-brant-ix-sistine",
             "name": "Black Brant IX | SISTINE",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2022-07-05T10:54:00Z",
-            "window_end": "2022-07-05T10:54:00Z",
-            "window_start": "2022-07-05T10:54:00Z",
+            "net": "2022-07-06T10:54:00Z",
+            "window_end": "2022-07-06T10:54:00Z",
+            "window_start": "2022-07-06T10:54:00Z",
             "lsp_name": "Equatorial Launch Australia",
             "mission": "SISTINE",
             "mission_type": "Astrophysics",
@@ -128,6 +128,31 @@
             "infographic": null
         },
         {
+            "id": "6e99b22c-1a27-428c-96f3-c868b8b53cfe",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6e99b22c-1a27-428c-96f3-c868b8b53cfe/",
+            "launch_library_id": 2071,
+            "slug": "electron-wise-one-looks-ahead-nrol-162",
+            "name": "Electron | Wise One Looks Ahead (NROL-162)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-07-12T05:00:00Z",
+            "window_end": "2022-07-12T07:00:00Z",
+            "window_start": "2022-07-12T05:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "NROL-162 (RASR-3)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "82e754cc-c893-4992-a992-c1b3db972c80",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/82e754cc-c893-4992-a992-c1b3db972c80/",
             "launch_library_id": null,
@@ -225,31 +250,6 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090423.png",
-            "infographic": null
-        },
-        {
-            "id": "2773613e-58eb-4b99-8120-595c92aa3390",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2773613e-58eb-4b99-8120-595c92aa3390/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-25",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-25",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-07-15T00:30:00Z",
-            "window_end": "2022-07-15T00:30:00Z",
-            "window_start": "2022-07-15T00:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-25",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "B1067",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155026.jpeg",
             "infographic": null
         }
     ]
