@@ -1,58 +1,8 @@
 {
-    "count": 252,
+    "count": 250,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "bc27a867-39e3-4cf7-9bb9-7a06c3a30543",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bc27a867-39e3-4cf7-9bb9-7a06c3a30543/",
-            "launch_library_id": 2024,
-            "slug": "soyuz-21bfregat-glonass-k1-no-16-kosmos-2557",
-            "name": "Soyuz 2.1b/Fregat | Glonass-K1 No. 16 (Kosmos 2557)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-07-07T09:18:06Z",
-            "window_end": "2022-07-07T10:00:00Z",
-            "window_start": "2022-07-07T08:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Glonass-K1 No. 16 (Kosmos 2557)",
-            "mission_type": "Navigation",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
-            "infographic": null
-        },
-        {
-            "id": "ac4ce8e1-fd76-4654-8809-5500ba792a8a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ac4ce8e1-fd76-4654-8809-5500ba792a8a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-21",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-21",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-07-07T13:11:00Z",
-            "window_end": "2022-07-07T13:11:00Z",
-            "window_start": "2022-07-07T13:11:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-21",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1058",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090141.png",
-            "infographic": null
-        },
         {
             "id": "051c4c90-a89d-4a86-a77f-c7e22b9cb458",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/051c4c90-a89d-4a86-a77f-c7e22b9cb458/",
@@ -63,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-07-11T01:00:00Z",
-            "window_end": "2022-07-11T01:00:00Z",
-            "window_start": "2022-07-11T01:00:00Z",
+            "net": "2022-07-11T01:39:40Z",
+            "window_end": "2022-07-11T01:39:40Z",
+            "window_start": "2022-07-11T01:39:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 3-1",
             "mission_type": "Communications",
@@ -185,8 +135,8 @@
             "slug": "falcon-9-block-5-dragon-crs-2-spx-25",
             "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-25",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-07-15T00:44:00Z",
             "window_end": "2022-07-15T00:44:00Z",
@@ -201,6 +151,31 @@
             "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155026.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "84f9bbdd-0e2c-468e-b1d0-73d640745c13",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/84f9bbdd-0e2c-468e-b1d0-73d640745c13/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-22",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-22",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-07-17T00:00:00Z",
+            "window_end": "2022-07-17T00:00:00Z",
+            "window_start": "2022-07-17T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-22",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085935.png",
             "infographic": null
         },
         {
@@ -251,6 +226,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_5b_image_20210428182650.JPG",
+            "infographic": null
+        },
+        {
+            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
+            "launch_library_id": null,
+            "slug": "epsilon-raise-3-others",
+            "name": "Epsilon | RAISE-3 & Others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-07-31T00:00:00Z",
+            "window_end": "2022-07-31T00:00:00Z",
+            "window_start": "2022-07-31T00:00:00Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": null,
+            "pad": "Mu Center",
+            "location": "Uchinoura Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
             "infographic": null
         }
     ]
