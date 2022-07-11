@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-3-1",
             "name": "Falcon 9 Block 5 | Starlink Group 3-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-07-11T01:39:40Z",
             "window_end": "2022-07-11T01:39:40Z",
@@ -35,10 +35,10 @@
             "slug": "black-brant-ix-deuce",
             "name": "Black Brant IX | DEUCE",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-07-11T10:57:00Z",
+            "net": "2022-07-11T11:01:00Z",
             "window_end": "2022-07-11T14:45:00Z",
             "window_start": "2022-07-11T10:57:00Z",
             "lsp_name": "Equatorial Launch Australia",
@@ -51,31 +51,6 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/black_brant_ix_image_20220625190201.jpg",
-            "infographic": null
-        },
-        {
-            "id": "6e99b22c-1a27-428c-96f3-c868b8b53cfe",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6e99b22c-1a27-428c-96f3-c868b8b53cfe/",
-            "launch_library_id": 2071,
-            "slug": "electron-wise-one-looks-ahead-nrol-162",
-            "name": "Electron | Wise One Looks Ahead (NROL-162)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-07-12T05:00:00Z",
-            "window_end": "2022-07-12T07:00:00Z",
-            "window_start": "2022-07-12T05:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "NROL-162 (RASR-3)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -101,6 +76,31 @@
             "launcher": null,
             "orbit": "GSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6e99b22c-1a27-428c-96f3-c868b8b53cfe",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6e99b22c-1a27-428c-96f3-c868b8b53cfe/",
+            "launch_library_id": 2071,
+            "slug": "electron-wise-one-looks-ahead-nrol-162",
+            "name": "Electron | Wise One Looks Ahead (NROL-162)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-07-13T05:00:00Z",
+            "window_end": "2022-07-13T07:00:00Z",
+            "window_start": "2022-07-13T05:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "NROL-162 (RASR-3)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -188,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-07-22T00:00:00Z",
-            "window_end": "2022-07-22T00:00:00Z",
-            "window_start": "2022-07-22T00:00:00Z",
+            "net": "2022-07-23T00:00:00Z",
+            "window_end": "2022-07-23T00:00:00Z",
+            "window_start": "2022-07-23T00:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "NROL-199 (RASR-4)",
             "mission_type": "Government/Top Secret",
