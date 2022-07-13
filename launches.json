@@ -1,33 +1,8 @@
 {
-    "count": 249,
+    "count": 248,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ff770019-246e-4dba-855d-87f21f3cd19b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ff770019-246e-4dba-855d-87f21f3cd19b/",
-            "launch_library_id": null,
-            "slug": "long-march-3be-tianlian-2-03",
-            "name": "Long March 3B/E | Tianlian 2-03",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-07-12T16:30:00Z",
-            "window_end": "2022-07-12T17:04:00Z",
-            "window_start": "2022-07-12T16:19:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Tianlian 2-03",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
-            "infographic": null
-        },
         {
             "id": "6e99b22c-1a27-428c-96f3-c868b8b53cfe",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6e99b22c-1a27-428c-96f3-c868b8b53cfe/",
@@ -35,10 +10,10 @@
             "slug": "electron-wise-one-looks-ahead-nrol-162",
             "name": "Electron | Wise One Looks Ahead (NROL-162)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-07-13T05:00:00Z",
+            "net": "2022-07-13T06:30:00Z",
             "window_end": "2022-07-13T07:00:00Z",
             "window_start": "2022-07-13T05:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
@@ -60,12 +35,12 @@
             "slug": "vega-c-lares-2-maiden-flight",
             "name": "Vega-C | LARES-2 (Maiden flight)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-07-13T11:13:00Z",
-            "window_end": "2022-07-13T11:13:00Z",
-            "window_start": "2022-07-13T11:13:00Z",
+            "net": "2022-07-13T13:13:17Z",
+            "window_end": "2022-07-13T13:13:17Z",
+            "window_start": "2022-07-13T13:13:17Z",
             "lsp_name": "Arianespace",
             "mission": "LARES-2 (Maiden flight)",
             "mission_type": "Earth Science",
@@ -75,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20190224012332.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg",
             "infographic": null
         },
         {
@@ -113,19 +88,44 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-07-17T14:30:00Z",
-            "window_end": "2022-07-17T17:07:00Z",
-            "window_start": "2022-07-17T14:20:00Z",
+            "net": "2022-07-17T14:50:00Z",
+            "window_end": "2022-07-17T14:50:00Z",
+            "window_start": "2022-07-17T14:50:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-22",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
+            "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085935.png",
+            "infographic": null
+        },
+        {
+            "id": "b3d0dafc-9b12-4c35-8ceb-3fa21802236f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b3d0dafc-9b12-4c35-8ceb-3fa21802236f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-07-21T17:13:00Z",
+            "window_end": "2022-07-21T17:13:00Z",
+            "window_start": "2022-07-21T17:13:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1071",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523090423.png",
             "infographic": null
         },
         {
