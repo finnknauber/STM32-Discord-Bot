@@ -1,54 +1,30 @@
 {
-    "count": 247,
+    "count": 246,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "2773613e-58eb-4b99-8120-595c92aa3390",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2773613e-58eb-4b99-8120-595c92aa3390/",
+            "id": "9953965f-821a-4a73-b6e4-ce4423195a76",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9953965f-821a-4a73-b6e4-ce4423195a76/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-25",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-25",
+            "slug": "long-march-2c-superview-neo-2-01-02",
+            "name": "Long March 2C | SuperView Neo 2-01 & 02",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2022-07-15T00:44:20Z",
-            "window_end": "2022-07-15T00:44:20Z",
-            "window_start": "2022-07-15T00:44:20Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-25",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1067",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220713235516.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9953965f-821a-4a73-b6e4-ce4423195a76",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9953965f-821a-4a73-b6e4-ce4423195a76/",
-            "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-07-15T22:55:00Z",
+            "net": "2022-07-15T22:57:00Z",
             "window_end": "2022-07-15T23:07:00Z",
             "window_start": "2022-07-15T22:43:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "SuperView Neo 2-01 & 02",
+            "mission_type": "Earth Science",
             "pad": "Launch Complex 9",
             "location": "Taiyuan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
             "infographic": null
         },
@@ -178,30 +154,6 @@
             "infographic": null
         },
         {
-            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
-            "launch_library_id": null,
-            "slug": "epsilon-raise-3-others",
-            "name": "Epsilon | RAISE-3 & Others",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-07-31T00:00:00Z",
-            "window_end": "2022-07-31T00:00:00Z",
-            "window_start": "2022-07-31T00:00:00Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": null,
-            "pad": "Mu Center",
-            "location": "Uchinoura Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
-            "infographic": null
-        },
-        {
             "id": "5336dd45-9773-463b-acda-2a633b725d94",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5336dd45-9773-463b-acda-2a633b725d94/",
             "launch_library_id": 1611,
@@ -249,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
+            "infographic": null
+        },
+        {
+            "id": "558c199e-4cfb-4914-b5d3-452b63d492bf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/558c199e-4cfb-4914-b5d3-452b63d492bf/",
+            "launch_library_id": 1975,
+            "slug": "delta-iv-heavy-nrol-91",
+            "name": "Delta IV Heavy | NROL-91",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-01T00:00:00Z",
+            "window_end": "2022-08-01T00:00:00Z",
+            "window_start": "2022-08-01T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-91",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 6",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
+            "infographic": null
+        },
+        {
+            "id": "75d7306e-1d76-4c0b-9dc4-98dee7b9af59",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/75d7306e-1d76-4c0b-9dc4-98dee7b9af59/",
+            "launch_library_id": 1383,
+            "slug": "falcon-9-block-5-kplo-korean-pathfinder-lunar-orbi",
+            "name": "Falcon 9 Block 5 | KPLO (Korean Pathfinder Lunar Orbiter)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-02T23:37:00Z",
+            "window_end": "2022-08-02T23:37:00Z",
+            "window_start": "2022-08-02T23:37:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "KPLO (Korean Pathfinder Lunar Orbiter)",
+            "mission_type": "Lunar Exploration",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Elliptical",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
