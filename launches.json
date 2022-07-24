@@ -10,10 +10,10 @@
             "slug": "long-march-5b-wentian",
             "name": "Long March 5B | Wentian",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-07-24T06:20:00Z",
+            "net": "2022-07-24T06:22:32Z",
             "window_end": "2022-07-24T06:29:00Z",
             "window_start": "2022-07-24T06:12:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-4-25",
             "name": "Falcon 9 Block 5 | Starlink Group 4-25",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-07-24T13:38:00Z",
             "window_end": "2022-07-24T13:38:00Z",
@@ -47,7 +47,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085618.png",
