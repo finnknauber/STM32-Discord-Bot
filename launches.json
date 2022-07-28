@@ -1,32 +1,8 @@
 {
-    "count": 251,
+    "count": 250,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "0f6f5e1d-e054-4f00-b8d5-afa61a462994",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0f6f5e1d-e054-4f00-b8d5-afa61a462994/",
-            "launch_library_id": null,
-            "slug": "zhongke-1a-maiden-flight",
-            "name": "Zhongke-1A | Maiden Flight",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-07-27T04:12:00Z",
-            "window_end": "2022-07-27T04:47:00Z",
-            "window_start": "2022-07-27T04:00:00Z",
-            "lsp_name": "CAS Space",
-            "mission": null,
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhongke-1a_image_20220727092355.png",
-            "infographic": null
-        },
         {
             "id": "660fd8d3-76dc-4205-82c4-ca7e5782f2ae",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/660fd8d3-76dc-4205-82c4-ca7e5782f2ae/",
@@ -58,12 +34,12 @@
             "slug": "electron-antipodean-adventure-nrol-199",
             "name": "Electron | Antipodean Adventure (NROL-199)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-07-31T00:00:00Z",
-            "window_end": "2022-07-31T00:00:00Z",
-            "window_start": "2022-07-31T00:00:00Z",
+            "net": "2022-08-02T05:00:00Z",
+            "window_end": "2022-08-02T05:00:00Z",
+            "window_start": "2022-08-02T05:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "NROL-199 (RASR-4)",
             "mission_type": "Government/Top Secret",
@@ -77,43 +53,18 @@
             "infographic": null
         },
         {
-            "id": "75d7306e-1d76-4c0b-9dc4-98dee7b9af59",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/75d7306e-1d76-4c0b-9dc4-98dee7b9af59/",
-            "launch_library_id": 1383,
-            "slug": "falcon-9-block-5-kplo-korean-pathfinder-lunar-orbi",
-            "name": "Falcon 9 Block 5 | KPLO (Korean Pathfinder Lunar Orbiter)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-02T23:37:00Z",
-            "window_end": "2022-08-02T23:37:00Z",
-            "window_start": "2022-08-02T23:37:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "KPLO (Korean Pathfinder Lunar Orbiter)",
-            "mission_type": "Lunar Exploration",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Elliptical",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
             "id": "33bf26a0-818e-4519-a47a-4fe79a07e84e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf26a0-818e-4519-a47a-4fe79a07e84e/",
             "launch_library_id": 1691,
             "slug": "atlas-v-421-sbirs-geo-6",
             "name": "Atlas V 421 | SBIRS GEO-6",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-08-04T00:00:00Z",
-            "window_end": "2022-08-04T00:00:00Z",
-            "window_start": "2022-08-04T00:00:00Z",
+            "net": "2022-08-04T10:29:00Z",
+            "window_end": "2022-08-04T11:09:00Z",
+            "window_start": "2022-08-04T10:29:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "SBIRS GEO-6",
             "mission_type": "Government/Top Secret",
@@ -124,6 +75,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_421_image_20210519053741.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "75d7306e-1d76-4c0b-9dc4-98dee7b9af59",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/75d7306e-1d76-4c0b-9dc4-98dee7b9af59/",
+            "launch_library_id": 1383,
+            "slug": "falcon-9-block-5-kplo-korean-pathfinder-lunar-orbi",
+            "name": "Falcon 9 Block 5 | KPLO (Korean Pathfinder Lunar Orbiter)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-04T23:08:00Z",
+            "window_end": "2022-08-04T23:08:00Z",
+            "window_start": "2022-08-04T23:08:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "KPLO (Korean Pathfinder Lunar Orbiter)",
+            "mission_type": "Lunar Exploration",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Elliptical",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -248,6 +224,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
+            "launch_library_id": null,
+            "slug": "epsilon-raise-3-others",
+            "name": "Epsilon | RAISE-3 & Others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-31T00:00:00Z",
+            "window_end": "2022-08-31T00:00:00Z",
+            "window_start": "2022-08-31T00:00:00Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": null,
+            "pad": "Mu Center",
+            "location": "Uchinoura Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
             "infographic": null
         }
     ]
