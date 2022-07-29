@@ -7,23 +7,24 @@
             "id": "660fd8d3-76dc-4205-82c4-ca7e5782f2ae",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/660fd8d3-76dc-4205-82c4-ca7e5782f2ae/",
             "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
+            "slug": "long-march-2d-yaogan-35-group-03",
+            "name": "Long March 2D | Yaogan 35 Group 03",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-07-29T13:26:00Z",
+            "net": "2022-07-29T13:28:00Z",
             "window_end": "2022-07-29T13:37:00Z",
             "window_start": "2022-07-29T13:16:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Yaogan 35 Group 03",
+            "mission_type": "Government/Top Secret",
             "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
             "infographic": null
         },
@@ -75,6 +76,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_421_image_20210519053741.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "50649994-7635-49a4-81f2-9f7bea8b7425",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/50649994-7635-49a4-81f2-9f7bea8b7425/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-22",
+            "name": "New Shepard | NS-22",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-08-04T13:30:00Z",
+            "window_end": "2022-08-04T16:00:00Z",
+            "window_start": "2022-08-04T13:30:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-22",
+            "mission_type": "Tourism",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, USA",
+            "landing": "CR",
+            "landing_success": 0,
+            "launcher": "NS-4",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
             "infographic": null
         },
         {
@@ -224,30 +250,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
-            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
-            "launch_library_id": null,
-            "slug": "epsilon-raise-3-others",
-            "name": "Epsilon | RAISE-3 & Others",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": null,
-            "pad": "Mu Center",
-            "location": "Uchinoura Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
             "infographic": null
         }
     ]
