@@ -1,33 +1,8 @@
 {
-    "count": 250,
+    "count": 249,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "660fd8d3-76dc-4205-82c4-ca7e5782f2ae",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/660fd8d3-76dc-4205-82c4-ca7e5782f2ae/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-yaogan-35-group-03",
-            "name": "Long March 2D | Yaogan 35 Group 03",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-07-29T13:28:00Z",
-            "window_end": "2022-07-29T13:37:00Z",
-            "window_start": "2022-07-29T13:16:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 35 Group 03",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
         {
             "id": "a665afda-9e5d-478c-b185-3e7883846d78",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a665afda-9e5d-478c-b185-3e7883846d78/",
@@ -250,6 +225,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
+            "launch_library_id": null,
+            "slug": "epsilon-raise-3-others",
+            "name": "Epsilon | RAISE-3 & Others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-31T00:00:00Z",
+            "window_end": "2022-08-31T00:00:00Z",
+            "window_start": "2022-08-31T00:00:00Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": null,
+            "pad": "Mu Center",
+            "location": "Uchinoura Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
             "infographic": null
         }
     ]
