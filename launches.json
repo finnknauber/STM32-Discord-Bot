@@ -1,5 +1,5 @@
 {
-    "count": 251,
+    "count": 252,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -135,8 +135,8 @@
             "slug": "falcon-9-block-5-danuri-kplo-korean-pathfinder-lun",
             "name": "Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-08-04T23:08:00Z",
             "window_end": "2022-08-04T23:08:00Z",
@@ -148,7 +148,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1052",
             "orbit": "Elliptical",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
@@ -222,7 +222,7 @@
             "location": "Kennedy Space Center, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
-            "launcher": "B1069",
+            "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085338.png",
             "infographic": null
