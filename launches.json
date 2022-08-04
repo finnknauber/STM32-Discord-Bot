@@ -1,5 +1,5 @@
 {
-    "count": 252,
+    "count": 253,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,10 +10,10 @@
             "slug": "long-march-4b-terrestrial-ecosystem-carbon-invento",
             "name": "Long March 4B | Terrestrial Ecosystem Carbon Inventory Satellite (TECIS)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-04T03:10:00Z",
+            "net": "2022-08-04T03:08:00Z",
             "window_end": "2022-08-04T03:28:00Z",
             "window_start": "2022-08-04T03:00:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -35,8 +35,8 @@
             "slug": "electron-antipodean-adventure-nrol-199",
             "name": "Electron | Antipodean Adventure (NROL-199)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-08-04T05:00:00Z",
             "window_end": "2022-08-04T07:00:00Z",
@@ -60,8 +60,8 @@
             "slug": "atlas-v-421-sbirs-geo-6",
             "name": "Atlas V 421 | SBIRS GEO-6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-08-04T10:29:00Z",
             "window_end": "2022-08-04T11:09:00Z",
@@ -75,7 +75,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_421_image_20210519053741.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20220804055901.jpeg",
             "infographic": null
         },
         {
@@ -85,10 +85,10 @@
             "slug": "new-shepard-ns-22",
             "name": "New Shepard | NS-22",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-04T13:30:00Z",
+            "net": "2022-08-04T13:57:00Z",
             "window_end": "2022-08-04T16:00:00Z",
             "window_start": "2022-08-04T13:30:00Z",
             "lsp_name": "Blue Origin",
@@ -97,7 +97,7 @@
             "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
             "location": "Corn Ranch, USA",
             "landing": "CR",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "NS-4",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
@@ -108,10 +108,10 @@
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4edae34f-34fc-4b80-b806-23c242fa2ad6/",
             "launch_library_id": null,
             "slug": "long-march-2f-chinese-reusable-space-vehicle-2",
-            "name": "Long March 2F | Chinese Reusable Space Vehicle (???)",
+            "name": "Long March 2F | Chinese Reusable Space Vehicle",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-08-04T16:30:00Z",
             "window_end": "2022-08-04T17:40:00Z",
@@ -212,9 +212,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-09T23:00:00Z",
-            "window_end": "2022-08-09T23:00:00Z",
-            "window_start": "2022-08-09T23:00:00Z",
+            "net": "2022-08-09T22:59:00Z",
+            "window_end": "2022-08-09T22:59:00Z",
+            "window_start": "2022-08-09T22:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-26",
             "mission_type": "Communications",
@@ -228,28 +228,28 @@
             "infographic": null
         },
         {
-            "id": "65896761-b6ca-4df3-9699-e077a360c52a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/",
-            "launch_library_id": 1138,
-            "slug": "sls-block-1-artemis-1",
-            "name": "SLS Block 1 | Artemis-1",
+            "id": "4f2c5733-5019-4f7a-8403-15a1a270bf96",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4f2c5733-5019-4f7a-8403-15a1a270bf96/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-3",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-3",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-29T12:33:00Z",
-            "window_end": "2022-08-29T14:33:00Z",
-            "window_start": "2022-08-29T12:33:00Z",
-            "lsp_name": "National Aeronautics and Space Administration",
-            "mission": "Artemis-1",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Complex 39B",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
+            "net": "2022-08-12T21:30:00Z",
+            "window_end": "2022-08-12T21:30:00Z",
+            "window_start": "2022-08-12T21:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-3",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1061",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220630114044.png",
             "infographic": null
         }
     ]
