@@ -1,33 +1,8 @@
 {
-    "count": 249,
+    "count": 248,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "75d7306e-1d76-4c0b-9dc4-98dee7b9af59",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/75d7306e-1d76-4c0b-9dc4-98dee7b9af59/",
-            "launch_library_id": 1383,
-            "slug": "falcon-9-block-5-danuri-kplo-korean-pathfinder-lun",
-            "name": "Falcon 9 Block 5 | Danuri (KPLO - Korean Pathfinder Lunar Orbiter)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-08-04T23:08:00Z",
-            "window_end": "2022-08-04T23:08:00Z",
-            "window_start": "2022-08-04T23:08:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Danuri (KPLO - Korean Pathfinder Lunar Orbiter)",
-            "mission_type": "Lunar Exploration",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1052",
-            "orbit": "Elliptical",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
         {
             "id": "5336dd45-9773-463b-acda-2a633b725d94",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5336dd45-9773-463b-acda-2a633b725d94/",
@@ -250,6 +225,31 @@
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png",
+            "infographic": null
+        },
+        {
+            "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-4",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-31T00:00:00Z",
+            "window_end": "2022-08-31T00:00:00Z",
+            "window_start": "2022-08-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-4",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1063",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220803024417.png",
             "infographic": null
         }
     ]
