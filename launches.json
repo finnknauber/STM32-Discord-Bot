@@ -1,5 +1,5 @@
 {
-    "count": 248,
+    "count": 250,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "sslv-eos-02-microsat-2a-demo-1",
             "name": "SSLV | EOS-02 (Microsat-2A) (Demo 1)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
             "net": "2022-08-07T03:48:00Z",
             "window_end": "2022-08-07T03:48:00Z",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/sslv_image_20190830213312.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/sslv_image_20220807080138.jpg",
             "infographic": null
         },
         {
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-09T22:59:00Z",
-            "window_end": "2022-08-09T22:59:00Z",
-            "window_start": "2022-08-09T22:59:00Z",
+            "net": "2022-08-09T22:57:00Z",
+            "window_end": "2022-08-09T22:57:00Z",
+            "window_start": "2022-08-09T22:57:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-26",
             "mission_type": "Communications",
@@ -76,6 +76,31 @@
             "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085338.png",
+            "infographic": null
+        },
+        {
+            "id": "48273e95-ecac-4cf7-83b1-408182794bfc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/48273e95-ecac-4cf7-83b1-408182794bfc/",
+            "launch_library_id": null,
+            "slug": "long-march-6-jilin-1-x-n",
+            "name": "Long March 6 | Jilin-1 x n",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-08-10T04:55:00Z",
+            "window_end": "2022-08-10T05:21:00Z",
+            "window_start": "2022-08-10T04:43:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Jilin-1 x n",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 16",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
             "infographic": null
         },
         {
@@ -225,31 +250,6 @@
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png",
-            "infographic": null
-        },
-        {
-            "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-3-4",
-            "name": "Falcon 9 Block 5 | Starlink Group 3-4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 3-4",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1063",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220803024417.png",
             "infographic": null
         }
     ]
