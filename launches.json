@@ -4,28 +4,28 @@
     "previous": null,
     "results": [
         {
-            "id": "5336dd45-9773-463b-acda-2a633b725d94",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5336dd45-9773-463b-acda-2a633b725d94/",
-            "launch_library_id": 1611,
-            "slug": "sslv-eos-02-microsat-2a-demo-1",
-            "name": "SSLV | EOS-02 (Microsat-2A) (Demo 1)",
+            "id": "0590c900-a351-416f-b18b-d2a212ea1b61",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0590c900-a351-416f-b18b-d2a212ea1b61/",
+            "launch_library_id": null,
+            "slug": "ceres-1-taijing-1-01-02",
+            "name": "Ceres-1 | Taijing-1-01 & 02",
             "status": {
-                "id": 4,
-                "name": "Failure"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-08-07T03:48:00Z",
-            "window_end": "2022-08-07T03:48:00Z",
-            "window_start": "2022-08-07T03:48:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "SSLV Demo 1",
-            "mission_type": "Test Flight",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
+            "net": "2022-08-09T04:15:00Z",
+            "window_end": "2022-08-09T04:51:00Z",
+            "window_start": "2022-08-09T03:56:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": "Taijing-1-01 & 02",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/sslv_image_20220807080138.jpg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
             "infographic": null
         },
         {
@@ -60,8 +60,8 @@
             "slug": "falcon-9-block-5-starlink-group-4-26",
             "name": "Falcon 9 Block 5 | Starlink Group 4-26",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-08-09T22:57:00Z",
             "window_end": "2022-08-09T22:57:00Z",
@@ -179,30 +179,6 @@
             "infographic": null
         },
         {
-            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
-            "launch_library_id": null,
-            "slug": "epsilon-raise-3-others",
-            "name": "Epsilon | RAISE-3 & Others",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": null,
-            "pad": "Mu Center",
-            "location": "Uchinoura Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20190224012335.jpeg",
-            "infographic": null
-        },
-        {
             "id": "25d652f7-7e20-42d5-967e-b8e01305746c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/25d652f7-7e20-42d5-967e-b8e01305746c/",
             "launch_library_id": 1685,
@@ -250,6 +226,31 @@
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png",
+            "infographic": null
+        },
+        {
+            "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-4",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-31T00:00:00Z",
+            "window_end": "2022-08-31T00:00:00Z",
+            "window_start": "2022-08-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-4",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1063",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220803024417.png",
             "infographic": null
         }
     ]
