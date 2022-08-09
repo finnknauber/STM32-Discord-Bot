@@ -10,10 +10,10 @@
             "slug": "ceres-1-taijing-1-01-02",
             "name": "Ceres-1 | Taijing-1-01 & 02",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-09T04:15:00Z",
+            "net": "2022-08-09T04:11:00Z",
             "window_end": "2022-08-09T04:51:00Z",
             "window_start": "2022-08-09T03:56:00Z",
             "lsp_name": "Galactic Energy",
@@ -32,17 +32,17 @@
             "id": "71d3040f-e362-437d-9eb0-f10617326dae",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/71d3040f-e362-437d-9eb0-f10617326dae/",
             "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-khayyam",
-            "name": "Soyuz 2.1b/Fregat-M | Khayyam",
+            "slug": "soyuz-21bfregat-m-khayyam-rideshare",
+            "name": "Soyuz 2.1b/Fregat-M | Khayyam & rideshare",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-09T05:52:00Z",
-            "window_end": "2022-08-09T05:52:00Z",
-            "window_start": "2022-08-09T05:52:00Z",
+            "net": "2022-08-09T05:52:38Z",
+            "window_end": "2022-08-09T05:52:38Z",
+            "window_start": "2022-08-09T05:52:38Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Khayyam",
+            "mission": "Khayyam & rideshare",
             "mission_type": "Earth Science",
             "pad": "31/6",
             "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
@@ -71,7 +71,7 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "B1073",
             "orbit": "LEO",
