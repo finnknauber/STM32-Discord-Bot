@@ -1,58 +1,8 @@
 {
-    "count": 250,
+    "count": 249,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "0590c900-a351-416f-b18b-d2a212ea1b61",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0590c900-a351-416f-b18b-d2a212ea1b61/",
-            "launch_library_id": null,
-            "slug": "ceres-1-taijing-1-01-02",
-            "name": "Ceres-1 | Taijing-1-01 & 02",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-08-09T04:11:00Z",
-            "window_end": "2022-08-09T04:51:00Z",
-            "window_start": "2022-08-09T03:56:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Taijing-1-01 & 02",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "71d3040f-e362-437d-9eb0-f10617326dae",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/71d3040f-e362-437d-9eb0-f10617326dae/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-khayyam-rideshare",
-            "name": "Soyuz 2.1b/Fregat-M | Khayyam & rideshare",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-08-09T05:52:38Z",
-            "window_end": "2022-08-09T05:52:38Z",
-            "window_start": "2022-08-09T05:52:38Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Khayyam & rideshare",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
-        },
         {
             "id": "a6b9deb4-f78d-4b57-8e47-98c5aea99d9e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a6b9deb4-f78d-4b57-8e47-98c5aea99d9e/",
@@ -60,19 +10,19 @@
             "slug": "falcon-9-block-5-starlink-group-4-26",
             "name": "Falcon 9 Block 5 | Starlink Group 4-26",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-09T22:57:00Z",
-            "window_end": "2022-08-09T22:57:00Z",
-            "window_start": "2022-08-09T22:57:00Z",
+            "net": "2022-08-10T02:14:00Z",
+            "window_end": "2022-08-10T02:14:00Z",
+            "window_start": "2022-08-10T02:14:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-26",
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085338.png",
@@ -82,17 +32,17 @@
             "id": "48273e95-ecac-4cf7-83b1-408182794bfc",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/48273e95-ecac-4cf7-83b1-408182794bfc/",
             "launch_library_id": null,
-            "slug": "long-march-6-jilin-1-x-n",
-            "name": "Long March 6 | Jilin-1 x n",
+            "slug": "long-march-6-jilin-1-high-resolution-03d-09-35-to",
+            "name": "Long March 6 | Jilin-1 High Resolution 03D-09, 35 to 43 & Infrared A01 to 06",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-10T04:55:00Z",
+            "net": "2022-08-10T04:50:00Z",
             "window_end": "2022-08-10T05:21:00Z",
             "window_start": "2022-08-10T04:43:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Jilin-1 x n",
+            "mission": "Jilin-1 High Resolution 03D-09, 35 to 43 & Infrared A01 to 06",
             "mission_type": "Earth Science",
             "pad": "Launch Complex 16",
             "location": "Taiyuan, People's Republic of China",
@@ -113,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-12T21:30:00Z",
-            "window_end": "2022-08-12T21:30:00Z",
-            "window_start": "2022-08-12T21:30:00Z",
+            "net": "2022-08-12T21:40:20Z",
+            "window_end": "2022-08-12T21:40:20Z",
+            "window_start": "2022-08-12T21:40:20Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 3-3",
             "mission_type": "Communications",
@@ -129,14 +79,64 @@
             "infographic": null
         },
         {
+            "id": "4a114237-e8c5-4248-8d30-7a9026b86430",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a114237-e8c5-4248-8d30-7a9026b86430/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-27",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-27",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-16T00:00:00Z",
+            "window_end": "2022-08-16T00:00:00Z",
+            "window_start": "2022-08-16T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-27",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1062",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png",
+            "infographic": null
+        },
+        {
+            "id": "67158b3c-201d-4450-be8a-990010c05b40",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/67158b3c-201d-4450-be8a-990010c05b40/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-23",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-23",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-24T00:00:00Z",
+            "window_end": "2022-08-24T00:00:00Z",
+            "window_start": "2022-08-24T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-23",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1067",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722061450.png",
+            "infographic": null
+        },
+        {
             "id": "65896761-b6ca-4df3-9699-e077a360c52a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/",
             "launch_library_id": 1138,
             "slug": "sls-block-1-artemis-1",
             "name": "SLS Block 1 | Artemis-1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-08-29T12:33:00Z",
             "window_end": "2022-08-29T14:33:00Z",
@@ -163,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
+            "net": "2022-08-29T18:00:00Z",
+            "window_end": "2022-08-29T21:30:00Z",
+            "window_start": "2022-08-29T18:00:00Z",
             "lsp_name": "ABL Space Systems",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
@@ -204,31 +204,6 @@
             "infographic": null
         },
         {
-            "id": "4a114237-e8c5-4248-8d30-7a9026b86430",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4a114237-e8c5-4248-8d30-7a9026b86430/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-27",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-27",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-27",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "B1062",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png",
-            "infographic": null
-        },
-        {
             "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": "B1063",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220803024417.png",
+            "infographic": null
+        },
+        {
+            "id": "84bf3b54-96ca-4ac4-bbaf-e25ed03e831c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/84bf3b54-96ca-4ac4-bbaf-e25ed03e831c/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-20",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-31T00:00:00Z",
+            "window_end": "2022-08-31T00:00:00Z",
+            "window_start": "2022-08-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-20",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1069",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523091143.png",
             "infographic": null
         }
     ]
