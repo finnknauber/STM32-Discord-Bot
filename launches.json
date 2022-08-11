@@ -1,58 +1,8 @@
 {
-    "count": 249,
+    "count": 247,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "a6b9deb4-f78d-4b57-8e47-98c5aea99d9e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a6b9deb4-f78d-4b57-8e47-98c5aea99d9e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-26",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-26",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-08-10T02:14:00Z",
-            "window_end": "2022-08-10T02:14:00Z",
-            "window_start": "2022-08-10T02:14:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-26",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1073",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523085338.png",
-            "infographic": null
-        },
-        {
-            "id": "48273e95-ecac-4cf7-83b1-408182794bfc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/48273e95-ecac-4cf7-83b1-408182794bfc/",
-            "launch_library_id": null,
-            "slug": "long-march-6-jilin-1-high-resolution-03d-09-35-to",
-            "name": "Long March 6 | Jilin-1 High Resolution 03D-09, 35 to 43 & Infrared A01 to 06",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-08-10T04:50:00Z",
-            "window_end": "2022-08-10T05:21:00Z",
-            "window_start": "2022-08-10T04:43:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Jilin-1 High Resolution 03D-09, 35 to 43 & Infrared A01 to 06",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 16",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
-            "infographic": null
-        },
         {
             "id": "4f2c5733-5019-4f7a-8403-15a1a270bf96",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4f2c5733-5019-4f7a-8403-15a1a270bf96/",
@@ -60,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-3-3",
             "name": "Falcon 9 Block 5 | Starlink Group 3-3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-08-12T21:40:20Z",
             "window_end": "2022-08-12T21:40:20Z",
@@ -251,6 +201,56 @@
             "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523091143.png",
+            "infographic": null
+        },
+        {
+            "id": "86ea974e-6464-4960-85df-11af88852d57",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/86ea974e-6464-4960-85df-11af88852d57/",
+            "launch_library_id": 1959,
+            "slug": "zhuque-2-maiden-flight",
+            "name": "Zhuque-2 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-31T00:00:00Z",
+            "window_end": "2022-08-31T00:00:00Z",
+            "window_start": "2022-08-31T00:00:00Z",
+            "lsp_name": "LandSpace",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
+            "infographic": null
+        },
+        {
+            "id": "b7a9d0e7-776f-4140-ad20-7565993731c9",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b7a9d0e7-776f-4140-ad20-7565993731c9/",
+            "launch_library_id": null,
+            "slug": "ariane-5-eca-eutelsat-konnect-vhts",
+            "name": "Ariane 5 ECA+ | Eutelsat Konnect VHTS",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-06T00:00:00Z",
+            "window_end": "2022-09-06T00:00:00Z",
+            "window_start": "2022-09-06T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "Eutelsat Konnect VHTS",
+            "mission_type": "Communications",
+            "pad": "Ariane Launch Area 3",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
             "infographic": null
         }
     ]
