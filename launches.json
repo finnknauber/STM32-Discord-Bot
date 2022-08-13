@@ -1,33 +1,8 @@
 {
-    "count": 247,
+    "count": 246,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "4f2c5733-5019-4f7a-8403-15a1a270bf96",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4f2c5733-5019-4f7a-8403-15a1a270bf96/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-3-3",
-            "name": "Falcon 9 Block 5 | Starlink Group 3-3",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2022-08-12T21:40:20Z",
-            "window_end": "2022-08-12T21:40:20Z",
-            "window_start": "2022-08-12T21:40:20Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 3-3",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1061",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220630114044.png",
-            "infographic": null
-        },
         {
             "id": "4a114237-e8c5-4248-8d30-7a9026b86430",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4a114237-e8c5-4248-8d30-7a9026b86430/",
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-19T00:00:00Z",
-            "window_end": "2022-08-19T00:00:00Z",
-            "window_start": "2022-08-19T00:00:00Z",
+            "net": "2022-08-19T19:24:00Z",
+            "window_end": "2022-08-19T19:24:00Z",
+            "window_start": "2022-08-19T19:24:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-27",
             "mission_type": "Communications",
@@ -50,7 +25,7 @@
             "landing_success": 0,
             "launcher": "B1062",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722151528.png",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722151528.png",
             "infographic": null
         },
         {
@@ -75,7 +50,7 @@
             "landing_success": 0,
             "launcher": "B1067",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220722061450.png",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722061450.png",
             "infographic": null
         },
         {
@@ -100,7 +75,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
             "infographic": null
         },
         {
@@ -125,32 +100,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
-            "id": "25d652f7-7e20-42d5-967e-b8e01305746c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/25d652f7-7e20-42d5-967e-b8e01305746c/",
-            "launch_library_id": 1685,
-            "slug": "terran-1-maiden-flight",
-            "name": "Terran 1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "Relativity Space",
-            "mission": "Good Luck, Have Fun",
-            "mission_type": "Test Flight",
-            "pad": "Launch Complex 16",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -175,7 +125,7 @@
             "landing_success": 0,
             "launcher": "B1063",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220803024417.png",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220803024417.png",
             "infographic": null
         },
         {
@@ -200,7 +150,7 @@
             "landing_success": 0,
             "launcher": "B1069",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220523091143.png",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png",
             "infographic": null
         },
         {
@@ -225,7 +175,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/zhuque-2_image_20200905210848.jpg",
             "infographic": null
         },
         {
@@ -250,7 +200,56 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ae6f284f-20be-43db-8af1-c6981c1cdcbd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ae6f284f-20be-43db-8af1-c6981c1cdcbd/",
+            "launch_library_id": 2081,
+            "slug": "atlas-v-531-ses-20-ses-21",
+            "name": "Atlas V 531 | SES-20 & SES-21",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-07T00:00:00Z",
+            "window_end": "2022-09-07T00:00:00Z",
+            "window_start": "2022-09-07T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": null,
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/atlas2520v2520531_image_20190222030726.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flight-two",
+            "name": "Firefly Alpha | Flight Two",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-11T00:00:00Z",
+            "window_end": "2022-09-11T00:00:00Z",
+            "window_start": "2022-09-11T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "Flight Two",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
