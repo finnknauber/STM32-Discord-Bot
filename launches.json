@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-08-24T00:00:00Z",
-            "window_end": "2022-08-24T00:00:00Z",
-            "window_start": "2022-08-24T00:00:00Z",
+            "net": "2022-08-28T01:52:00Z",
+            "window_end": "2022-08-28T01:52:00Z",
+            "window_start": "2022-08-28T01:52:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-23",
             "mission_type": "Communications",
@@ -126,31 +126,6 @@
             "launcher": "B1063",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220803024417.png",
-            "infographic": null
-        },
-        {
-            "id": "84bf3b54-96ca-4ac4-bbaf-e25ed03e831c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/84bf3b54-96ca-4ac4-bbaf-e25ed03e831c/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-20",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-20",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-20",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "B1069",
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png",
             "infographic": null
         },
         {
@@ -250,6 +225,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "565c9cd7-0a0d-4397-96f2-031812d6427f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/565c9cd7-0a0d-4397-96f2-031812d6427f/",
+            "launch_library_id": null,
+            "slug": "long-march-7a-unknown-payload",
+            "name": "Long March 7A | Unknown Payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-13T00:00:00Z",
+            "window_end": "2022-09-13T00:00:00Z",
+            "window_start": "2022-09-13T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "201",
+            "location": "Wenchang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long_march_7a_image_20210311201838.jpg",
             "infographic": null
         }
     ]
