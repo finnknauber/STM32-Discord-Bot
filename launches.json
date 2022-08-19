@@ -1,5 +1,5 @@
 {
-    "count": 249,
+    "count": 253,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -8,16 +8,16 @@
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6861217d-7595-4a0c-83f2-c1682cbd64db/",
             "launch_library_id": null,
             "slug": "long-march-2d-yaogan-35-group-04",
-            "name": "Long March 2D | Yaogan 35 Group 04 (?)",
+            "name": "Long March 2D | Yaogan 35 Group 04",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-19T17:36:00Z",
+            "net": "2022-08-19T17:37:00Z",
             "window_end": "2022-08-19T17:46:00Z",
             "window_start": "2022-08-19T17:26:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 35 Group 04 (?)",
+            "mission": "Yaogan 35 Group 04",
             "mission_type": "Government/Top Secret",
             "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
@@ -35,19 +35,19 @@
             "slug": "falcon-9-block-5-starlink-group-4-27",
             "name": "Falcon 9 Block 5 | Starlink Group 4-27",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-19T19:24:00Z",
-            "window_end": "2022-08-19T19:24:00Z",
-            "window_start": "2022-08-19T19:24:00Z",
+            "net": "2022-08-19T19:21:20Z",
+            "window_end": "2022-08-19T19:21:20Z",
+            "window_start": "2022-08-19T19:21:20Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-27",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
+            "landing": "ASOG",
+            "landing_success": 1,
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722151528.png",
@@ -75,6 +75,30 @@
             "launcher": null,
             "orbit": null,
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long2520march252011_image_20190222031217.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a0d642d9-19ea-487d-8821-40c6f83e712f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a0d642d9-19ea-487d-8821-40c6f83e712f/",
+            "launch_library_id": null,
+            "slug": "long-march-2d-unknown-payload",
+            "name": "Long March 2D | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-08-24T03:05:00Z",
+            "window_end": "2022-08-24T03:31:00Z",
+            "window_start": "2022-08-24T02:53:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 9",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
             "infographic": null
         },
         {
@@ -178,6 +202,31 @@
             "infographic": null
         },
         {
+            "id": "84bf3b54-96ca-4ac4-bbaf-e25ed03e831c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/84bf3b54-96ca-4ac4-bbaf-e25ed03e831c/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-20-varuna",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-20 & Varuna",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-04T00:00:00Z",
+            "window_end": "2022-09-04T00:00:00Z",
+            "window_start": "2022-09-04T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-20 & Varuna",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1069",
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png",
+            "infographic": null
+        },
+        {
             "id": "b7a9d0e7-776f-4140-ad20-7565993731c9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b7a9d0e7-776f-4140-ad20-7565993731c9/",
             "launch_library_id": null,
@@ -200,55 +249,6 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-06T22:00:00Z",
-            "window_end": "2022-09-07T01:30:00Z",
-            "window_start": "2022-09-06T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
-            "id": "ae6f284f-20be-43db-8af1-c6981c1cdcbd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ae6f284f-20be-43db-8af1-c6981c1cdcbd/",
-            "launch_library_id": 2081,
-            "slug": "atlas-v-531-ses-20-ses-21",
-            "name": "Atlas V 531 | SES-20 & SES-21",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-07T00:00:00Z",
-            "window_end": "2022-09-07T00:00:00Z",
-            "window_start": "2022-09-07T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": null,
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/atlas2520v2520531_image_20190222030726.jpeg",
             "infographic": null
         }
     ]
