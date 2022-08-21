@@ -1,5 +1,5 @@
 {
-    "count": 251,
+    "count": 252,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -52,6 +52,31 @@
             "infographic": null
         },
         {
+            "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-3-4",
+            "name": "Falcon 9 Block 5 | Starlink Group 3-4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-08-27T05:30:00Z",
+            "window_end": "2022-08-27T05:30:00Z",
+            "window_start": "2022-08-27T05:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 3-4",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1063",
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220803024417.png",
+            "infographic": null
+        },
+        {
             "id": "67158b3c-201d-4450-be8a-990010c05b40",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/67158b3c-201d-4450-be8a-990010c05b40/",
             "launch_library_id": null,
@@ -99,31 +124,6 @@
             "launcher": null,
             "orbit": "LO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-3-4",
-            "name": "Falcon 9 Block 5 | Starlink Group 3-4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 3-4",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1063",
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220803024417.png",
             "infographic": null
         },
         {
