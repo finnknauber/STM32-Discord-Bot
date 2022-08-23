@@ -7,24 +7,25 @@
             "id": "5bdce7b6-0b8f-4df3-979e-3560654f9fe2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5bdce7b6-0b8f-4df3-979e-3560654f9fe2/",
             "launch_library_id": null,
-            "slug": "long-march-11-unknown-payload",
-            "name": "Long March 11 | Unknown Payload",
+            "slug": "kuaizhou-1a-chuangxin-16",
+            "name": "Kuaizhou-1A | Chuangxin-16",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-08-23T02:34:00Z",
+            "net": "2022-08-23T02:36:00Z",
             "window_end": "2022-08-23T02:44:00Z",
             "window_start": "2022-08-23T02:24:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "lsp_name": "ExPace",
+            "mission": "Chuangxin-16",
+            "mission_type": "Government/Top Secret",
             "pad": "Unknown Pad",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long2520march252011_image_20190222031217.jpeg",
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -92,8 +93,8 @@
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-23",
             "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
             "launcher": "B1067",
@@ -127,31 +128,6 @@
             "infographic": null
         },
         {
-            "id": "86ea974e-6464-4960-85df-11af88852d57",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/86ea974e-6464-4960-85df-11af88852d57/",
-            "launch_library_id": 1959,
-            "slug": "zhuque-2-maiden-flight",
-            "name": "Zhuque-2 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-08-31T00:00:00Z",
-            "window_end": "2022-08-31T00:00:00Z",
-            "window_start": "2022-08-31T00:00:00Z",
-            "lsp_name": "LandSpace",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/zhuque-2_image_20200905210848.jpg",
-            "infographic": null
-        },
-        {
             "id": "84bf3b54-96ca-4ac4-bbaf-e25ed03e831c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/84bf3b54-96ca-4ac4-bbaf-e25ed03e831c/",
             "launch_library_id": null,
@@ -161,9 +137,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-09-05T00:00:00Z",
-            "window_end": "2022-09-05T00:00:00Z",
-            "window_start": "2022-09-05T00:00:00Z",
+            "net": "2022-09-05T00:32:00Z",
+            "window_end": "2022-09-05T00:32:00Z",
+            "window_start": "2022-09-05T00:32:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-20 & Varuna",
             "mission_type": "Communications",
@@ -249,6 +225,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220602070819.png",
+            "infographic": null
+        },
+        {
+            "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flight-two",
+            "name": "Firefly Alpha | Flight Two",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-09-11T22:00:00Z",
+            "window_end": "2022-09-11T22:00:00Z",
+            "window_start": "2022-09-11T22:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "Flight Two",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
