@@ -1,5 +1,5 @@
 {
-    "count": 251,
+    "count": 252,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -23,7 +23,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "B1067",
+            "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220722061450.png",
             "infographic": null
@@ -123,7 +123,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
-            "launcher": "B1069",
+            "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png",
             "infographic": null
