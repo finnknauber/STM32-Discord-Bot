@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-08-28T02:22:00Z",
-            "window_end": "2022-08-28T02:22:00Z",
-            "window_start": "2022-08-28T02:22:00Z",
+            "net": "2022-08-28T02:22:30Z",
+            "window_end": "2022-08-28T02:22:30Z",
+            "window_start": "2022-08-28T02:22:30Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-23",
             "mission_type": "Communications",
