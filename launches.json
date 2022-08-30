@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-3-4",
             "name": "Falcon 9 Block 5 | Starlink Group 3-4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-08-31T05:30:00Z",
-            "window_end": "2022-08-31T05:30:00Z",
-            "window_start": "2022-08-31T05:30:00Z",
+            "net": "2022-08-31T05:40:10Z",
+            "window_end": "2022-08-31T05:40:10Z",
+            "window_start": "2022-08-31T05:40:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 3-4",
             "mission_type": "Communications",
@@ -129,31 +129,6 @@
             "infographic": null
         },
         {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-06T22:00:00Z",
-            "window_end": "2022-09-07T01:30:00Z",
-            "window_start": "2022-09-06T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
             "id": "992823ad-f843-4a4a-beca-882b8ce8773a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/992823ad-f843-4a4a-beca-882b8ce8773a/",
             "launch_library_id": null,
@@ -176,6 +151,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220602070819.png",
+            "infographic": null
+        },
+        {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-08T22:00:00Z",
+            "window_end": "2022-09-09T01:30:00Z",
+            "window_start": "2022-09-08T22:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
