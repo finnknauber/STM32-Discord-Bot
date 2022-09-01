@@ -1,33 +1,8 @@
 {
-    "count": 252,
+    "count": 253,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "576b04d6-1962-4bda-b43f-0da4138d192d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/576b04d6-1962-4bda-b43f-0da4138d192d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-3-4",
-            "name": "Falcon 9 Block 5 | Starlink Group 3-4",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-08-31T05:40:10Z",
-            "window_end": "2022-08-31T05:40:10Z",
-            "window_start": "2022-08-31T05:40:10Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 3-4",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1063",
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220803024417.png",
-            "infographic": null
-        },
         {
             "id": "d4a6a953-d1b2-4f68-b891-b9c75fc96ff2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d4a6a953-d1b2-4f68-b891-b9c75fc96ff2/",
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-09-01T13:30:00Z",
-            "window_end": "2022-09-01T16:00:00Z",
-            "window_start": "2022-09-01T13:30:00Z",
+            "net": "2022-09-02T14:30:00Z",
+            "window_end": "2022-09-02T16:00:00Z",
+            "window_start": "2022-09-02T14:30:00Z",
             "lsp_name": "Blue Origin",
             "mission": "NS-23",
             "mission_type": "Suborbital",
@@ -120,11 +95,35 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png",
+            "infographic": null
+        },
+        {
+            "id": "7508b1d7-bda4-4971-a739-b3d04d3303a7",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7508b1d7-bda4-4971-a739-b3d04d3303a7/",
+            "launch_library_id": null,
+            "slug": "kuaizhou-1a-unknown-payload",
+            "name": "Kuaizhou-1A | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-09-06T02:25:00Z",
+            "window_end": "2022-09-06T02:49:00Z",
+            "window_start": "2022-09-06T02:13:00Z",
+            "lsp_name": "ExPace",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -153,31 +152,6 @@
             "infographic": null
         },
         {
-            "id": "992823ad-f843-4a4a-beca-882b8ce8773a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/992823ad-f843-4a4a-beca-882b8ce8773a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-2-bluewalker-3",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-2 & BlueWalker 3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-07T00:00:00Z",
-            "window_end": "2022-09-07T00:00:00Z",
-            "window_start": "2022-09-07T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-2 & BlueWalker 3",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220602070819.png",
-            "infographic": null
-        },
-        {
             "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
             "launch_library_id": null,
@@ -200,6 +174,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "992823ad-f843-4a4a-beca-882b8ce8773a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/992823ad-f843-4a4a-beca-882b8ce8773a/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-2-bluewalker-3",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-2 & BlueWalker 3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-10T23:50:00Z",
+            "window_end": "2022-09-10T23:50:00Z",
+            "window_start": "2022-09-10T23:50:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-2 & BlueWalker 3",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220602070819.png",
             "infographic": null
         },
         {
@@ -228,27 +227,28 @@
             "infographic": null
         },
         {
-            "id": "565c9cd7-0a0d-4397-96f2-031812d6427f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/565c9cd7-0a0d-4397-96f2-031812d6427f/",
+            "id": "9ba04064-c329-40bf-b477-ff468d7d8058",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9ba04064-c329-40bf-b477-ff468d7d8058/",
             "launch_library_id": null,
-            "slug": "long-march-7a-unknown-payload",
-            "name": "Long March 7A | Unknown Payload",
+            "slug": "falcon-9-block-5-starlink-group-4-34",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-34",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-09-13T14:00:00Z",
-            "window_end": "2022-09-13T16:00:00Z",
-            "window_start": "2022-09-13T12:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "201",
-            "location": "Wenchang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long_march_7a_image_20210311201838.jpg",
+            "net": "2022-09-12T00:00:00Z",
+            "window_end": "2022-09-12T00:00:00Z",
+            "window_start": "2022-09-12T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-34",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220810084439.png",
             "infographic": null
         }
     ]
