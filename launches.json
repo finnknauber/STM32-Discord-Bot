@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "d4a6a953-d1b2-4f68-b891-b9c75fc96ff2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d4a6a953-d1b2-4f68-b891-b9c75fc96ff2/",
-            "launch_library_id": null,
-            "slug": "new-shepard-ns-23",
-            "name": "New Shepard | NS-23",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-09-02T14:30:00Z",
-            "window_end": "2022-09-02T16:00:00Z",
-            "window_start": "2022-09-02T14:30:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "NS-23",
-            "mission_type": "Suborbital",
-            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
-            "location": "Corn Ranch, USA",
-            "landing": "CR",
-            "landing_success": 0,
-            "launcher": "NS-3",
-            "orbit": "Sub",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": null
-        },
-        {
             "id": "15247ea8-f709-4599-8b1d-a4fdbe10df5a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/15247ea8-f709-4599-8b1d-a4fdbe10df5a/",
             "launch_library_id": null,
@@ -50,6 +25,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d4a6a953-d1b2-4f68-b891-b9c75fc96ff2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d4a6a953-d1b2-4f68-b891-b9c75fc96ff2/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-23",
+            "name": "New Shepard | NS-23",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-03T13:30:00Z",
+            "window_end": "2022-09-03T16:00:00Z",
+            "window_start": "2022-09-03T13:30:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-23",
+            "mission_type": "Suborbital",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, USA",
+            "landing": "CR",
+            "landing_success": 0,
+            "launcher": "NS-3",
+            "orbit": "Sub",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
             "infographic": null
         },
         {
@@ -137,7 +137,7 @@
                 "name": "Go"
             },
             "net": "2022-09-06T21:45:00Z",
-            "window_end": "2022-09-06T21:45:00Z",
+            "window_end": "2022-09-06T22:51:00Z",
             "window_start": "2022-09-06T21:45:00Z",
             "lsp_name": "Arianespace",
             "mission": "Eutelsat Konnect VHTS",
@@ -212,7 +212,7 @@
                 "name": "Go"
             },
             "net": "2022-09-11T22:00:00Z",
-            "window_end": "2022-09-11T22:00:00Z",
+            "window_end": "2022-09-12T02:00:00Z",
             "window_start": "2022-09-11T22:00:00Z",
             "lsp_name": "Firefly Aerospace",
             "mission": "Flight Two",
