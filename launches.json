@@ -1,33 +1,8 @@
 {
-    "count": 253,
+    "count": 252,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "15247ea8-f709-4599-8b1d-a4fdbe10df5a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/15247ea8-f709-4599-8b1d-a4fdbe10df5a/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-yaogan-33-02",
-            "name": "Long March 4C | Yaogan 33-02",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-09-02T23:44:00Z",
-            "window_end": "2022-09-03T00:04:00Z",
-            "window_start": "2022-09-02T23:44:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 33-02",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null
-        },
         {
             "id": "84bf3b54-96ca-4ac4-bbaf-e25ed03e831c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/84bf3b54-96ca-4ac4-bbaf-e25ed03e831c/",
@@ -48,7 +23,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "B1067",
+            "launcher": "B1052",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220523091143.png",
             "infographic": null
@@ -112,9 +87,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-09-08T22:00:00Z",
-            "window_end": "2022-09-09T01:30:00Z",
-            "window_start": "2022-09-08T22:00:00Z",
+            "net": "2022-09-10T22:00:00Z",
+            "window_end": "2022-09-11T01:30:00Z",
+            "window_start": "2022-09-10T22:00:00Z",
             "lsp_name": "ABL Space Systems",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
@@ -249,6 +224,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bc73ec4f-633e-4eb5-8b8e-5c996ea1733f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/bc73ec4f-633e-4eb5-8b8e-5c996ea1733f/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-soyuz-ms-22",
+            "name": "Soyuz 2.1a | Soyuz MS-22",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-21T13:54:00Z",
+            "window_end": "2022-09-21T13:54:00Z",
+            "window_start": "2022-09-21T13:54:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Soyuz MS-22",
+            "mission_type": "Human Exploration",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
         }
     ]
