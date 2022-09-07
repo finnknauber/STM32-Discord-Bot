@@ -1,58 +1,8 @@
 {
-    "count": 252,
+    "count": 250,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "7508b1d7-bda4-4971-a739-b3d04d3303a7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7508b1d7-bda4-4971-a739-b3d04d3303a7/",
-            "launch_library_id": null,
-            "slug": "kuaizhou-1a-centispace-1-s3-s4",
-            "name": "Kuaizhou-1A | CentiSpace-1 S3 & S4",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-09-06T02:24:00Z",
-            "window_end": "2022-09-06T02:49:00Z",
-            "window_start": "2022-09-06T02:13:00Z",
-            "lsp_name": "ExPace",
-            "mission": "CentiSpace-1 S3 & S4",
-            "mission_type": "Navigation",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "fdc9abba-84fc-41bf-8e16-8e7a0d31ea1a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fdc9abba-84fc-41bf-8e16-8e7a0d31ea1a/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-yaogan-35-group-05",
-            "name": "Long March 2D | Yaogan 35 Group 05",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-09-06T04:19:00Z",
-            "window_end": "2022-09-06T04:29:00Z",
-            "window_start": "2022-09-06T04:09:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 35 Group 05",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
         {
             "id": "b7a9d0e7-776f-4140-ad20-7565993731c9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b7a9d0e7-776f-4140-ad20-7565993731c9/",
@@ -60,8 +10,8 @@
             "slug": "ariane-5-eca-eutelsat-konnect-vhts",
             "name": "Ariane 5 ECA+ | Eutelsat Konnect VHTS",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2022-09-07T21:45:00Z",
             "window_end": "2022-09-07T23:11:00Z",
@@ -76,31 +26,6 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-10T22:00:00Z",
-            "window_end": "2022-09-11T01:30:00Z",
-            "window_start": "2022-09-10T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -132,8 +57,8 @@
             "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
             "launch_library_id": null,
-            "slug": "firefly-alpha-flight-two",
-            "name": "Firefly Alpha | Flight Two",
+            "slug": "firefly-alpha-flta002-to-the-black",
+            "name": "Firefly Alpha | FLTA002 (To The Black)",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -142,7 +67,7 @@
             "window_end": "2022-09-12T02:00:00Z",
             "window_start": "2022-09-11T22:00:00Z",
             "lsp_name": "Firefly Aerospace",
-            "mission": "Flight Two",
+            "mission": "FLTA002 (To The Black)",
             "mission_type": "Test Flight",
             "pad": "Space Launch Complex 2W",
             "location": "Vandenberg SFB, CA, USA",
@@ -163,19 +88,69 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-09-12T00:00:00Z",
-            "window_end": "2022-09-12T00:00:00Z",
-            "window_start": "2022-09-12T00:00:00Z",
+            "net": "2022-09-12T00:15:00Z",
+            "window_end": "2022-09-12T00:15:00Z",
+            "window_start": "2022-09-12T00:15:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-34",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launch_images/falcon2520925_image_20220810084439.png",
+            "infographic": null
+        },
+        {
+            "id": "d4a6a953-d1b2-4f68-b891-b9c75fc96ff2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d4a6a953-d1b2-4f68-b891-b9c75fc96ff2/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-23",
+            "name": "New Shepard | NS-23",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-09-12T13:30:00Z",
+            "window_end": "2022-09-12T16:00:00Z",
+            "window_start": "2022-09-12T13:30:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-23",
+            "mission_type": "Suborbital",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, USA",
+            "landing": "CR",
+            "landing_success": 0,
+            "launcher": "NS-3",
+            "orbit": "Sub",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-12T22:00:00Z",
+            "window_end": "2022-09-13T01:30:00Z",
+            "window_start": "2022-09-12T22:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -185,12 +160,12 @@
             "slug": "long-march-7a-unknown-payload",
             "name": "Long March 7A | Unknown Payload",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-09-13T14:00:00Z",
-            "window_end": "2022-09-13T16:00:00Z",
-            "window_start": "2022-09-13T12:00:00Z",
+            "net": "2022-09-13T13:45:00Z",
+            "window_end": "2022-09-13T14:23:00Z",
+            "window_start": "2022-09-13T13:08:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": null,
             "pad": "201",
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "558c199e-4cfb-4914-b5d3-452b63d492bf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/558c199e-4cfb-4914-b5d3-452b63d492bf/",
+            "launch_library_id": 1975,
+            "slug": "delta-iv-heavy-nrol-91",
+            "name": "Delta IV Heavy | NROL-91",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-24T00:00:00Z",
+            "window_end": "2022-09-24T00:00:00Z",
+            "window_start": "2022-09-24T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-91",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 6",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
             "infographic": null
         }
     ]
