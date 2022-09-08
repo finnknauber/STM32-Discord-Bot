@@ -1,33 +1,8 @@
 {
-    "count": 250,
+    "count": 249,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b7a9d0e7-776f-4140-ad20-7565993731c9",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b7a9d0e7-776f-4140-ad20-7565993731c9/",
-            "launch_library_id": null,
-            "slug": "ariane-5-eca-eutelsat-konnect-vhts",
-            "name": "Ariane 5 ECA+ | Eutelsat Konnect VHTS",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2022-09-07T21:45:00Z",
-            "window_end": "2022-09-07T23:11:00Z",
-            "window_start": "2022-09-07T21:45:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Eutelsat Konnect VHTS",
-            "mission_type": "Communications",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
-            "infographic": null
-        },
         {
             "id": "992823ad-f843-4a4a-beca-882b8ce8773a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/992823ad-f843-4a4a-beca-882b8ce8773a/",
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-09-10T23:51:00Z",
-            "window_end": "2022-09-10T23:51:00Z",
-            "window_start": "2022-09-10T23:51:00Z",
+            "net": "2022-09-11T01:10:00Z",
+            "window_end": "2022-09-11T01:10:00Z",
+            "window_start": "2022-09-11T01:10:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-2 & BlueWalker 3",
             "mission_type": "Communications",
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-09-12T00:15:00Z",
-            "window_end": "2022-09-12T00:15:00Z",
-            "window_start": "2022-09-12T00:15:00Z",
+            "net": "2022-09-12T02:53:00Z",
+            "window_end": "2022-09-12T02:53:00Z",
+            "window_start": "2022-09-12T02:53:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-34",
             "mission_type": "Communications",
@@ -188,12 +163,12 @@
                 "name": "Go"
             },
             "net": "2022-09-14T20:30:00Z",
-            "window_end": "2022-09-14T20:30:00Z",
+            "window_end": "2022-09-14T20:45:00Z",
             "window_start": "2022-09-14T20:30:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "The Owl Spreads Its Wings",
             "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
@@ -250,6 +225,30 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
+            "infographic": null
+        },
+        {
+            "id": "0705d82e-11b4-4e78-9075-457987f9f32f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0705d82e-11b4-4e78-9075-457987f9f32f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-sda-tranche-0",
+            "name": "Falcon 9 Block 5 | SDA Tranche 0",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-29T00:00:00Z",
+            "window_end": "2022-09-29T00:00:00Z",
+            "window_start": "2022-09-29T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": null,
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://nyc3.digitaloceanspaces.com/spacelaunchnow-prod-east/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
