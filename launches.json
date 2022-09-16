@@ -1,33 +1,8 @@
 {
-    "count": 248,
+    "count": 247,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "36bf2bad-839f-4aa6-9726-634be33e57aa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/36bf2bad-839f-4aa6-9726-634be33e57aa/",
-            "launch_library_id": null,
-            "slug": "electron-the-owl-spreads-its-wings",
-            "name": "Electron | The Owl Spreads Its Wings",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-09-15T20:38:00Z",
-            "window_end": "2022-09-15T20:38:00Z",
-            "window_start": "2022-09-15T20:38:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "The Owl Spreads Its Wings",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
         {
             "id": "9ba04064-c329-40bf-b477-ff468d7d8058",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9ba04064-c329-40bf-b477-ff468d7d8058/",
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-09-16T01:27:00Z",
-            "window_end": "2022-09-16T01:27:00Z",
-            "window_start": "2022-09-16T01:27:00Z",
+            "net": "2022-09-17T01:05:00Z",
+            "window_end": "2022-09-17T01:05:00Z",
+            "window_start": "2022-09-17T01:05:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-34",
             "mission_type": "Communications",
@@ -51,31 +26,6 @@
             "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220810084439.png",
-            "infographic": null
-        },
-        {
-            "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta002-to-the-black",
-            "name": "Firefly Alpha | FLTA002 (To The Black)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-19T07:00:00Z",
-            "window_end": "2022-09-19T09:00:00Z",
-            "window_start": "2022-09-19T07:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA002 (To The Black)",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         },
         {
@@ -204,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flta002-to-the-black",
+            "name": "Firefly Alpha | FLTA002 (To The Black)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-29T00:00:00Z",
+            "window_end": "2022-09-29T00:00:00Z",
+            "window_start": "2022-09-29T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "FLTA002 (To The Black)",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+            "infographic": null
+        },
+        {
             "id": "65896761-b6ca-4df3-9699-e077a360c52a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/",
             "launch_library_id": 1138,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
+            "infographic": null
+        },
+        {
+            "id": "ae6f284f-20be-43db-8af1-c6981c1cdcbd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ae6f284f-20be-43db-8af1-c6981c1cdcbd/",
+            "launch_library_id": 2081,
+            "slug": "atlas-v-531-ses-20-ses-21",
+            "name": "Atlas V 531 | SES-20 & SES-21",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-30T00:00:00Z",
+            "window_end": "2022-09-30T00:00:00Z",
+            "window_start": "2022-09-30T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "SES-20 & SES-21",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Direct-GEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520531_image_20190222030726.jpeg",
             "infographic": null
         }
     ]
