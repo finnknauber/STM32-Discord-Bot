@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-09-17T01:05:00Z",
-            "window_end": "2022-09-17T01:05:00Z",
-            "window_start": "2022-09-17T01:05:00Z",
+            "net": "2022-09-18T00:43:00Z",
+            "window_end": "2022-09-18T00:43:00Z",
+            "window_start": "2022-09-18T00:43:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-34",
             "mission_type": "Communications",
@@ -29,39 +29,14 @@
             "infographic": null
         },
         {
-            "id": "1c903b65-6667-4fd5-944d-296c5f13e01f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c903b65-6667-4fd5-944d-296c5f13e01f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-35",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-35",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-19T17:56:00Z",
-            "window_end": "2022-09-19T17:56:00Z",
-            "window_start": "2022-09-19T17:56:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-35",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220819070146.png",
-            "infographic": null
-        },
-        {
             "id": "bc73ec4f-633e-4eb5-8b8e-5c996ea1733f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/bc73ec4f-633e-4eb5-8b8e-5c996ea1733f/",
             "launch_library_id": null,
             "slug": "soyuz-21a-soyuz-ms-22",
             "name": "Soyuz 2.1a | Soyuz MS-22",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-09-21T13:54:00Z",
             "window_end": "2022-09-21T13:54:00Z",
@@ -88,7 +63,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-09-24T20:50:00Z",
+            "net": "2022-09-24T21:53:00Z",
             "window_end": "2022-09-24T23:12:00Z",
             "window_start": "2022-09-24T20:50:00Z",
             "lsp_name": "United Launch Alliance",
@@ -129,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "adcb0090-6f97-40c2-821f-104b5ed3e9c7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/adcb0090-6f97-40c2-821f-104b5ed3e9c7/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-36",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-36",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-09-26T22:38:00Z",
-            "window_end": "2022-09-26T22:38:00Z",
-            "window_start": "2022-09-26T22:38:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-36",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220821074548.png",
-            "infographic": null
-        },
-        {
             "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
             "launch_library_id": null,
@@ -176,6 +126,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1c903b65-6667-4fd5-944d-296c5f13e01f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c903b65-6667-4fd5-944d-296c5f13e01f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-35",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-35",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-30T00:00:00Z",
+            "window_end": "2022-09-30T00:00:00Z",
+            "window_start": "2022-09-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-35",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220819070146.png",
             "infographic": null
         },
         {
@@ -226,6 +201,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
+            "infographic": null
+        },
+        {
+            "id": "adcb0090-6f97-40c2-821f-104b5ed3e9c7",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/adcb0090-6f97-40c2-821f-104b5ed3e9c7/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-36",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-36",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-09-30T00:00:00Z",
+            "window_end": "2022-09-30T00:00:00Z",
+            "window_start": "2022-09-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-36",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220821074548.png",
             "infographic": null
         },
         {
