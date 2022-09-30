@@ -1,5 +1,5 @@
 {
-    "count": 245,
+    "count": 247,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "firefly-alpha-flta002-to-the-black",
             "name": "Firefly Alpha | FLTA002 (To The Black)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2022-09-30T07:01:00Z",
-            "window_end": "2022-09-30T09:00:00Z",
-            "window_start": "2022-09-30T07:01:00Z",
+            "net": "2022-10-01T07:01:00Z",
+            "window_end": "2022-10-01T09:00:00Z",
+            "window_start": "2022-10-01T07:01:00Z",
             "lsp_name": "Firefly Aerospace",
             "mission": "FLTA002 (To The Black)",
             "mission_type": "Test Flight",
@@ -48,7 +48,7 @@
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
@@ -114,8 +114,8 @@
                 "name": "Go"
             },
             "net": "2022-10-05T17:04:00Z",
-            "window_end": "2022-10-05T17:04:00Z",
-            "window_start": "2022-10-05T17:04:00Z",
+            "window_end": "2022-10-05T18:00:00Z",
+            "window_start": "2022-10-05T17:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "It Argos Up From Here",
             "mission_type": "Technology",
@@ -154,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "41b5daaf-ae6e-4bd9-bece-bdef3c892672",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/41b5daaf-ae6e-4bd9-bece-bdef3c892672/",
+            "launch_library_id": null,
+            "slug": "long-march-2d-advanced-space-borne-solar-observato",
+            "name": "Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-06T23:40:00Z",
+            "window_end": "2022-10-06T23:59:00Z",
+            "window_start": "2022-10-06T23:32:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Advanced Space-borne Solar Observatory (ASO-S)",
+            "mission_type": "Heliophysics",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+            "infographic": null
+        },
+        {
             "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
             "launch_library_id": null,
@@ -179,6 +204,30 @@
             "infographic": null
         },
         {
+            "id": "5e7aebb7-7bfa-4819-819c-870cee32134a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5e7aebb7-7bfa-4819-819c-870cee32134a/",
+            "launch_library_id": null,
+            "slug": "smart-dragon-3-centispace-1-s5-s6",
+            "name": "Smart Dragon 3 | CentiSpace-1 S5 & S6 (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-07T13:20:00Z",
+            "window_end": "2022-10-07T13:39:00Z",
+            "window_start": "2022-10-07T13:10:00Z",
+            "lsp_name": "China Rocket Co. Ltd.",
+            "mission": null,
+            "pad": "Tai Rui",
+            "location": "Tai Rui, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": null,
+            "infographic": null
+        },
+        {
             "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
             "launch_library_id": null,
@@ -201,55 +250,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
-            "id": "96202dc2-cf8d-4be2-9aba-21202540b55d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/96202dc2-cf8d-4be2-9aba-21202540b55d/",
-            "launch_library_id": null,
-            "slug": "proton-mblok-dm-03-angosat-2",
-            "name": "Proton-M/Blok DM-03 | AngoSat-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-10-12T00:00:00Z",
-            "window_end": "2022-10-12T00:00:00Z",
-            "window_start": "2022-10-12T00:00:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "AngoSat-2",
-            "mission_type": "Communications",
-            "pad": "81/24 (81P)",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "13977bd5-45d2-4ed1-9a4a-9fefeee0723a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/13977bd5-45d2-4ed1-9a4a-9fefeee0723a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-hotbird-13f",
-            "name": "Falcon 9 Block 5 | Hotbird 13F",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-10-14T03:25:00Z",
-            "window_end": "2022-10-14T05:24:00Z",
-            "window_start": "2022-10-14T03:25:00Z",
-            "lsp_name": "SpaceX",
-            "mission": null,
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
