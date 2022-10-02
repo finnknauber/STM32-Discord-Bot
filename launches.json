@@ -1,33 +1,8 @@
 {
-    "count": 247,
+    "count": 246,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "a7fcb777-83a4-4876-951b-ac31a9d37252",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a7fcb777-83a4-4876-951b-ac31a9d37252/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta002-to-the-black",
-            "name": "Firefly Alpha | FLTA002 (To The Black)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-10-01T07:01:00Z",
-            "window_end": "2022-10-01T09:00:00Z",
-            "window_start": "2022-10-01T07:01:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA002 (To The Black)",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
-            "infographic": null
-        },
         {
             "id": "597cbe7c-4df2-46f2-9234-a3747e0a105b",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/597cbe7c-4df2-46f2-9234-a3747e0a105b/",
@@ -100,7 +75,7 @@
             "landing_success": 0,
             "launcher": "B1077",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211204170326.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221002021819.jpeg",
             "infographic": null
         },
         {
@@ -113,9 +88,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-10-05T17:04:00Z",
-            "window_end": "2022-10-05T18:00:00Z",
-            "window_start": "2022-10-05T17:00:00Z",
+            "net": "2022-10-06T17:00:00Z",
+            "window_end": "2022-10-06T18:00:00Z",
+            "window_start": "2022-10-06T17:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
             "mission": "It Argos Up From Here",
             "mission_type": "Technology",
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "96202dc2-cf8d-4be2-9aba-21202540b55d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/96202dc2-cf8d-4be2-9aba-21202540b55d/",
+            "launch_library_id": null,
+            "slug": "proton-mblok-dm-03-angosat-2",
+            "name": "Proton-M/Blok DM-03 | AngoSat-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-10-12T00:00:00Z",
+            "window_end": "2022-10-12T00:00:00Z",
+            "window_start": "2022-10-12T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "AngoSat-2",
+            "mission_type": "Communications",
+            "pad": "81/24 (81P)",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Direct-GEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg",
             "infographic": null
         }
     ]
