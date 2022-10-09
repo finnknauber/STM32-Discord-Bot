@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-galaxy-33-34",
             "name": "Falcon 9 Block 5 | Galaxy 33 & 34",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-10-08T23:05:00Z",
             "window_end": "2022-10-09T00:15:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
@@ -33,12 +33,12 @@
             "url": "https://ll.thespacedevs.com/2.0.0/launch/41b5daaf-ae6e-4bd9-bece-bdef3c892672/",
             "launch_library_id": null,
             "slug": "long-march-2d-advanced-space-borne-solar-observato",
-            "name": "Long March 2D | Advanced Space-borne Solar Observatory (ASO-S) (?)",
+            "name": "Long March 2D | Advanced Space-borne Solar Observatory (ASO-S)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-10-08T23:40:00Z",
+            "net": "2022-10-08T23:43:00Z",
             "window_end": "2022-10-08T23:59:00Z",
             "window_start": "2022-10-08T23:32:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -79,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
+            "launch_library_id": null,
+            "slug": "epsilon-raise-3-others",
+            "name": "Epsilon | RAISE-3 & Others",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-12T00:50:43Z",
+            "window_end": "2022-10-12T00:55:11Z",
+            "window_start": "2022-10-12T00:50:43Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "RAISE-3",
+            "mission_type": "Technology",
+            "pad": "Mu Center",
+            "location": "Uchinoura Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/epsilon_image_20221009075145.jpg",
+            "infographic": null
+        },
+        {
             "id": "96202dc2-cf8d-4be2-9aba-21202540b55d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/96202dc2-cf8d-4be2-9aba-21202540b55d/",
             "launch_library_id": null,
@@ -88,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-12T00:00:00Z",
-            "window_end": "2022-10-12T00:00:00Z",
-            "window_start": "2022-10-12T00:00:00Z",
+            "net": "2022-10-12T15:05:00Z",
+            "window_end": "2022-10-12T15:05:00Z",
+            "window_start": "2022-10-12T15:05:00Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "AngoSat-2",
             "mission_type": "Communications",
@@ -101,6 +126,31 @@
             "launcher": null,
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "13977bd5-45d2-4ed1-9a4a-9fefeee0723a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/13977bd5-45d2-4ed1-9a4a-9fefeee0723a/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-hotbird-13f",
+            "name": "Falcon 9 Block 5 | Hotbird 13F",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-10-14T03:25:00Z",
+            "window_end": "2022-10-14T05:24:00Z",
+            "window_start": "2022-10-14T03:25:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Hotbird 13F",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -201,56 +251,6 @@
             "launcher": "MX Launchers",
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b0fbc1b8-f822-4345-95af-85782e2669d3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b0fbc1b8-f822-4345-95af-85782e2669d3/",
-            "launch_library_id": null,
-            "slug": "launcherone-amber-1",
-            "name": "LauncherOne | Amber-1",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-10-29T00:00:00Z",
-            "window_end": "2022-10-29T00:00:00Z",
-            "window_start": "2022-10-29T00:00:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": "Amber-1",
-            "mission_type": "Earth Science",
-            "pad": "Spaceport Cornwall",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-10-31T00:00:00Z",
-            "window_end": "2022-10-31T00:00:00Z",
-            "window_start": "2022-10-31T00:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         }
     ]
