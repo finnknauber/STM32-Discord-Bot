@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "ba876342-7fcf-45f1-b432-65a975190f1f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ba876342-7fcf-45f1-b432-65a975190f1f/",
-            "launch_library_id": 1681,
-            "slug": "soyuz-21bfregat-glonass-k1-no-17",
-            "name": "Soyuz 2.1b/Fregat | Glonass-K1 No. 17",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-10-10T02:52:32Z",
-            "window_end": "2022-10-10T02:52:32Z",
-            "window_start": "2022-10-10T02:52:32Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Glonass-K1 No. 17",
-            "mission_type": "Navigation",
-            "pad": "43/3 (43L)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
-            "infographic": null
-        },
-        {
             "id": "1017c305-e50d-4a0f-8414-f7220d36e332",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1017c305-e50d-4a0f-8414-f7220d36e332/",
             "launch_library_id": null,
@@ -76,6 +51,30 @@
             "launcher": null,
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bd4426e1-3b12-426e-95b6-7eea6d76ae3b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/bd4426e1-3b12-426e-95b6-7eea6d76ae3b/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-12T23:00:00Z",
+            "window_end": "2022-10-12T23:23:00Z",
+            "window_start": "2022-10-12T22:44:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 9",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
             "infographic": null
         },
         {
@@ -138,19 +137,44 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-15T03:25:00Z",
-            "window_end": "2022-10-15T05:25:00Z",
-            "window_start": "2022-10-15T03:25:00Z",
+            "net": "2022-10-15T03:26:00Z",
+            "window_end": "2022-10-15T05:22:00Z",
+            "window_start": "2022-10-15T03:26:00Z",
             "lsp_name": "SpaceX",
             "mission": "Hotbird 13F",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1069",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "adcb0090-6f97-40c2-821f-104b5ed3e9c7",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/adcb0090-6f97-40c2-821f-104b5ed3e9c7/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-36",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-36",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-10-20T00:00:00Z",
+            "window_end": "2022-10-20T00:00:00Z",
+            "window_start": "2022-10-20T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-36",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "B1062",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220821074548.png",
             "infographic": null
         },
         {
@@ -226,31 +250,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
-            "infographic": null
-        },
-        {
-            "id": "aa88b853-9e04-4a28-9433-d87799331b1b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa88b853-9e04-4a28-9433-d87799331b1b/",
-            "launch_library_id": 1695,
-            "slug": "falcon-heavy-ussf-44",
-            "name": "Falcon Heavy | USSF-44",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-10-28T00:00:00Z",
-            "window_end": "2022-10-28T00:00:00Z",
-            "window_start": "2022-10-28T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "USSF-44",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
-            "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": "Direct-GEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         }
     ]
