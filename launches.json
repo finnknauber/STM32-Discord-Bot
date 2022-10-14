@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "bd4426e1-3b12-426e-95b6-7eea6d76ae3b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bd4426e1-3b12-426e-95b6-7eea6d76ae3b/",
-            "launch_library_id": null,
-            "slug": "long-march-2c-5-m-s-sar-01",
-            "name": "Long March 2C | 5 m S-SAR-01",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-10-12T22:53:00Z",
-            "window_end": "2022-10-12T23:23:00Z",
-            "window_start": "2022-10-12T22:44:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "5 m S-SAR-01",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
-            "infographic": null
-        },
-        {
             "id": "8b1bc57e-5d6d-41be-aa39-51e864f885bc",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8b1bc57e-5d6d-41be-aa39-51e864f885bc/",
             "launch_library_id": null,
             "slug": "long-march-2d-yaogan-36-group-02",
-            "name": "Long March 2D | Yaogan 36 Group 02 (?)",
+            "name": "Long March 2D | Yaogan 36 Group 02",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-10-14T19:12:00Z",
             "window_end": "2022-10-14T19:22:00Z",
@@ -51,31 +26,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "a299b865-decd-4e3a-8dca-6cd96af76fe6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a299b865-decd-4e3a-8dca-6cd96af76fe6/",
-            "launch_library_id": null,
-            "slug": "angara-12-emka-3",
-            "name": "Angara 1.2 | EMKA-3",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-10-14T20:00:00Z",
-            "window_end": "2022-10-14T21:30:00Z",
-            "window_start": "2022-10-14T19:00:00Z",
-            "lsp_name": "Khrunichev State Research and Production Space Center",
-            "mission": "EMKA-3",
-            "mission_type": "Government/Top Secret",
-            "pad": "35/1",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg",
             "infographic": null
         },
         {
@@ -104,6 +54,56 @@
             "infographic": null
         },
         {
+            "id": "a299b865-decd-4e3a-8dca-6cd96af76fe6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a299b865-decd-4e3a-8dca-6cd96af76fe6/",
+            "launch_library_id": null,
+            "slug": "angara-12-emka-3",
+            "name": "Angara 1.2 | EMKA-3",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-15T20:00:00Z",
+            "window_end": "2022-10-15T21:30:00Z",
+            "window_start": "2022-10-15T19:00:00Z",
+            "lsp_name": "Khrunichev State Research and Production Space Center",
+            "mission": "EMKA-3",
+            "mission_type": "Government/Top Secret",
+            "pad": "35/1",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/angara25201.2_image_20190224012254.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ef852bc1-acb6-4300-bc16-6703047d5a4c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ef852bc1-acb6-4300-bc16-6703047d5a4c/",
+            "launch_library_id": null,
+            "slug": "soyuz-21vvolga-mka-123",
+            "name": "Soyuz 2.1v/Volga | MKA #1/2/3",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-18T20:00:00Z",
+            "window_end": "2022-10-18T21:00:00Z",
+            "window_start": "2022-10-18T19:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "MKA #1/2/3",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202-1v_image_20191122081651.jpg",
+            "infographic": null
+        },
+        {
             "id": "adcb0090-6f97-40c2-821f-104b5ed3e9c7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/adcb0090-6f97-40c2-821f-104b5ed3e9c7/",
             "launch_library_id": null,
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-20T00:00:00Z",
-            "window_end": "2022-10-20T00:00:00Z",
-            "window_start": "2022-10-20T00:00:00Z",
+            "net": "2022-10-20T14:45:00Z",
+            "window_end": "2022-10-20T14:45:00Z",
+            "window_start": "2022-10-20T14:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-36",
             "mission_type": "Communications",
@@ -126,31 +126,6 @@
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220821074548.png",
-            "infographic": null
-        },
-        {
-            "id": "76916ac0-5eab-4267-8e34-96a7e24bca8a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/76916ac0-5eab-4267-8e34-96a7e24bca8a/",
-            "launch_library_id": null,
-            "slug": "gslv-mk-iii-oneweb-14",
-            "name": "GSLV Mk III | OneWeb 14",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-10-21T18:42:00Z",
-            "window_end": "2022-10-21T18:42:00Z",
-            "window_start": "2022-10-21T18:42:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "OneWeb 14",
-            "mission_type": "Communications",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520iii_image_20190604000938.jpg",
             "infographic": null
         },
         {
@@ -176,6 +151,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
+            "infographic": null
+        },
+        {
+            "id": "76916ac0-5eab-4267-8e34-96a7e24bca8a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/76916ac0-5eab-4267-8e34-96a7e24bca8a/",
+            "launch_library_id": null,
+            "slug": "gslv-mk-iii-oneweb-14",
+            "name": "GSLV Mk III | OneWeb 14",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-10-22T18:37:00Z",
+            "window_end": "2022-10-22T18:37:00Z",
+            "window_start": "2022-10-22T18:37:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "OneWeb 14",
+            "mission_type": "Communications",
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520iii_image_20190604000938.jpg",
             "infographic": null
         },
         {
