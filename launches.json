@@ -1,5 +1,5 @@
 {
-    "count": 237,
+    "count": 235,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-20T14:45:00Z",
-            "window_end": "2022-10-20T14:45:00Z",
-            "window_start": "2022-10-20T14:45:00Z",
+            "net": "2022-10-20T14:50:00Z",
+            "window_end": "2022-10-20T14:50:00Z",
+            "window_start": "2022-10-20T14:50:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-36",
             "mission_type": "Communications",
