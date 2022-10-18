@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-10-18T20:00:00Z",
-            "window_end": "2022-10-18T21:00:00Z",
-            "window_start": "2022-10-18T19:00:00Z",
+            "net": "2022-10-19T20:00:00Z",
+            "window_end": "2022-10-19T21:00:00Z",
+            "window_start": "2022-10-19T19:00:00Z",
             "lsp_name": "Russian Space Forces",
             "mission": "MKA #1/2/3",
             "mission_type": "Government/Top Secret",
@@ -54,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "082ee822-2ec2-4329-a6dc-8d319e0c6dd5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/082ee822-2ec2-4329-a6dc-8d319e0c6dd5/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-gonets-m33-gonets-m34-gonets-m35",
-            "name": "Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & others",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-10-21T23:06:00Z",
-            "window_end": "2022-10-21T23:06:00Z",
-            "window_start": "2022-10-21T23:06:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Gonets-M33, Gonets-M34, Gonets-M35",
-            "mission_type": "Communications",
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
-        },
-        {
             "id": "76916ac0-5eab-4267-8e34-96a7e24bca8a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/76916ac0-5eab-4267-8e34-96a7e24bca8a/",
             "launch_library_id": null,
@@ -104,28 +79,28 @@
             "infographic": null
         },
         {
-            "id": "bf91b6d9-f517-4198-843c-dc82dfa6f9b0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bf91b6d9-f517-4198-843c-dc82dfa6f9b0/",
+            "id": "082ee822-2ec2-4329-a6dc-8d319e0c6dd5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/082ee822-2ec2-4329-a6dc-8d319e0c6dd5/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-37",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-37",
+            "slug": "soyuz-21bfregat-m-gonets-m33-gonets-m34-gonets-m35",
+            "name": "Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & others",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-10-26T00:00:00Z",
-            "window_end": "2022-10-26T00:00:00Z",
-            "window_start": "2022-10-26T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-37",
+            "net": "2022-10-22T19:57:00Z",
+            "window_end": "2022-10-22T19:57:00Z",
+            "window_start": "2022-10-22T19:57:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Gonets-M33, Gonets-M34, Gonets-M35",
             "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "pad": "Cosmodrome Site 1S",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221001060437.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
             "infographic": null
         },
         {
@@ -135,12 +110,12 @@
             "slug": "soyuz-21a-progress-ms-21-82p",
             "name": "Soyuz 2.1a | Progress MS-21 (82P)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-10-26T00:19:00Z",
-            "window_end": "2022-10-26T00:19:00Z",
-            "window_start": "2022-10-26T00:19:00Z",
+            "net": "2022-10-26T00:20:00Z",
+            "window_end": "2022-10-26T00:20:00Z",
+            "window_start": "2022-10-26T00:20:00Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-21 (82P)",
             "mission_type": "Resupply",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220929203708.png",
+            "infographic": null
+        },
+        {
+            "id": "6ec66610-b96c-4e3d-86f2-207068789781",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6ec66610-b96c-4e3d-86f2-207068789781/",
+            "launch_library_id": 1824,
+            "slug": "pslv-eos-6-oceansat-3",
+            "name": "PSLV | EOS-6 (Oceansat-3)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-10-31T00:00:00Z",
+            "window_end": "2022-10-31T00:00:00Z",
+            "window_start": "2022-10-31T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "Oceansat-3",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Sriharikota, Republic of India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190508083736.jpeg",
             "infographic": null
         }
     ]
