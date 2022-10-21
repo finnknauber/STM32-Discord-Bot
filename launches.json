@@ -1,33 +1,8 @@
 {
-    "count": 236,
+    "count": 235,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "adcb0090-6f97-40c2-821f-104b5ed3e9c7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/adcb0090-6f97-40c2-821f-104b5ed3e9c7/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-36",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-36",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-10-20T14:50:00Z",
-            "window_end": "2022-10-20T14:50:00Z",
-            "window_start": "2022-10-20T14:50:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-36",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1062",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220821074548.png",
-            "infographic": null
-        },
         {
             "id": "ef852bc1-acb6-4300-bc16-6703047d5a4c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ef852bc1-acb6-4300-bc16-6703047d5a4c/",
@@ -35,10 +10,10 @@
             "slug": "soyuz-21vvolga-mka-123",
             "name": "Soyuz 2.1v/Volga | MKA #1/2/3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2022-10-21T20:00:00Z",
+            "net": "2022-10-21T19:20:15Z",
             "window_end": "2022-10-21T21:00:00Z",
             "window_start": "2022-10-21T19:00:00Z",
             "lsp_name": "Russian Space Forces",
@@ -129,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "4d3bde71-3ead-4236-af5b-eccfa7549f4f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4d3bde71-3ead-4236-af5b-eccfa7549f4f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-4-31",
+            "name": "Falcon 9 Block 5 | Starlink Group 4-31",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-10-28T02:10:00Z",
+            "window_end": "2022-10-28T02:10:00Z",
+            "window_start": "2022-10-28T02:10:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 4-31",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220929203708.png",
+            "infographic": null
+        },
+        {
             "id": "b0fbc1b8-f822-4345-95af-85782e2669d3",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b0fbc1b8-f822-4345-95af-85782e2669d3/",
             "launch_library_id": null,
@@ -151,31 +151,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "4d3bde71-3ead-4236-af5b-eccfa7549f4f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4d3bde71-3ead-4236-af5b-eccfa7549f4f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-31",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-31",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-10-31T00:00:00Z",
-            "window_end": "2022-10-31T00:00:00Z",
-            "window_start": "2022-10-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-31",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220929203708.png",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_5b_image_20210428182650.JPG",
+            "infographic": null
+        },
+        {
+            "id": "aa88b853-9e04-4a28-9433-d87799331b1b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa88b853-9e04-4a28-9433-d87799331b1b/",
+            "launch_library_id": 1695,
+            "slug": "falcon-heavy-ussf-44",
+            "name": "Falcon Heavy | USSF-44",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-10-31T15:00:00Z",
+            "window_end": "2022-10-31T15:00:00Z",
+            "window_start": "2022-10-31T15:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "USSF-44",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
+            "landing_success": 0,
+            "launcher": "MX Launchers",
+            "orbit": "Direct-GEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         }
     ]
