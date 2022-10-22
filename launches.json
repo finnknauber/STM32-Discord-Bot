@@ -1,33 +1,8 @@
 {
-    "count": 235,
+    "count": 234,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ef852bc1-acb6-4300-bc16-6703047d5a4c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ef852bc1-acb6-4300-bc16-6703047d5a4c/",
-            "launch_library_id": null,
-            "slug": "soyuz-21vvolga-mka-123",
-            "name": "Soyuz 2.1v/Volga | MKA #1/2/3",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2022-10-21T19:20:15Z",
-            "window_end": "2022-10-21T21:00:00Z",
-            "window_start": "2022-10-21T19:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "MKA #1/2/3",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202-1v_image_20191122081651.jpg",
-            "infographic": null
-        },
         {
             "id": "76916ac0-5eab-4267-8e34-96a7e24bca8a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/76916ac0-5eab-4267-8e34-96a7e24bca8a/",
@@ -35,12 +10,12 @@
             "slug": "gslv-mk-iii-oneweb-14",
             "name": "GSLV Mk III | OneWeb 14",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-10-22T18:37:00Z",
-            "window_end": "2022-10-22T18:37:00Z",
-            "window_start": "2022-10-22T18:37:00Z",
+            "net": "2022-10-22T18:37:40Z",
+            "window_end": "2022-10-22T18:37:40Z",
+            "window_start": "2022-10-22T18:37:40Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "OneWeb 14",
             "mission_type": "Communications",
@@ -60,8 +35,8 @@
             "slug": "soyuz-21bfregat-m-gonets-m33-gonets-m34-gonets-m35",
             "name": "Soyuz 2.1b/Fregat-M | Gonets-M33, Gonets-M34, Gonets-M35 & Skif-D",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2022-10-22T19:57:00Z",
             "window_end": "2022-10-22T19:57:00Z",
@@ -113,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-28T02:10:00Z",
-            "window_end": "2022-10-28T02:10:00Z",
-            "window_start": "2022-10-28T02:10:00Z",
+            "net": "2022-10-27T01:00:00Z",
+            "window_end": "2022-10-27T01:00:00Z",
+            "window_start": "2022-10-27T01:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-31",
             "mission_type": "Communications",
@@ -213,7 +188,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-31T09:00:00Z",
+            "net": "2022-10-31T07:30:00Z",
             "window_end": "2022-10-31T12:00:00Z",
             "window_start": "2022-10-31T06:00:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -238,9 +213,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-31T15:00:00Z",
-            "window_end": "2022-10-31T15:00:00Z",
-            "window_start": "2022-10-31T15:00:00Z",
+            "net": "2022-10-31T13:44:00Z",
+            "window_end": "2022-10-31T13:44:00Z",
+            "window_start": "2022-10-31T13:44:00Z",
             "lsp_name": "SpaceX",
             "mission": "USSF-44",
             "mission_type": "Government/Top Secret",
@@ -251,6 +226,31 @@
             "launcher": "MX Launchers",
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "060fc260-01bd-41ec-a0be-ce2223fbbc76",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/060fc260-01bd-41ec-a0be-ce2223fbbc76/",
+            "launch_library_id": 1285,
+            "slug": "atlas-v-401-jpss-2-joint-polar-satellite-system-sp",
+            "name": "Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-11-01T09:25:00Z",
+            "window_end": "2022-11-01T09:25:00Z",
+            "window_start": "2022-11-01T09:25:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "JPSS 2 (Joint Polar Satellite System spacecraft No. 2)",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 3E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_401_image_20211015133735.jpeg",
             "infographic": null
         }
     ]
