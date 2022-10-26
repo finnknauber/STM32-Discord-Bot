@@ -10,8 +10,8 @@
             "slug": "soyuz-21a-progress-ms-21-82p",
             "name": "Soyuz 2.1a | Progress MS-21 (82P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-10-26T00:20:09Z",
             "window_end": "2022-10-26T00:20:09Z",
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-10-28T00:35:00Z",
-            "window_end": "2022-10-28T00:35:00Z",
-            "window_start": "2022-10-28T00:35:00Z",
+            "net": "2022-10-28T01:14:10Z",
+            "window_end": "2022-10-28T01:14:10Z",
+            "window_start": "2022-10-28T01:14:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-31",
             "mission_type": "Communications",
@@ -188,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-11-03T00:00:00Z",
-            "window_end": "2022-11-03T00:00:00Z",
-            "window_start": "2022-11-03T00:00:00Z",
+            "net": "2022-11-03T03:25:00Z",
+            "window_end": "2022-11-03T03:25:00Z",
+            "window_start": "2022-11-03T03:25:00Z",
             "lsp_name": "SpaceX",
             "mission": "Hotbird 13G",
             "mission_type": "Communications",
