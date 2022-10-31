@@ -10,10 +10,10 @@
             "slug": "long-march-5b-mengtian",
             "name": "Long March 5B | Mengtian",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-10-31T07:35:00Z",
+            "net": "2022-10-31T07:37:23Z",
             "window_end": "2022-10-31T07:45:00Z",
             "window_start": "2022-10-31T07:25:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
