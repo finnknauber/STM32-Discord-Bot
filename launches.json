@@ -1,33 +1,8 @@
 {
-    "count": 232,
+    "count": 231,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "72e56883-ab3e-4f2f-a869-5793e4d35cca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/72e56883-ab3e-4f2f-a869-5793e4d35cca/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-eks-6-tundra-6-kosmos-2563",
-            "name": "Soyuz 2.1b/Fregat | EKS 6 (Tundra 6) (Kosmos 2563)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-02T06:48:00Z",
-            "window_end": "2022-11-02T09:00:00Z",
-            "window_start": "2022-11-02T06:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Kosmos 2563 (EKS 6/Tundra 6)",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Elliptical",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165608.png",
-            "infographic": null
-        },
         {
             "id": "baf2eb66-6cfc-48bb-9ced-85c40218abf1",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/baf2eb66-6cfc-48bb-9ced-85c40218abf1/",
@@ -35,10 +10,10 @@
             "slug": "falcon-9-block-5-hotbird-13g",
             "name": "Falcon 9 Block 5 | Hotbird 13G",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-11-03T03:26:00Z",
+            "net": "2022-11-03T05:22:00Z",
             "window_end": "2022-11-03T05:22:00Z",
             "window_start": "2022-11-03T03:26:00Z",
             "lsp_name": "SpaceX",
@@ -47,8 +22,8 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1067",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-11-08T00:00:00Z",
-            "window_end": "2022-11-08T00:00:00Z",
-            "window_start": "2022-11-08T00:00:00Z",
+            "net": "2022-11-08T16:06:00Z",
+            "window_end": "2022-11-08T18:06:00Z",
+            "window_start": "2022-11-08T16:06:00Z",
             "lsp_name": "SpaceX",
             "mission": "Galaxy 31 & 32",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "8b360e14-f90d-4a34-9a81-cb5a5ac364c1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8b360e14-f90d-4a34-9a81-cb5a5ac364c1/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-26",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-26",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-18T22:27:00Z",
+            "window_end": "2022-11-18T22:27:00Z",
+            "window_start": "2022-11-18T22:27:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-26",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155149.jpeg",
             "infographic": null
         }
     ]
