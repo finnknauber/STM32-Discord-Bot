@@ -1,5 +1,5 @@
 {
-    "count": 228,
+    "count": 229,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "antares-230-cygnus-crs-2-ng-18-ss-sally-ride",
             "name": "Antares 230+ | Cygnus CRS-2 NG-18 (S.S. Sally Ride)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-11-07T10:27:00Z",
-            "window_end": "2022-11-07T10:27:00Z",
-            "window_start": "2022-11-07T10:27:00Z",
+            "net": "2022-11-07T10:32:42Z",
+            "window_end": "2022-11-07T10:32:42Z",
+            "window_start": "2022-11-07T10:27:42Z",
             "lsp_name": "Northrop Grumman Space Systems",
             "mission": "Cygnus CRS-2 NG-18 (S.S. Sally Ride)",
             "mission_type": "Resupply",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "409f94d5-f3ef-4e33-b639-5c8e66a506fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/409f94d5-f3ef-4e33-b639-5c8e66a506fc/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-galaxy-31-32",
-            "name": "Falcon 9 Block 5 | Galaxy 31 & 32",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-11-08T16:06:00Z",
-            "window_end": "2022-11-08T18:06:00Z",
-            "window_start": "2022-11-08T16:06:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Galaxy 31 & 32",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ATL",
-            "landing_success": 0,
-            "launcher": "B1051",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -101,6 +76,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_7_image_20210513083007.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "409f94d5-f3ef-4e33-b639-5c8e66a506fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/409f94d5-f3ef-4e33-b639-5c8e66a506fc/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-galaxy-31-32",
+            "name": "Falcon 9 Block 5 | Galaxy 31 & 32",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-12T16:06:00Z",
+            "window_end": "2022-11-12T18:06:00Z",
+            "window_start": "2022-11-12T16:06:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Galaxy 31 & 32",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "ATL",
+            "landing_success": 0,
+            "launcher": "B1051",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -163,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-11-18T22:27:00Z",
-            "window_end": "2022-11-18T22:27:00Z",
-            "window_start": "2022-11-18T22:27:00Z",
+            "net": "2022-11-18T22:27:10Z",
+            "window_end": "2022-11-18T22:27:10Z",
+            "window_start": "2022-11-18T22:27:10Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-26",
             "mission_type": "Resupply",
