@@ -1,33 +1,8 @@
 {
-    "count": 233,
+    "count": 232,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "060fc260-01bd-41ec-a0be-ce2223fbbc76",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/060fc260-01bd-41ec-a0be-ce2223fbbc76/",
-            "launch_library_id": 1285,
-            "slug": "atlas-v-401-jpss-2-joint-polar-satellite-system-sp",
-            "name": "Atlas V 401 | JPSS 2 (Joint Polar Satellite System spacecraft No. 2) & LOFTID",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-10T09:49:00Z",
-            "window_end": "2022-11-10T10:01:00Z",
-            "window_start": "2022-11-10T09:25:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "JPSS 2 (Joint Polar Satellite System spacecraft No. 2) & LOFTID",
-            "mission_type": "Earth Science",
-            "pad": "Space Launch Complex 3E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas_v_401_image_20211015133735.jpeg",
-            "infographic": null
-        },
         {
             "id": "bcd92b7a-f164-4415-824e-d64547676e3f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/bcd92b7a-f164-4415-824e-d64547676e3f/",
@@ -84,8 +59,8 @@
             "slug": "falcon-9-block-5-galaxy-31-32",
             "name": "Falcon 9 Block 5 | Galaxy 31 & 32",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-11-12T16:06:00Z",
             "window_end": "2022-11-12T18:06:00Z",
@@ -100,31 +75,6 @@
             "launcher": "B1051",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-11-14T22:00:00Z",
-            "window_end": "2022-11-15T01:30:00Z",
-            "window_start": "2022-11-14T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -150,6 +100,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-15T22:00:00Z",
+            "window_end": "2022-11-16T01:30:00Z",
+            "window_start": "2022-11-15T22:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -203,6 +178,31 @@
             "infographic": null
         },
         {
+            "id": "050eecbc-ebfc-4656-9fee-1dbc5e5c59a4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/050eecbc-ebfc-4656-9fee-1dbc5e5c59a4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-4",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-17T03:22:00Z",
+            "window_end": "2022-11-17T03:22:00Z",
+            "window_start": "2022-11-17T03:22:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-4",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "d39b1374-21d3-467a-967d-f22a2cc199e3",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d39b1374-21d3-467a-967d-f22a2cc199e3/",
             "launch_library_id": null,
@@ -237,9 +237,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-11-21T00:00:00Z",
-            "window_end": "2022-11-21T00:00:00Z",
-            "window_start": "2022-11-21T00:00:00Z",
+            "net": "2022-11-21T21:15:00Z",
+            "window_end": "2022-11-21T21:15:00Z",
+            "window_start": "2022-11-21T21:15:00Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-26",
             "mission_type": "Resupply",
