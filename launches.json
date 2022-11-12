@@ -1,32 +1,8 @@
 {
-    "count": 232,
+    "count": 231,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "bcd92b7a-f164-4415-824e-d64547676e3f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bcd92b7a-f164-4415-824e-d64547676e3f/",
-            "launch_library_id": null,
-            "slug": "long-march-6a-unknown-payload",
-            "name": "Long March 6A | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-11-11T23:00:00Z",
-            "window_end": "2022-11-11T23:59:00Z",
-            "window_start": "2022-11-11T22:15:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Launch Complex 9A",
-            "location": "Taiyuan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6a_image_20221109174525.png",
-            "infographic": null
-        },
         {
             "id": "f9214b4b-c4a1-4824-8746-0c80b85c124c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f9214b4b-c4a1-4824-8746-0c80b85c124c/",
@@ -34,10 +10,10 @@
             "slug": "long-march-7-tianzhou-5",
             "name": "Long March 7  | Tianzhou-5",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-11-12T02:00:00Z",
+            "net": "2022-11-12T02:03:12Z",
             "window_end": "2022-11-12T02:08:00Z",
             "window_start": "2022-11-12T01:53:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -59,8 +35,8 @@
             "slug": "falcon-9-block-5-galaxy-31-32",
             "name": "Falcon 9 Block 5 | Galaxy 31 & 32",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-11-12T16:06:00Z",
             "window_end": "2022-11-12T18:06:00Z",
@@ -75,6 +51,31 @@
             "launcher": "B1051",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-14T22:00:00Z",
+            "window_end": "2022-11-15T01:30:00Z",
+            "window_start": "2022-11-14T22:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -100,31 +101,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-11-15T22:00:00Z",
-            "window_end": "2022-11-16T01:30:00Z",
-            "window_start": "2022-11-15T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -212,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-11-17T23:33:00Z",
-            "window_end": "2022-11-17T23:33:00Z",
-            "window_start": "2022-11-17T23:33:00Z",
+            "net": "2022-11-20T23:33:00Z",
+            "window_end": "2022-11-20T23:33:00Z",
+            "window_start": "2022-11-20T23:33:00Z",
             "lsp_name": "SpaceX",
             "mission": "Eutelsat 10B",
             "mission_type": "Communications",
@@ -250,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155149.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "9009b780-e843-4f35-accf-8f65e619d40f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9009b780-e843-4f35-accf-8f65e619d40f/",
+            "launch_library_id": null,
+            "slug": "vega-c-pleiades-neo-5-6",
+            "name": "Vega-C | Pl\u00e9iades Neo 5 & 6",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-11-25T01:47:00Z",
+            "window_end": "2022-11-25T01:47:00Z",
+            "window_start": "2022-11-25T01:47:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "Pl\u00e9iades Neo 5 & 6",
+            "mission_type": "Government/Top Secret",
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg",
             "infographic": null
         }
     ]
