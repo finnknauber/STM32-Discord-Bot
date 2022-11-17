@@ -1,58 +1,8 @@
 {
-    "count": 228,
+    "count": 227,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "c938b990-9ff5-4b3b-8a09-c9c269e1f7e4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c938b990-9ff5-4b3b-8a09-c9c269e1f7e4/",
-            "launch_library_id": null,
-            "slug": "ceres-1-jilin-1-high-resolution-03d-08-51-to-54",
-            "name": "Ceres-1 | Jilin-1 High Resolution 03D-08, 51 to 54",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-16T06:20:00Z",
-            "window_end": "2022-11-16T06:58:00Z",
-            "window_start": "2022-11-16T06:11:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Jilin-1 High Resolution 03D-08, 51 to 54",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "65896761-b6ca-4df3-9699-e077a360c52a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/65896761-b6ca-4df3-9699-e077a360c52a/",
-            "launch_library_id": 1138,
-            "slug": "sls-block-1-artemis-i",
-            "name": "SLS Block 1 | Artemis I",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-16T06:47:44Z",
-            "window_end": "2022-11-16T08:04:00Z",
-            "window_start": "2022-11-16T06:04:00Z",
-            "lsp_name": "National Aeronautics and Space Administration",
-            "mission": "Artemis I",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Complex 39B",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/space_launch_sy_image_20220331082429.jpeg",
-            "infographic": null
-        },
         {
             "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
@@ -63,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-11-17T22:00:00Z",
+            "net": "2022-11-17T22:55:00Z",
             "window_end": "2022-11-18T01:00:00Z",
             "window_start": "2022-11-17T22:00:00Z",
             "lsp_name": "ABL Space Systems",
@@ -85,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-2-4",
             "name": "Falcon 9 Block 5 | Starlink Group 2-4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-11-18T04:39:00Z",
-            "window_end": "2022-11-18T04:39:00Z",
-            "window_start": "2022-11-18T04:39:00Z",
+            "net": "2022-11-19T04:25:00Z",
+            "window_end": "2022-11-19T04:25:00Z",
+            "window_start": "2022-11-19T04:25:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 2-4",
             "mission_type": "Communications",
@@ -210,12 +160,12 @@
             "slug": "falcon-9-block-5-hakuto-r-m1-lunar-flashlight",
             "name": "Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-11-27T09:17:00Z",
-            "window_end": "2022-11-27T09:17:00Z",
-            "window_start": "2022-11-27T09:17:00Z",
+            "net": "2022-11-28T08:46:00Z",
+            "window_end": "2022-11-28T08:46:00Z",
+            "window_start": "2022-11-28T08:46:00Z",
             "lsp_name": "SpaceX",
             "mission": "Hakuto-R M1 & Lunar Flashlight",
             "mission_type": "Lunar Exploration",
@@ -251,6 +201,56 @@
             "launcher": "Unknown F9",
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220322195146.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1ad83a7d-1977-4075-a1e7-3a443da14f72",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1ad83a7d-1977-4075-a1e7-3a443da14f72/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-15",
+            "name": "Long March 2F/G | Shenzhou 15",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-30T00:00:00Z",
+            "window_end": "2022-11-30T00:00:00Z",
+            "window_start": "2022-11-30T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 15",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "25d652f7-7e20-42d5-967e-b8e01305746c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/25d652f7-7e20-42d5-967e-b8e01305746c/",
+            "launch_library_id": 1685,
+            "slug": "terran-1-maiden-flight",
+            "name": "Terran 1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-11-30T00:00:00Z",
+            "window_end": "2022-11-30T00:00:00Z",
+            "window_start": "2022-11-30T00:00:00Z",
+            "lsp_name": "Relativity Space",
+            "mission": "Good Luck, Have Fun",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 16",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg",
             "infographic": null
         }
     ]
