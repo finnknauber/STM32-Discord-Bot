@@ -1,69 +1,19 @@
 {
-    "count": 239,
+    "count": 237,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "6ec66610-b96c-4e3d-86f2-207068789781",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6ec66610-b96c-4e3d-86f2-207068789781/",
-            "launch_library_id": 1824,
-            "slug": "pslv-xl-eos-6-oceansat-3-rideshare",
-            "name": "PSLV-XL | EOS-6 (Oceansat-3) & rideshare",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-26T06:26:00Z",
-            "window_end": "2022-11-26T10:00:00Z",
-            "window_start": "2022-11-26T06:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "EOS-6 (Oceansat-3) & rideshare",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "8b360e14-f90d-4a34-9a81-cb5a5ac364c1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8b360e14-f90d-4a34-9a81-cb5a5ac364c1/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-26",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-26",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-26T19:20:43Z",
-            "window_end": "2022-11-26T19:20:43Z",
-            "window_start": "2022-11-26T19:20:43Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-26",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1076",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155149.jpeg",
-            "infographic": null
-        },
         {
             "id": "18c92c9d-aed9-4b41-9594-5e16fd1daf81",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/18c92c9d-aed9-4b41-9594-5e16fd1daf81/",
             "launch_library_id": null,
             "slug": "long-march-2d-yaogan-36-group-03",
-            "name": "Long March 2D | Yaogan 36 Group 03 (?)",
+            "name": "Long March 2D | Yaogan 36 Group 03",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-11-27T12:20:00Z",
+            "net": "2022-11-27T12:23:00Z",
             "window_end": "2022-11-27T12:35:00Z",
             "window_start": "2022-11-27T12:10:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -88,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2022-11-27T15:30:00Z",
-            "window_end": "2022-11-27T17:30:00Z",
-            "window_start": "2022-11-27T15:00:00Z",
+            "net": "2022-11-28T15:30:00Z",
+            "window_end": "2022-11-28T17:30:00Z",
+            "window_start": "2022-11-28T15:00:00Z",
             "lsp_name": "Russian Space Forces",
             "mission": "Glonass-M No. 61",
             "mission_type": "Navigation",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20200905210848.jpg",
+            "infographic": null
+        },
+        {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-07T22:00:00Z",
+            "window_end": "2022-12-08T01:30:00Z",
+            "window_start": "2022-12-07T22:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
+            "launch_library_id": null,
+            "slug": "electron-virginia-is-for-launch-lovers",
+            "name": "Electron | Virginia is for Launch Lovers",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-12-07T23:00:00Z",
+            "window_end": "2022-12-08T01:00:00Z",
+            "window_start": "2022-12-07T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Virginia is for Launch Lovers",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
