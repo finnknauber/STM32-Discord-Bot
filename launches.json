@@ -1,33 +1,8 @@
 {
-    "count": 236,
+    "count": 240,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "58ba48e0-641b-49f5-b930-10e4de71147a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/58ba48e0-641b-49f5-b930-10e4de71147a/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-glonass-m-no-61-kosmos-2564",
-            "name": "Soyuz 2.1b/Fregat-M | Glonass-M No. 61 (Kosmos 2564)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-11-28T15:17:00Z",
-            "window_end": "2022-11-28T17:30:00Z",
-            "window_start": "2022-11-28T15:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Glonass-M No. 61 (Kosmos 2564)",
-            "mission_type": "Navigation",
-            "pad": "43/3 (43L)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
-        },
         {
             "id": "1ad83a7d-1977-4075-a1e7-3a443da14f72",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1ad83a7d-1977-4075-a1e7-3a443da14f72/",
@@ -35,10 +10,10 @@
             "slug": "long-march-2fg-shenzhou-15",
             "name": "Long March 2F/G | Shenzhou 15",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-11-29T15:08:00Z",
+            "net": "2022-11-29T15:08:17Z",
             "window_end": "2022-11-29T15:39:00Z",
             "window_start": "2022-11-29T14:58:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -179,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8226d219-b612-4797-a9d2-c5ca7ab0b076/",
-            "launch_library_id": 1242,
-            "slug": "falcon-9-block-5-swot-surface-water-and-ocean-topo",
-            "name": "Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-12-12T11:46:01Z",
-            "window_end": "2022-12-12T11:46:01Z",
-            "window_start": "2022-12-12T11:46:01Z",
-            "lsp_name": "SpaceX",
-            "mission": "SWOT - Surface Water and Ocean Topography",
-            "mission_type": "Earth Science",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
             "id": "450e6a91-8f22-45dc-a4ee-acfac0702cdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/450e6a91-8f22-45dc-a4ee-acfac0702cdf/",
             "launch_library_id": null,
@@ -213,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-12-13T00:00:00Z",
-            "window_end": "2022-12-13T00:00:00Z",
-            "window_start": "2022-12-13T00:00:00Z",
+            "net": "2022-12-13T20:30:00Z",
+            "window_end": "2022-12-13T20:30:00Z",
+            "window_start": "2022-12-13T20:30:00Z",
             "lsp_name": "Arianespace",
             "mission": "Galaxy 35 & 36, MTG-I1",
             "mission_type": "Earth Science",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8226d219-b612-4797-a9d2-c5ca7ab0b076/",
+            "launch_library_id": 1242,
+            "slug": "falcon-9-block-5-swot-surface-water-and-ocean-topo",
+            "name": "Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-15T11:46:01Z",
+            "window_end": "2022-12-15T11:46:01Z",
+            "window_start": "2022-12-15T11:46:01Z",
+            "lsp_name": "SpaceX",
+            "mission": "SWOT - Surface Water and Ocean Topography",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "9009b780-e843-4f35-accf-8f65e619d40f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9009b780-e843-4f35-accf-8f65e619d40f/",
+            "launch_library_id": null,
+            "slug": "vega-c-pleiades-neo-5-6",
+            "name": "Vega-C | Pl\u00e9iades Neo 5 & 6",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-20T00:00:00Z",
+            "window_end": "2022-12-20T00:00:00Z",
+            "window_start": "2022-12-20T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "Pl\u00e9iades Neo 5 & 6",
+            "mission_type": "Government/Top Secret",
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg",
             "infographic": null
         }
     ]
