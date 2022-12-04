@@ -46,7 +46,7 @@
             "mission_type": "Lunar Exploration",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-1",
+            "landing": "LZ-2",
             "landing_success": 0,
             "launcher": "B1073",
             "orbit": "LO",
