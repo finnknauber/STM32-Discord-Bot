@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "03d55128-630b-4630-b3b1-2d9bf34946a8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/03d55128-630b-4630-b3b1-2d9bf34946a8/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-oneweb-15",
-            "name": "Falcon 9 Block 5 | OneWeb 15",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-12-06T22:37:00Z",
-            "window_end": "2022-12-06T22:37:00Z",
-            "window_start": "2022-12-06T22:37:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "OneWeb 15",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220322195146.jpeg",
-            "infographic": null
-        },
-        {
             "id": "2306e0bc-e1a3-4a4a-9285-e1a94073655e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2306e0bc-e1a3-4a4a-9285-e1a94073655e/",
             "launch_library_id": 1949,
@@ -46,7 +21,7 @@
             "mission_type": "Lunar Exploration",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-2",
+            "landing": "LZ-1",
             "landing_success": 0,
             "launcher": "B1073",
             "orbit": "LO",
@@ -79,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "03d55128-630b-4630-b3b1-2d9bf34946a8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/03d55128-630b-4630-b3b1-2d9bf34946a8/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-oneweb-15",
+            "name": "Falcon 9 Block 5 | OneWeb 15",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-07T22:32:00Z",
+            "window_end": "2022-12-07T22:32:00Z",
+            "window_start": "2022-12-07T22:32:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "OneWeb 15",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1069",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220322195146.jpeg",
+            "infographic": null
+        },
+        {
             "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
             "launch_library_id": null,
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "7105c4f4-7427-4f9a-a959-a8ecedd6062b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7105c4f4-7427-4f9a-a959-a8ecedd6062b/",
-            "launch_library_id": 1987,
-            "slug": "falcon-9-block-5-o3b-mpower-1-2",
-            "name": "Falcon 9 Block 5 | O3b mPower 1 & 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-12-13T20:00:00Z",
-            "window_end": "2022-12-13T20:00:00Z",
-            "window_start": "2022-12-13T20:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 1 & 2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
             "id": "450e6a91-8f22-45dc-a4ee-acfac0702cdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/450e6a91-8f22-45dc-a4ee-acfac0702cdf/",
             "launch_library_id": null,
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "7105c4f4-7427-4f9a-a959-a8ecedd6062b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7105c4f4-7427-4f9a-a959-a8ecedd6062b/",
+            "launch_library_id": 1987,
+            "slug": "falcon-9-block-5-o3b-mpower-1-2",
+            "name": "Falcon 9 Block 5 | O3b mPower 1 & 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-13T21:20:00Z",
+            "window_end": "2022-12-13T21:20:00Z",
+            "window_start": "2022-12-13T21:20:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "O3b mPower 1 & 2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
