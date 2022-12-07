@@ -7,49 +7,25 @@
             "id": "747a2374-24ec-4466-a524-30dfa3d21483",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/747a2374-24ec-4466-a524-30dfa3d21483/",
             "launch_library_id": null,
-            "slug": "kuaizhou-11-unknown-payload",
-            "name": "Kuaizhou 11 | Unknown Payload",
+            "slug": "kuaizhou-11-xingyun-vdes",
+            "name": "Kuaizhou 11 | Xingyun VDES",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-12-07T01:20:00Z",
+            "net": "2022-12-07T01:15:00Z",
             "window_end": "2022-12-07T01:36:00Z",
             "window_start": "2022-12-07T01:04:00Z",
             "lsp_name": "ExPace",
-            "mission": null,
+            "mission": "Xingyun VDES",
+            "mission_type": "Communications",
             "pad": "Unknown Pad",
             "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou-11_image_20190726062549.jpg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-12-07T22:00:00Z",
-            "window_end": "2022-12-08T01:30:00Z",
-            "window_start": "2022-12-07T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -103,31 +79,6 @@
             "infographic": null
         },
         {
-            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
-            "launch_library_id": null,
-            "slug": "electron-virginia-is-for-launch-lovers",
-            "name": "Electron | Virginia is for Launch Lovers",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-12-09T23:00:00Z",
-            "window_end": "2022-12-10T01:00:00Z",
-            "window_start": "2022-12-09T23:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Virginia is for Launch Lovers",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "86ea974e-6464-4960-85df-11af88852d57",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/86ea974e-6464-4960-85df-11af88852d57/",
             "launch_library_id": 1959,
@@ -177,14 +128,39 @@
             "infographic": null
         },
         {
+            "id": "2306e0bc-e1a3-4a4a-9285-e1a94073655e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2306e0bc-e1a3-4a4a-9285-e1a94073655e/",
+            "launch_library_id": 1949,
+            "slug": "falcon-9-block-5-hakuto-r-m1-lunar-flashlight",
+            "name": "Falcon 9 Block 5 | Hakuto-R M1 & Lunar Flashlight",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-12-11T07:38:00Z",
+            "window_end": "2022-12-11T07:38:00Z",
+            "window_start": "2022-12-11T07:38:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Hakuto-R M1 & Lunar Flashlight",
+            "mission_type": "Lunar Exploration",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1073",
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
             "id": "450e6a91-8f22-45dc-a4ee-acfac0702cdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/450e6a91-8f22-45dc-a4ee-acfac0702cdf/",
             "launch_library_id": null,
             "slug": "ariane-5-eca-galaxy-35-36-mtg-i1",
             "name": "Ariane 5 ECA+ | Galaxy 35 & 36, MTG-I1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2022-12-13T20:30:00Z",
             "window_end": "2022-12-13T20:30:00Z",
@@ -202,28 +178,28 @@
             "infographic": null
         },
         {
-            "id": "7105c4f4-7427-4f9a-a959-a8ecedd6062b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7105c4f4-7427-4f9a-a959-a8ecedd6062b/",
-            "launch_library_id": 1987,
-            "slug": "falcon-9-block-5-o3b-mpower-1-2",
-            "name": "Falcon 9 Block 5 | O3b mPower 1 & 2",
+            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
+            "launch_library_id": null,
+            "slug": "electron-virginia-is-for-launch-lovers",
+            "name": "Electron | Virginia is for Launch Lovers",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2022-12-13T21:20:00Z",
-            "window_end": "2022-12-13T21:20:00Z",
-            "window_start": "2022-12-13T21:20:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 1 & 2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
+            "net": "2022-12-13T23:00:00Z",
+            "window_end": "2022-12-14T01:00:00Z",
+            "window_start": "2022-12-13T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Virginia is for Launch Lovers",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Island, Virginia, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -249,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8226d219-b612-4797-a9d2-c5ca7ab0b076/",
+            "launch_library_id": 1242,
+            "slug": "falcon-9-block-5-swot-surface-water-and-ocean-topo",
+            "name": "Falcon 9 Block 5 | SWOT - Surface Water and Ocean Topography",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-12-15T11:46:40Z",
+            "window_end": "2022-12-15T11:46:40Z",
+            "window_start": "2022-12-15T11:46:40Z",
+            "lsp_name": "SpaceX",
+            "mission": "SWOT - Surface Water and Ocean Topography",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
