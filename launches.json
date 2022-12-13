@@ -1,33 +1,8 @@
 {
-    "count": 243,
+    "count": 242,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "93f4bcaf-3a7e-4a60-bdee-3c9926fca412",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/93f4bcaf-3a7e-4a60-bdee-3c9926fca412/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-shiyan-20a-20b",
-            "name": "Long March 4C | Shiyan 20A & 20B",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-12-12T08:22:00Z",
-            "window_end": "2022-12-12T08:43:00Z",
-            "window_start": "2022-12-12T08:14:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Shiyan 20A & 20B",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
-            "infographic": null
-        },
         {
             "id": "450e6a91-8f22-45dc-a4ee-acfac0702cdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/450e6a91-8f22-45dc-a4ee-acfac0702cdf/",
@@ -35,8 +10,8 @@
             "slug": "ariane-5-eca-galaxy-35-36-mtg-i1",
             "name": "Ariane 5 ECA+ | Galaxy 35 & 36, MTG-I1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-12-13T20:30:00Z",
             "window_end": "2022-12-13T22:16:00Z",
@@ -213,7 +188,7 @@
                 "name": "TBD"
             },
             "net": "2022-12-16T21:21:00Z",
-            "window_end": "2022-12-16T21:21:00Z",
+            "window_end": "2022-12-16T22:49:00Z",
             "window_start": "2022-12-16T21:21:00Z",
             "lsp_name": "SpaceX",
             "mission": "O3b mPower 1 & 2",
@@ -222,7 +197,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": null,
             "landing_success": null,
-            "launcher": null,
+            "launcher": "Unknown F9",
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
@@ -237,8 +212,8 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-12-16T22:00:00Z",
-            "window_end": "2022-12-16T23:16:00Z",
+            "net": "2022-12-16T21:54:00Z",
+            "window_end": "2022-12-16T22:13:00Z",
             "window_start": "2022-12-16T21:54:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 4-37",
@@ -250,6 +225,31 @@
             "launcher": "B1058",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221001060437.png",
+            "infographic": null
+        },
+        {
+            "id": "9009b780-e843-4f35-accf-8f65e619d40f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9009b780-e843-4f35-accf-8f65e619d40f/",
+            "launch_library_id": null,
+            "slug": "vega-c-pleiades-neo-5-6",
+            "name": "Vega-C | Pl\u00e9iades Neo 5 & 6",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-12-21T01:47:00Z",
+            "window_end": "2022-12-21T01:47:00Z",
+            "window_start": "2022-12-21T01:47:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "Pl\u00e9iades Neo 5 & 6",
+            "mission_type": "Government/Top Secret",
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg",
             "infographic": null
         }
     ]
