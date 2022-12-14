@@ -4,41 +4,16 @@
     "previous": null,
     "results": [
         {
-            "id": "450e6a91-8f22-45dc-a4ee-acfac0702cdf",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/450e6a91-8f22-45dc-a4ee-acfac0702cdf/",
-            "launch_library_id": null,
-            "slug": "ariane-5-eca-galaxy-35-36-mtg-i1",
-            "name": "Ariane 5 ECA+ | Galaxy 35 & 36, MTG-I1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-12-13T20:30:00Z",
-            "window_end": "2022-12-13T22:16:00Z",
-            "window_start": "2022-12-13T20:30:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Galaxy 35 & 36, MTG-I1",
-            "mission_type": "Earth Science",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
-            "infographic": null
-        },
-        {
             "id": "86ea974e-6464-4960-85df-11af88852d57",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/86ea974e-6464-4960-85df-11af88852d57/",
             "launch_library_id": 1959,
             "slug": "zhuque-2-maiden-flight",
             "name": "Zhuque-2 | Maiden Flight",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2022-12-14T09:30:00Z",
+            "net": "2022-12-14T08:30:25Z",
             "window_end": "2022-12-14T10:44:00Z",
             "window_start": "2022-12-14T08:22:00Z",
             "lsp_name": "LandSpace",
@@ -58,10 +33,10 @@
             "url": "https://ll.thespacedevs.com/2.0.0/launch/27966a17-fd2d-4076-97f0-e167b9f65ab6/",
             "launch_library_id": null,
             "slug": "long-march-2d-yaogan-36-group-04",
-            "name": "Long March 2D | Yaogan 36 Group 04 (?)",
+            "name": "Long March 2D | Yaogan 36 Group 04",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-12-14T18:25:00Z",
             "window_end": "2022-12-14T18:35:00Z",
@@ -76,31 +51,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2022-12-14T22:00:00Z",
-            "window_end": "2022-12-15T01:30:00Z",
-            "window_start": "2022-12-14T22:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         },
         {
@@ -121,36 +71,11 @@
             "mission_type": "Earth Science",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
+            "landing": "LZ-4",
+            "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
-            "launch_library_id": null,
-            "slug": "electron-virginia-is-for-launch-lovers",
-            "name": "Electron | Virginia is for Launch Lovers",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2022-12-15T23:00:00Z",
-            "window_end": "2022-12-16T01:00:00Z",
-            "window_start": "2022-12-15T23:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Virginia is for Launch Lovers",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214174537.jpeg",
             "infographic": null
         },
         {
@@ -195,8 +120,8 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
+            "landing": "ASOG",
+            "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
@@ -220,11 +145,36 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": "B1058",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221001060437.png",
+            "infographic": null
+        },
+        {
+            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
+            "launch_library_id": null,
+            "slug": "electron-virginia-is-for-launch-lovers",
+            "name": "Electron | Virginia is for Launch Lovers",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2022-12-16T23:00:00Z",
+            "window_end": "2022-12-17T01:00:00Z",
+            "window_start": "2022-12-16T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Virginia is for Launch Lovers",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -250,6 +200,56 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega-c_image_20220713154437.jpg",
+            "infographic": null
+        },
+        {
+            "id": "fbd69a52-ede3-420f-8148-ffb251f6be94",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fbd69a52-ede3-420f-8148-ffb251f6be94/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-eros-c3",
+            "name": "Falcon 9 Block 5 | EROS-C3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-29T06:58:00Z",
+            "window_end": "2022-12-29T06:58:00Z",
+            "window_start": "2022-12-29T06:58:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "EROS-C3",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "16e0f780-7d6d-46bc-a0d4-cb23368e3501",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/16e0f780-7d6d-46bc-a0d4-cb23368e3501/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2022-12-31T00:00:00Z",
+            "window_end": "2022-12-31T00:00:00Z",
+            "window_start": "2022-12-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221102115051.png",
             "infographic": null
         }
     ]
