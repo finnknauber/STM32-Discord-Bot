@@ -1,83 +1,8 @@
 {
-    "count": 241,
+    "count": 238,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "fc9d2096-d1e1-49f6-bfbd-11ca7c8ef091",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fc9d2096-d1e1-49f6-bfbd-11ca7c8ef091/",
-            "launch_library_id": null,
-            "slug": "long-march-11-shiyan-21",
-            "name": "Long March 11 | Shiyan 21",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-12-16T06:17:00Z",
-            "window_end": "2022-12-16T08:05:00Z",
-            "window_start": "2022-12-16T05:50:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Shiyan 21",
-            "mission_type": "Government/Top Secret",
-            "pad": "Unknown Pad",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march252011_image_20190222031217.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "8226d219-b612-4797-a9d2-c5ca7ab0b076",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8226d219-b612-4797-a9d2-c5ca7ab0b076/",
-            "launch_library_id": 1242,
-            "slug": "falcon-9-block-5-swot-surface-water-and-ocean-topo",
-            "name": "Falcon 9 Block 5 | SWOT (Surface Water and Ocean Topography)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-12-16T11:46:47Z",
-            "window_end": "2022-12-16T11:56:47Z",
-            "window_start": "2022-12-16T11:46:47Z",
-            "lsp_name": "SpaceX",
-            "mission": "SWOT (Surface Water and Ocean Topography)",
-            "mission_type": "Earth Science",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221215075439.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "7105c4f4-7427-4f9a-a959-a8ecedd6062b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7105c4f4-7427-4f9a-a959-a8ecedd6062b/",
-            "launch_library_id": 1987,
-            "slug": "falcon-9-block-5-o3b-mpower-1-2",
-            "name": "Falcon 9 Block 5 | O3b mPower 1 & 2",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2022-12-16T22:48:00Z",
-            "window_end": "2022-12-16T22:48:00Z",
-            "window_start": "2022-12-16T21:21:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 1 & 2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
         {
             "id": "bf91b6d9-f517-4198-843c-dc82dfa6f9b0",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/bf91b6d9-f517-4198-843c-dc82dfa6f9b0/",
@@ -85,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-4-37",
             "name": "Falcon 9 Block 5 | Starlink Group 4-37",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2022-12-17T21:32:00Z",
             "window_end": "2022-12-17T21:32:00Z",
@@ -250,6 +175,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-09T00:00:00Z",
+            "window_end": "2023-01-09T00:00:00Z",
+            "window_start": "2023-01-09T00:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "571bf2c1-59eb-4079-b785-0472324d3a2d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/571bf2c1-59eb-4079-b785-0472324d3a2d/",
+            "launch_library_id": 2085,
+            "slug": "falcon-heavy-ussf-67",
+            "name": "Falcon Heavy | USSF-67",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-10T00:00:00Z",
+            "window_end": "2023-01-10T00:00:00Z",
+            "window_start": "2023-01-10T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "USSF-67",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "9a0216fd-811b-4e20-be0a-98e6c54859e4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9a0216fd-811b-4e20-be0a-98e6c54859e4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-27",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-27",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-10T00:00:00Z",
+            "window_end": "2023-01-10T00:00:00Z",
+            "window_start": "2023-01-10T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-27",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155253.jpeg",
             "infographic": null
         }
     ]
