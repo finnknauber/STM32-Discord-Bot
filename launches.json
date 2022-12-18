@@ -1,33 +1,8 @@
 {
-    "count": 238,
+    "count": 237,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "bf91b6d9-f517-4198-843c-dc82dfa6f9b0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bf91b6d9-f517-4198-843c-dc82dfa6f9b0/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-4-37",
-            "name": "Falcon 9 Block 5 | Starlink Group 4-37",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2022-12-17T21:32:00Z",
-            "window_end": "2022-12-17T21:32:00Z",
-            "window_start": "2022-12-17T21:32:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 4-37",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221001060437.png",
-            "infographic": null
-        },
         {
             "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
@@ -35,10 +10,10 @@
             "slug": "electron-virginia-is-for-launch-lovers",
             "name": "Electron | Virginia is for Launch Lovers",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 5,
+                "name": "Hold"
             },
-            "net": "2022-12-18T23:00:00Z",
+            "net": "2022-12-18T23:30:00Z",
             "window_end": "2022-12-19T01:00:00Z",
             "window_start": "2022-12-18T23:00:00Z",
             "lsp_name": "Rocket Lab Ltd",
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-12-28T08:19:00Z",
-            "window_end": "2022-12-28T08:19:00Z",
-            "window_start": "2022-12-28T08:19:00Z",
+            "net": "2022-12-28T10:00:00Z",
+            "window_end": "2022-12-28T10:00:00Z",
+            "window_start": "2022-12-28T10:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 5-1",
             "mission_type": "Communications",
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155253.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "572dbb78-06f5-47dd-be8c-593967333d81",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/572dbb78-06f5-47dd-be8c-593967333d81/",
+            "launch_library_id": 1527,
+            "slug": "falcon-9-block-5-gps-iii-sv06",
+            "name": "Falcon 9 Block 5 | GPS III SV06",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-18T00:00:00Z",
+            "window_end": "2023-01-18T00:00:00Z",
+            "window_start": "2023-01-18T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "GPS III SV06",
+            "mission_type": "Navigation",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
