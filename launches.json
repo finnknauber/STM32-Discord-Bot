@@ -1,5 +1,5 @@
 {
-    "count": 240,
+    "count": 241,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "vega-c-pleiades-neo-5-6",
             "name": "Vega-C | Pl\u00e9iades Neo 5 & 6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2022-12-21T01:47:00Z",
-            "window_end": "2022-12-21T01:47:00Z",
-            "window_start": "2022-12-21T01:47:00Z",
+            "net": "2022-12-21T01:47:31Z",
+            "window_end": "2022-12-21T01:47:31Z",
+            "window_start": "2022-12-21T01:47:31Z",
             "lsp_name": "Arianespace",
             "mission": "Pl\u00e9iades Neo 5 & 6",
             "mission_type": "Government/Top Secret",
