@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-12-29T06:58:00Z",
-            "window_end": "2022-12-29T06:58:00Z",
-            "window_start": "2022-12-29T06:58:00Z",
+            "net": "2022-12-30T06:58:00Z",
+            "window_end": "2022-12-30T06:58:00Z",
+            "window_start": "2022-12-30T06:58:00Z",
             "lsp_name": "SpaceX",
             "mission": "EROS-C3",
             "mission_type": "Earth Science",
