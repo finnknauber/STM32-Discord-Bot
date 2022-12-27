@@ -7,24 +7,25 @@
             "id": "45a1f800-aa5a-4a3d-9da8-b259f998bef1",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/45a1f800-aa5a-4a3d-9da8-b259f998bef1/",
             "launch_library_id": null,
-            "slug": "long-march-4c-unknown-payload",
-            "name": "Long March 4C | Unknown Payload",
+            "slug": "long-march-4b-gaofen-11-04",
+            "name": "Long March 4B | Gaofen-11-04",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2022-12-27T07:30:00Z",
+            "net": "2022-12-27T07:37:00Z",
             "window_end": "2022-12-27T08:41:00Z",
             "window_start": "2022-12-27T07:01:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Gaofen-11-04",
+            "mission_type": "Earth Science",
             "pad": "Launch Complex 9",
             "location": "Taiyuan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
             "infographic": null
         },
         {
@@ -37,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2022-12-28T09:45:00Z",
+            "net": "2022-12-28T09:40:10Z",
             "window_end": "2022-12-28T11:32:00Z",
             "window_start": "2022-12-28T09:30:00Z",
             "lsp_name": "SpaceX",
