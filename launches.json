@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-transporter-6-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 6 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-01-03T14:55:56Z",
             "window_end": "2023-01-03T14:55:56Z",
@@ -29,31 +29,6 @@
             "infographic": null
         },
         {
-            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
-            "launch_library_id": null,
-            "slug": "rs1-maiden-flight",
-            "name": "RS1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-01-09T00:00:00Z",
-            "window_end": "2023-01-09T00:00:00Z",
-            "window_start": "2023-01-09T00:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
             "id": "d0132d83-687d-44e5-8406-1b639a0906c9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d0132d83-687d-44e5-8406-1b639a0906c9/",
             "launch_library_id": null,
@@ -64,7 +39,7 @@
                 "name": "TBD"
             },
             "net": "2023-01-09T04:45:00Z",
-            "window_end": "2023-01-09T04:45:00Z",
+            "window_end": "2023-01-09T05:32:00Z",
             "window_start": "2023-01-09T04:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "OneWeb 16",
@@ -79,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
+            "launch_library_id": null,
+            "slug": "rs1-maiden-flight",
+            "name": "RS1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-09T22:00:00Z",
+            "window_end": "2023-01-10T01:30:00Z",
+            "window_start": "2023-01-09T22:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
             "id": "571bf2c1-59eb-4079-b785-0472324d3a2d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/571bf2c1-59eb-4079-b785-0472324d3a2d/",
             "launch_library_id": 2085,
@@ -88,7 +88,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-01-12T22:30:00Z",
+            "net": "2023-01-13T03:00:00Z",
             "window_end": "2023-01-12T22:30:00Z",
             "window_start": "2023-01-12T22:30:00Z",
             "lsp_name": "SpaceX",
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-01-18T00:00:00Z",
-            "window_end": "2023-01-18T00:00:00Z",
-            "window_start": "2023-01-18T00:00:00Z",
+            "net": "2023-01-18T12:00:00Z",
+            "window_end": "2023-01-18T12:00:00Z",
+            "window_start": "2023-01-18T12:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "GPS III SV06",
             "mission_type": "Navigation",
