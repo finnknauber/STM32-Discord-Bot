@@ -1,58 +1,8 @@
 {
-    "count": 254,
+    "count": 253,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b0fbc1b8-f822-4345-95af-85782e2669d3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b0fbc1b8-f822-4345-95af-85782e2669d3/",
-            "launch_library_id": null,
-            "slug": "launcherone-start-me-up",
-            "name": "LauncherOne | Start Me Up",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2023-01-09T23:08:00Z",
-            "window_end": "2023-01-10T00:16:00Z",
-            "window_start": "2023-01-09T22:16:00Z",
-            "lsp_name": "Virgin Orbit",
-            "mission": "Start Me Up",
-            "mission_type": "Earth Science",
-            "pad": "Spaceport Cornwall",
-            "location": "Air launch to orbit",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/launcherone_image_20200101110016.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d0132d83-687d-44e5-8406-1b639a0906c9",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d0132d83-687d-44e5-8406-1b639a0906c9/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-oneweb-16",
-            "name": "Falcon 9 Block 5 | OneWeb 16",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-01-10T04:50:00Z",
-            "window_end": "2023-01-10T05:05:00Z",
-            "window_start": "2023-01-10T04:45:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "OneWeb 16",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
         {
             "id": "06066a71-c5fd-48d1-a7c9-13fe82ded736",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/06066a71-c5fd-48d1-a7c9-13fe82ded736/",
@@ -60,10 +10,10 @@
             "slug": "rs1-maiden-flight",
             "name": "RS1 | Maiden Flight",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2023-01-10T23:18:00Z",
+            "net": "2023-01-10T23:27:00Z",
             "window_end": "2023-01-11T01:30:00Z",
             "window_start": "2023-01-10T22:00:00Z",
             "lsp_name": "ABL Space Systems",
@@ -76,31 +26,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
-            "infographic": null
-        },
-        {
-            "id": "050eecbc-ebfc-4656-9fee-1dbc5e5c59a4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/050eecbc-ebfc-4656-9fee-1dbc5e5c59a4/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-2-4",
-            "name": "Falcon 9 Block 5 | Starlink Group 2-4",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-01-11T04:02:00Z",
-            "window_end": "2023-01-11T04:02:00Z",
-            "window_start": "2023-01-11T04:02:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 2-4",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -162,7 +87,7 @@
                 "name": "TBD"
             },
             "net": "2023-01-14T22:51:00Z",
-            "window_end": "2023-01-15T03:00:00Z",
+            "window_end": "2023-01-15T02:00:00Z",
             "window_start": "2023-01-14T22:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "USSF-67",
@@ -201,6 +126,31 @@
             "infographic": null
         },
         {
+            "id": "050eecbc-ebfc-4656-9fee-1dbc5e5c59a4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/050eecbc-ebfc-4656-9fee-1dbc5e5c59a4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-4",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-4",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-01-15T16:18:00Z",
+            "window_end": "2023-01-15T16:18:00Z",
+            "window_start": "2023-01-15T16:18:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-4",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "572dbb78-06f5-47dd-be8c-593967333d81",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/572dbb78-06f5-47dd-be8c-593967333d81/",
             "launch_library_id": 1527,
@@ -226,6 +176,31 @@
             "infographic": null
         },
         {
+            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
+            "launch_library_id": null,
+            "slug": "electron-virginia-is-for-launch-lovers",
+            "name": "Electron | Virginia is for Launch Lovers",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-01-23T23:00:00Z",
+            "window_end": "2023-01-24T01:00:00Z",
+            "window_start": "2023-01-23T23:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Virginia is for Launch Lovers",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "00af0700-46de-4438-bbc3-09b6c0721ee9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/00af0700-46de-4438-bbc3-09b6c0721ee9/",
             "launch_library_id": null,
@@ -248,6 +223,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "072f9f30-3114-4e90-81c7-8111d7d9ae20",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/072f9f30-3114-4e90-81c7-8111d7d9ae20/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-3",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-31T00:00:00Z",
+            "window_end": "2023-01-31T00:00:00Z",
+            "window_start": "2023-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-3",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221215080414.png",
             "infographic": null
         }
     ]
