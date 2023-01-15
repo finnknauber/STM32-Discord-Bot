@@ -10,10 +10,10 @@
             "slug": "long-march-2d-6-x-jilin-1-qilu-23-and-others",
             "name": "Long March 2D | 6 x Jilin-1, Qilu-2/3 and others",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-01-15T03:20:00Z",
+            "net": "2023-01-15T03:14:00Z",
             "window_end": "2023-01-15T03:39:00Z",
             "window_start": "2023-01-15T03:04:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -35,8 +35,8 @@
             "slug": "falcon-heavy-ussf-67",
             "name": "Falcon Heavy | USSF-67",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2023-01-15T22:56:00Z",
             "window_end": "2023-01-15T23:33:00Z",
@@ -64,7 +64,7 @@
                 "name": "TBD"
             },
             "net": "2023-01-18T12:00:00Z",
-            "window_end": "2023-01-18T13:23:00Z",
+            "window_end": "2023-01-18T12:36:00Z",
             "window_start": "2023-01-18T12:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "GPS III SV06",
@@ -88,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-01-19T15:32:00Z",
-            "window_end": "2023-01-19T15:32:00Z",
-            "window_start": "2023-01-19T15:32:00Z",
+            "net": "2023-01-19T15:23:10Z",
+            "window_end": "2023-01-19T15:23:10Z",
+            "window_start": "2023-01-19T15:23:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 2-4",
             "mission_type": "Communications",
