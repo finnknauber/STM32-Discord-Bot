@@ -1,33 +1,8 @@
 {
-    "count": 250,
+    "count": 249,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "571bf2c1-59eb-4079-b785-0472324d3a2d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/571bf2c1-59eb-4079-b785-0472324d3a2d/",
-            "launch_library_id": 2085,
-            "slug": "falcon-heavy-ussf-67",
-            "name": "Falcon Heavy | USSF-67",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-01-15T22:56:00Z",
-            "window_end": "2023-01-15T23:33:00Z",
-            "window_start": "2023-01-15T22:56:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "USSF-67",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520heav_image_20230114185830.jpeg",
-            "infographic": null
-        },
         {
             "id": "572dbb78-06f5-47dd-be8c-593967333d81",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/572dbb78-06f5-47dd-be8c-593967333d81/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-gps-iii-sv06",
             "name": "Falcon 9 Block 5 | GPS III SV06",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-01-18T12:10:00Z",
             "window_end": "2023-01-18T12:25:00Z",
@@ -50,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230117191931.jpeg",
             "infographic": null
         },
         {
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "8e6946a2-43d0-4804-b3de-f937966f8425",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8e6946a2-43d0-4804-b3de-f937966f8425/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-31T00:00:00Z",
+            "window_end": "2023-01-31T00:00:00Z",
+            "window_start": "2023-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-2",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214103909.png",
             "infographic": null
         }
     ]
