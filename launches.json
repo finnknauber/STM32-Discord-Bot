@@ -4,43 +4,18 @@
     "previous": null,
     "results": [
         {
-            "id": "572dbb78-06f5-47dd-be8c-593967333d81",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/572dbb78-06f5-47dd-be8c-593967333d81/",
-            "launch_library_id": 1527,
-            "slug": "falcon-9-block-5-gps-iii-sv06",
-            "name": "Falcon 9 Block 5 | GPS III SV06",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-01-18T12:24:00Z",
-            "window_end": "2023-01-18T12:25:00Z",
-            "window_start": "2023-01-18T12:10:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "GPS III SV06",
-            "mission_type": "Navigation",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230117191931.jpeg",
-            "infographic": null
-        },
-        {
             "id": "050eecbc-ebfc-4656-9fee-1dbc5e5c59a4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/050eecbc-ebfc-4656-9fee-1dbc5e5c59a4/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-2-4",
             "name": "Falcon 9 Block 5 | Starlink Group 2-4",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-01-19T15:23:10Z",
-            "window_end": "2023-01-19T15:23:10Z",
-            "window_start": "2023-01-19T15:23:10Z",
+            "net": "2023-01-19T15:43:10Z",
+            "window_end": "2023-01-19T15:43:10Z",
+            "window_start": "2023-01-19T15:43:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 2-4",
             "mission_type": "Communications",
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "8e6946a2-43d0-4804-b3de-f937966f8425",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8e6946a2-43d0-4804-b3de-f937966f8425/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-24T09:52:00Z",
+            "window_end": "2023-01-24T14:42:00Z",
+            "window_start": "2023-01-24T09:52:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214103909.png",
             "infographic": null
         },
         {
@@ -204,31 +204,6 @@
             "infographic": null
         },
         {
-            "id": "8e6946a2-43d0-4804-b3de-f937966f8425",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8e6946a2-43d0-4804-b3de-f937966f8425/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-5-2",
-            "name": "Falcon 9 Block 5 | Starlink Group 5-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-01-31T00:00:00Z",
-            "window_end": "2023-01-31T00:00:00Z",
-            "window_start": "2023-01-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 5-2",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214103909.png",
-            "infographic": null
-        },
-        {
             "id": "ae6b4088-983b-413d-baca-11c5650167d1",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ae6b4088-983b-413d-baca-11c5650167d1/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221221211141.png",
+            "infographic": null
+        },
+        {
+            "id": "f5a5ba75-16c4-4f30-9262-3195a2016f44",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f5a5ba75-16c4-4f30-9262-3195a2016f44/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-6",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-6",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-01-31T00:00:00Z",
+            "window_end": "2023-01-31T00:00:00Z",
+            "window_start": "2023-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-6",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221220083747.png",
             "infographic": null
         }
     ]
