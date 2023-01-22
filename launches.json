@@ -1,11 +1,11 @@
 {
     "count": 248,
-    "next": "http://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
+    "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
             "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
             "launch_library_id": null,
             "slug": "electron-virginia-is-for-launch-lovers",
             "name": "Electron | Virginia is for Launch Lovers",
@@ -30,7 +30,7 @@
         },
         {
             "id": "00af0700-46de-4438-bbc3-09b6c0721ee9",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/00af0700-46de-4438-bbc3-09b6c0721ee9/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/00af0700-46de-4438-bbc3-09b6c0721ee9/",
             "launch_library_id": null,
             "slug": "h-iia-202-igs-radar-7",
             "name": "H-IIA 202 | IGS Radar-7",
@@ -55,7 +55,7 @@
         },
         {
             "id": "8e6946a2-43d0-4804-b3de-f937966f8425",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/8e6946a2-43d0-4804-b3de-f937966f8425/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8e6946a2-43d0-4804-b3de-f937966f8425/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-5-2",
             "name": "Falcon 9 Block 5 | Starlink Group 5-2",
@@ -73,14 +73,14 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221214103909.png",
             "infographic": null
         },
         {
             "id": "f5a5ba75-16c4-4f30-9262-3195a2016f44",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/f5a5ba75-16c4-4f30-9262-3195a2016f44/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f5a5ba75-16c4-4f30-9262-3195a2016f44/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-2-6",
             "name": "Falcon 9 Block 5 | Starlink Group 2-6",
@@ -105,7 +105,7 @@
         },
         {
             "id": "072f9f30-3114-4e90-81c7-8111d7d9ae20",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/072f9f30-3114-4e90-81c7-8111d7d9ae20/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/072f9f30-3114-4e90-81c7-8111d7d9ae20/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-5-3",
             "name": "Falcon 9 Block 5 | Starlink Group 5-3",
@@ -130,7 +130,7 @@
         },
         {
             "id": "59449fa1-f709-40c0-bcad-f669b3ee48b4",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/59449fa1-f709-40c0-bcad-f669b3ee48b4/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/59449fa1-f709-40c0-bcad-f669b3ee48b4/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-amazonas-nexus",
             "name": "Falcon 9 Block 5 | Amazonas Nexus",
@@ -148,14 +148,14 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1073",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
             "id": "129c491b-c5df-4651-b15d-d4cbe6df7251",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/129c491b-c5df-4651-b15d-d4cbe6df7251/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/129c491b-c5df-4651-b15d-d4cbe6df7251/",
             "launch_library_id": 1213,
             "slug": "proton-mblok-dm-03-elektro-l-no4",
             "name": "Proton-M/Blok DM-03 | Elektro-L No.4",
@@ -180,7 +180,7 @@
         },
         {
             "id": "f611b883-4ad3-48c6-b2ee-ececc5d8234a",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/f611b883-4ad3-48c6-b2ee-ececc5d8234a/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f611b883-4ad3-48c6-b2ee-ececc5d8234a/",
             "launch_library_id": null,
             "slug": "soyuz-21a-progress-ms-22-83p",
             "name": "Soyuz 2.1a | Progress MS-22 (83P)",
@@ -205,7 +205,7 @@
         },
         {
             "id": "13439df6-e99b-42b3-ab82-c0a8a2afe4d1",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/13439df6-e99b-42b3-ab82-c0a8a2afe4d1/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/13439df6-e99b-42b3-ab82-c0a8a2afe4d1/",
             "launch_library_id": 1981,
             "slug": "h3-22-alos-3-maiden-flight",
             "name": "H3-22 | ALOS-3 (Maiden flight)",
@@ -230,7 +230,7 @@
         },
         {
             "id": "e3290e0e-d967-4a5d-95eb-f8fae06a9034",
-            "url": "http://ll.thespacedevs.com/2.0.0/launch/e3290e0e-d967-4a5d-95eb-f8fae06a9034/",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e3290e0e-d967-4a5d-95eb-f8fae06a9034/",
             "launch_library_id": null,
             "slug": "soyuz-21a-soyuz-ms-23",
             "name": "Soyuz 2.1a | Soyuz MS-23",
