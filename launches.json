@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20230124165305.jpeg",
             "infographic": null
         },
         {
@@ -88,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-01-31T00:00:00Z",
-            "window_end": "2023-01-31T00:00:00Z",
-            "window_start": "2023-01-31T00:00:00Z",
+            "net": "2023-01-29T15:02:00Z",
+            "window_end": "2023-01-29T21:45:00Z",
+            "window_start": "2023-01-29T15:02:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 2-6",
             "mission_type": "Communications",
