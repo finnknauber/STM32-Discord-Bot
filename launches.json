@@ -1,33 +1,8 @@
 {
-    "count": 248,
+    "count": 247,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "32a2e219-e8d3-4369-822c-3e5d33941253",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/32a2e219-e8d3-4369-822c-3e5d33941253/",
-            "launch_library_id": null,
-            "slug": "electron-virginia-is-for-launch-lovers",
-            "name": "Electron | Virginia is for Launch Lovers",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-01-24T23:00:00Z",
-            "window_end": "2023-01-25T01:00:00Z",
-            "window_start": "2023-01-24T23:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "Virginia is for Launch Lovers",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20230124165305.jpeg",
-            "infographic": null
-        },
         {
             "id": "00af0700-46de-4438-bbc3-09b6c0721ee9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/00af0700-46de-4438-bbc3-09b6c0721ee9/",
@@ -60,10 +35,10 @@
             "slug": "falcon-9-block-5-starlink-group-5-2",
             "name": "Falcon 9 Block 5 | Starlink Group 5-2",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-01-26T09:02:00Z",
+            "net": "2023-01-26T09:22:00Z",
             "window_end": "2023-01-26T11:24:00Z",
             "window_start": "2023-01-26T09:02:00Z",
             "lsp_name": "SpaceX",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "b973e965-3901-4bda-9236-b0afee33f388",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b973e965-3901-4bda-9236-b0afee33f388/",
+            "launch_library_id": 1972,
+            "slug": "vulcan-vc2s-peregrine-lunar-lander-kuipersat-1-2-m",
+            "name": "Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-02-25T00:00:00Z",
+            "window_end": "2023-02-25T00:00:00Z",
+            "window_start": "2023-02-25T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight)",
+            "mission_type": "Lunar Exploration",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": null,
             "infographic": null
         }
     ]
