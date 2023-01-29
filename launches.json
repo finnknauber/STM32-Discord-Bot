@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-01-29T16:47:30Z",
-            "window_end": "2023-01-29T21:45:00Z",
-            "window_start": "2023-01-29T15:02:00Z",
+            "net": "2023-01-30T16:34:00Z",
+            "window_end": "2023-01-30T21:45:00Z",
+            "window_start": "2023-01-30T15:02:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 2-6 & ION SCV009",
             "mission_type": "Communications",
@@ -51,31 +51,6 @@
             "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221215080414.png",
-            "infographic": null
-        },
-        {
-            "id": "59449fa1-f709-40c0-bcad-f669b3ee48b4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/59449fa1-f709-40c0-bcad-f669b3ee48b4/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-amazonas-nexus",
-            "name": "Falcon 9 Block 5 | Amazonas Nexus",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-02-05T00:00:00Z",
-            "window_end": "2023-02-05T00:00:00Z",
-            "window_start": "2023-02-05T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Amazonas Nexus",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "B1073",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211204170334.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "16e0f780-7d6d-46bc-a0d4-cb23368e3501",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/16e0f780-7d6d-46bc-a0d4-cb23368e3501/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-02-28T00:00:00Z",
+            "window_end": "2023-02-28T00:00:00Z",
+            "window_start": "2023-02-28T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221102115051.png",
             "infographic": null
         }
     ]
