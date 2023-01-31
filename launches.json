@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-2-6-ion-scv009",
             "name": "Falcon 9 Block 5 | Starlink Group 2-6 & ION SCV009",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-01-31T16:15:00Z",
             "window_end": "2023-01-31T16:15:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221220083747.png",
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-5-3",
             "name": "Falcon 9 Block 5 | Starlink Group 5-3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-02-01T08:02:00Z",
-            "window_end": "2023-02-01T11:45:00Z",
-            "window_start": "2023-02-01T08:02:00Z",
+            "net": "2023-02-02T07:43:00Z",
+            "window_end": "2023-02-02T12:07:00Z",
+            "window_start": "2023-02-02T07:37:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 5-3",
             "mission_type": "Communications",
@@ -51,31 +51,6 @@
             "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221215080414.png",
-            "infographic": null
-        },
-        {
-            "id": "59449fa1-f709-40c0-bcad-f669b3ee48b4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/59449fa1-f709-40c0-bcad-f669b3ee48b4/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-amazonas-nexus",
-            "name": "Falcon 9 Block 5 | Amazonas Nexus",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-02-05T00:00:00Z",
-            "window_end": "2023-02-05T00:00:00Z",
-            "window_start": "2023-02-05T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Amazonas Nexus",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "B1073",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -101,6 +76,31 @@
             "launcher": null,
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/proton-m_image_20191211081456.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "59449fa1-f709-40c0-bcad-f669b3ee48b4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/59449fa1-f709-40c0-bcad-f669b3ee48b4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-amazonas-nexus",
+            "name": "Falcon 9 Block 5 | Amazonas Nexus",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-02-05T22:32:00Z",
+            "window_end": "2023-02-06T03:19:00Z",
+            "window_start": "2023-02-05T22:32:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Amazonas Nexus",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1073",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
