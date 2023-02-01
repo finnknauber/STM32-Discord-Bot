@@ -1,33 +1,8 @@
 {
-    "count": 253,
+    "count": 252,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "f5a5ba75-16c4-4f30-9262-3195a2016f44",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f5a5ba75-16c4-4f30-9262-3195a2016f44/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-2-6-ion-scv009",
-            "name": "Falcon 9 Block 5 | Starlink Group 2-6 & ION SCV009",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-01-31T16:15:00Z",
-            "window_end": "2023-01-31T16:15:00Z",
-            "window_start": "2023-01-31T16:15:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 2-6 & ION SCV009",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1071",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221220083747.png",
-            "infographic": null
-        },
         {
             "id": "072f9f30-3114-4e90-81c7-8111d7d9ae20",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/072f9f30-3114-4e90-81c7-8111d7d9ae20/",
@@ -60,12 +35,12 @@
             "slug": "proton-mblok-dm-03-elektro-l-no4",
             "name": "Proton-M/Blok DM-03 | Elektro-L No.4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-02-05T09:12:00Z",
-            "window_end": "2023-02-05T09:12:00Z",
-            "window_start": "2023-02-05T09:12:00Z",
+            "net": "2023-02-05T09:12:52Z",
+            "window_end": "2023-02-05T09:12:52Z",
+            "window_start": "2023-02-05T09:12:52Z",
             "lsp_name": "Khrunichev State Research and Production Space Center",
             "mission": "Elektro-L No.4",
             "mission_type": "Earth Science",
@@ -94,7 +69,7 @@
             "lsp_name": "SpaceX",
             "mission": "Amazonas Nexus",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
+            "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
@@ -251,6 +226,31 @@
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211204170334.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "16e0f780-7d6d-46bc-a0d4-cb23368e3501",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/16e0f780-7d6d-46bc-a0d4-cb23368e3501/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-02-28T00:00:00Z",
+            "window_end": "2023-02-28T00:00:00Z",
+            "window_start": "2023-02-28T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221102115051.png",
             "infographic": null
         }
     ]
