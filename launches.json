@@ -1,33 +1,8 @@
 {
-    "count": 252,
+    "count": 251,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "072f9f30-3114-4e90-81c7-8111d7d9ae20",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/072f9f30-3114-4e90-81c7-8111d7d9ae20/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-5-3",
-            "name": "Falcon 9 Block 5 | Starlink Group 5-3",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-02-02T07:58:20Z",
-            "window_end": "2023-02-02T12:07:00Z",
-            "window_start": "2023-02-02T07:37:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 5-3",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1069",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221215080414.png",
-            "infographic": null
-        },
         {
             "id": "129c491b-c5df-4651-b15d-d4cbe6df7251",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/129c491b-c5df-4651-b15d-d4cbe6df7251/",
@@ -60,8 +35,8 @@
             "slug": "falcon-9-block-5-amazonas-nexus",
             "name": "Falcon 9 Block 5 | Amazonas Nexus",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-02-05T22:32:00Z",
             "window_end": "2023-02-06T02:32:00Z",
@@ -107,17 +82,17 @@
             "id": "58eba6fc-307a-4c47-b68d-aa75db6eddea",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/58eba6fc-307a-4c47-b68d-aa75db6eddea/",
             "launch_library_id": null,
-            "slug": "sslv-microsat-demo-2",
-            "name": "SSLV | Microsat (Demo 2)",
+            "slug": "sslv-eos-7-rideshare-demo-2",
+            "name": "SSLV | EOS-7 & rideshare (Demo 2)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-02-10T03:30:00Z",
+            "net": "2023-02-10T03:48:00Z",
             "window_end": "2023-02-10T07:30:00Z",
             "window_start": "2023-02-10T03:30:00Z",
             "lsp_name": "Indian Space Research Organization",
-            "mission": "SSLV Demo 2",
+            "mission": "EOS-7 & rideshare (SSLV Demo 2)",
             "mission_type": "Test Flight",
             "pad": "Satish Dhawan Space Centre First Launch Pad",
             "location": "Sriharikota, Republic of India",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LO",
             "image": null,
+            "infographic": null
+        },
+        {
+            "id": "bc325945-4bee-4412-84e1-14998b2eba5f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/bc325945-4bee-4412-84e1-14998b2eba5f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-crew-6",
+            "name": "Falcon 9 Block 5 | Crew-6",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-02-26T07:07:00Z",
+            "window_end": "2023-02-26T07:07:00Z",
+            "window_start": "2023-02-26T07:07:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Crew-6",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1078",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211204170334.jpeg",
             "infographic": null
         }
     ]
