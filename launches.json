@@ -10,8 +10,8 @@
             "slug": "proton-mblok-dm-03-elektro-l-no4",
             "name": "Proton-M/Blok DM-03 | Elektro-L No.4",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-02-05T09:12:52Z",
             "window_end": "2023-02-05T09:12:52Z",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-02-05T22:32:00Z",
-            "window_end": "2023-02-06T02:32:00Z",
-            "window_start": "2023-02-05T22:32:00Z",
+            "net": "2023-02-06T22:32:00Z",
+            "window_end": "2023-02-07T02:32:00Z",
+            "window_start": "2023-02-06T22:32:00Z",
             "lsp_name": "SpaceX",
             "mission": "Amazonas Nexus",
             "mission_type": "Communications",
@@ -50,7 +50,7 @@
             "landing_success": 0,
             "launcher": "B1073",
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230205183117.jpeg",
             "infographic": null
         },
         {
