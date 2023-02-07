@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-amazonas-nexus",
             "name": "Falcon 9 Block 5 | Amazonas Nexus",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-02-07T01:32:00Z",
             "window_end": "2023-02-07T02:32:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230205183117.jpeg",
@@ -204,31 +204,6 @@
             "infographic": null
         },
         {
-            "id": "b973e965-3901-4bda-9236-b0afee33f388",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b973e965-3901-4bda-9236-b0afee33f388/",
-            "launch_library_id": 1972,
-            "slug": "vulcan-vc2s-peregrine-lunar-lander-kuipersat-1-2-m",
-            "name": "Vulcan VC2S | Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-02-25T00:00:00Z",
-            "window_end": "2023-02-25T00:00:00Z",
-            "window_start": "2023-02-25T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "Peregrine lunar lander, Kuipersat-1 & 2 (Maiden flight)",
-            "mission_type": "Lunar Exploration",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": null,
-            "infographic": null
-        },
-        {
             "id": "bc325945-4bee-4412-84e1-14998b2eba5f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/bc325945-4bee-4412-84e1-14998b2eba5f/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20211204170334.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "16e0f780-7d6d-46bc-a0d4-cb23368e3501",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/16e0f780-7d6d-46bc-a0d4-cb23368e3501/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-2-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 2-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-02-28T00:00:00Z",
+            "window_end": "2023-02-28T00:00:00Z",
+            "window_start": "2023-02-28T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 2-2",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221102115051.png",
             "infographic": null
         }
     ]
