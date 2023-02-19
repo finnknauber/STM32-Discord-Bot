@@ -1,31 +1,31 @@
 {
-    "count": 260,
+    "count": 261,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "d6e60f3b-21d0-44f9-be02-fe0c00289b6a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d6e60f3b-21d0-44f9-be02-fe0c00289b6a/",
+            "id": "c75ccb86-e6e3-4e63-96df-3eaeb6c235cf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c75ccb86-e6e3-4e63-96df-3eaeb6c235cf/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-inmarsat-6-f2",
-            "name": "Falcon 9 Block 5 | Inmarsat-6 F2",
+            "slug": "long-march-3be-chinasat-26",
+            "name": "Long March 3B/E | ChinaSat 26",
             "status": {
-                "id": 3,
-                "name": "Success"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-02-18T03:59:00Z",
-            "window_end": "2023-02-18T05:28:00Z",
-            "window_start": "2023-02-18T03:59:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Inmarsat-6 F2",
+            "net": "2023-02-23T11:55:00Z",
+            "window_end": "2023-02-23T13:54:00Z",
+            "window_start": "2023-02-23T11:39:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "ChinaSat 26",
             "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1077",
+            "pad": "Launch Complex 2 (LC-2)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
             "infographic": null
         },
         {
@@ -76,6 +76,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "infographic": null
+        },
+        {
+            "id": "8fbbbc02-9463-42a2-b3a3-29d170aa0200",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8fbbbc02-9463-42a2-b3a3-29d170aa0200/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-02-24T04:10:00Z",
+            "window_end": "2023-02-24T04:24:00Z",
+            "window_start": "2023-02-24T03:54:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
             "infographic": null
         },
         {
@@ -225,31 +249,6 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "e32d375f-0d6e-4e54-b4f2-2b49db657fca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e32d375f-0d6e-4e54-b4f2-2b49db657fca/",
-            "launch_library_id": null,
-            "slug": "starship-orbital-flight-test",
-            "name": "Starship | Orbital Flight Test",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-03-11T00:00:00Z",
-            "window_end": "2023-03-11T00:00:00Z",
-            "window_start": "2023-03-11T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Orbital Flight Test",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "GOM",
-            "landing_success": 0,
-            "launcher": "Booster 7",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20221107221509.jpeg",
             "infographic": null
         }
     ]
