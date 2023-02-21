@@ -60,12 +60,12 @@
             "slug": "soyuz-21a-soyuz-ms-23",
             "name": "Soyuz 2.1a | Soyuz MS-23",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-02-24T00:34:00Z",
-            "window_end": "2023-02-24T00:34:00Z",
-            "window_start": "2023-02-24T00:34:00Z",
+            "net": "2023-02-24T00:24:27Z",
+            "window_end": "2023-02-24T00:24:27Z",
+            "window_start": "2023-02-24T00:24:27Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Soyuz MS-23",
             "mission_type": "Human Exploration",
