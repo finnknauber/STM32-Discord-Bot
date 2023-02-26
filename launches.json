@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-02-27T06:45:00Z",
-            "window_end": "2023-02-27T06:45:00Z",
-            "window_start": "2023-02-27T06:45:00Z",
+            "net": "2023-02-27T06:45:03Z",
+            "window_end": "2023-02-27T06:45:03Z",
+            "window_start": "2023-02-27T06:45:03Z",
             "lsp_name": "SpaceX",
             "mission": "Crew-6",
             "mission_type": "Human Exploration",
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-1",
             "name": "Falcon 9 Block 5 | Starlink Group 6-1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-02-27T18:37:00Z",
-            "window_end": "2023-02-28T00:37:00Z",
-            "window_start": "2023-02-27T18:37:00Z",
+            "net": "2023-02-27T18:38:40Z",
+            "window_end": "2023-02-27T19:20:10Z",
+            "window_start": "2023-02-27T18:38:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-1",
             "mission_type": "Communications",
