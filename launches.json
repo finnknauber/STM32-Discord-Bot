@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-crew-6",
             "name": "Falcon 9 Block 5 | Crew-6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-03-02T05:34:14Z",
             "window_end": "2023-03-02T05:34:14Z",
@@ -22,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230301082227.jpeg",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-03-02T18:52:40Z",
-            "window_end": "2023-03-02T18:52:40Z",
-            "window_start": "2023-03-02T18:52:40Z",
+            "net": "2023-03-03T18:38:50Z",
+            "window_end": "2023-03-03T18:38:50Z",
+            "window_start": "2023-03-03T18:38:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 2-7",
             "mission_type": "Communications",
