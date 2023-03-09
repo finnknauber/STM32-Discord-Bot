@@ -10,19 +10,19 @@
             "slug": "falcon-9-block-5-oneweb-17",
             "name": "Falcon 9 Block 5 | OneWeb 17",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-03-09T19:13:00Z",
-            "window_end": "2023-03-09T19:13:00Z",
-            "window_start": "2023-03-09T19:13:00Z",
+            "net": "2023-03-09T19:13:28Z",
+            "window_end": "2023-03-09T19:13:28Z",
+            "window_start": "2023-03-09T19:13:28Z",
             "lsp_name": "SpaceX",
             "mission": "OneWeb 17",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1062",
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
@@ -183,8 +183,8 @@
             "slug": "falcon-9-block-5-dragon-crs-2-spx-27",
             "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-27",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-03-15T00:30:00Z",
             "window_end": "2023-03-15T00:30:00Z",
