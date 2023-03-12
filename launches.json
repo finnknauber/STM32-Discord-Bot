@@ -32,8 +32,8 @@
             "id": "13b2f658-9112-48e3-a2d8-f79dababa407",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/13b2f658-9112-48e3-a2d8-f79dababa407/",
             "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -49,7 +49,32 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202_image_20190222031200.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "60ee4dbe-680d-40f5-8831-dadb325c7677",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/60ee4dbe-680d-40f5-8831-dadb325c7677/",
+            "launch_library_id": null,
+            "slug": "electron-stronger-together",
+            "name": "Electron | Stronger Together",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-03-14T22:00:00Z",
+            "window_end": "2023-03-15T00:00:00Z",
+            "window_start": "2023-03-14T22:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "Stronger Together",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -70,9 +95,9 @@
             "mission_type": "Resupply",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155253.jpeg",
             "infographic": null
@@ -127,6 +152,31 @@
             "infographic": null
         },
         {
+            "id": "25d652f7-7e20-42d5-967e-b8e01305746c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/25d652f7-7e20-42d5-967e-b8e01305746c/",
+            "launch_library_id": 1685,
+            "slug": "terran-1-good-luck-have-fun-maiden-flight",
+            "name": "Terran 1 | Good Luck, Have Fun (Maiden Flight)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-03-16T17:00:00Z",
+            "window_end": "2023-03-16T20:00:00Z",
+            "window_start": "2023-03-16T17:00:00Z",
+            "lsp_name": "Relativity Space",
+            "mission": "Good Luck, Have Fun (Maiden Flight)",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 16",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/terran_1_image_20220129191632.jpg",
+            "infographic": null
+        },
+        {
             "id": "4470fe15-bd51-408b-9d58-283891f97344",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4470fe15-bd51-408b-9d58-283891f97344/",
             "launch_library_id": null,
@@ -161,9 +211,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-03-18T00:35:00Z",
-            "window_end": "2023-03-18T00:35:00Z",
-            "window_start": "2023-03-18T00:35:00Z",
+            "net": "2023-03-17T23:30:00Z",
+            "window_end": "2023-03-18T01:00:00Z",
+            "window_start": "2023-03-17T23:30:00Z",
             "lsp_name": "SpaceX",
             "mission": "SES-18 & SES-19",
             "mission_type": "Communications",
@@ -199,56 +249,6 @@
             "launcher": null,
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520iii_image_20190604000938.jpg",
-            "infographic": null
-        },
-        {
-            "id": "0705d82e-11b4-4e78-9075-457987f9f32f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0705d82e-11b4-4e78-9075-457987f9f32f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-sda-tranche-0",
-            "name": "Falcon 9 Block 5 | SDA Tranche 0",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-03-31T00:00:00Z",
-            "window_end": "2023-03-31T00:00:00Z",
-            "window_start": "2023-03-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SDA Tranche 0",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "0962fe02-4a3d-4131-8bc5-ee7bd2bc97fa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0962fe02-4a3d-4131-8bc5-ee7bd2bc97fa/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-3",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-03-31T00:00:00Z",
-            "window_end": "2023-03-31T00:00:00Z",
-            "window_start": "2023-03-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-3",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209213900.png",
             "infographic": null
         }
     ]
