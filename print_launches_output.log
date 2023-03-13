@@ -26136,3 +26136,1026 @@ Traceback (most recent call last):
   File "/usr/lib/python3.7/ctypes/__init__.py", line 7, in <module>
     from _ctypes import Union, Structure, Array
 ImportError: /usr/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so: failed to map segment from shared object
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 7, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: libffi.so.6: failed to map segment from shared object
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 543, in <module>
+    _reset_cache()
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 273, in _reset_cache
+    CFUNCTYPE(c_int)(lambda: None)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 917, in get_data
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 7, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: /usr/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so: failed to map segment from shared object
+Traceback (most recent call last):
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 233, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 962, in wrap
+    is_exc,
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 463, in __init__
+    cls, these, auto_attribs, kw_only
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 389, in _transform_attrs
+    AttrsClass = _make_attr_tuple_class(cls.__name__, attr_names)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 254, in _make_attr_tuple_class
+    eval(compile("\n".join(attr_class_template), "", "exec"), globs)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 49, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/state.py", line 46, in <module>
+    from .message import Message
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 223, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 970, in wrap
+    builder.add_eq()
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 700, in add_eq
+    for meth in _make_eq(self._cls, self._attrs)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 1193, in _make_eq
+    bytecode = compile(script, unique_filename, "exec")
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 37, in <module>
+    from .template import Template
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/template.py", line 29, in <module>
+    from .guild import Guild
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 917, in get_data
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 52, in <module>
+    from .player import AudioPlayer, AudioSource
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 32, in <module>
+    from .iterators import HistoryIterator
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/iterators.py", line 33, in <module>
+    from .audit_logs import AuditLogEntry
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/audit_logs.py", line 27, in <module>
+    from . import utils, enums
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 294, in <module>
+    class AuditLogAction(Enum):
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 73, in __new__
+    value_cls = _create_value_cls(name)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 59, in _create_value_cls
+    cls = namedtuple('_EnumValue_' + name, 'name value')
+  File "/usr/lib/python3.7/collections/__init__.py", line 397, in namedtuple
+    exec(s, namespace)
+MemoryError
+Traceback (most recent call last):
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+
+During handling of the above exception, another exception occurred:
+
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 69, in <module>
+    from .connector import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/connector.py", line 689, in <module>
+    class TCPConnector(BaseConnector):
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/connector.py", line 919, in TCPConnector
+    req: 'ClientRequest') -> Optional['Fingerprint']:
+  File "/usr/lib/python3.7/typing.py", line 248, in inner
+    return cached(*args, **kwds)
+  File "/usr/lib/python3.7/typing.py", line 354, in __getitem__
+    arg = _type_check(parameters, "Optional[t] requires a single type.")
+  File "/usr/lib/python3.7/typing.py", line 129, in _type_check
+    return ForwardRef(arg)
+  File "/usr/lib/python3.7/typing.py", line 446, in __init__
+    code = compile(arg, '<string>', 'eval')
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 233, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 962, in wrap
+    is_exc,
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 463, in __init__
+    cls, these, auto_attribs, kw_only
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 389, in _transform_attrs
+    AttrsClass = _make_attr_tuple_class(cls.__name__, attr_names)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 254, in _make_attr_tuple_class
+    eval(compile("\n".join(attr_class_template), "", "exec"), globs)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 233, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 962, in wrap
+    is_exc,
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 463, in __init__
+    cls, these, auto_attribs, kw_only
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 389, in _transform_attrs
+    AttrsClass = _make_attr_tuple_class(cls.__name__, attr_names)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 254, in _make_attr_tuple_class
+    eval(compile("\n".join(attr_class_template), "", "exec"), globs)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 228, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 962, in wrap
+    is_exc,
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 463, in __init__
+    cls, these, auto_attribs, kw_only
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 389, in _transform_attrs
+    AttrsClass = _make_attr_tuple_class(cls.__name__, attr_names)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 254, in _make_attr_tuple_class
+    eval(compile("\n".join(attr_class_template), "", "exec"), globs)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 543, in <module>
+    _reset_cache()
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 273, in _reset_cache
+    CFUNCTYPE(c_int)(lambda: None)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 32, in <module>
+    from .iterators import HistoryIterator
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/iterators.py", line 33, in <module>
+    from .audit_logs import AuditLogEntry
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/audit_logs.py", line 27, in <module>
+    from . import utils, enums
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 294, in <module>
+    class AuditLogAction(Enum):
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 73, in __new__
+    value_cls = _create_value_cls(name)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 59, in _create_value_cls
+    cls = namedtuple('_EnumValue_' + name, 'name value')
+  File "/usr/lib/python3.7/collections/__init__.py", line 397, in namedtuple
+    exec(s, namespace)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 40, in <module>
+    from .voice_client import VoiceClient, VoiceProtocol
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/voice_client.py", line 48, in <module>
+    from . import opus, utils
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/opus.py", line 28, in <module>
+    import ctypes
+  File "/usr/lib/python3.7/ctypes/__init__.py", line 7, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: /usr/lib/python3.7/lib-dynload/_ctypes.cpython-37m-x86_64-linux-gnu.so: failed to map segment from shared object
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 63, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 29, in <module>
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 32, in <module>
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/iterators.py", line 33, in <module>
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 228, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 962, in wrap
+    is_exc,
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 463, in __init__
+    cls, these, auto_attribs, kw_only
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 389, in _transform_attrs
+    AttrsClass = _make_attr_tuple_class(cls.__name__, attr_names)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 254, in _make_attr_tuple_class
+    eval(compile("\n".join(attr_class_template), "", "exec"), globs)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 35, in <module>
+    from .user import User, Profile
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/user.py", line 29, in <module>
+    import discord.abc
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/abc.py", line 32, in <module>
+    from .iterators import HistoryIterator
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/iterators.py", line 33, in <module>
+    from .audit_logs import AuditLogEntry
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/audit_logs.py", line 27, in <module>
+    from . import utils, enums
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 294, in <module>
+    class AuditLogAction(Enum):
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 73, in __new__
+    value_cls = _create_value_cls(name)
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/enums.py", line 59, in _create_value_cls
+    cls = namedtuple('_EnumValue_' + name, 'name value')
+  File "/usr/lib/python3.7/collections/__init__.py", line 397, in namedtuple
+    exec(s, namespace)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 93, in <module>
+    from .tracing import Trace, TraceConfig
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/tracing.py", line 228, in <module>
+    @attr.s(frozen=True, slots=True)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 962, in wrap
+    is_exc,
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 463, in __init__
+    cls, these, auto_attribs, kw_only
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 389, in _transform_attrs
+    AttrsClass = _make_attr_tuple_class(cls.__name__, attr_names)
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/_make.py", line 254, in _make_attr_tuple_class
+    eval(compile("\n".join(attr_class_template), "", "exec"), globs)
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 73, in <module>
+    from .cookiejar import CookieJar
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/cookiejar.py", line 31, in <module>
+    CookieItem = Union[str, 'Morsel[str]']
+  File "/usr/lib/python3.7/typing.py", line 248, in inner
+    return cached(*args, **kwds)
+  File "/usr/lib/python3.7/typing.py", line 348, in __getitem__
+    parameters = tuple(_type_check(p, msg) for p in parameters)
+  File "/usr/lib/python3.7/typing.py", line 348, in <genexpr>
+    parameters = tuple(_type_check(p, msg) for p in parameters)
+  File "/usr/lib/python3.7/typing.py", line 129, in _type_check
+    return ForwardRef(arg)
+  File "/usr/lib/python3.7/typing.py", line 446, in __init__
+    code = compile(arg, '<string>', 'eval')
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 63, in <module>
+    from .client_reqrep import ClientRequest as ClientRequest
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 663, in <module>
+    class ClientResponse(HeadersMixin):
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 683, in ClientResponse
+    continue100: Optional['asyncio.Future[bool]'],
+  File "/usr/lib/python3.7/typing.py", line 248, in inner
+    return cached(*args, **kwds)
+  File "/usr/lib/python3.7/typing.py", line 354, in __getitem__
+    arg = _type_check(parameters, "Optional[t] requires a single type.")
+  File "/usr/lib/python3.7/typing.py", line 129, in _type_check
+    return ForwardRef(arg)
+  File "/usr/lib/python3.7/typing.py", line 446, in __init__
+    code = compile(arg, '<string>', 'eval')
+MemoryError
+Traceback (most recent call last):
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 69, in <module>
+    import cchardet as chardet
+ModuleNotFoundError: No module named 'cchardet'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 63, in <module>
+    from .client_reqrep import ClientRequest as ClientRequest
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 71, in <module>
+    import chardet
+  File "/usr/lib/python3/dist-packages/chardet/__init__.py", line 20, in <module>
+    from .universaldetector import UniversalDetector
+  File "/usr/lib/python3/dist-packages/chardet/universaldetector.py", line 48, in <module>
+    from .sbcsgroupprober import SBCSGroupProber
+  File "/usr/lib/python3/dist-packages/chardet/sbcsgroupprober.py", line 31, in <module>
+    from .langcyrillicmodel import (Win1251CyrillicModel, Koi8rModel,
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 917, in get_data
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 69, in <module>
+    from .connector import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/connector.py", line 689, in <module>
+    class TCPConnector(BaseConnector):
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/connector.py", line 919, in TCPConnector
+    req: 'ClientRequest') -> Optional['Fingerprint']:
+  File "/usr/lib/python3.7/typing.py", line 248, in inner
+    return cached(*args, **kwds)
+  File "/usr/lib/python3.7/typing.py", line 354, in __getitem__
+    arg = _type_check(parameters, "Optional[t] requires a single type.")
+  File "/usr/lib/python3.7/typing.py", line 129, in _type_check
+    return ForwardRef(arg)
+  File "/usr/lib/python3.7/typing.py", line 446, in __init__
+    code = compile(arg, '<string>', 'eval')
+MemoryError
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 344, in connect
+    ssl_context=context)
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 344, in ssl_wrap_socket
+    return context.wrap_socket(sock, server_hostname=server_hostname)
+  File "/usr/lib/python3.7/ssl.py", line 412, in wrap_socket
+    session=session
+  File "/usr/lib/python3.7/ssl.py", line 853, in _create
+    self.do_handshake()
+  File "/usr/lib/python3.7/ssl.py", line 1117, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLError: [SSL] malloc failure (_ssl.c:1056)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='ll.thespacedevs.com', port=443): Max retries exceeded with url: /2.0.0/launch/upcoming?mode=list (Caused by SSLError(SSLError(1, '[SSL] malloc failure (_ssl.c:1056)')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "print_launches.py", line 6, in <module>
+    import get_launches
+  File "/home/finn/STM32-Discord-Bot/get_launches.py", line 91, in <module>
+    update_launches()
+  File "/home/finn/STM32-Discord-Bot/get_launches.py", line 87, in update_launches
+    launch_data = get_launch_json()
+  File "/home/finn/STM32-Discord-Bot/get_launches.py", line 18, in get_launch_json
+    requestData = requests.get('https://ll.thespacedevs.com/2.0.0/launch/upcoming?mode=list')
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='ll.thespacedevs.com', port=443): Max retries exceeded with url: /2.0.0/launch/upcoming?mode=list (Caused by SSLError(SSLError(1, '[SSL] malloc failure (_ssl.c:1056)')))
+Traceback (most recent call last):
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 69, in <module>
+    import cchardet as chardet
+ModuleNotFoundError: No module named 'cchardet'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 63, in <module>
+    from .client_reqrep import ClientRequest as ClientRequest
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 71, in <module>
+    import chardet
+  File "/usr/lib/python3/dist-packages/chardet/__init__.py", line 20, in <module>
+    from .universaldetector import UniversalDetector
+  File "/usr/lib/python3/dist-packages/chardet/universaldetector.py", line 48, in <module>
+    from .sbcsgroupprober import SBCSGroupProber
+  File "/usr/lib/python3/dist-packages/chardet/sbcsgroupprober.py", line 37, in <module>
+    from .langthaimodel import TIS620ThaiModel
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 28, in <module>
+    import attr
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/__init__.py", line 5, in <module>
+    from . import converters, exceptions, filters, validators
+  File "/home/finn/.local/lib/python3.7/site-packages/attr/converters.py", line 7, in <module>
+    from ._make import NOTHING, Factory
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 917, in get_data
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 27, in <module>
+  File "/usr/lib/python3.7/asyncio/__init__.py", line 8, in <module>
+    from .base_events import *
+  File "/usr/lib/python3.7/asyncio/base_events.py", line 33, in <module>
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 857, in get_code
+  File "<frozen importlib._bootstrap_external>", line 525, in _compile_bytecode
+MemoryError
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 321, in ssl_wrap_socket
+    context.load_verify_locations(ca_certs, ca_cert_dir)
+OSError: [Errno 12] Cannot allocate memory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 343, in _make_request
+    self._validate_conn(conn)
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 841, in _validate_conn
+    conn.connect()
+  File "/usr/lib/python3/dist-packages/urllib3/connection.py", line 344, in connect
+    ssl_context=context)
+  File "/usr/lib/python3/dist-packages/urllib3/util/ssl_.py", line 323, in ssl_wrap_socket
+    raise SSLError(e)
+urllib3.exceptions.SSLError: [Errno 12] Cannot allocate memory
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 449, in send
+    timeout=timeout
+  File "/usr/lib/python3/dist-packages/urllib3/connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "/usr/lib/python3/dist-packages/urllib3/util/retry.py", line 398, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='ll.thespacedevs.com', port=443): Max retries exceeded with url: /2.0.0/launch/upcoming?mode=list (Caused by SSLError(OSError(12, 'Cannot allocate memory')))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "print_launches.py", line 6, in <module>
+    import get_launches
+  File "/home/finn/STM32-Discord-Bot/get_launches.py", line 91, in <module>
+    update_launches()
+  File "/home/finn/STM32-Discord-Bot/get_launches.py", line 87, in update_launches
+    launch_data = get_launch_json()
+  File "/home/finn/STM32-Discord-Bot/get_launches.py", line 18, in get_launch_json
+    requestData = requests.get('https://ll.thespacedevs.com/2.0.0/launch/upcoming?mode=list')
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 75, in get
+    return request('get', url, params=params, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "/usr/lib/python3/dist-packages/requests/sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "/usr/lib/python3/dist-packages/requests/adapters.py", line 514, in send
+    raise SSLError(e, request=request)
+requests.exceptions.SSLError: HTTPSConnectionPool(host='ll.thespacedevs.com', port=443): Max retries exceeded with url: /2.0.0/launch/upcoming?mode=list (Caused by SSLError(OSError(12, 'Cannot allocate memory')))
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 33, in <module>
+    import aiohttp
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/__init__.py", line 6, in <module>
+    from .client import BaseConnector as BaseConnector
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client.py", line 63, in <module>
+    from .client_reqrep import ClientRequest as ClientRequest
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 205, in <module>
+    class ClientRequest:
+  File "/home/finn/.local/lib/python3.7/site-packages/aiohttp/client_reqrep.py", line 251, in ClientRequest
+    traces: Optional[List['Trace']]=None):
+  File "/usr/lib/python3.7/typing.py", line 248, in inner
+    return cached(*args, **kwds)
+  File "/usr/lib/python3.7/typing.py", line 626, in __getitem__
+    params = tuple(_type_check(p, msg) for p in params)
+  File "/usr/lib/python3.7/typing.py", line 626, in <genexpr>
+    params = tuple(_type_check(p, msg) for p in params)
+  File "/usr/lib/python3.7/typing.py", line 129, in _type_check
+    return ForwardRef(arg)
+  File "/usr/lib/python3.7/typing.py", line 446, in __init__
+    code = compile(arg, '<string>', 'eval')
+MemoryError
+Traceback (most recent call last):
+  File "print_launches.py", line 5, in <module>
+    import discord
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/__init__.py", line 25, in <module>
+    from .client import Client
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/client.py", line 49, in <module>
+    from .state import ConnectionState
+  File "/home/finn/.local/lib/python3.7/site-packages/discord/state.py", line 46, in <module>
+    from .message import Message
+  File "<frozen importlib._bootstrap>", line 983, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 967, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 677, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 818, in get_code
+  File "<frozen importlib._bootstrap_external>", line 917, in get_data
+MemoryError
