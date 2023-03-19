@@ -1,33 +1,8 @@
 {
-    "count": 276,
+    "count": 275,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "bd1d5c2b-5a73-4557-9b92-c16b916c8bbd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bd1d5c2b-5a73-4557-9b92-c16b916c8bbd/",
-            "launch_library_id": 2083,
-            "slug": "falcon-9-block-5-ses-18-ses-19",
-            "name": "Falcon 9 Block 5 | SES-18 & SES-19",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-03-17T23:38:00Z",
-            "window_end": "2023-03-18T00:16:00Z",
-            "window_start": "2023-03-17T23:38:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SES-18 & SES-19",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1069",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230317193600.jpeg",
-            "infographic": null
-        },
         {
             "id": "8089a091-9b40-45d4-b68d-322b49a2bcba",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8089a091-9b40-45d4-b68d-322b49a2bcba/",
@@ -113,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-03-24T13:07:00Z",
-            "window_end": "2023-03-24T13:07:00Z",
-            "window_start": "2023-03-24T13:07:00Z",
+            "net": "2023-03-24T15:33:00Z",
+            "window_end": "2023-03-24T15:33:00Z",
+            "window_start": "2023-03-24T15:33:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 5-5",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": "MX Launchers",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4066e51e-93ce-46f7-9806-9d2d712107a6/",
+            "launch_library_id": 1113,
+            "slug": "ariane-5-eca-juice-jupiter-icy-moons-explorer",
+            "name": "Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-04-13T12:15:00Z",
+            "window_end": "2023-04-13T12:15:00Z",
+            "window_start": "2023-04-13T12:15:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "JUICE (JUpiter ICy moons Explorer)",
+            "mission_type": "Planetary Science",
+            "pad": "Ariane Launch Area 3",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Helio-N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
             "infographic": null
         }
     ]
