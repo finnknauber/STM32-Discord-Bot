@@ -1,5 +1,5 @@
 {
-    "count": 280,
+    "count": 281,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,15 +7,15 @@
             "id": "6321fcb8-9d97-499c-9564-e58477f70fe5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6321fcb8-9d97-499c-9564-e58477f70fe5/",
             "launch_library_id": null,
-            "slug": "gslv-mk-iii-oneweb-18",
-            "name": "GSLV Mk III | OneWeb 18",
+            "slug": "lvm-3-oneweb-18",
+            "name": "LVM-3 | OneWeb 18",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-03-26T03:30:00Z",
-            "window_end": "2023-03-26T03:30:00Z",
-            "window_start": "2023-03-26T03:30:00Z",
+            "net": "2023-03-26T03:30:20Z",
+            "window_end": "2023-03-26T03:30:20Z",
+            "window_start": "2023-03-26T03:30:20Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "OneWeb 18",
             "mission_type": "Communications",
@@ -113,14 +113,14 @@
                 "name": "TBD"
             },
             "net": "2023-03-29T20:11:00Z",
-            "window_end": "2023-03-30T00:36:00Z",
+            "window_end": "2023-03-30T23:54:00Z",
             "window_start": "2023-03-29T20:01:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 5-10",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1077",
             "orbit": "LEO",
@@ -177,6 +177,30 @@
             "infographic": null
         },
         {
+            "id": "c67f0f61-3a4b-4adb-af2b-3c02a1ff6055",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c67f0f61-3a4b-4adb-af2b-3c02a1ff6055/",
+            "launch_library_id": null,
+            "slug": "hyperbola-1-unknown-payload",
+            "name": "Hyperbola-1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-04-02T06:00:00Z",
+            "window_end": "2023-04-02T09:00:00Z",
+            "window_start": "2023-04-02T03:00:00Z",
+            "lsp_name": "iSpace",
+            "mission": null,
+            "pad": "Unknown Pad",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20190724014013.jpg",
+            "infographic": null
+        },
+        {
             "id": "89931acb-0ffe-42b6-8f59-e339d17a1d77",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/89931acb-0ffe-42b6-8f59-e339d17a1d77/",
             "launch_library_id": 2050,
@@ -224,31 +248,6 @@
             "launcher": "B1063",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4066e51e-93ce-46f7-9806-9d2d712107a6/",
-            "launch_library_id": 1113,
-            "slug": "ariane-5-eca-juice-jupiter-icy-moons-explorer",
-            "name": "Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-04-13T12:15:01Z",
-            "window_end": "2023-04-13T12:15:01Z",
-            "window_start": "2023-04-13T12:15:01Z",
-            "lsp_name": "Arianespace",
-            "mission": "JUICE (JUpiter ICy moons Explorer)",
-            "mission_type": "Planetary Science",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Helio-N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
             "infographic": null
         }
     ]
