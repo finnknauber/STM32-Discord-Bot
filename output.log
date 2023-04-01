@@ -174,3 +174,10 @@ Traceback (most recent call last):
   File "/usr/lib/python3.7/ssl.py", line 767, in unwrap
     return self._sslobj.shutdown()
 ssl.SSLError: [SSL: KRB5_S_INIT] application data after close notify (_ssl.c:2609)
+Connected to Discord!
+Connected to Discord!
+Connected to Discord!
+Connected to Discord!
+Connected to Discord!
+Connected to Discord!
+Connected to Discord!
