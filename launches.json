@@ -7,23 +7,24 @@
             "id": "c67f0f61-3a4b-4adb-af2b-3c02a1ff6055",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c67f0f61-3a4b-4adb-af2b-3c02a1ff6055/",
             "launch_library_id": null,
-            "slug": "hyperbola-1-unknown-payload",
-            "name": "Hyperbola-1 | Unknown Payload",
+            "slug": "hyperbola-1-dummy-payload",
+            "name": "Hyperbola-1 | Dummy Payload",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-04-07T04:10:00Z",
+            "net": "2023-04-07T04:00:00Z",
             "window_end": "2023-04-07T06:25:00Z",
             "window_start": "2023-04-07T03:54:00Z",
             "lsp_name": "iSpace",
-            "mission": null,
+            "mission": "Dummy Payload",
+            "mission_type": "Test Flight",
             "pad": "Unknown Pad",
             "location": "Jiuquan, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20230403194326.png",
             "infographic": null
         },
@@ -34,8 +35,8 @@
             "slug": "falcon-9-block-5-intelsat-40e",
             "name": "Falcon 9 Block 5 | Intelsat 40e",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-04-07T04:30:00Z",
             "window_end": "2023-04-07T06:29:00Z",
@@ -46,7 +47,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1076",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
