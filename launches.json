@@ -54,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "82838641-de38-432c-b9d6-c967d3c01663",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/82838641-de38-432c-b9d6-c967d3c01663/",
+            "launch_library_id": 1421,
+            "slug": "long-march-4b-fengyun-3g",
+            "name": "Long March 4B | Fengyun-3G",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-04-16T01:40:00Z",
+            "window_end": "2023-04-16T01:51:00Z",
+            "window_start": "2023-04-16T01:28:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Fengyun-3G",
+            "mission_type": "Earth Science",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190430065008.jpg",
+            "infographic": null
+        },
+        {
             "id": "e32d375f-0d6e-4e54-b4f2-2b49db657fca",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e32d375f-0d6e-4e54-b4f2-2b49db657fca/",
             "launch_library_id": null,
@@ -74,7 +99,7 @@
             "landing": "GOM",
             "landing_success": 0,
             "launcher": "Booster 7",
-            "orbit": "LEO",
+            "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20221107221509.jpeg",
             "infographic": null
         },
@@ -145,7 +170,7 @@
             "mission": "TeLEOS-2",
             "mission_type": "Earth Science",
             "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Sriharikota, Republic of India",
+            "location": "Satish Dhawan Space Centre, India",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -226,31 +251,6 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221102115051.png",
-            "infographic": null
-        },
-        {
-            "id": "5fa79e26-9ada-4a81-9735-c0b0a96a157a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5fa79e26-9ada-4a81-9735-c0b0a96a157a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-2-6",
-            "name": "Falcon 9 Block 5 | Starlink Group 2-6",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-04-30T00:00:00Z",
-            "window_end": "2023-04-30T00:00:00Z",
-            "window_start": "2023-04-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 2-6",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209220501.png",
             "infographic": null
         }
     ]
