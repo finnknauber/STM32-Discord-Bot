@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "d8bd2b25-129b-4ab7-95d9-fb8ad1fdd73e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d8bd2b25-129b-4ab7-95d9-fb8ad1fdd73e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-transporter-7-dedicated-sso-rides",
-            "name": "Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-04-14T06:47:49Z",
-            "window_end": "2023-04-14T08:11:00Z",
-            "window_start": "2023-04-14T06:10:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Transporter 7 (Dedicated SSO Rideshare)",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
-            "landing_success": 0,
-            "launcher": "B1063",
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
             "id": "4066e51e-93ce-46f7-9806-9d2d712107a6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4066e51e-93ce-46f7-9806-9d2d712107a6/",
             "launch_library_id": 1113,
             "slug": "ariane-5-eca-juice-jupiter-icy-moons-explorer",
             "name": "Ariane 5 ECA+ | JUICE (JUpiter ICy moons Explorer)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-04-14T12:14:29Z",
             "window_end": "2023-04-14T12:14:29Z",
@@ -51,6 +26,31 @@
             "launcher": null,
             "orbit": "Helio-N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d8bd2b25-129b-4ab7-95d9-fb8ad1fdd73e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d8bd2b25-129b-4ab7-95d9-fb8ad1fdd73e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-transporter-7-dedicated-sso-rides",
+            "name": "Falcon 9 Block 5 | Transporter 7 (Dedicated SSO Rideshare)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-04-15T06:47:00Z",
+            "window_end": "2023-04-15T06:47:00Z",
+            "window_start": "2023-04-15T06:47:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Transporter 7 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "B1063",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
