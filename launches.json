@@ -10,8 +10,8 @@
             "slug": "pslv-ca-teleos-2",
             "name": "PSLV-CA | TeLEOS-2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-04-22T08:50:00Z",
             "window_end": "2023-04-22T08:50:00Z",
