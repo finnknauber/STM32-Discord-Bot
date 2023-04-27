@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-3-5",
             "name": "Falcon 9 Block 5 | Starlink Group 3-5",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-04-27T13:40:50Z",
             "window_end": "2023-04-27T13:40:50Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209214919.png",
@@ -60,8 +60,8 @@
             "slug": "falcon-9-block-5-o3b-mpower-3-4",
             "name": "Falcon 9 Block 5 | O3b mPower 3 & 4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-04-28T21:12:00Z",
             "window_end": "2023-04-28T22:40:00Z",
@@ -76,30 +76,6 @@
             "launcher": "Unknown F9",
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "4fbbd174-e97e-41e8-8bc5-4e340af00b44",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4fbbd174-e97e-41e8-8bc5-4e340af00b44/",
-            "launch_library_id": null,
-            "slug": "kuaizhou-1a-unknown-payload",
-            "name": "Kuaizhou-1A | Unknown Payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-04-30T00:00:00Z",
-            "window_end": "2023-04-30T00:00:00Z",
-            "window_start": "2023-04-30T00:00:00Z",
-            "lsp_name": "ExPace",
-            "mission": null,
-            "pad": "Unknown Pad",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -187,9 +163,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-05-10T14:00:00Z",
-            "window_end": "2023-05-10T15:00:00Z",
-            "window_start": "2023-05-10T13:00:00Z",
+            "net": "2023-05-10T13:30:00Z",
+            "window_end": "2023-05-10T13:41:00Z",
+            "window_start": "2023-05-10T13:20:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Tianzhou-6",
             "mission_type": "Resupply",
@@ -250,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210525170218.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d5a80dcc-105b-445f-a8c4-394d7c7825ed",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d5a80dcc-105b-445f-a8c4-394d7c7825ed/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-badr-8",
+            "name": "Falcon 9 Block 5 | BADR-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-05-22T03:20:00Z",
+            "window_end": "2023-05-22T03:20:00Z",
+            "window_start": "2023-05-22T03:20:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "BADR-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
