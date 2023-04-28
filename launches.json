@@ -1,31 +1,31 @@
 {
-    "count": 271,
+    "count": 270,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "bb327f29-b9c0-4b07-98a5-0493ab351875",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bb327f29-b9c0-4b07-98a5-0493ab351875/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-3-5",
-            "name": "Falcon 9 Block 5 | Starlink Group 3-5",
+            "id": "ff9b6a09-2b5a-4ca3-934e-c86db21b7a1b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ff9b6a09-2b5a-4ca3-934e-c86db21b7a1b/",
+            "launch_library_id": 1988,
+            "slug": "falcon-9-block-5-o3b-mpower-3-4",
+            "name": "Falcon 9 Block 5 | O3b mPower 3 & 4",
             "status": {
-                "id": 3,
-                "name": "Success"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-04-27T13:40:50Z",
-            "window_end": "2023-04-27T13:40:50Z",
-            "window_start": "2023-04-27T13:40:50Z",
+            "net": "2023-04-28T22:12:00Z",
+            "window_end": "2023-04-28T22:40:00Z",
+            "window_start": "2023-04-28T21:12:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 3-5",
+            "mission": "O3b mPower 3 & 4",
             "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1061",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209214919.png",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "B1078",
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-04-27T23:29:00Z",
-            "window_end": "2023-04-28T00:26:00Z",
-            "window_start": "2023-04-27T23:29:00Z",
+            "net": "2023-04-28T23:29:00Z",
+            "window_end": "2023-04-29T00:26:00Z",
+            "window_start": "2023-04-28T23:29:00Z",
             "lsp_name": "SpaceX",
             "mission": "ViaSat-3 Americas",
             "mission_type": "Communications",
@@ -51,31 +51,6 @@
             "launcher": "MX Launchers",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520heav_image_20230426123306.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ff9b6a09-2b5a-4ca3-934e-c86db21b7a1b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ff9b6a09-2b5a-4ca3-934e-c86db21b7a1b/",
-            "launch_library_id": 1988,
-            "slug": "falcon-9-block-5-o3b-mpower-3-4",
-            "name": "Falcon 9 Block 5 | O3b mPower 3 & 4",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-04-28T21:12:00Z",
-            "window_end": "2023-04-28T22:40:00Z",
-            "window_start": "2023-04-28T21:12:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 3 & 4",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -104,31 +79,6 @@
             "infographic": null
         },
         {
-            "id": "e870fe28-c5d5-4c3d-be4f-aaddd061ea18",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e870fe28-c5d5-4c3d-be4f-aaddd061ea18/",
-            "launch_library_id": null,
-            "slug": "electron-rocket-like-a-hurricane-tropics-2",
-            "name": "Electron | Rocket Like A Hurricane (TROPICS-2)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-05-01T01:00:00Z",
-            "window_end": "2023-05-01T03:00:00Z",
-            "window_start": "2023-05-01T01:00:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "TROPICS-2",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "16e0f780-7d6d-46bc-a0d4-cb23368e3501",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/16e0f780-7d6d-46bc-a0d4-cb23368e3501/",
             "launch_library_id": null,
@@ -151,6 +101,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20221102115051.png",
+            "infographic": null
+        },
+        {
+            "id": "e870fe28-c5d5-4c3d-be4f-aaddd061ea18",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e870fe28-c5d5-4c3d-be4f-aaddd061ea18/",
+            "launch_library_id": null,
+            "slug": "electron-rocket-like-a-hurricane-tropics-2",
+            "name": "Electron | Rocket Like A Hurricane (TROPICS-2)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-05-03T01:00:00Z",
+            "window_end": "2023-05-03T03:00:00Z",
+            "window_start": "2023-05-03T01:00:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "TROPICS-2",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "faa6a885-48f0-4b38-acfa-2c361474a20b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/faa6a885-48f0-4b38-acfa-2c361474a20b/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-progress-ms-23-84p",
+            "name": "Soyuz 2.1a | Progress MS-23 (84P)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-05-24T00:00:00Z",
+            "window_end": "2023-05-24T00:00:00Z",
+            "window_start": "2023-05-24T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Progress MS-23 (84P)",
+            "mission_type": "Resupply",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
             "infographic": null
         }
     ]
