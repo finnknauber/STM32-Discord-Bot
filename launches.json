@@ -1,33 +1,8 @@
 {
-    "count": 270,
+    "count": 269,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ff9b6a09-2b5a-4ca3-934e-c86db21b7a1b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ff9b6a09-2b5a-4ca3-934e-c86db21b7a1b/",
-            "launch_library_id": 1988,
-            "slug": "falcon-9-block-5-o3b-mpower-3-4",
-            "name": "Falcon 9 Block 5 | O3b mPower 3 & 4",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-04-28T22:12:00Z",
-            "window_end": "2023-04-28T22:40:00Z",
-            "window_start": "2023-04-28T21:12:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 3 & 4",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1078",
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
         {
             "id": "8b1067dd-81c6-4bc3-b0f1-45f78963716f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8b1067dd-81c6-4bc3-b0f1-45f78963716f/",
@@ -38,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-04-30T23:29:00Z",
+            "net": "2023-05-01T00:26:00Z",
             "window_end": "2023-05-01T00:26:00Z",
             "window_start": "2023-04-30T23:29:00Z",
             "lsp_name": "SpaceX",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/nuri_image_20211020165148.jpg",
+            "infographic": null
+        },
+        {
+            "id": "8c5c7489-1a64-422c-8ce3-e236efe3d055",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8c5c7489-1a64-422c-8ce3-e236efe3d055/",
+            "launch_library_id": null,
+            "slug": "soyuz-21afregat-m-kondor-fka-no1",
+            "name": "Soyuz 2.1a/Fregat-M | Kondor-FKA No.1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-05-27T00:00:00Z",
+            "window_end": "2023-05-27T00:00:00Z",
+            "window_start": "2023-05-27T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Kondor-FKA No.1",
+            "mission_type": "Earth Science",
+            "pad": "Cosmodrome Site 1S",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
             "infographic": null
         }
     ]
