@@ -23,34 +23,9 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230401174739.png",
-            "infographic": null
-        },
-        {
-            "id": "6d55d3cf-5c95-4c23-8c5e-1da44fbe299d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6d55d3cf-5c95-4c23-8c5e-1da44fbe299d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-iridium-9-oneweb-19",
-            "name": "Falcon 9 Block 5 | Iridium-9 & OneWeb 19",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-05-19T00:00:00Z",
-            "window_end": "2023-05-19T00:00:00Z",
-            "window_start": "2023-05-19T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Iridium-9 & OneWeb 19",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -63,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-05-19T04:00:00Z",
+            "net": "2023-05-19T04:10:00Z",
             "window_end": "2023-05-19T08:20:00Z",
             "window_start": "2023-05-19T04:00:00Z",
             "lsp_name": "SpaceX",
@@ -76,6 +51,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209213900.png",
+            "infographic": null
+        },
+        {
+            "id": "6d55d3cf-5c95-4c23-8c5e-1da44fbe299d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6d55d3cf-5c95-4c23-8c5e-1da44fbe299d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-iridium-9-oneweb-19",
+            "name": "Falcon 9 Block 5 | Iridium-9 & OneWeb 19",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-05-19T12:18:00Z",
+            "window_end": "2023-05-19T14:11:00Z",
+            "window_start": "2023-05-19T12:18:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Iridium-9 & OneWeb 19",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         },
         {
@@ -163,9 +163,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-05-24T12:56:00Z",
-            "window_end": "2023-05-24T12:56:00Z",
-            "window_start": "2023-05-24T12:56:00Z",
+            "net": "2023-05-24T12:56:06Z",
+            "window_end": "2023-05-24T12:56:06Z",
+            "window_start": "2023-05-24T12:56:06Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-23 (84P)",
             "mission_type": "Resupply",
