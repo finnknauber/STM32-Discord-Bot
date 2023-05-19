@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-3",
             "name": "Falcon 9 Block 5 | Starlink Group 6-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-05-19T04:41:30Z",
+            "net": "2023-05-19T06:19:30Z",
             "window_end": "2023-05-19T07:09:00Z",
             "window_start": "2023-05-19T04:41:30Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1076",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209213900.png",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-05-19T13:19:56Z",
-            "window_end": "2023-05-19T13:19:56Z",
-            "window_start": "2023-05-19T13:19:56Z",
+            "net": "2023-05-20T13:16:00Z",
+            "window_end": "2023-05-20T13:16:00Z",
+            "window_start": "2023-05-20T13:16:00Z",
             "lsp_name": "SpaceX",
             "mission": "Iridium-9 & OneWeb 19",
             "mission_type": "Communications",
