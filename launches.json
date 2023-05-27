@@ -1,58 +1,8 @@
 {
-    "count": 292,
+    "count": 290,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "4f77007c-9bb3-4bf4-bab3-937e65f75c45",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4f77007c-9bb3-4bf4-bab3-937e65f75c45/",
-            "launch_library_id": null,
-            "slug": "electron-coming-to-a-storm-near-you-tropics-3",
-            "name": "Electron | Coming To A Storm Near You (TROPICS-3)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-05-26T03:46:00Z",
-            "window_end": "2023-05-26T04:40:00Z",
-            "window_start": "2023-05-26T03:30:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "TROPICS-3",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "8c5c7489-1a64-422c-8ce3-e236efe3d055",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8c5c7489-1a64-422c-8ce3-e236efe3d055/",
-            "launch_library_id": null,
-            "slug": "soyuz-21afregat-m-kondor-fka-no1",
-            "name": "Soyuz 2.1a/Fregat-M | Kondor-FKA No.1",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2023-05-26T21:14:51Z",
-            "window_end": "2023-05-26T21:14:51Z",
-            "window_start": "2023-05-26T21:14:51Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Kondor-FKA No.1",
-            "mission_type": "Earth Science",
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1a_image_20190726062341.png",
-            "infographic": null
-        },
         {
             "id": "d5a80dcc-105b-445f-a8c4-394d7c7825ed",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d5a80dcc-105b-445f-a8c4-394d7c7825ed/",
@@ -60,10 +10,10 @@
             "slug": "falcon-9-block-5-badr-8",
             "name": "Falcon 9 Block 5 | BADR-8",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-05-27T03:25:00Z",
+            "net": "2023-05-27T04:30:00Z",
             "window_end": "2023-05-27T05:32:00Z",
             "window_start": "2023-05-27T03:25:00Z",
             "lsp_name": "SpaceX",
@@ -72,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1062",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
@@ -99,7 +49,7 @@
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "GSO",
+            "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         },
@@ -220,9 +170,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085110.png",
             "infographic": null
@@ -250,6 +200,56 @@
             "launcher": "B1077",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155355.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "5eba4955-6292-4a62-bc07-07443ff4baaa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5eba4955-6292-4a62-bc07-07443ff4baaa/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-11",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-11",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-05T06:15:00Z",
+            "window_end": "2023-06-05T13:06:00Z",
+            "window_start": "2023-06-05T06:15:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-11",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085414.png",
+            "infographic": null
+        },
+        {
+            "id": "1e0c3a19-02a8-481b-9b7e-1392327c1826",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1e0c3a19-02a8-481b-9b7e-1392327c1826/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-transporter-8-dedicated-sso-rides",
+            "name": "Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-08T00:00:00Z",
+            "window_end": "2023-06-08T00:00:00Z",
+            "window_start": "2023-06-08T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Transporter 8 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
