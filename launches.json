@@ -1,58 +1,8 @@
 {
-    "count": 290,
+    "count": 289,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "2f8aff8b-85da-42bf-84eb-6d3b10184c44",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2f8aff8b-85da-42bf-84eb-6d3b10184c44/",
-            "launch_library_id": null,
-            "slug": "long-march-2fg-shenzhou-16",
-            "name": "Long March 2F/G | Shenzhou 16",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-05-30T01:31:10Z",
-            "window_end": "2023-05-30T02:01:00Z",
-            "window_start": "2023-05-30T01:21:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Shenzhou 16",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Area 4 (SLS-1 / 921)",
-            "location": "Jiuquan, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b9fe915a-4359-4cc4-a23e-a9a5d8cf7856",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fe915a-4359-4cc4-a23e-a9a5d8cf7856/",
-            "launch_library_id": null,
-            "slug": "miura-1-sn1-test-flight",
-            "name": "Miura 1 | SN1 Test Flight",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-05-31T04:30:00Z",
-            "window_end": "2023-05-31T08:00:00Z",
-            "window_start": "2023-05-30T18:00:00Z",
-            "lsp_name": "Payload Aerospace S.L.",
-            "mission": "SN1 Test Flight",
-            "mission_type": "Test Flight",
-            "pad": "M\u00e9dano del Loro",
-            "location": "El Arenosillo Test Centre",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
-            "infographic": null
-        },
         {
             "id": "5fa79e26-9ada-4a81-9735-c0b0a96a157a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5fa79e26-9ada-4a81-9735-c0b0a96a157a/",
@@ -60,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-2-10",
             "name": "Falcon 9 Block 5 | Starlink Group 2-10",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-05-31T06:02:30Z",
             "window_end": "2023-05-31T06:02:30Z",
@@ -72,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230209220501.png",
@@ -96,7 +46,7 @@
             "mission_type": "Resupply",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "B1077",
             "orbit": "LEO",
@@ -121,7 +71,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "B1078",
             "orbit": "LEO",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "8cfa00a5-a72e-48b7-80bd-944664688f59",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8cfa00a5-a72e-48b7-80bd-944664688f59/",
+            "launch_library_id": 1976,
+            "slug": "delta-iv-heavy-nrol-68",
+            "name": "Delta IV Heavy | NROL-68",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-21T00:00:00Z",
+            "window_end": "2023-06-21T00:00:00Z",
+            "window_start": "2023-06-21T00:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-68",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 37B",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
+            "infographic": null
+        },
+        {
+            "id": "6e5725b3-d0e9-4484-9d79-514fe8b978be",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6e5725b3-d0e9-4484-9d79-514fe8b978be/",
+            "launch_library_id": 1955,
+            "slug": "soyuz-21bfregat-m-meteor-m-no2-3",
+            "name": "Soyuz 2.1b/Fregat-M | Meteor-M No.2-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-27T11:34:00Z",
+            "window_end": "2023-06-27T11:34:00Z",
+            "window_start": "2023-06-27T11:34:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Meteor-M No.2-3",
+            "mission_type": "Earth Science",
+            "pad": "Cosmodrome Site 1S",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
             "infographic": null
         }
     ]
