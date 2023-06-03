@@ -4,43 +4,18 @@
     "previous": null,
     "results": [
         {
-            "id": "e53eecd6-184d-440a-955a-70fe0fdccbd6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e53eecd6-184d-440a-955a-70fe0fdccbd6/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-28",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-28",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-06-03T16:35:00Z",
-            "window_end": "2023-06-03T16:35:00Z",
-            "window_start": "2023-06-03T16:35:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-28",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 0,
-            "launcher": "B1077",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155355.jpeg",
-            "infographic": null
-        },
-        {
             "id": "066250e1-a3fe-4483-88d7-8b80c7251a5f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/066250e1-a3fe-4483-88d7-8b80c7251a5f/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-6-4",
             "name": "Falcon 9 Block 5 | Starlink Group 6-4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-06-04T09:58:00Z",
-            "window_end": "2023-06-04T09:58:00Z",
-            "window_start": "2023-06-04T09:58:00Z",
+            "net": "2023-06-04T09:56:00Z",
+            "window_end": "2023-06-04T09:56:00Z",
+            "window_start": "2023-06-04T09:56:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-4",
             "mission_type": "Communications",
@@ -51,6 +26,31 @@
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085110.png",
+            "infographic": null
+        },
+        {
+            "id": "e53eecd6-184d-440a-955a-70fe0fdccbd6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e53eecd6-184d-440a-955a-70fe0fdccbd6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-28",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-28",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-06-04T16:12:00Z",
+            "window_end": "2023-06-04T16:12:00Z",
+            "window_start": "2023-06-04T16:12:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-28",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "B1077",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155355.jpeg",
             "infographic": null
         },
         {
