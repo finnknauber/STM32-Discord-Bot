@@ -10,11 +10,11 @@
             "slug": "falcon-9-block-5-starlink-group-6-4",
             "name": "Falcon 9 Block 5 | Starlink Group 6-4",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-04T09:56:00Z",
-            "window_end": "2023-06-04T09:56:00Z",
+            "net": "2023-06-04T12:20:00Z",
+            "window_end": "2023-06-04T12:20:00Z",
             "window_start": "2023-06-04T09:56:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-4",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085110.png",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-06-04T16:12:00Z",
-            "window_end": "2023-06-04T16:12:00Z",
-            "window_start": "2023-06-04T16:12:00Z",
+            "net": "2023-06-05T15:47:00Z",
+            "window_end": "2023-06-05T15:47:00Z",
+            "window_start": "2023-06-05T15:47:00Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-28",
             "mission_type": "Resupply",
@@ -79,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "5eba4955-6292-4a62-bc07-07443ff4baaa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5eba4955-6292-4a62-bc07-07443ff4baaa/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-11",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-11",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-09T07:56:00Z",
+            "window_end": "2023-06-09T11:25:00Z",
+            "window_start": "2023-06-09T07:56:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-11",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085414.png",
+            "infographic": null
+        },
+        {
             "id": "1e0c3a19-02a8-481b-9b7e-1392327c1826",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1e0c3a19-02a8-481b-9b7e-1392327c1826/",
             "launch_library_id": null,
@@ -88,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-06-08T00:00:00Z",
-            "window_end": "2023-06-08T00:00:00Z",
-            "window_start": "2023-06-08T00:00:00Z",
+            "net": "2023-06-12T00:00:00Z",
+            "window_end": "2023-06-12T00:00:00Z",
+            "window_start": "2023-06-12T00:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Transporter 8 (Dedicated SSO Rideshare)",
             "mission_type": "Dedicated Rideshare",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082449.png",
-            "infographic": null
-        },
-        {
-            "id": "12e9acca-5aee-4751-9083-5e205d9528c8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/12e9acca-5aee-4751-9083-5e205d9528c8/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-9",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-9",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-06-30T00:00:00Z",
-            "window_end": "2023-06-30T00:00:00Z",
-            "window_start": "2023-06-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-9",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090440.png",
             "infographic": null
         }
     ]
