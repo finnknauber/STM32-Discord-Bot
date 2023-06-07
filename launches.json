@@ -10,10 +10,10 @@
             "slug": "kinetica-1-flight-2",
             "name": "Kinetica 1 | Flight 2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-07T04:12:00Z",
+            "net": "2023-06-07T04:10:02Z",
             "window_end": "2023-06-07T04:24:00Z",
             "window_start": "2023-06-07T04:01:00Z",
             "lsp_name": "CAS Space",
@@ -62,17 +62,17 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-06-10T07:56:00Z",
-            "window_end": "2023-06-10T11:25:00Z",
-            "window_start": "2023-06-10T07:56:00Z",
+            "net": "2023-06-10T07:41:00Z",
+            "window_end": "2023-06-10T07:41:00Z",
+            "window_start": "2023-06-10T07:41:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 5-11",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085414.png",
             "infographic": null
