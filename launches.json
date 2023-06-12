@@ -10,22 +10,22 @@
             "slug": "falcon-9-block-5-starlink-group-5-11",
             "name": "Falcon 9 Block 5 | Starlink Group 5-11",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-12T07:10:00Z",
+            "net": "2023-06-12T07:10:50Z",
             "window_end": "2023-06-12T08:52:00Z",
-            "window_start": "2023-06-12T07:10:00Z",
+            "window_start": "2023-06-12T07:10:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 5-11",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085414.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230612145755.png",
             "infographic": null
         },
         {
@@ -35,10 +35,10 @@
             "slug": "falcon-9-block-5-transporter-8-dedicated-sso-rides",
             "name": "Falcon 9 Block 5 | Transporter 8 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2023-06-12T21:19:00Z",
+            "net": "2023-06-12T21:35:00Z",
             "window_end": "2023-06-12T22:16:00Z",
             "window_start": "2023-06-12T21:19:00Z",
             "lsp_name": "SpaceX",
@@ -47,10 +47,10 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "LZ-4",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1071",
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230612055735.jpeg",
             "infographic": null
         },
         {
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-06-19T21:54:00Z",
-            "window_end": "2023-06-19T21:54:00Z",
-            "window_start": "2023-06-19T21:54:00Z",
+            "net": "2023-06-18T21:54:00Z",
+            "window_end": "2023-06-18T21:54:00Z",
+            "window_start": "2023-06-18T21:54:00Z",
             "lsp_name": "SpaceX",
             "mission": "Satria-1",
             "mission_type": "Communications",
