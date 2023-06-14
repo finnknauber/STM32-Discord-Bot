@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-06-18T21:54:00Z",
-            "window_end": "2023-06-18T21:54:00Z",
-            "window_start": "2023-06-18T21:54:00Z",
+            "net": "2023-06-18T22:04:00Z",
+            "window_end": "2023-06-18T22:04:00Z",
+            "window_start": "2023-06-18T22:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "Satria-1",
             "mission_type": "Communications",
@@ -85,10 +85,10 @@
             "slug": "delta-iv-heavy-nrol-68",
             "name": "Delta IV Heavy | NROL-68",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-06-21T07:00:00Z",
+            "net": "2023-06-21T07:29:00Z",
             "window_end": "2023-06-21T11:45:00Z",
             "window_start": "2023-06-21T07:00:00Z",
             "lsp_name": "United Launch Alliance",
