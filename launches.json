@@ -1,5 +1,5 @@
 {
-    "count": 299,
+    "count": 302,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -8,12 +8,12 @@
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5608dccc-b00a-4460-bb97-0b67f2d07f76/",
             "launch_library_id": null,
             "slug": "long-march-2d-41-x-jilin-1",
-            "name": "Long March 2D | 41 x Jilin-1 (?)",
+            "name": "Long March 2D | 41 x Jilin-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-15T05:45:00Z",
+            "net": "2023-06-15T05:30:00Z",
             "window_end": "2023-06-15T06:05:00Z",
             "window_start": "2023-06-15T05:23:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -29,28 +29,28 @@
             "infographic": null
         },
         {
-            "id": "e3f8e755-0867-413a-a05a-15ca06ce7fa3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e3f8e755-0867-413a-a05a-15ca06ce7fa3/",
+            "id": "2ec7425b-743d-4c52-8712-a19b1fbd0a9e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ec7425b-743d-4c52-8712-a19b1fbd0a9e/",
             "launch_library_id": null,
-            "slug": "ariane-5-eca-syracuse-4b-heinrich-hertz-h2sat",
-            "name": "Ariane 5 ECA+ | Syracuse 4B & Heinrich Hertz (H2Sat)",
+            "slug": "haste-dynamo-a",
+            "name": "HASTE | DYNAMO-A",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-06-16T21:26:00Z",
-            "window_end": "2023-06-16T23:01:00Z",
-            "window_start": "2023-06-16T21:26:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Syracuse 4B & Heinrich Hertz (H2Sat)",
-            "mission_type": "Communications",
-            "pad": "Ariane Launch Area 3",
-            "location": "Kourou, French Guiana",
+            "net": "2023-06-18T00:45:00Z",
+            "window_end": "2023-06-18T04:30:00Z",
+            "window_start": "2023-06-18T00:45:00Z",
+            "lsp_name": "Rocket Lab Ltd",
+            "mission": "DYNAMO-A",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Island, Virginia, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/haste_image_20230615070703.jpg",
             "infographic": null
         },
         {
@@ -64,18 +64,42 @@
                 "name": "TBD"
             },
             "net": "2023-06-18T22:04:00Z",
-            "window_end": "2023-06-18T22:04:00Z",
+            "window_end": "2023-06-19T01:32:00Z",
             "window_start": "2023-06-18T22:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "Satria-1",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "2e69ee31-66a6-4d51-884d-7b4f392acf34",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2e69ee31-66a6-4d51-884d-7b4f392acf34/",
+            "launch_library_id": null,
+            "slug": "long-march-6-unknown-payload",
+            "name": "Long March 6 (?) | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-06-20T03:25:00Z",
+            "window_end": "2023-06-20T03:53:00Z",
+            "window_start": "2023-06-20T03:11:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 16",
+            "location": "Taiyuan, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6_image_20210709074933.jpg",
             "infographic": null
         },
         {
@@ -101,6 +125,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
+            "infographic": null
+        },
+        {
+            "id": "6109337b-0ac2-4a89-a5fe-dba37cb107fe",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6109337b-0ac2-4a89-a5fe-dba37cb107fe/",
+            "launch_library_id": null,
+            "slug": "spaceshiptwo-galactic-01",
+            "name": "SpaceShipTwo | Galactic 01",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-27T00:00:00Z",
+            "window_end": "2023-06-27T00:00:00Z",
+            "window_start": "2023-06-27T00:00:00Z",
+            "lsp_name": "Virgin Galactic",
+            "mission": "Galactic 01",
+            "mission_type": "Biology",
+            "pad": "Spaceport America",
+            "location": "Air launch to Suborbital flight",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
             "infographic": null
         },
         {
@@ -201,56 +250,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-sda-tranche-0b",
-            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-06-30T00:00:00Z",
-            "window_end": "2023-06-30T00:00:00Z",
-            "window_start": "2023-06-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SDA Tranche 0B",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
-            "infographic": null
-        },
-        {
-            "id": "b8f2e028-285c-457d-b807-a6749cfc3af6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8f2e028-285c-457d-b807-a6749cfc3af6/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta003-victus-nox",
-            "name": "Firefly Alpha | FLTA003 (VICTUS NOX)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-06-30T00:00:00Z",
-            "window_end": "2023-06-30T00:00:00Z",
-            "window_start": "2023-06-30T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA003 (VICTUS NOX)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
