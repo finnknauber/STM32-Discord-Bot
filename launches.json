@@ -1,31 +1,31 @@
 {
-    "count": 302,
+    "count": 301,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "5608dccc-b00a-4460-bb97-0b67f2d07f76",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5608dccc-b00a-4460-bb97-0b67f2d07f76/",
+            "id": "b9fe915a-4359-4cc4-a23e-a9a5d8cf7856",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fe915a-4359-4cc4-a23e-a9a5d8cf7856/",
             "launch_library_id": null,
-            "slug": "long-march-2d-41-x-jilin-1",
-            "name": "Long March 2D | 41 x Jilin-1",
+            "slug": "miura-1-sn1-test-flight",
+            "name": "Miura 1 | SN1 Test Flight",
             "status": {
-                "id": 3,
-                "name": "Success"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-06-15T05:30:00Z",
-            "window_end": "2023-06-15T06:05:00Z",
-            "window_start": "2023-06-15T05:23:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "41 x Jilin-1",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan, People's Republic of China",
+            "net": "2023-06-17T00:00:00Z",
+            "window_end": "2023-06-17T08:00:00Z",
+            "window_start": "2023-06-17T00:00:00Z",
+            "lsp_name": "Payload Aerospace S.L.",
+            "mission": "SN1 Test Flight",
+            "mission_type": "Test Flight",
+            "pad": "M\u00e9dano del Loro",
+            "location": "El Arenosillo Test Centre",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
             "infographic": null
         },
         {
@@ -60,11 +60,11 @@
             "slug": "falcon-9-block-5-satria-1",
             "name": "Falcon 9 Block 5 | Satria-1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-06-18T22:04:00Z",
-            "window_end": "2023-06-19T01:32:00Z",
+            "window_end": "2023-06-19T00:22:00Z",
             "window_start": "2023-06-18T22:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "Satria-1",
