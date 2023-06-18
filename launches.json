@@ -10,10 +10,10 @@
             "slug": "haste-dynamo-a",
             "name": "HASTE | DYNAMO-A",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-18T00:45:00Z",
+            "net": "2023-06-18T01:24:00Z",
             "window_end": "2023-06-18T04:30:00Z",
             "window_start": "2023-06-18T00:45:00Z",
             "lsp_name": "Rocket Lab Ltd",
@@ -38,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-06-18T22:04:00Z",
+            "net": "2023-06-18T22:21:00Z",
             "window_end": "2023-06-19T01:02:00Z",
             "window_start": "2023-06-18T22:04:00Z",
             "lsp_name": "SpaceX",
@@ -48,7 +48,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1067",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230617072522.jpeg",
             "infographic": null
@@ -128,6 +128,31 @@
             "infographic": null
         },
         {
+            "id": "168f4cf5-35e9-4e4c-90c3-61f1dcd6975e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/168f4cf5-35e9-4e4c-90c3-61f1dcd6975e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-12",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-12",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-06-23T13:10:00Z",
+            "window_end": "2023-06-23T16:12:00Z",
+            "window_start": "2023-06-23T13:10:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-12",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522064316.png",
+            "infographic": null
+        },
+        {
             "id": "6109337b-0ac2-4a89-a5fe-dba37cb107fe",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6109337b-0ac2-4a89-a5fe-dba37cb107fe/",
             "launch_library_id": null,
@@ -175,31 +200,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz25202.1b_image_20190520165337.jpg",
-            "infographic": null
-        },
-        {
-            "id": "168f4cf5-35e9-4e4c-90c3-61f1dcd6975e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/168f4cf5-35e9-4e4c-90c3-61f1dcd6975e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-5-12",
-            "name": "Falcon 9 Block 5 | Starlink Group 5-12",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-06-30T00:00:00Z",
-            "window_end": "2023-06-30T00:00:00Z",
-            "window_start": "2023-06-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 5-12",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522064316.png",
             "infographic": null
         },
         {
