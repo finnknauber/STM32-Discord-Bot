@@ -1,33 +1,8 @@
 {
-    "count": 303,
+    "count": 302,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "2ec7425b-743d-4c52-8712-a19b1fbd0a9e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ec7425b-743d-4c52-8712-a19b1fbd0a9e/",
-            "launch_library_id": null,
-            "slug": "haste-dynamo-a",
-            "name": "HASTE | DYNAMO-A",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-06-18T01:24:00Z",
-            "window_end": "2023-06-18T04:30:00Z",
-            "window_start": "2023-06-18T00:45:00Z",
-            "lsp_name": "Rocket Lab Ltd",
-            "mission": "DYNAMO-A",
-            "mission_type": "Government/Top Secret",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Island, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/haste_image_20230615070703.jpg",
-            "infographic": null
-        },
         {
             "id": "76e42f7b-6690-41be-95c1-811aab0ccf32",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/76e42f7b-6690-41be-95c1-811aab0ccf32/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-satria-1",
             "name": "Falcon 9 Block 5 | Satria-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-06-18T22:21:00Z",
             "window_end": "2023-06-19T01:02:00Z",
@@ -47,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1067",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230617072522.jpeg",
@@ -122,7 +97,7 @@
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1075",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085708.png",
             "infographic": null
@@ -145,9 +120,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522064316.png",
             "infographic": null
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
+            "infographic": null
+        },
+        {
+            "id": "49d20d1b-18dd-4da6-a061-eacd0156fcc4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/49d20d1b-18dd-4da6-a061-eacd0156fcc4/",
+            "launch_library_id": 1199,
+            "slug": "falcon-9-block-5-euclid",
+            "name": "Falcon 9 Block 5 | Euclid",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-01T15:11:00Z",
+            "window_end": "2023-07-01T15:11:00Z",
+            "window_start": "2023-07-01T15:11:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Euclid",
+            "mission_type": "Astrophysics",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "L2",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
