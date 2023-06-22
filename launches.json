@@ -1,5 +1,5 @@
 {
-    "count": 300,
+    "count": 307,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-5-7",
             "name": "Falcon 9 Block 5 | Starlink Group 5-7",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-06-22T07:19:00Z",
             "window_end": "2023-06-22T07:19:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1075",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503085708.png",
@@ -35,10 +35,10 @@
             "slug": "delta-iv-heavy-nrol-68",
             "name": "Delta IV Heavy | NROL-68",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-22T07:25:00Z",
+            "net": "2023-06-22T09:18:00Z",
             "window_end": "2023-06-22T11:45:00Z",
             "window_start": "2023-06-22T07:00:00Z",
             "lsp_name": "United Launch Alliance",
@@ -50,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/delta_iv_heavy_image_20210426103838.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/delta2520iv25_image_20230622183505.jpeg",
             "infographic": null
         },
         {
@@ -60,10 +60,10 @@
             "slug": "falcon-9-block-5-starlink-group-5-12",
             "name": "Falcon 9 Block 5 | Starlink Group 5-12",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-06-23T13:30:00Z",
+            "net": "2023-06-23T13:56:10Z",
             "window_end": "2023-06-23T16:12:00Z",
             "window_start": "2023-06-23T13:00:00Z",
             "lsp_name": "SpaceX",
@@ -71,9 +71,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
+            "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522064316.png",
             "infographic": null
@@ -204,31 +204,6 @@
             "infographic": null
         },
         {
-            "id": "6f4ed2b9-918d-44e3-a8a9-cfdafc8cf8ce",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6f4ed2b9-918d-44e3-a8a9-cfdafc8cf8ce/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-5",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-5",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-07-06T00:00:00Z",
-            "window_end": "2023-07-06T00:00:00Z",
-            "window_start": "2023-07-06T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-5",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090004.png",
-            "infographic": null
-        },
-        {
             "id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0098c032-73de-4c6f-8d73-5d68b9a12fdf/",
             "launch_library_id": 1585,
@@ -251,6 +226,31 @@
             "launcher": "MX Launchers",
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "78f7c31d-4f29-482a-96d1-390b460a0a02",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/78f7c31d-4f29-482a-96d1-390b460a0a02/",
+            "launch_library_id": null,
+            "slug": "lvm-3-chandrayaan-3",
+            "name": "LVM-3 | Chandrayaan-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-12T08:00:00Z",
+            "window_end": "2023-07-12T10:00:00Z",
+            "window_start": "2023-07-12T08:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "Chandrayaan-3",
+            "mission_type": "Lunar Exploration",
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520iii_image_20190604000938.jpg",
             "infographic": null
         }
     ]
