@@ -35,12 +35,12 @@
             "slug": "spaceshiptwo-galactic-01",
             "name": "SpaceShipTwo | Galactic 01",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-06-29T00:00:00Z",
-            "window_end": "2023-06-29T00:00:00Z",
-            "window_start": "2023-06-29T00:00:00Z",
+            "net": "2023-06-29T15:00:00Z",
+            "window_end": "2023-06-29T15:00:00Z",
+            "window_start": "2023-06-29T15:00:00Z",
             "lsp_name": "Virgin Galactic",
             "mission": "Galactic 01",
             "mission_type": "Biology",
