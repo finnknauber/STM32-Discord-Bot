@@ -1,5 +1,5 @@
 {
-    "count": 303,
+    "count": 302,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "spaceshiptwo-galactic-01",
             "name": "SpaceShipTwo | Galactic 01",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-06-29T15:00:00Z",
-            "window_end": "2023-06-29T15:00:00Z",
-            "window_start": "2023-06-29T15:00:00Z",
+            "net": "2023-06-29T15:28:38Z",
+            "window_end": "2023-06-29T15:28:38Z",
+            "window_start": "2023-06-29T15:28:38Z",
             "lsp_name": "Virgin Galactic",
             "mission": "Galactic 01",
             "mission_type": "Biology",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b8f2e028-285c-457d-b807-a6749cfc3af6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8f2e028-285c-457d-b807-a6749cfc3af6/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta003-victus-nox",
-            "name": "Firefly Alpha | FLTA003 (VICTUS NOX)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-06-30T00:00:00Z",
-            "window_end": "2023-06-30T00:00:00Z",
-            "window_start": "2023-06-30T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA003 (VICTUS NOX)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         },
         {
@@ -101,6 +76,31 @@
             "launcher": null,
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ariane_5_eca25_image_20200220090552.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "5d3e11d7-5d13-4c8c-b94a-c73da97c39a5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5d3e11d7-5d13-4c8c-b94a-c73da97c39a5/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-13",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-06T00:00:00Z",
+            "window_end": "2023-07-06T00:00:00Z",
+            "window_start": "2023-07-06T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092137.png",
             "infographic": null
         },
         {
@@ -219,7 +219,7 @@
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-9",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
+            "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
@@ -229,11 +229,11 @@
             "infographic": null
         },
         {
-            "id": "5d3e11d7-5d13-4c8c-b94a-c73da97c39a5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5d3e11d7-5d13-4c8c-b94a-c73da97c39a5/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-5-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 5-13",
+            "id": "629f10e4-93cc-4b1b-9b2f-53f7d3944fc1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/629f10e4-93cc-4b1b-9b2f-53f7d3944fc1/",
+            "launch_library_id": 1520,
+            "slug": "falcon-9-block-5-worldview-legion-1-2",
+            "name": "Falcon 9 Block 5 | WorldView Legion 1 & 2",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -242,15 +242,15 @@
             "window_end": "2023-07-31T00:00:00Z",
             "window_start": "2023-07-31T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 5-13",
-            "mission_type": "Communications",
+            "mission": "WorldView Legion 1 & 2",
+            "mission_type": "Earth Science",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
+            "landing": null,
+            "landing_success": null,
             "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092137.png",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
             "infographic": null
         }
     ]
