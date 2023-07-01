@@ -10,22 +10,22 @@
             "slug": "falcon-9-block-5-euclid",
             "name": "Falcon 9 Block 5 | Euclid",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-07-01T15:11:00Z",
-            "window_end": "2023-07-01T15:11:00Z",
-            "window_start": "2023-07-01T15:11:00Z",
+            "net": "2023-07-01T15:12:00Z",
+            "window_end": "2023-07-01T15:12:00Z",
+            "window_start": "2023-07-01T15:12:00Z",
             "lsp_name": "SpaceX",
             "mission": "Euclid",
             "mission_type": "Astrophysics",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1080",
             "orbit": "L2",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230630045308.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230701123740.jpg",
             "infographic": null
         },
         {
@@ -88,7 +88,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-09T07:15:00Z",
+            "net": "2023-07-09T07:25:00Z",
             "window_end": "2023-07-09T11:46:00Z",
             "window_start": "2023-07-09T07:15:00Z",
             "lsp_name": "SpaceX",
