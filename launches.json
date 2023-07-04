@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-07-04T21:30:00Z",
-            "window_end": "2023-07-04T23:05:00Z",
-            "window_start": "2023-07-04T21:30:00Z",
+            "net": "2023-07-05T22:00:00Z",
+            "window_end": "2023-07-05T23:05:00Z",
+            "window_start": "2023-07-05T22:00:00Z",
             "lsp_name": "Arianespace",
             "mission": "Syracuse 4B & Heinrich Hertz (H2Sat)",
             "mission_type": "Communications",
@@ -38,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-07T19:02:00Z",
+            "net": "2023-07-07T19:30:00Z",
             "window_end": "2023-07-07T20:45:00Z",
             "window_start": "2023-07-07T19:02:00Z",
             "lsp_name": "SpaceX",
@@ -63,7 +63,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-09T07:25:00Z",
+            "net": "2023-07-09T08:46:00Z",
             "window_end": "2023-07-09T11:46:00Z",
             "window_start": "2023-07-09T07:15:00Z",
             "lsp_name": "SpaceX",
@@ -179,31 +179,6 @@
             "infographic": null
         },
         {
-            "id": "72491a20-315d-4aea-b6df-d1202930bd60",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
-            "launch_library_id": null,
-            "slug": "falcon-heavy-jupiter-3",
-            "name": "Falcon Heavy | Jupiter-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-07-24T03:04:00Z",
-            "window_end": "2023-07-24T03:04:00Z",
-            "window_start": "2023-07-24T03:04:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Jupiter-3",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
-            "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
-            "infographic": null
-        },
-        {
             "id": "0be2e9d6-50d5-49dc-b56c-a919b7e0dfd8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0be2e9d6-50d5-49dc-b56c-a919b7e0dfd8/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": "Unknown F9",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_block__image_20210506060831.jpg",
+            "infographic": null
+        },
+        {
+            "id": "72491a20-315d-4aea-b6df-d1202930bd60",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
+            "launch_library_id": null,
+            "slug": "falcon-heavy-jupiter-3",
+            "name": "Falcon Heavy | Jupiter-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-31T00:00:00Z",
+            "window_end": "2023-07-31T00:00:00Z",
+            "window_start": "2023-07-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Jupiter-3",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
+            "landing_success": 0,
+            "launcher": "MX Launchers",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         }
     ]
