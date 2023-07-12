@@ -10,8 +10,8 @@
             "slug": "zhuque-2-flight-2",
             "name": "Zhuque-2 | Flight 2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-07-12T01:00:00Z",
             "window_end": "2023-07-12T03:14:00Z",
