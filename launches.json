@@ -1,33 +1,8 @@
 {
-    "count": 302,
+    "count": 301,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "d454be53-3a0c-4b7f-82b9-50ee4a4b48b0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d454be53-3a0c-4b7f-82b9-50ee4a4b48b0/",
-            "launch_library_id": null,
-            "slug": "zhuque-2-flight-2",
-            "name": "Zhuque-2 | Flight 2",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-07-12T01:00:00Z",
-            "window_end": "2023-07-12T03:14:00Z",
-            "window_start": "2023-07-12T00:53:00Z",
-            "lsp_name": "LandSpace",
-            "mission": "Flight 2",
-            "mission_type": "Test Flight",
-            "pad": "Launch Area 96",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/zhuque-225202_image_20230707175105.jpeg",
-            "infographic": null
-        },
         {
             "id": "885ceb2a-bdf3-427b-9e98-ecfbd04d4e01",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/885ceb2a-bdf3-427b-9e98-ecfbd04d4e01/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-5-15",
             "name": "Falcon 9 Block 5 | Starlink Group 5-15",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-07-14T04:40:30Z",
             "window_end": "2023-07-14T04:40:30Z",
@@ -48,7 +23,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "B1062",
+            "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091938.png",
             "infographic": null
@@ -63,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-07-14T09:05:00Z",
+            "net": "2023-07-14T09:05:17Z",
             "window_end": "2023-07-14T10:00:00Z",
             "window_start": "2023-07-14T08:00:00Z",
             "lsp_name": "Indian Space Research Organization",
@@ -251,6 +226,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090151.png",
+            "infographic": null
+        },
+        {
+            "id": "7c126e4f-4afd-4c25-bf6f-9017666b56ee",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7c126e4f-4afd-4c25-bf6f-9017666b56ee/",
+            "launch_library_id": null,
+            "slug": "antares-230-cygnus-crs-2-ng-19",
+            "name": "Antares 230+ | Cygnus CRS-2 NG-19",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-02T00:30:00Z",
+            "window_end": "2023-08-02T00:30:00Z",
+            "window_start": "2023-08-02T00:30:00Z",
+            "lsp_name": "Northrop Grumman Space Systems",
+            "mission": "Cygnus CRS-2 NG-19",
+            "mission_type": "Resupply",
+            "pad": "Launch Area 0 A",
+            "location": "Wallops Island, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
             "infographic": null
         }
     ]
