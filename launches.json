@@ -1,33 +1,8 @@
 {
-    "count": 301,
+    "count": 303,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "885ceb2a-bdf3-427b-9e98-ecfbd04d4e01",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/885ceb2a-bdf3-427b-9e98-ecfbd04d4e01/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-5-15",
-            "name": "Falcon 9 Block 5 | Starlink Group 5-15",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-07-14T04:40:30Z",
-            "window_end": "2023-07-14T04:40:30Z",
-            "window_start": "2023-07-14T04:40:30Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 5-15",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 0,
-            "launcher": "B1060",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091938.png",
-            "infographic": null
-        },
         {
             "id": "78f7c31d-4f29-482a-96d1-390b460a0a02",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/78f7c31d-4f29-482a-96d1-390b460a0a02/",
@@ -35,8 +10,8 @@
             "slug": "lvm-3-chandrayaan-3",
             "name": "LVM-3 | Chandrayaan-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-07-14T09:05:17Z",
             "window_end": "2023-07-14T10:00:00Z",
@@ -50,7 +25,32 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/lvm-32520257c_image_20230711193208.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/lvm-32520257c_image_20230714182601.png",
+            "infographic": null
+        },
+        {
+            "id": "885ceb2a-bdf3-427b-9e98-ecfbd04d4e01",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/885ceb2a-bdf3-427b-9e98-ecfbd04d4e01/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-5-15",
+            "name": "Falcon 9 Block 5 | Starlink Group 5-15",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-07-16T03:50:00Z",
+            "window_end": "2023-07-16T03:50:00Z",
+            "window_start": "2023-07-16T03:50:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 5-15",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "B1060",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091938.png",
             "infographic": null
         },
         {
@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-07-14T23:30:00Z",
-            "window_end": "2023-07-15T01:30:00Z",
-            "window_start": "2023-07-14T23:30:00Z",
+            "net": "2023-07-16T23:30:00Z",
+            "window_end": "2023-07-17T01:30:00Z",
+            "window_start": "2023-07-16T23:30:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Baby Come Back",
             "mission_type": "Dedicated Rideshare",
