@@ -1,33 +1,8 @@
 {
-    "count": 303,
+    "count": 302,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "885ceb2a-bdf3-427b-9e98-ecfbd04d4e01",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/885ceb2a-bdf3-427b-9e98-ecfbd04d4e01/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-5-15",
-            "name": "Falcon 9 Block 5 | Starlink Group 5-15",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-07-16T03:50:00Z",
-            "window_end": "2023-07-16T03:50:00Z",
-            "window_start": "2023-07-16T03:50:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 5-15",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1060",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091938.png",
-            "infographic": null
-        },
         {
             "id": "e2651bb4-c42c-4fd8-b11a-bf7df7036c89",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e2651bb4-c42c-4fd8-b11a-bf7df7036c89/",
@@ -50,7 +25,7 @@
             "landing_success": 0,
             "launcher": "39",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20230717200910.jpg",
             "infographic": null
         },
         {
@@ -88,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-07-19T03:25:00Z",
-            "window_end": "2023-07-19T03:38:00Z",
-            "window_start": "2023-07-19T03:11:00Z",
+            "net": "2023-07-20T03:25:00Z",
+            "window_end": "2023-07-20T03:38:00Z",
+            "window_start": "2023-07-20T03:11:00Z",
             "lsp_name": "ExPace",
             "mission": null,
             "pad": "Launch Area 95A",
@@ -103,28 +78,28 @@
             "infographic": null
         },
         {
-            "id": "72491a20-315d-4aea-b6df-d1202930bd60",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
+            "id": "c407b340-49e6-447a-b872-8441618f0ec7",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c407b340-49e6-447a-b872-8441618f0ec7/",
             "launch_library_id": null,
-            "slug": "falcon-heavy-jupiter-3",
-            "name": "Falcon Heavy | Jupiter-3",
+            "slug": "falcon-9-block-5-starlink-group-6-6",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-6",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-24T03:04:00Z",
-            "window_end": "2023-07-24T03:04:00Z",
-            "window_start": "2023-07-24T03:04:00Z",
+            "net": "2023-07-22T23:31:00Z",
+            "window_end": "2023-07-23T03:35:00Z",
+            "window_start": "2023-07-22T23:01:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Jupiter-3",
+            "mission": "Starlink Group 6-6",
             "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
             "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090151.png",
             "infographic": null
         },
         {
@@ -203,28 +178,28 @@
             "infographic": null
         },
         {
-            "id": "c407b340-49e6-447a-b872-8441618f0ec7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c407b340-49e6-447a-b872-8441618f0ec7/",
+            "id": "72491a20-315d-4aea-b6df-d1202930bd60",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-6",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-6",
+            "slug": "falcon-heavy-jupiter-3",
+            "name": "Falcon Heavy | Jupiter-3",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-31T00:00:00Z",
-            "window_end": "2023-07-31T00:00:00Z",
-            "window_start": "2023-07-31T00:00:00Z",
+            "net": "2023-07-31T03:04:00Z",
+            "window_end": "2023-07-31T03:04:00Z",
+            "window_start": "2023-07-31T03:04:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-6",
+            "mission": "Jupiter-3",
             "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
             "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090151.png",
+            "launcher": "MX Launchers",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         },
         {
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6229654f-e7ea-4d97-80f7-0195161e8645",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6229654f-e7ea-4d97-80f7-0195161e8645/",
+            "launch_library_id": null,
+            "slug": "spaceshiptwo-galactic-02",
+            "name": "SpaceShipTwo | Galactic 02",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-10T00:00:00Z",
+            "window_end": "2023-08-10T00:00:00Z",
+            "window_start": "2023-08-10T00:00:00Z",
+            "lsp_name": "Virgin Galactic",
+            "mission": "Galactic 02",
+            "mission_type": "Tourism",
+            "pad": "Spaceport America",
+            "location": "Air launch to Suborbital flight",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
             "infographic": null
         }
     ]
