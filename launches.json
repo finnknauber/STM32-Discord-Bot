@@ -7,24 +7,25 @@
             "id": "c2a0e237-5fb8-4cca-aadd-c0aefda2c12e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c2a0e237-5fb8-4cca-aadd-c0aefda2c12e/",
             "launch_library_id": null,
-            "slug": "kuaizhou-1a-unknown-payload",
-            "name": "Kuaizhou-1A | Unknown Payload",
+            "slug": "kuaizhou-1a-tianmu-1-07-10",
+            "name": "Kuaizhou-1A | Tianmu-1 07-10",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-07-20T03:25:00Z",
+            "net": "2023-07-20T03:20:00Z",
             "window_end": "2023-07-20T03:38:00Z",
             "window_start": "2023-07-20T03:11:00Z",
             "lsp_name": "ExPace",
-            "mission": null,
+            "mission": "Tianmu-1 07-10",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 95A",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/kuaizhou-1a252_image_20230720042210.jpeg",
             "infographic": null
         },
         {
@@ -34,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-15",
             "name": "Falcon 9 Block 5 | Starlink Group 6-15",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-07-20T04:09:30Z",
             "window_end": "2023-07-20T04:09:30Z",
@@ -46,7 +47,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092512.png",
@@ -62,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-07-21T05:15:00Z",
-            "window_end": "2023-07-21T06:06:00Z",
-            "window_start": "2023-07-21T05:00:00Z",
+            "net": "2023-07-22T05:15:00Z",
+            "window_end": "2023-07-22T06:06:00Z",
+            "window_start": "2023-07-22T05:00:00Z",
             "lsp_name": "Galactic Energy",
             "mission": null,
             "pad": "Launch Area 95A",
@@ -126,31 +127,6 @@
             "infographic": null
         },
         {
-            "id": "72491a20-315d-4aea-b6df-d1202930bd60",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
-            "launch_library_id": null,
-            "slug": "falcon-heavy-echostar-24jupiter-3",
-            "name": "Falcon Heavy | EchoStar 24/Jupiter-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-07-24T02:34:00Z",
-            "window_end": "2023-07-24T05:41:00Z",
-            "window_start": "2023-07-24T02:34:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "EchoStar 24/Jupiter-3",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
-            "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
-            "infographic": null
-        },
-        {
             "id": "af626de1-88f7-418b-8801-a4e897f067a4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/af626de1-88f7-418b-8801-a4e897f067a4/",
             "launch_library_id": null,
@@ -160,7 +136,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-26T02:15:00Z",
+            "net": "2023-07-26T01:00:00Z",
             "window_end": "2023-07-26T04:15:00Z",
             "window_start": "2023-07-26T00:15:00Z",
             "lsp_name": "Indian Space Research Organization",
@@ -173,6 +149,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190520163034.jpg",
+            "infographic": null
+        },
+        {
+            "id": "72491a20-315d-4aea-b6df-d1202930bd60",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
+            "launch_library_id": null,
+            "slug": "falcon-heavy-echostar-24jupiter-3",
+            "name": "Falcon Heavy | EchoStar 24/Jupiter-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-27T03:04:00Z",
+            "window_end": "2023-07-27T05:12:00Z",
+            "window_start": "2023-07-27T02:04:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "EchoStar 24/Jupiter-3",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
+            "landing_success": 0,
+            "launcher": "MX Launchers",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         },
         {
