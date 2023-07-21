@@ -1,58 +1,8 @@
 {
-    "count": 303,
+    "count": 301,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "c2a0e237-5fb8-4cca-aadd-c0aefda2c12e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c2a0e237-5fb8-4cca-aadd-c0aefda2c12e/",
-            "launch_library_id": null,
-            "slug": "kuaizhou-1a-tianmu-1-07-10",
-            "name": "Kuaizhou-1A | Tianmu-1 07-10",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-07-20T03:20:00Z",
-            "window_end": "2023-07-20T03:38:00Z",
-            "window_start": "2023-07-20T03:11:00Z",
-            "lsp_name": "ExPace",
-            "mission": "Tianmu-1 07-10",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/kuaizhou-1a252_image_20230720042210.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9e94b0b7-d88b-4cdf-9793-acdec5850613",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9e94b0b7-d88b-4cdf-9793-acdec5850613/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-15",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-15",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-07-20T04:09:30Z",
-            "window_end": "2023-07-20T04:09:30Z",
-            "window_start": "2023-07-20T04:09:30Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-15",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1071",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092512.png",
-            "infographic": null
-        },
         {
             "id": "160d6bd1-4ac6-43bd-8284-12e457cde9d7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/160d6bd1-4ac6-43bd-8284-12e457cde9d7/",
@@ -87,7 +37,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-22T23:31:00Z",
+            "net": "2023-07-22T23:29:00Z",
             "window_end": "2023-07-23T03:35:00Z",
             "window_start": "2023-07-22T23:01:00Z",
             "lsp_name": "SpaceX",
@@ -177,6 +127,31 @@
             "infographic": null
         },
         {
+            "id": "7975274c-81c5-48a5-82e1-9b8d982cd533",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7975274c-81c5-48a5-82e1-9b8d982cd533/",
+            "launch_library_id": null,
+            "slug": "electron-we-love-the-nightlife-capella-acadia-1",
+            "name": "Electron | We Love the Nightlife (Capella Acadia 1)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-28T00:00:00Z",
+            "window_end": "2023-07-28T00:00:00Z",
+            "window_start": "2023-07-28T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "We Love the Nightlife (Capella Acadia 1)",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1A",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
             "launch_library_id": null,
@@ -249,6 +224,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6229654f-e7ea-4d97-80f7-0195161e8645",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6229654f-e7ea-4d97-80f7-0195161e8645/",
+            "launch_library_id": null,
+            "slug": "spaceshiptwo-galactic-02",
+            "name": "SpaceShipTwo | Galactic 02",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-10T00:00:00Z",
+            "window_end": "2023-08-10T00:00:00Z",
+            "window_start": "2023-08-10T00:00:00Z",
+            "lsp_name": "Virgin Galactic",
+            "mission": "Galactic 02",
+            "mission_type": "Tourism",
+            "pad": "Spaceport America",
+            "location": "Air launch to Suborbital flight",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
             "infographic": null
         }
     ]
