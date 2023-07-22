@@ -7,24 +7,25 @@
             "id": "160d6bd1-4ac6-43bd-8284-12e457cde9d7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/160d6bd1-4ac6-43bd-8284-12e457cde9d7/",
             "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
+            "slug": "ceres-1-qiankun-1-xingshidai16",
+            "name": "Ceres-1 | Qiankun-1 & Xingshidai\u201016",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-07-22T05:15:00Z",
+            "net": "2023-07-22T05:07:00Z",
             "window_end": "2023-07-22T06:06:00Z",
             "window_start": "2023-07-22T05:00:00Z",
             "lsp_name": "Galactic Energy",
-            "mission": null,
+            "mission": "Qiankun-1 & Xingshidai\u201016",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 95A",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20201106095300.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ceres-1252025_image_20230722055539.jpeg",
             "infographic": null
         },
         {
@@ -34,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-6",
             "name": "Falcon 9 Block 5 | Starlink Group 6-6",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-07-22T23:29:00Z",
-            "window_end": "2023-07-23T03:35:00Z",
-            "window_start": "2023-07-22T23:01:00Z",
+            "net": "2023-07-22T23:34:40Z",
+            "window_end": "2023-07-23T02:56:00Z",
+            "window_start": "2023-07-22T23:34:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-6",
             "mission_type": "Communications",
@@ -47,7 +48,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1076",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090151.png",
             "infographic": null
@@ -77,28 +78,28 @@
             "infographic": null
         },
         {
-            "id": "af626de1-88f7-418b-8801-a4e897f067a4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/af626de1-88f7-418b-8801-a4e897f067a4/",
+            "id": "ce5f4f47-c54d-4014-84f2-17a556892420",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce5f4f47-c54d-4014-84f2-17a556892420/",
             "launch_library_id": null,
-            "slug": "pslv-ca-ds-sar",
-            "name": "PSLV-CA | DS-SAR",
+            "slug": "falcon-9-block-5-starlink-group-6-7",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-7",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-07-26T01:00:00Z",
-            "window_end": "2023-07-26T04:15:00Z",
-            "window_start": "2023-07-26T00:15:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "DS-SAR",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "net": "2023-07-27T00:09:00Z",
+            "window_end": "2023-07-27T07:12:00Z",
+            "window_start": "2023-07-27T00:09:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-7",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190520163034.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090318.png",
             "infographic": null
         },
         {
@@ -149,6 +150,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "af626de1-88f7-418b-8801-a4e897f067a4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/af626de1-88f7-418b-8801-a4e897f067a4/",
+            "launch_library_id": null,
+            "slug": "pslv-ca-ds-sar",
+            "name": "PSLV-CA | DS-SAR",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-30T01:00:00Z",
+            "window_end": "2023-07-30T04:15:00Z",
+            "window_start": "2023-07-30T00:15:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "DS-SAR",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190520163034.jpg",
             "infographic": null
         },
         {
@@ -224,31 +250,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/antares2520230252b_image_20191102024633.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "6229654f-e7ea-4d97-80f7-0195161e8645",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6229654f-e7ea-4d97-80f7-0195161e8645/",
-            "launch_library_id": null,
-            "slug": "spaceshiptwo-galactic-02",
-            "name": "SpaceShipTwo | Galactic 02",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-08-10T00:00:00Z",
-            "window_end": "2023-08-10T00:00:00Z",
-            "window_start": "2023-08-10T00:00:00Z",
-            "lsp_name": "Virgin Galactic",
-            "mission": "Galactic 02",
-            "mission_type": "Tourism",
-            "pad": "Spaceport America",
-            "location": "Air launch to Suborbital flight",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
             "infographic": null
         }
     ]
