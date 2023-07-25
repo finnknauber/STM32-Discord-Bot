@@ -1,33 +1,8 @@
 {
-    "count": 300,
+    "count": 299,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "c407b340-49e6-447a-b872-8441618f0ec7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c407b340-49e6-447a-b872-8441618f0ec7/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-6",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-6",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-07-24T00:50:30Z",
-            "window_end": "2023-07-24T02:31:00Z",
-            "window_start": "2023-07-23T23:09:20Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-6",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1076",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090151.png",
-            "infographic": null
-        },
         {
             "id": "9da1b09b-d448-43a2-b6f1-720756c4e960",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9da1b09b-d448-43a2-b6f1-720756c4e960/",
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-07-25T20:30:00Z",
-            "window_end": "2023-07-25T20:42:00Z",
-            "window_start": "2023-07-25T20:21:00Z",
+            "net": "2023-07-26T20:00:00Z",
+            "window_end": "2023-07-26T20:13:00Z",
+            "window_start": "2023-07-26T19:52:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": null,
             "pad": "Launch Complex 3 ( LC-3 ) ( LA-1 )",
@@ -59,12 +34,12 @@
             "slug": "falcon-heavy-echostar-24jupiter-3",
             "name": "Falcon Heavy | EchoStar 24/Jupiter-3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-07-27T03:04:00Z",
-            "window_end": "2023-07-27T04:44:00Z",
-            "window_start": "2023-07-27T02:04:00Z",
+            "window_end": "2023-07-27T04:43:00Z",
+            "window_start": "2023-07-27T03:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "EchoStar 24/Jupiter-3",
             "mission_type": "Communications",
@@ -113,12 +88,12 @@
                 "name": "Go"
             },
             "net": "2023-07-28T05:00:00Z",
-            "window_end": "2023-07-28T05:00:00Z",
+            "window_end": "2023-07-28T07:00:00Z",
             "window_start": "2023-07-28T05:00:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "We Love the Nightlife (Capella Acadia 1)",
             "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1A",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
@@ -150,6 +125,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190520163034.jpg",
+            "infographic": null
+        },
+        {
+            "id": "ce0089c7-c61c-46a2-a9c1-10f2d6d066f0",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce0089c7-c61c-46a2-a9c1-10f2d6d066f0/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-8",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-07-30T23:52:00Z",
+            "window_end": "2023-07-31T04:26:00Z",
+            "window_start": "2023-07-30T23:52:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082133.png",
             "infographic": null
         },
         {
