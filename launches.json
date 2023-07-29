@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "ce5f4f47-c54d-4014-84f2-17a556892420",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce5f4f47-c54d-4014-84f2-17a556892420/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-7",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-7",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-07-28T04:01:10Z",
-            "window_end": "2023-07-28T04:01:10Z",
-            "window_start": "2023-07-28T02:20:10Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-7",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1062",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090318.png",
-            "infographic": null
-        },
-        {
             "id": "72491a20-315d-4aea-b6df-d1202930bd60",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/72491a20-315d-4aea-b6df-d1202930bd60/",
             "launch_library_id": null,
             "slug": "falcon-heavy-echostar-24jupiter-3",
             "name": "Falcon Heavy | EchoStar 24/Jupiter-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-07-29T03:04:00Z",
             "window_end": "2023-07-29T04:43:00Z",
@@ -47,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "MX Landing",
-            "landing_success": 0,
+            "landing_success": 3,
             "launcher": "MX Launchers",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520heav_image_20230728060033.jpeg",
@@ -129,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "5749ccdb-a743-49e9-b7d0-3c018dc68ae3",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5749ccdb-a743-49e9-b7d0-3c018dc68ae3/",
+            "launch_library_id": null,
+            "slug": "long-march-4c-fengyun-3f",
+            "name": "Long March 4C | Fengyun-3F",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-03T03:55:00Z",
+            "window_end": "2023-08-03T04:12:00Z",
+            "window_start": "2023-08-03T03:41:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Fengyun-3F",
+            "mission_type": "Earth Science",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25204_image_20190520170012.jpeg",
+            "infographic": null
+        },
+        {
             "id": "afc772a3-6ea7-4550-a4e9-35c70c22ebba",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/afc772a3-6ea7-4550-a4e9-35c70c22ebba/",
             "launch_library_id": null,
@@ -138,9 +138,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-08-03T04:30:00Z",
-            "window_end": "2023-08-03T04:30:00Z",
-            "window_start": "2023-08-03T04:30:00Z",
+            "net": "2023-08-03T04:15:00Z",
+            "window_end": "2023-08-03T06:55:00Z",
+            "window_start": "2023-08-03T04:05:00Z",
             "lsp_name": "SpaceX",
             "mission": "Galaxy 37",
             "mission_type": "Communications",
