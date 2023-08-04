@@ -1,58 +1,8 @@
 {
-    "count": 307,
+    "count": 306,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "5749ccdb-a743-49e9-b7d0-3c018dc68ae3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5749ccdb-a743-49e9-b7d0-3c018dc68ae3/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-fengyun-3f",
-            "name": "Long March 4C | Fengyun-3F",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-03T03:47:47Z",
-            "window_end": "2023-08-03T04:12:00Z",
-            "window_start": "2023-08-03T03:41:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Fengyun-3F",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230803052233.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "afc772a3-6ea7-4550-a4e9-35c70c22ebba",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/afc772a3-6ea7-4550-a4e9-35c70c22ebba/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-galaxy-37",
-            "name": "Falcon 9 Block 5 | Galaxy 37",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-03T05:00:00Z",
-            "window_end": "2023-08-03T06:15:00Z",
-            "window_start": "2023-08-03T04:15:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Galaxy 37",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1077",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230803065839.jpeg",
-            "infographic": null
-        },
         {
             "id": "7975274c-81c5-48a5-82e1-9b8d982cd533",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/7975274c-81c5-48a5-82e1-9b8d982cd533/",
@@ -60,8 +10,8 @@
             "slug": "electron-we-love-the-nightlife-capella-acadia-1",
             "name": "Electron | We Love the Nightlife (Capella Acadia 1)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-08-06T05:00:00Z",
             "window_end": "2023-08-06T07:00:00Z",
@@ -88,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-08-07T00:22:00Z",
+            "net": "2023-08-07T00:42:00Z",
             "window_end": "2023-08-07T04:25:00Z",
-            "window_start": "2023-08-07T00:22:00Z",
+            "window_start": "2023-08-07T00:42:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-8",
             "mission_type": "Communications",
@@ -129,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "31df6182-f50d-401b-9144-86b9d01911df",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/31df6182-f50d-401b-9144-86b9d01911df/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-20",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-08T03:57:00Z",
+            "window_end": "2023-08-08T08:22:00Z",
+            "window_start": "2023-08-08T03:57:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092711.png",
+            "infographic": null
+        },
+        {
             "id": "681f8ff2-07c1-477e-903b-fd187438f678",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/681f8ff2-07c1-477e-903b-fd187438f678/",
             "launch_library_id": null,
@@ -159,8 +134,8 @@
             "slug": "spaceshiptwo-galactic-02",
             "name": "SpaceShipTwo | Galactic 02",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-08-10T14:00:00Z",
             "window_end": "2023-08-10T22:00:00Z",
@@ -250,6 +225,31 @@
             "launcher": "B1081",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071815.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
+            "launch_library_id": 1602,
+            "slug": "h-iia-202-xrism-slim",
+            "name": "H-IIA 202 | XRISM & SLIM",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-26T00:34:57Z",
+            "window_end": "2023-08-26T00:34:57Z",
+            "window_start": "2023-08-26T00:34:57Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "XRISM & SLIM",
+            "mission_type": "Astrophysics",
+            "pad": "Yoshinobu Launch Complex LP-1",
+            "location": "Tanegashima Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
             "infographic": null
         }
     ]
