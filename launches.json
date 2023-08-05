@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-8",
             "name": "Falcon 9 Block 5 | Starlink Group 6-8",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-08-07T00:42:00Z",
-            "window_end": "2023-08-07T04:25:00Z",
-            "window_start": "2023-08-07T00:42:00Z",
+            "net": "2023-08-07T01:00:00Z",
+            "window_end": "2023-08-07T04:22:00Z",
+            "window_start": "2023-08-07T01:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-8",
             "mission_type": "Communications",
@@ -48,7 +48,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082133.png",
             "infographic": null
@@ -178,6 +178,31 @@
             "infographic": null
         },
         {
+            "id": "12e9acca-5aee-4751-9083-5e205d9528c8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/12e9acca-5aee-4751-9083-5e205d9528c8/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-9",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-9",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-10T23:23:00Z",
+            "window_end": "2023-08-11T05:54:00Z",
+            "window_start": "2023-08-10T23:23:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-9",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090440.png",
+            "infographic": null
+        },
+        {
             "id": "92bf99cd-2469-4500-864a-40a9dfc65332",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/92bf99cd-2469-4500-864a-40a9dfc65332/",
             "launch_library_id": null,
@@ -199,7 +224,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20201013143850.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
             "infographic": null
         },
         {
@@ -225,31 +250,6 @@
             "launcher": "B1081",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071815.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
-            "launch_library_id": 1602,
-            "slug": "h-iia-202-xrism-slim",
-            "name": "H-IIA 202 | XRISM & SLIM",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-26T00:34:57Z",
-            "window_end": "2023-08-26T00:34:57Z",
-            "window_start": "2023-08-26T00:34:57Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "XRISM & SLIM",
-            "mission_type": "Astrophysics",
-            "pad": "Yoshinobu Launch Complex LP-1",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
             "infographic": null
         }
     ]
