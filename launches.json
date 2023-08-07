@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-8",
             "name": "Falcon 9 Block 5 | Starlink Group 6-8",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-08-07T01:00:00Z",
+            "net": "2023-08-07T02:41:10Z",
             "window_end": "2023-08-07T04:22:00Z",
             "window_start": "2023-08-07T01:00:00Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082133.png",
@@ -32,25 +32,25 @@
             "id": "e694f57c-dba0-44ed-9c7b-abbeab437382",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e694f57c-dba0-44ed-9c7b-abbeab437382/",
             "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-glonass-k2-no-13",
-            "name": "Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13",
+            "slug": "soyuz-21bfregat-m-glonass-k2-no-13-kosmos-2569",
+            "name": "Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13 (Kosmos 2569)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-08-07T14:10:00Z",
+            "net": "2023-08-07T13:20:00Z",
             "window_end": "2023-08-07T15:00:00Z",
             "window_start": "2023-08-07T12:00:00Z",
             "lsp_name": "Russian Space Forces",
-            "mission": "Glonass-K2 No. 13",
+            "mission": "Glonass-K2 No. 13 (Kosmos 2569)",
             "mission_type": "Navigation",
-            "pad": "43/4 (43R)",
+            "pad": "43/3 (43L)",
             "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b2ffr_image_20230802085359.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20230807181912.jpg",
             "infographic": null
         },
         {
@@ -60,11 +60,11 @@
             "slug": "falcon-9-block-5-starlink-group-6-20",
             "name": "Falcon 9 Block 5 | Starlink Group 6-20",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-08-08T03:57:00Z",
-            "window_end": "2023-08-08T08:22:00Z",
+            "window_end": "2023-08-08T07:19:10Z",
             "window_start": "2023-08-08T03:57:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-20",
@@ -134,8 +134,8 @@
             "slug": "soyuz-21bfregat-m-luna-25",
             "name": "Soyuz 2.1b/Fregat-M | Luna 25",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-08-10T23:10:57Z",
             "window_end": "2023-08-10T23:10:57Z",
@@ -162,9 +162,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-08-10T23:23:00Z",
-            "window_end": "2023-08-11T05:54:00Z",
-            "window_start": "2023-08-10T23:23:00Z",
+            "net": "2023-08-10T23:33:00Z",
+            "window_end": "2023-08-11T05:13:00Z",
+            "window_start": "2023-08-10T23:33:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-9",
             "mission_type": "Communications",
@@ -175,6 +175,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090440.png",
+            "infographic": null
+        },
+        {
+            "id": "09642682-60f3-4470-a802-18788601c5a5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/09642682-60f3-4470-a802-18788601c5a5/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-14T00:00:00Z",
+            "window_end": "2023-08-14T00:00:00Z",
+            "window_start": "2023-08-14T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082449.png",
             "infographic": null
         },
         {
@@ -225,31 +250,6 @@
             "launcher": "B1081",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071815.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
-            "launch_library_id": 1602,
-            "slug": "h-iia-202-xrism-slim",
-            "name": "H-IIA 202 | XRISM & SLIM",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-26T00:34:57Z",
-            "window_end": "2023-08-26T00:34:57Z",
-            "window_start": "2023-08-26T00:34:57Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "XRISM & SLIM",
-            "mission_type": "Astrophysics",
-            "pad": "Yoshinobu Launch Complex LP-1",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
             "infographic": null
         }
     ]
