@@ -1,58 +1,8 @@
 {
-    "count": 306,
+    "count": 307,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ce0089c7-c61c-46a2-a9c1-10f2d6d066f0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce0089c7-c61c-46a2-a9c1-10f2d6d066f0/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-8",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-8",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-07T02:41:10Z",
-            "window_end": "2023-08-07T04:22:00Z",
-            "window_start": "2023-08-07T01:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-8",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1078",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082133.png",
-            "infographic": null
-        },
-        {
-            "id": "e694f57c-dba0-44ed-9c7b-abbeab437382",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e694f57c-dba0-44ed-9c7b-abbeab437382/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-glonass-k2-no-13-kosmos-2569",
-            "name": "Soyuz 2.1b/Fregat-M | Glonass-K2 No. 13 (Kosmos 2569)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-07T13:20:00Z",
-            "window_end": "2023-08-07T15:00:00Z",
-            "window_start": "2023-08-07T12:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Glonass-K2 No. 13 (Kosmos 2569)",
-            "mission_type": "Navigation",
-            "pad": "43/3 (43L)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20230807181912.jpg",
-            "infographic": null
-        },
         {
             "id": "31df6182-f50d-401b-9144-86b9d01911df",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/31df6182-f50d-401b-9144-86b9d01911df/",
@@ -60,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-20",
             "name": "Falcon 9 Block 5 | Starlink Group 6-20",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-08-08T03:57:00Z",
             "window_end": "2023-08-08T07:19:10Z",
@@ -72,8 +22,8 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1075",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092711.png",
             "infographic": null
@@ -82,8 +32,8 @@
             "id": "681f8ff2-07c1-477e-903b-fd187438f678",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/681f8ff2-07c1-477e-903b-fd187438f678/",
             "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
+            "slug": "long-march-2c-5-m-s-sar-02",
+            "name": "Long March 2C | 5 m S-SAR-02",
             "status": {
                 "id": 1,
                 "name": "Go"
@@ -100,6 +50,30 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20230803100234.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d7131f47-a962-4832-ae68-52a57bb0b684",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d7131f47-a962-4832-ae68-52a57bb0b684/",
+            "launch_library_id": null,
+            "slug": "ceres-1-unknown-payload",
+            "name": "Ceres-1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-10T03:00:00Z",
+            "window_end": "2023-08-10T08:00:00Z",
+            "window_start": "2023-08-10T03:00:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": null,
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         },
         {
@@ -149,7 +123,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b2ffr_image_20230802085359.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20230808100140.jpeg",
             "infographic": null
         },
         {
@@ -162,19 +136,67 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-08-10T23:33:00Z",
-            "window_end": "2023-08-11T05:13:00Z",
-            "window_start": "2023-08-10T23:33:00Z",
+            "net": "2023-08-11T01:41:00Z",
+            "window_end": "2023-08-11T05:54:00Z",
+            "window_start": "2023-08-11T01:41:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-9",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090440.png",
+            "infographic": null
+        },
+        {
+            "id": "715392d7-2ecb-4caf-81b1-ba5ba6b985ff",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/715392d7-2ecb-4caf-81b1-ba5ba6b985ff/",
+            "launch_library_id": null,
+            "slug": "long-march-3be-ltdc-4a",
+            "name": "Long March 3B/E | LTDC-4A",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-11T17:00:00Z",
+            "window_end": "2023-08-11T18:05:00Z",
+            "window_start": "2023-08-11T16:50:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 2 (LC-2)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "72106fe5-8908-47f0-9f63-e18f386d3b76",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/72106fe5-8908-47f0-9f63-e18f386d3b76/",
+            "launch_library_id": null,
+            "slug": "kuaizhou-1a-unknown-payload",
+            "name": "Kuaizhou-1A | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-13T05:35:00Z",
+            "window_end": "2023-08-13T05:48:00Z",
+            "window_start": "2023-08-13T05:22:00Z",
+            "lsp_name": "ExPace",
+            "mission": null,
+            "pad": "Mobile Launcher Pad",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
             "infographic": null
         },
         {
@@ -225,31 +247,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "1caacff9-837e-493b-afd4-4da54eeccdf2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1caacff9-837e-493b-afd4-4da54eeccdf2/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-crew-7",
-            "name": "Falcon 9 Block 5 | Crew-7",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-25T07:49:00Z",
-            "window_end": "2023-08-25T07:49:00Z",
-            "window_start": "2023-08-25T07:49:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Crew-7",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "B1081",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071815.jpeg",
             "infographic": null
         }
     ]
