@@ -4,52 +4,28 @@
     "previous": null,
     "results": [
         {
-            "id": "31df6182-f50d-401b-9144-86b9d01911df",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/31df6182-f50d-401b-9144-86b9d01911df/",
+            "id": "681f8ff2-07c1-477e-903b-fd187438f678",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/681f8ff2-07c1-477e-903b-fd187438f678/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-20",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-20",
+            "slug": "long-march-2c-5-m-s-sar-02-huanjing-2f",
+            "name": "Long March 2C | 5 m S-SAR-02 (Huanjing-2F)",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2023-08-08T03:57:00Z",
-            "window_end": "2023-08-08T07:19:10Z",
-            "window_start": "2023-08-08T03:57:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-20",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1075",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092711.png",
-            "infographic": null
-        },
-        {
-            "id": "681f8ff2-07c1-477e-903b-fd187438f678",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/681f8ff2-07c1-477e-903b-fd187438f678/",
-            "launch_library_id": null,
-            "slug": "long-march-2c-5-m-s-sar-02",
-            "name": "Long March 2C | 5 m S-SAR-02",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-08T22:55:00Z",
+            "net": "2023-08-08T22:53:00Z",
             "window_end": "2023-08-08T23:23:00Z",
             "window_start": "2023-08-08T22:44:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "5 m S-SAR-02 (Huanjing-2F)",
+            "mission_type": "Earth Science",
             "pad": "Launch Complex 9",
             "location": "Taiyuan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20230803100234.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230809063828.jpg",
             "infographic": null
         },
         {
@@ -247,6 +223,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1caacff9-837e-493b-afd4-4da54eeccdf2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1caacff9-837e-493b-afd4-4da54eeccdf2/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-crew-7",
+            "name": "Falcon 9 Block 5 | Crew-7",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-25T07:49:00Z",
+            "window_end": "2023-08-25T07:49:00Z",
+            "window_start": "2023-08-25T07:49:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Crew-7",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1081",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071815.jpeg",
             "infographic": null
         }
     ]
