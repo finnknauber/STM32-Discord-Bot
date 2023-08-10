@@ -1,55 +1,31 @@
 {
-    "count": 307,
+    "count": 312,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "681f8ff2-07c1-477e-903b-fd187438f678",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/681f8ff2-07c1-477e-903b-fd187438f678/",
+            "id": "d7131f47-a962-4832-ae68-52a57bb0b684",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d7131f47-a962-4832-ae68-52a57bb0b684/",
             "launch_library_id": null,
-            "slug": "long-march-2c-5-m-s-sar-02-huanjing-2f",
-            "name": "Long March 2C | 5 m S-SAR-02 (Huanjing-2F)",
+            "slug": "ceres-1-7-satellites",
+            "name": "Ceres-1 | 7 satellites",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2023-08-08T22:53:00Z",
-            "window_end": "2023-08-08T23:23:00Z",
-            "window_start": "2023-08-08T22:44:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "5 m S-SAR-02 (Huanjing-2F)",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230809063828.jpg",
-            "infographic": null
-        },
-        {
-            "id": "d7131f47-a962-4832-ae68-52a57bb0b684",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d7131f47-a962-4832-ae68-52a57bb0b684/",
-            "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-10T03:00:00Z",
+            "net": "2023-08-10T04:03:50Z",
             "window_end": "2023-08-10T08:00:00Z",
             "window_start": "2023-08-10T03:00:00Z",
             "lsp_name": "Galactic Energy",
-            "mission": null,
+            "mission": "7 satellites",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 95A",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20230722081939.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ceres-1252025_image_20230810052324.jpeg",
             "infographic": null
         },
         {
@@ -59,10 +35,10 @@
             "slug": "spaceshiptwo-galactic-02",
             "name": "SpaceShipTwo | Galactic 02",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-08-10T14:00:00Z",
+            "net": "2023-08-10T15:17:00Z",
             "window_end": "2023-08-10T22:00:00Z",
             "window_start": "2023-08-10T14:00:00Z",
             "lsp_name": "Virgin Galactic",
@@ -109,12 +85,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-9",
             "name": "Falcon 9 Block 5 | Starlink Group 6-9",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-08-11T01:41:00Z",
-            "window_end": "2023-08-11T05:54:00Z",
-            "window_start": "2023-08-11T01:41:00Z",
+            "net": "2023-08-11T04:27:00Z",
+            "window_end": "2023-08-11T05:17:00Z",
+            "window_start": "2023-08-11T04:27:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-9",
             "mission_type": "Communications",
@@ -122,7 +98,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230503090440.png",
             "infographic": null
@@ -185,9 +161,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-08-14T00:00:00Z",
-            "window_end": "2023-08-14T00:00:00Z",
-            "window_start": "2023-08-14T00:00:00Z",
+            "net": "2023-08-17T00:00:00Z",
+            "window_end": "2023-08-17T00:00:00Z",
+            "window_start": "2023-08-17T00:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-10",
             "mission_type": "Communications",
@@ -248,6 +224,31 @@
             "launcher": "B1081",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071815.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
+            "launch_library_id": 1602,
+            "slug": "h-iia-202-xrism-slim",
+            "name": "H-IIA 202 | XRISM & SLIM",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-08-26T00:34:57Z",
+            "window_end": "2023-08-26T00:34:57Z",
+            "window_start": "2023-08-26T00:34:57Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "XRISM & SLIM",
+            "mission_type": "Astrophysics",
+            "pad": "Yoshinobu Launch Complex LP-1",
+            "location": "Tanegashima Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
             "infographic": null
         }
     ]
