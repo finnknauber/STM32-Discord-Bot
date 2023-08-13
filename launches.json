@@ -1,33 +1,8 @@
 {
-    "count": 308,
+    "count": 307,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "715392d7-2ecb-4caf-81b1-ba5ba6b985ff",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/715392d7-2ecb-4caf-81b1-ba5ba6b985ff/",
-            "launch_library_id": null,
-            "slug": "long-march-3be-ltdc-4a",
-            "name": "Long March 3B/E | LTDC-4A",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-12T17:26:00Z",
-            "window_end": "2023-08-12T18:05:00Z",
-            "window_start": "2023-08-12T16:46:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "LTDC-4A",
-            "mission_type": "Unknown",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230812191538.jpeg",
-            "infographic": null
-        },
         {
             "id": "72106fe5-8908-47f0-9f63-e18f386d3b76",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/72106fe5-8908-47f0-9f63-e18f386d3b76/",
@@ -62,15 +37,15 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-08-16T23:42:00Z",
-            "window_end": "2023-08-17T06:13:00Z",
-            "window_start": "2023-08-16T23:42:00Z",
+            "net": "2023-08-17T00:10:00Z",
+            "window_end": "2023-08-17T04:00:00Z",
+            "window_start": "2023-08-17T00:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-10",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -250,6 +225,31 @@
             "launcher": "Unknown F9",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "8a186c70-5b9e-4e29-95dd-d2c82873fa8e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8a186c70-5b9e-4e29-95dd-d2c82873fa8e/",
+            "launch_library_id": null,
+            "slug": "gaganyaan-abort-test-booster-tv-d1",
+            "name": "Gaganyaan Abort Test Booster | TV-D1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-31T00:00:00Z",
+            "window_end": "2023-08-31T00:00:00Z",
+            "window_start": "2023-08-31T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "TV-D1",
+            "mission_type": "Test Flight",
+            "pad": "Unknown Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": null,
             "infographic": null
         }
     ]
