@@ -1,5 +1,5 @@
 {
-    "count": 308,
+    "count": 312,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,11 +10,11 @@
             "slug": "falcon-9-block-5-starlink-group-6-10",
             "name": "Falcon 9 Block 5 | Starlink Group 6-10",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-08-17T00:14:50Z",
-            "window_end": "2023-08-17T03:37:00Z",
+            "net": "2023-08-17T01:55:50Z",
+            "window_end": "2023-08-17T04:00:00Z",
             "window_start": "2023-08-17T00:14:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-10",
@@ -23,7 +23,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082449.png",
             "infographic": null
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-7-1",
             "name": "Falcon 9 Block 5 | Starlink Group 7-1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-08-17T06:52:00Z",
-            "window_end": "2023-08-17T11:01:00Z",
-            "window_start": "2023-08-17T06:52:00Z",
+            "net": "2023-08-17T07:00:50Z",
+            "window_end": "2023-08-17T10:23:00Z",
+            "window_start": "2023-08-17T07:00:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-1",
             "mission_type": "Communications",
@@ -48,7 +48,7 @@
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710072935.png",
             "infographic": null
@@ -179,31 +179,6 @@
             "infographic": null
         },
         {
-            "id": "04b91bb8-38a7-4868-b025-4bbe05d1fbfe",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/04b91bb8-38a7-4868-b025-4bbe05d1fbfe/",
-            "launch_library_id": null,
-            "slug": "starship-integrated-flight-test-2",
-            "name": "Starship | Integrated Flight Test 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-08-31T00:00:00Z",
-            "window_end": "2023-08-31T00:00:00Z",
-            "window_start": "2023-08-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Integrated Flight Test 2",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "GOM",
-            "landing_success": 0,
-            "launcher": "Booster 9",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20230523063525.jpeg",
-            "infographic": null
-        },
-        {
             "id": "8a186c70-5b9e-4e29-95dd-d2c82873fa8e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8a186c70-5b9e-4e29-95dd-d2c82873fa8e/",
             "launch_library_id": null,
@@ -229,11 +204,11 @@
             "infographic": null
         },
         {
-            "id": "8ab7d138-f248-450f-94a6-0e957c1b19f2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8ab7d138-f248-450f-94a6-0e957c1b19f2/",
+            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-2",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-2",
+            "slug": "falcon-9-block-5-sda-tranche-0b",
+            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -242,15 +217,40 @@
             "window_end": "2023-08-31T00:00:00Z",
             "window_start": "2023-08-31T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-2",
-            "mission_type": "Communications",
+            "mission": "SDA Tranche 0B",
+            "mission_type": "Government/Top Secret",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
+            "landing": "LZ-4",
             "landing_success": 0,
             "launcher": "Unknown F9",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b8f2e028-285c-457d-b807-a6749cfc3af6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8f2e028-285c-457d-b807-a6749cfc3af6/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flta003-victus-nox",
+            "name": "Firefly Alpha | FLTA003 (VICTUS NOX)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-31T00:00:00Z",
+            "window_end": "2023-08-31T00:00:00Z",
+            "window_start": "2023-08-31T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "FLTA003 (VICTUS NOX)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710071854.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
