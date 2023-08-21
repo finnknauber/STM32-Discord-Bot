@@ -1,33 +1,8 @@
 {
-    "count": 314,
+    "count": 313,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3eeecfa0-4246-4301-9017-014970538463",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3eeecfa0-4246-4301-9017-014970538463/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-gaofen-12-04",
-            "name": "Long March 4C | Gaofen-12 04",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-20T17:45:00Z",
-            "window_end": "2023-08-20T18:00:00Z",
-            "window_start": "2023-08-20T17:37:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Gaofen-12 04",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230820184753.jpeg",
-            "infographic": null
-        },
         {
             "id": "15699687-3fb1-4749-9680-fc858e5e7081",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/15699687-3fb1-4749-9680-fc858e5e7081/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-7-1",
             "name": "Falcon 9 Block 5 | Starlink Group 7-1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-08-22T06:04:00Z",
             "window_end": "2023-08-22T09:26:40Z",
@@ -226,6 +201,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520551_image_20190224012316.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-sda-tranche-0b",
+            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-30T00:00:00Z",
+            "window_end": "2023-08-30T00:00:00Z",
+            "window_start": "2023-08-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SDA Tranche 0B",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         },
         {
