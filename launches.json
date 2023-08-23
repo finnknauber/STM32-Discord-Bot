@@ -1,33 +1,8 @@
 {
-    "count": 313,
+    "count": 312,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "15699687-3fb1-4749-9680-fc858e5e7081",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/15699687-3fb1-4749-9680-fc858e5e7081/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-1",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-22T09:37:30Z",
-            "window_end": "2023-08-22T09:37:30Z",
-            "window_start": "2023-08-22T09:37:30Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-1",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1061",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710072935.png",
-            "infographic": null
-        },
         {
             "id": "92bf99cd-2469-4500-864a-40a9dfc65332",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/92bf99cd-2469-4500-864a-40a9dfc65332/",
@@ -35,8 +10,8 @@
             "slug": "soyuz-21a-progress-ms-24-85p",
             "name": "Soyuz 2.1a | Progress MS-24 (85P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-08-23T01:08:10Z",
             "window_end": "2023-08-23T01:08:10Z",
@@ -63,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-08-23T23:30:00Z",
+            "net": "2023-08-23T23:45:00Z",
             "window_end": "2023-08-24T03:30:00Z",
             "window_start": "2023-08-23T23:30:00Z",
             "lsp_name": "Rocket Lab",
@@ -71,36 +46,11 @@
             "mission_type": "Earth Science",
             "pad": "Rocket Lab Launch Complex 1B",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
+            "landing": "PAC",
+            "landing_success": 0,
+            "launcher": "40",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20230728093235.jpg",
-            "infographic": null
-        },
-        {
-            "id": "87fba73c-f085-4abf-830d-fae92c599977",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/87fba73c-f085-4abf-830d-fae92c599977/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-11",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-11",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-08-24T00:22:00Z",
-            "window_end": "2023-08-24T04:52:00Z",
-            "window_start": "2023-08-24T00:22:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-11",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082819.png",
             "infographic": null
         },
         {
@@ -151,6 +101,31 @@
             "launcher": null,
             "orbit": "LO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "87fba73c-f085-4abf-830d-fae92c599977",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/87fba73c-f085-4abf-830d-fae92c599977/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-11",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-11",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-26T01:13:00Z",
+            "window_end": "2023-08-26T03:30:00Z",
+            "window_start": "2023-08-26T01:13:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-11",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082819.png",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "769470b6-7cac-41ab-9dd2-69c7e9504b1a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/769470b6-7cac-41ab-9dd2-69c7e9504b1a/",
+            "launch_library_id": 1098,
+            "slug": "pslv-xl-aditya-l1",
+            "name": "PSLV-XL | Aditya-L1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-02T04:00:00Z",
+            "window_end": "2023-09-02T08:00:00Z",
+            "window_start": "2023-09-02T04:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "Aditya-L1",
+            "mission_type": "Heliophysics",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "L1-point",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
             "infographic": null
         }
     ]
