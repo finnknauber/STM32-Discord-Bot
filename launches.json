@@ -1,33 +1,8 @@
 {
-    "count": 311,
+    "count": 310,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "01d8012e-0b59-4b75-8875-b9e44b673078",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/01d8012e-0b59-4b75-8875-b9e44b673078/",
-            "launch_library_id": null,
-            "slug": "ceres-1-jilin-1-wideband-02a",
-            "name": "Ceres-1 | Jilin-1 Wideband-02A",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-25T04:59:00Z",
-            "window_end": "2023-08-25T08:00:00Z",
-            "window_start": "2023-08-25T02:00:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Jilin-1 Wideband-02A",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ceres-1252025_image_20230825071155.png",
-            "infographic": null
-        },
         {
             "id": "1caacff9-837e-493b-afd4-4da54eeccdf2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1caacff9-837e-493b-afd4-4da54eeccdf2/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-crew-7",
             "name": "Falcon 9 Block 5 | Crew-7",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-08-26T07:27:00Z",
             "window_end": "2023-08-26T07:27:00Z",
@@ -47,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1081",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230824200032.jpeg",
@@ -63,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-08-27T01:05:00Z",
-            "window_end": "2023-08-27T03:04:00Z",
-            "window_start": "2023-08-27T01:05:00Z",
+            "net": "2023-08-27T01:05:40Z",
+            "window_end": "2023-08-27T03:04:30Z",
+            "window_start": "2023-08-27T01:05:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-11",
             "mission_type": "Communications",
@@ -129,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-sda-tranche-0b",
-            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-08-30T00:00:00Z",
-            "window_end": "2023-08-30T00:00:00Z",
-            "window_start": "2023-08-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SDA Tranche 0B",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "8a186c70-5b9e-4e29-95dd-d2c82873fa8e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8a186c70-5b9e-4e29-95dd-d2c82873fa8e/",
             "launch_library_id": null,
@@ -204,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-sda-tranche-0b",
+            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-31T14:26:00Z",
+            "window_end": "2023-08-31T15:57:00Z",
+            "window_start": "2023-08-31T14:26:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SDA Tranche 0B",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
             "id": "83dccf61-8e2a-4492-8784-d67252e0ff53",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/83dccf61-8e2a-4492-8784-d67252e0ff53/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "L1-point",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv_image_20190224012254.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2a052554-35be-4e6c-8d60-b2b9072de17c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2a052554-35be-4e6c-8d60-b2b9072de17c/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-soyuz-ms-24",
+            "name": "Soyuz 2.1a | Soyuz MS-24",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-15T15:44:00Z",
+            "window_end": "2023-09-15T15:44:00Z",
+            "window_start": "2023-09-15T15:44:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Soyuz MS-24",
+            "mission_type": "Human Exploration",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
             "infographic": null
         }
     ]
