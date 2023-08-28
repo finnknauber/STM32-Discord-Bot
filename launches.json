@@ -4,56 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "87fba73c-f085-4abf-830d-fae92c599977",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/87fba73c-f085-4abf-830d-fae92c599977/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-11",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-11",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-08-27T01:05:40Z",
-            "window_end": "2023-08-27T03:04:30Z",
-            "window_start": "2023-08-27T01:05:40Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-11",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1080",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522082819.png",
-            "infographic": null
-        },
-        {
-            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
-            "launch_library_id": 1602,
-            "slug": "h-iia-202-xrism-slim",
-            "name": "H-IIA 202 | XRISM & SLIM",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-28T00:26:22Z",
-            "window_end": "2023-08-28T00:26:22Z",
-            "window_start": "2023-08-28T00:26:22Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "XRISM & SLIM",
-            "mission_type": "Astrophysics",
-            "pad": "Yoshinobu Launch Complex LP-1",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h-iia25202022_image_20230827172940.jpeg",
-            "infographic": null
-        },
-        {
             "id": "e9a5015d-aa12-4f65-9888-1248ff67ba6e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e9a5015d-aa12-4f65-9888-1248ff67ba6e/",
             "launch_library_id": 1692,
@@ -74,7 +24,7 @@
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "N/A",
+            "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20230827172321.jpeg",
             "infographic": null
         },
@@ -100,6 +50,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
+            "launch_library_id": 1602,
+            "slug": "h-iia-202-xrism-slim",
+            "name": "H-IIA 202 | XRISM & SLIM",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-08-31T00:00:00Z",
+            "window_end": "2023-08-31T00:00:00Z",
+            "window_start": "2023-08-31T00:00:00Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "XRISM & SLIM",
+            "mission_type": "Astrophysics",
+            "pad": "Yoshinobu Launch Complex LP-1",
+            "location": "Tanegashima Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h-iia25202022_image_20230828072314.jpeg",
             "infographic": null
         },
         {
@@ -145,9 +120,9 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1077",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522083649.png",
             "infographic": null
@@ -159,12 +134,12 @@
             "slug": "pslv-xl-aditya-l1",
             "name": "PSLV-XL | Aditya-L1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-09-02T04:00:00Z",
-            "window_end": "2023-09-02T08:00:00Z",
-            "window_start": "2023-09-02T04:00:00Z",
+            "net": "2023-09-02T06:20:00Z",
+            "window_end": "2023-09-02T06:20:00Z",
+            "window_start": "2023-09-02T06:20:00Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "Aditya-L1",
             "mission_type": "Heliophysics",
@@ -202,6 +177,31 @@
             "infographic": null
         },
         {
+            "id": "3a26da85-1135-4784-b55a-6c5185e0aab6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3a26da85-1135-4784-b55a-6c5185e0aab6/",
+            "launch_library_id": null,
+            "slug": "spaceshiptwo-galactic-03",
+            "name": "SpaceShipTwo | Galactic 03",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-08T00:00:00Z",
+            "window_end": "2023-09-08T00:00:00Z",
+            "window_start": "2023-09-08T00:00:00Z",
+            "lsp_name": "Virgin Galactic",
+            "mission": "Galactic 03",
+            "mission_type": "Tourism",
+            "pad": "Spaceport America",
+            "location": "Air launch to Suborbital flight",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
+            "infographic": null
+        },
+        {
             "id": "2a052554-35be-4e6c-8d60-b2b9072de17c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2a052554-35be-4e6c-8d60-b2b9072de17c/",
             "launch_library_id": null,
@@ -227,28 +227,28 @@
             "infographic": null
         },
         {
-            "id": "9086bd21-5422-41b9-a492-963aababd8fd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9086bd21-5422-41b9-a492-963aababd8fd/",
+            "id": "355ab4b9-504c-49ce-84bf-a6df31a0aadf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/355ab4b9-504c-49ce-84bf-a6df31a0aadf/",
             "launch_library_id": null,
-            "slug": "atlas-v-501-project-kuiper-atlas-v-1demo-mission",
-            "name": "Atlas V 501 | Project Kuiper (Atlas V #1/Demo Mission)",
+            "slug": "vega-theos-2-others",
+            "name": "Vega | THEOS-2 & others",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-09-26T00:00:00Z",
-            "window_end": "2023-09-26T00:00:00Z",
-            "window_start": "2023-09-26T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "Project Kuiper (Atlas V #1/Demo Mission)",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral, FL, USA",
+            "net": "2023-09-19T00:00:00Z",
+            "window_end": "2023-09-19T00:00:00Z",
+            "window_start": "2023-09-19T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "THEOS-2 & others",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520501_image_20190222030851.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
             "infographic": null
         }
     ]
