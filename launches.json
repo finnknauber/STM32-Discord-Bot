@@ -7,49 +7,25 @@
             "id": "a39f9054-ff9d-4d40-a106-ea3f1042dda7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a39f9054-ff9d-4d40-a106-ea3f1042dda7/",
             "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
+            "slug": "long-march-2d-yaogan-39-group-1",
+            "name": "Long March 2D | Yaogan 39 Group 1",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-08-31T00:00:00Z",
-            "window_end": "2023-08-31T00:00:00Z",
-            "window_start": "2023-08-31T00:00:00Z",
+            "net": "2023-08-31T07:36:00Z",
+            "window_end": "2023-08-31T07:50:00Z",
+            "window_start": "2023-08-31T07:28:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Yaogan 39 Group 1",
+            "mission_type": "Government/Top Secret",
             "pad": "Launch Complex 3 (LC-3/LA-1)",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-sda-tranche-0b",
-            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-08-31T14:26:00Z",
-            "window_end": "2023-08-31T14:26:00Z",
-            "window_start": "2023-08-31T14:26:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SDA Tranche 0B",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "PO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230830192938.jpeg",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230831095313.jpeg",
             "infographic": null
         },
         {
@@ -59,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-13",
             "name": "Falcon 9 Block 5 | Starlink Group 6-13",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-08-31T23:50:20Z",
+            "net": "2023-08-31T23:52:20Z",
             "window_end": "2023-09-01T03:12:20Z",
-            "window_start": "2023-08-31T23:50:20Z",
+            "window_start": "2023-08-31T23:52:20Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-13",
             "mission_type": "Communications",
@@ -75,6 +51,31 @@
             "launcher": "B1077",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522083649.png",
+            "infographic": null
+        },
+        {
+            "id": "9248a1d0-393f-469a-b9c6-19470247e6fd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9248a1d0-393f-469a-b9c6-19470247e6fd/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-sda-tranche-0b",
+            "name": "Falcon 9 Block 5 | SDA Tranche 0B",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-01T14:26:00Z",
+            "window_end": "2023-09-01T14:26:00Z",
+            "window_start": "2023-09-01T14:26:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SDA Tranche 0B",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "B1063",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230830192938.jpeg",
             "infographic": null
         },
         {
@@ -103,11 +104,36 @@
             "infographic": null
         },
         {
+            "id": "f66687a3-d1f2-427d-8fe1-0454dc1fe9bd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f66687a3-d1f2-427d-8fe1-0454dc1fe9bd/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-12",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-12",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-03T23:07:00Z",
+            "window_end": "2023-09-04T03:37:00Z",
+            "window_start": "2023-09-03T23:07:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-12",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "B1073",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522083149.png",
+            "infographic": null
+        },
+        {
             "id": "2f255496-16b0-4ae6-ac9e-8e24f5deae7a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2f255496-16b0-4ae6-ac9e-8e24f5deae7a/",
             "launch_library_id": null,
-            "slug": "ceres-1-4x-tianqi",
-            "name": "Ceres-1 | 4x Tianqi",
+            "slug": "ceres-1s-4x-tianqi",
+            "name": "Ceres-1S | 4x Tianqi",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -123,7 +149,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20230722081939.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1s_image_20230831063738.jpeg",
             "infographic": null
         },
         {
@@ -174,31 +200,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "355ab4b9-504c-49ce-84bf-a6df31a0aadf",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/355ab4b9-504c-49ce-84bf-a6df31a0aadf/",
-            "launch_library_id": null,
-            "slug": "vega-theos-2-others",
-            "name": "Vega | THEOS-2 & others",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-09-19T00:00:00Z",
-            "window_end": "2023-09-19T00:00:00Z",
-            "window_start": "2023-09-19T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "THEOS-2 & others",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Ariane Launch Area 1",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
             "infographic": null
         },
         {
