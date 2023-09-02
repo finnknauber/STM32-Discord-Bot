@@ -1,33 +1,8 @@
 {
-    "count": 310,
+    "count": 312,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "83dccf61-8e2a-4492-8784-d67252e0ff53",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/83dccf61-8e2a-4492-8784-d67252e0ff53/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-13",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-01T02:21:50Z",
-            "window_end": "2023-09-01T03:12:20Z",
-            "window_start": "2023-08-31T23:52:20Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-13",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1077",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522083649.png",
-            "infographic": null
-        },
         {
             "id": "769470b6-7cac-41ab-9dd2-69c7e9504b1a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/769470b6-7cac-41ab-9dd2-69c7e9504b1a/",
@@ -35,8 +10,8 @@
             "slug": "pslv-xl-aditya-l1",
             "name": "PSLV-XL | Aditya-L1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-09-02T06:20:00Z",
             "window_end": "2023-09-02T06:20:00Z",
@@ -44,7 +19,7 @@
             "lsp_name": "Indian Space Research Organization",
             "mission": "Aditya-L1",
             "mission_type": "Heliophysics",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
             "location": "Satish Dhawan Space Centre, India",
             "landing": null,
             "landing_success": null,
@@ -60,8 +35,8 @@
             "slug": "falcon-9-block-5-sda-tranche-0b",
             "name": "Falcon 9 Block 5 | SDA Tranche 0B",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-09-02T14:25:00Z",
             "window_end": "2023-09-02T14:25:00Z",
@@ -72,7 +47,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "LZ-4",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1063",
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230830192938.jpeg",
@@ -89,7 +64,7 @@
                 "name": "Go"
             },
             "net": "2023-09-03T23:25:00Z",
-            "window_end": "2023-09-04T03:05:00Z",
+            "window_end": "2023-09-04T03:05:30Z",
             "window_start": "2023-09-03T23:25:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-12",
@@ -128,6 +103,30 @@
             "infographic": null
         },
         {
+            "id": "ecdfa281-834c-4419-bed6-92d0d635a3cf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ecdfa281-834c-4419-bed6-92d0d635a3cf/",
+            "launch_library_id": null,
+            "slug": "long-march-4c-unknown-payload",
+            "name": "Long March 4C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-09-06T18:18:00Z",
+            "window_end": "2023-09-06T18:29:00Z",
+            "window_start": "2023-09-06T18:06:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_4c_image_20230801172338.jpeg",
+            "infographic": null
+        },
+        {
             "id": "3a26da85-1135-4784-b55a-6c5185e0aab6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3a26da85-1135-4784-b55a-6c5185e0aab6/",
             "launch_library_id": null,
@@ -153,18 +152,42 @@
             "infographic": null
         },
         {
+            "id": "da7dd4f0-82d3-419e-ab14-2a02789b473a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/da7dd4f0-82d3-419e-ab14-2a02789b473a/",
+            "launch_library_id": null,
+            "slug": "long-march-6a-unknown-payload",
+            "name": "Long March 6A | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-09-10T04:40:00Z",
+            "window_end": "2023-09-10T04:59:00Z",
+            "window_start": "2023-09-10T04:21:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 9A",
+            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6a_image_20221109174525.png",
+            "infographic": null
+        },
+        {
             "id": "2a052554-35be-4e6c-8d60-b2b9072de17c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2a052554-35be-4e6c-8d60-b2b9072de17c/",
             "launch_library_id": null,
             "slug": "soyuz-21a-soyuz-ms-24",
             "name": "Soyuz 2.1a | Soyuz MS-24",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-09-15T15:44:00Z",
-            "window_end": "2023-09-15T15:44:00Z",
-            "window_start": "2023-09-15T15:44:00Z",
+            "net": "2023-09-15T15:44:35Z",
+            "window_end": "2023-09-15T15:44:35Z",
+            "window_start": "2023-09-15T15:44:35Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Soyuz MS-24",
             "mission_type": "Human Exploration",
@@ -203,53 +226,27 @@
             "infographic": null
         },
         {
-            "id": "d8fead19-b792-4e77-8c93-03a953958005",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d8fead19-b792-4e77-8c93-03a953958005/",
+            "id": "41141d58-0df9-49ff-a33d-b296aa864ec8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/41141d58-0df9-49ff-a33d-b296aa864ec8/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-ussf-124",
-            "name": "Falcon 9 Block 5 | USSF-124",
+            "slug": "long-march-4c-unknown-payload-2",
+            "name": "Long March 4C | Unknown Payload",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-09-29T00:00:00Z",
-            "window_end": "2023-09-29T00:00:00Z",
-            "window_start": "2023-09-29T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "USSF-124",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "04b91bb8-38a7-4868-b025-4bbe05d1fbfe",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/04b91bb8-38a7-4868-b025-4bbe05d1fbfe/",
-            "launch_library_id": null,
-            "slug": "starship-integrated-flight-test-2",
-            "name": "Starship | Integrated Flight Test 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-09-30T00:00:00Z",
-            "window_end": "2023-09-30T00:00:00Z",
-            "window_start": "2023-09-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Integrated Flight Test 2",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Space Launch Facility, TX, USA",
-            "landing": "GOM",
-            "landing_success": 0,
-            "launcher": "Booster 9",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20230523063525.jpeg",
+            "net": "2023-09-26T20:18:00Z",
+            "window_end": "2023-09-26T20:29:00Z",
+            "window_start": "2023-09-26T20:06:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_4c_image_20230801172338.jpeg",
             "infographic": null
         }
     ]
