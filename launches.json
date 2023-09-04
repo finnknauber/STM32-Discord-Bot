@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-12",
             "name": "Falcon 9 Block 5 | Starlink Group 6-12",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-09-04T01:56:40Z",
+            "net": "2023-09-04T02:47:20Z",
             "window_end": "2023-09-04T03:05:30Z",
             "window_start": "2023-09-03T23:34:00Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522083149.png",
@@ -77,6 +77,31 @@
             "infographic": null
         },
         {
+            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
+            "launch_library_id": 1602,
+            "slug": "h-iia-202-xrism-slim",
+            "name": "H-IIA 202 | XRISM & SLIM",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-09-06T23:42:11Z",
+            "window_end": "2023-09-06T23:42:11Z",
+            "window_start": "2023-09-06T23:42:11Z",
+            "lsp_name": "Japan Aerospace Exploration Agency",
+            "mission": "XRISM & SLIM",
+            "mission_type": "Astrophysics",
+            "pad": "Yoshinobu Launch Complex LP-1",
+            "location": "Tanegashima Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h-iia25202022_image_20230828072314.jpeg",
+            "infographic": null
+        },
+        {
             "id": "3a26da85-1135-4784-b55a-6c5185e0aab6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3a26da85-1135-4784-b55a-6c5185e0aab6/",
             "launch_library_id": null,
@@ -111,7 +136,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-09-09T03:50:00Z",
+            "net": "2023-09-08T23:40:00Z",
             "window_end": "2023-09-09T03:50:00Z",
             "window_start": "2023-09-08T23:40:00Z",
             "lsp_name": "SpaceX",
@@ -124,6 +149,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522085927.png",
+            "infographic": null
+        },
+        {
+            "id": "e9a5015d-aa12-4f65-9888-1248ff67ba6e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e9a5015d-aa12-4f65-9888-1248ff67ba6e/",
+            "launch_library_id": 1692,
+            "slug": "atlas-v-551-nrol-107-silent-barker",
+            "name": "Atlas V 551 | NROL-107 (Silent Barker)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-09-09T12:51:00Z",
+            "window_end": "2023-09-09T14:39:00Z",
+            "window_start": "2023-09-09T12:51:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-107 (Silent Barker)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Direct-GEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/atlas2520v252_image_20230829061528.jpeg",
             "infographic": null
         },
         {
@@ -198,55 +248,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520501_image_20190222030851.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "41141d58-0df9-49ff-a33d-b296aa864ec8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/41141d58-0df9-49ff-a33d-b296aa864ec8/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-unknown-payload-2",
-            "name": "Long March 4C | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-09-26T20:18:00Z",
-            "window_end": "2023-09-26T20:29:00Z",
-            "window_start": "2023-09-26T20:06:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_4c_image_20230801172338.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d8fead19-b792-4e77-8c93-03a953958005",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d8fead19-b792-4e77-8c93-03a953958005/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-ussf-124",
-            "name": "Falcon 9 Block 5 | USSF-124",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-09-29T00:00:00Z",
-            "window_end": "2023-09-29T00:00:00Z",
-            "window_start": "2023-09-29T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "USSF-124",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
