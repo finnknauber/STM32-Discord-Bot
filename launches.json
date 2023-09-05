@@ -1,33 +1,8 @@
 {
-    "count": 310,
+    "count": 309,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "f66687a3-d1f2-427d-8fe1-0454dc1fe9bd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f66687a3-d1f2-427d-8fe1-0454dc1fe9bd/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-12",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-12",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-04T02:47:20Z",
-            "window_end": "2023-09-04T03:05:30Z",
-            "window_start": "2023-09-03T23:34:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-12",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1073",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522083149.png",
-            "infographic": null
-        },
         {
             "id": "2f255496-16b0-4ae6-ac9e-8e24f5deae7a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2f255496-16b0-4ae6-ac9e-8e24f5deae7a/",
@@ -35,21 +10,22 @@
             "slug": "ceres-1s-4x-tianqi",
             "name": "Ceres-1S | 4x Tianqi",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-09-05T09:40:00Z",
+            "net": "2023-09-05T09:34:00Z",
             "window_end": "2023-09-05T10:02:00Z",
             "window_start": "2023-09-05T09:25:00Z",
             "lsp_name": "Galactic Energy",
-            "mission": null,
-            "pad": "Haiyang Spaceport",
+            "mission": "4x Tianqi",
+            "mission_type": "Communications",
+            "pad": "DeFu-15002 mobile launch platform",
             "location": "Sea Launch",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1s_image_20230831063738.jpeg",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/ceres-1s25202_image_20230905114300.jpeg",
             "infographic": null
         },
         {
@@ -248,6 +224,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520501_image_20190222030851.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "41141d58-0df9-49ff-a33d-b296aa864ec8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/41141d58-0df9-49ff-a33d-b296aa864ec8/",
+            "launch_library_id": null,
+            "slug": "long-march-4c-unknown-payload-2",
+            "name": "Long March 4C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-09-26T20:18:00Z",
+            "window_end": "2023-09-26T20:29:00Z",
+            "window_start": "2023-09-26T20:06:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_4c_image_20230801172338.jpeg",
             "infographic": null
         }
     ]
