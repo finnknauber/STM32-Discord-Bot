@@ -4,41 +4,16 @@
     "previous": null,
     "results": [
         {
-            "id": "2ba0b63c-e5f6-4899-b588-387c7c8e71ca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2ba0b63c-e5f6-4899-b588-387c7c8e71ca/",
-            "launch_library_id": 1602,
-            "slug": "h-iia-202-xrism-slim",
-            "name": "H-IIA 202 | XRISM & SLIM",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-06T23:42:11Z",
-            "window_end": "2023-09-06T23:42:11Z",
-            "window_start": "2023-09-06T23:42:11Z",
-            "lsp_name": "Japan Aerospace Exploration Agency",
-            "mission": "XRISM & SLIM",
-            "mission_type": "Astrophysics",
-            "pad": "Yoshinobu Launch Complex LP-1",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h-iia25202022_image_20230828072314.jpeg",
-            "infographic": null
-        },
-        {
             "id": "3a26da85-1135-4784-b55a-6c5185e0aab6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3a26da85-1135-4784-b55a-6c5185e0aab6/",
             "launch_library_id": null,
             "slug": "spaceshiptwo-galactic-03",
             "name": "SpaceShipTwo | Galactic 03",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-09-08T14:00:00Z",
+            "net": "2023-09-08T15:22:00Z",
             "window_end": "2023-09-08T23:00:00Z",
             "window_start": "2023-09-08T14:00:00Z",
             "lsp_name": "Virgin Galactic",
@@ -60,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-14",
             "name": "Falcon 9 Block 5 | Starlink Group 6-14",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-09-08T23:40:00Z",
-            "window_end": "2023-09-09T03:31:00Z",
-            "window_start": "2023-09-08T23:40:00Z",
+            "net": "2023-09-08T23:56:10Z",
+            "window_end": "2023-09-09T03:30:30Z",
+            "window_start": "2023-09-08T23:56:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-14",
             "mission_type": "Communications",
@@ -73,7 +48,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1076",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522085927.png",
             "infographic": null
@@ -200,6 +175,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "08f52ca7-9aba-41d1-a5c7-092cab7aca92",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/08f52ca7-9aba-41d1-a5c7-092cab7aca92/",
+            "launch_library_id": null,
+            "slug": "electron-we-will-never-desert-you-capella-acadia-2",
+            "name": "Electron | We Will Never Desert You (Capella Acadia 2)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-19T00:00:00Z",
+            "window_end": "2023-09-19T00:00:00Z",
+            "window_start": "2023-09-19T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "We Will Never Desert You (Capella Acadia 2)",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
