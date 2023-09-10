@@ -1,55 +1,31 @@
 {
-    "count": 308,
+    "count": 307,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "4fcf9157-faa0-4d63-8853-c9454f75f864",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4fcf9157-faa0-4d63-8853-c9454f75f864/",
+            "id": "da7dd4f0-82d3-419e-ab14-2a02789b473a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/da7dd4f0-82d3-419e-ab14-2a02789b473a/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-14",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-14",
+            "slug": "long-march-6a-yaogan-40",
+            "name": "Long March 6A | Yaogan 40",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2023-09-09T03:12:50Z",
-            "window_end": "2023-09-09T03:30:30Z",
-            "window_start": "2023-09-08T23:56:10Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-14",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1076",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522085927.png",
-            "infographic": null
-        },
-        {
-            "id": "da7dd4f0-82d3-419e-ab14-2a02789b473a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/da7dd4f0-82d3-419e-ab14-2a02789b473a/",
-            "launch_library_id": null,
-            "slug": "long-march-6a-unknown-payload",
-            "name": "Long March 6A | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-09-10T04:40:00Z",
+            "net": "2023-09-10T04:30:00Z",
             "window_end": "2023-09-10T04:59:00Z",
             "window_start": "2023-09-10T04:21:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": null,
+            "mission": "Yaogan 40",
+            "mission_type": "Government/Top Secret",
             "pad": "Launch Complex 9A",
             "location": "Taiyuan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6a_image_20221109174525.png",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20230910165557.jpeg",
             "infographic": null
         },
         {
@@ -59,8 +35,8 @@
             "slug": "atlas-v-551-nrol-107-silent-barker",
             "name": "Atlas V 551 | NROL-107 (Silent Barker)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-09-10T12:47:00Z",
             "window_end": "2023-09-10T14:35:00Z",
@@ -87,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-09-12T06:00:00Z",
+            "net": "2023-09-12T06:47:00Z",
             "window_end": "2023-09-12T11:07:00Z",
-            "window_start": "2023-09-12T06:00:00Z",
+            "window_start": "2023-09-12T06:47:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-2",
             "mission_type": "Communications",
@@ -112,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-09-15T00:00:00Z",
-            "window_end": "2023-09-15T00:00:00Z",
-            "window_start": "2023-09-15T00:00:00Z",
+            "net": "2023-09-15T00:30:00Z",
+            "window_end": "2023-09-15T05:02:00Z",
+            "window_start": "2023-09-15T00:30:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-16",
             "mission_type": "Communications",
@@ -249,6 +225,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710073235.png",
+            "infographic": null
+        },
+        {
+            "id": "2918b5f6-1340-4c73-bb75-4f9b5e16999f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2918b5f6-1340-4c73-bb75-4f9b5e16999f/",
+            "launch_library_id": null,
+            "slug": "electron-the-moon-god-awakens-qps-sar-5",
+            "name": "Electron | The Moon God Awakens (QPS-SAR-5)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-30T00:00:00Z",
+            "window_end": "2023-09-30T00:00:00Z",
+            "window_start": "2023-09-30T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "The Moon God Awakens (QPS-SAR-5)",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
