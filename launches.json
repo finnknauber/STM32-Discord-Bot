@@ -1,5 +1,5 @@
 {
-    "count": 320,
+    "count": 323,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-7-2",
             "name": "Falcon 9 Block 5 | Starlink Group 7-2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-09-12T06:57:50Z",
             "window_end": "2023-09-12T10:20:20Z",
@@ -22,8 +22,8 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710071854.png",
             "infographic": null
@@ -38,15 +38,15 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-09-15T00:40:00Z",
-            "window_end": "2023-09-15T04:50:00Z",
-            "window_start": "2023-09-15T00:40:00Z",
+            "net": "2023-09-15T04:03:40Z",
+            "window_end": "2023-09-15T04:30:30Z",
+            "window_start": "2023-09-15T04:03:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-16",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -76,6 +76,30 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1c09bb7e-5d7c-4ca7-a4a8-81db7004c66f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c09bb7e-5d7c-4ca7-a4a8-81db7004c66f/",
+            "launch_library_id": null,
+            "slug": "long-march-2d-unknown-payload",
+            "name": "Long March 2D | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-09-17T04:15:00Z",
+            "window_end": "2023-09-17T04:27:00Z",
+            "window_start": "2023-09-17T04:05:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": null,
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25202d_image_20190222031211.jpeg",
             "infographic": null
         },
         {
@@ -225,31 +249,6 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091056.png",
-            "infographic": null
-        },
-        {
-            "id": "b8f2e028-285c-457d-b807-a6749cfc3af6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8f2e028-285c-457d-b807-a6749cfc3af6/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta003-victus-nox",
-            "name": "Firefly Alpha | FLTA003 (VICTUS NOX)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-09-30T00:00:00Z",
-            "window_end": "2023-09-30T00:00:00Z",
-            "window_start": "2023-09-30T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA003 (VICTUS NOX)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
