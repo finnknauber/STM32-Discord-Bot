@@ -1,33 +1,8 @@
 {
-    "count": 323,
+    "count": 326,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "8ab7d138-f248-450f-94a6-0e957c1b19f2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8ab7d138-f248-450f-94a6-0e957c1b19f2/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-2",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-2",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-12T06:57:50Z",
-            "window_end": "2023-09-12T10:20:20Z",
-            "window_start": "2023-09-12T06:57:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1071",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710071854.png",
-            "infographic": null
-        },
         {
             "id": "470bac70-cd8c-45fd-9a54-08f8f8f05049",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/470bac70-cd8c-45fd-9a54-08f8f8f05049/",
@@ -75,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1a_image_20230913073118.jpg",
             "infographic": null
         },
         {
@@ -128,6 +103,31 @@
             "infographic": null
         },
         {
+            "id": "7fc31961-b46f-4a45-9b1d-3caece884f61",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7fc31961-b46f-4a45-9b1d-3caece884f61/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-17",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-17",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-19T00:00:00Z",
+            "window_end": "2023-09-19T00:00:00Z",
+            "window_start": "2023-09-19T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-17",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091056.png",
+            "infographic": null
+        },
+        {
             "id": "41141d58-0df9-49ff-a33d-b296aa864ec8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/41141d58-0df9-49ff-a33d-b296aa864ec8/",
             "launch_library_id": null,
@@ -174,6 +174,31 @@
             "launcher": "Booster 9",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20230523063525.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1c099ba2-9b8f-4364-8ba0-0c26f7993dd5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c099ba2-9b8f-4364-8ba0-0c26f7993dd5/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-18",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-18",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-30T00:00:00Z",
+            "window_end": "2023-09-30T00:00:00Z",
+            "window_start": "2023-09-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-18",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091403.png",
             "infographic": null
         },
         {
@@ -224,31 +249,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "7fc31961-b46f-4a45-9b1d-3caece884f61",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7fc31961-b46f-4a45-9b1d-3caece884f61/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-17",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-17",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-09-30T00:00:00Z",
-            "window_end": "2023-09-30T00:00:00Z",
-            "window_start": "2023-09-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-17",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091056.png",
             "infographic": null
         }
     ]
