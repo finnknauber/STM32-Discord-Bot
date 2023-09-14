@@ -1,8 +1,33 @@
 {
-    "count": 326,
+    "count": 327,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
+        {
+            "id": "b8f2e028-285c-457d-b807-a6749cfc3af6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b8f2e028-285c-457d-b807-a6749cfc3af6/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flta003-victus-nox",
+            "name": "Firefly Alpha | FLTA003 (VICTUS NOX)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-15T02:00:00Z",
+            "window_end": "2023-09-15T03:19:00Z",
+            "window_start": "2023-09-15T01:57:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "FLTA003 (VICTUS NOX)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/firefly2520alp_image_20230914081735.jpeg",
+            "infographic": null
+        },
         {
             "id": "470bac70-cd8c-45fd-9a54-08f8f8f05049",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/470bac70-cd8c-45fd-9a54-08f8f8f05049/",
@@ -10,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-16",
             "name": "Falcon 9 Block 5 | Starlink Group 6-16",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-09-15T04:03:40Z",
             "window_end": "2023-09-15T04:30:30Z",
@@ -112,9 +137,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-09-19T00:00:00Z",
-            "window_end": "2023-09-19T00:00:00Z",
-            "window_start": "2023-09-19T00:00:00Z",
+            "net": "2023-09-19T04:00:00Z",
+            "window_end": "2023-09-19T08:00:00Z",
+            "window_start": "2023-09-19T04:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-17",
             "mission_type": "Communications",
@@ -224,31 +249,6 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710073235.png",
-            "infographic": null
-        },
-        {
-            "id": "2918b5f6-1340-4c73-bb75-4f9b5e16999f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2918b5f6-1340-4c73-bb75-4f9b5e16999f/",
-            "launch_library_id": null,
-            "slug": "electron-the-moon-god-awakens-qps-sar-5",
-            "name": "Electron | The Moon God Awakens (QPS-SAR-5)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-09-30T00:00:00Z",
-            "window_end": "2023-09-30T00:00:00Z",
-            "window_start": "2023-09-30T00:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "The Moon God Awakens (QPS-SAR-5)",
-            "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
