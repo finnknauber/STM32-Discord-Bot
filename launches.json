@@ -1,33 +1,8 @@
 {
-    "count": 328,
+    "count": 329,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "08f52ca7-9aba-41d1-a5c7-092cab7aca92",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/08f52ca7-9aba-41d1-a5c7-092cab7aca92/",
-            "launch_library_id": null,
-            "slug": "electron-we-will-never-desert-you-capella-acadia-2",
-            "name": "Electron | We Will Never Desert You (Capella Acadia 2)",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2023-09-19T06:55:00Z",
-            "window_end": "2023-09-19T06:55:00Z",
-            "window_start": "2023-09-19T06:33:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "We Will Never Desert You (Capella Acadia 2)",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
         {
             "id": "7fc31961-b46f-4a45-9b1d-3caece884f61",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/7fc31961-b46f-4a45-9b1d-3caece884f61/",
@@ -35,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-17",
             "name": "Falcon 9 Block 5 | Starlink Group 6-17",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-09-20T02:47:40Z",
+            "net": "2023-09-20T03:38:10Z",
             "window_end": "2023-09-20T05:46:30Z",
             "window_start": "2023-09-20T02:47:40Z",
             "lsp_name": "SpaceX",
@@ -47,8 +22,8 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
-            "launcher": "B1060",
+            "landing_success": 1,
+            "launcher": "B1058",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091056.png",
             "infographic": null
@@ -249,6 +224,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520501_image_20190222030851.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b9fe915a-4359-4cc4-a23e-a9a5d8cf7856",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fe915a-4359-4cc4-a23e-a9a5d8cf7856/",
+            "launch_library_id": null,
+            "slug": "miura-1-sn1-test-flight",
+            "name": "Miura 1 | SN1 Test Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-07T00:00:00Z",
+            "window_end": "2023-10-07T00:00:00Z",
+            "window_start": "2023-10-07T00:00:00Z",
+            "lsp_name": "Payload Aerospace S.L.",
+            "mission": "SN1 Test Flight",
+            "mission_type": "Test Flight",
+            "pad": "M\u00e9dano del Loro",
+            "location": "El Arenosillo Test Centre",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
             "infographic": null
         }
     ]
