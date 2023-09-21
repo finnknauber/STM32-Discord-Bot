@@ -1,54 +1,30 @@
 {
-    "count": 329,
+    "count": 328,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "7fc31961-b46f-4a45-9b1d-3caece884f61",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7fc31961-b46f-4a45-9b1d-3caece884f61/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-17",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-17",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-20T03:38:10Z",
-            "window_end": "2023-09-20T05:46:30Z",
-            "window_start": "2023-09-20T02:47:40Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-17",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1058",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091056.png",
-            "infographic": null
-        },
-        {
             "id": "6eef3c8d-90a9-499c-96cd-e42326722d12",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6eef3c8d-90a9-499c-96cd-e42326722d12/",
             "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
+            "slug": "ceres-1-jilin-1-high-resolution-04b",
+            "name": "Ceres-1 | Jilin-1 High Resolution 04B",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2023-09-21T04:00:00Z",
+            "net": "2023-09-21T04:59:00Z",
             "window_end": "2023-09-21T09:00:00Z",
             "window_start": "2023-09-21T04:00:00Z",
             "lsp_name": "Galactic Energy",
-            "mission": null,
+            "mission": "Jilin-1 High Resolution 04B",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 95A",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": null,
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         },
@@ -249,6 +225,31 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
+            "infographic": null
+        },
+        {
+            "id": "8a186c70-5b9e-4e29-95dd-d2c82873fa8e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8a186c70-5b9e-4e29-95dd-d2c82873fa8e/",
+            "launch_library_id": null,
+            "slug": "gaganyaan-abort-test-booster-tv-d1",
+            "name": "Gaganyaan Abort Test Booster | TV-D1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-26T00:00:00Z",
+            "window_end": "2023-10-26T00:00:00Z",
+            "window_start": "2023-10-26T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "TV-D1",
+            "mission_type": "Test Flight",
+            "pad": "Unknown Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": null,
             "infographic": null
         }
     ]
