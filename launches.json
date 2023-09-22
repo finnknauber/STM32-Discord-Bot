@@ -1,33 +1,8 @@
 {
-    "count": 328,
+    "count": 331,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "6eef3c8d-90a9-499c-96cd-e42326722d12",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6eef3c8d-90a9-499c-96cd-e42326722d12/",
-            "launch_library_id": null,
-            "slug": "ceres-1-jilin-1-high-resolution-04b",
-            "name": "Ceres-1 | Jilin-1 High Resolution 04B",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2023-09-21T04:59:00Z",
-            "window_end": "2023-09-21T09:00:00Z",
-            "window_start": "2023-09-21T04:00:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Jilin-1 High Resolution 04B",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20230722081939.jpeg",
-            "infographic": null
-        },
         {
             "id": "1c099ba2-9b8f-4364-8ba0-0c26f7993dd5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1c099ba2-9b8f-4364-8ba0-0c26f7993dd5/",
@@ -100,6 +75,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_4c_image_20230801172338.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1c75cf8f-7097-46cc-9fe3-28c4886df4a6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c75cf8f-7097-46cc-9fe3-28c4886df4a6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-19",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-19",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-09-28T00:00:00Z",
+            "window_end": "2023-09-28T00:00:00Z",
+            "window_start": "2023-09-28T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-19",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727063129.png",
             "infographic": null
         },
         {
