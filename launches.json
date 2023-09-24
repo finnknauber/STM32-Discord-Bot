@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-18",
             "name": "Falcon 9 Block 5 | Starlink Group 6-18",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-09-24T01:07:00Z",
+            "net": "2023-09-24T03:38:30Z",
             "window_end": "2023-09-24T04:05:30Z",
             "window_start": "2023-09-24T01:07:00Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091403.png",
@@ -38,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-09-25T07:23:40Z",
+            "net": "2023-09-25T08:48:20Z",
             "window_end": "2023-09-25T11:04:30Z",
             "window_start": "2023-09-25T07:23:40Z",
             "lsp_name": "SpaceX",
