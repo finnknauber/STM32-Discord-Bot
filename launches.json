@@ -1,33 +1,8 @@
 {
-    "count": 331,
+    "count": 330,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "1c099ba2-9b8f-4364-8ba0-0c26f7993dd5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c099ba2-9b8f-4364-8ba0-0c26f7993dd5/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-18",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-18",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-24T03:38:30Z",
-            "window_end": "2023-09-24T04:05:30Z",
-            "window_start": "2023-09-24T01:07:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-18",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1060",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522091403.png",
-            "infographic": null
-        },
         {
             "id": "1da29c40-6c7d-4cda-9b3b-d2c12c78c82b",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1da29c40-6c7d-4cda-9b3b-d2c12c78c82b/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-7-3",
             "name": "Falcon 9 Block 5 | Starlink Group 7-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-09-25T08:48:20Z",
             "window_end": "2023-09-25T11:04:30Z",
@@ -47,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1075",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710073235.png",
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
+            "infographic": null
+        },
+        {
+            "id": "8a186c70-5b9e-4e29-95dd-d2c82873fa8e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8a186c70-5b9e-4e29-95dd-d2c82873fa8e/",
+            "launch_library_id": null,
+            "slug": "gaganyaan-abort-test-booster-tv-d1",
+            "name": "Gaganyaan Abort Test Booster | TV-D1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-26T00:00:00Z",
+            "window_end": "2023-10-26T00:00:00Z",
+            "window_start": "2023-10-26T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "TV-D1",
+            "mission_type": "Test Flight",
+            "pad": "Unknown Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": null,
             "infographic": null
         }
     ]
