@@ -1,33 +1,8 @@
 {
-    "count": 329,
+    "count": 328,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "44709d2b-78a2-4a58-a7ad-a964545e63f0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/44709d2b-78a2-4a58-a7ad-a964545e63f0/",
-            "launch_library_id": null,
-            "slug": "qased-noor-3",
-            "name": "Qased | Noor-3",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-09-27T06:00:00Z",
-            "window_end": "2023-09-27T06:00:00Z",
-            "window_start": "2023-09-27T06:00:00Z",
-            "lsp_name": "Islamic Revolutionary Guard Corps Aerospace Force",
-            "mission": "Noor-3",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Platform",
-            "location": "Shahrud Missile Test Site, Islamic Republic of Iran",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/qased_image_20220308095543.jpg",
-            "infographic": null
-        },
         {
             "id": "1c75cf8f-7097-46cc-9fe3-28c4886df4a6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1c75cf8f-7097-46cc-9fe3-28c4886df4a6/",
@@ -35,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-19",
             "name": "Falcon 9 Block 5 | Starlink Group 6-19",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-09-28T23:02:40Z",
-            "window_end": "2023-09-29T02:52:30Z",
-            "window_start": "2023-09-28T23:02:40Z",
+            "net": "2023-09-29T22:39:30Z",
+            "window_end": "2023-09-30T02:15:50Z",
+            "window_start": "2023-09-29T22:39:30Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-19",
             "mission_type": "Communications",
@@ -48,7 +23,7 @@
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727063129.png",
             "infographic": null
@@ -104,56 +79,6 @@
             "infographic": null
         },
         {
-            "id": "355ab4b9-504c-49ce-84bf-a6df31a0aadf",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/355ab4b9-504c-49ce-84bf-a6df31a0aadf/",
-            "launch_library_id": null,
-            "slug": "vega-theos-2-triton-others",
-            "name": "Vega | THEOS-2, TRITON & others",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-10-05T01:36:00Z",
-            "window_end": "2023-10-05T01:36:00Z",
-            "window_start": "2023-10-05T01:36:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "THEOS-2, TRITON & others",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Ariane Launch Area 1",
-            "location": "Kourou, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "66133437-db31-4098-8e3e-cf34c8125f9b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/66133437-db31-4098-8e3e-cf34c8125f9b/",
-            "launch_library_id": 2046,
-            "slug": "falcon-heavy-psyche",
-            "name": "Falcon Heavy | Psyche",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-10-05T14:34:00Z",
-            "window_end": "2023-10-05T14:34:00Z",
-            "window_start": "2023-10-05T14:34:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Psyche",
-            "mission_type": "Planetary Science",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
-            "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": "Helio-N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
-            "infographic": null
-        },
-        {
             "id": "9086bd21-5422-41b9-a492-963aababd8fd",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9086bd21-5422-41b9-a492-963aababd8fd/",
             "launch_library_id": null,
@@ -201,6 +126,81 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
+            "infographic": null
+        },
+        {
+            "id": "355ab4b9-504c-49ce-84bf-a6df31a0aadf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/355ab4b9-504c-49ce-84bf-a6df31a0aadf/",
+            "launch_library_id": null,
+            "slug": "vega-theos-2-triton-others",
+            "name": "Vega | THEOS-2, TRITON & others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-07T01:36:00Z",
+            "window_end": "2023-10-07T01:36:00Z",
+            "window_start": "2023-10-07T01:36:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "THEOS-2, TRITON & others",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Ariane Launch Area 1",
+            "location": "Kourou, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/vega_image_20201111143622.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "432bc342-753e-4efe-8e3e-bd7158274b97",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/432bc342-753e-4efe-8e3e-bd7158274b97/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-4",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-07T07:06:00Z",
+            "window_end": "2023-10-07T11:25:00Z",
+            "window_start": "2023-10-07T07:06:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-4",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710162304.png",
+            "infographic": null
+        },
+        {
+            "id": "66133437-db31-4098-8e3e-cf34c8125f9b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/66133437-db31-4098-8e3e-cf34c8125f9b/",
+            "launch_library_id": 2046,
+            "slug": "falcon-heavy-psyche",
+            "name": "Falcon Heavy | Psyche",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-10-12T14:16:00Z",
+            "window_end": "2023-10-12T14:16:00Z",
+            "window_start": "2023-10-12T14:16:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Psyche",
+            "mission_type": "Planetary Science",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
+            "landing_success": 0,
+            "launcher": "MX Launchers",
+            "orbit": "Helio-N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         },
         {
