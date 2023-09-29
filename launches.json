@@ -1,5 +1,5 @@
 {
-    "count": 328,
+    "count": 329,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -13,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-09-29T22:39:30Z",
+            "net": "2023-09-29T22:49:00Z",
             "window_end": "2023-09-30T02:15:50Z",
             "window_start": "2023-09-29T22:39:30Z",
             "lsp_name": "SpaceX",
@@ -85,12 +85,12 @@
             "slug": "atlas-v-501-project-kuiper-protoflight-mission-atl",
             "name": "Atlas V 501 | Project Kuiper Protoflight Mission (Atlas V #1)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-10-07T00:00:00Z",
-            "window_end": "2023-10-07T00:00:00Z",
-            "window_start": "2023-10-07T00:00:00Z",
+            "net": "2023-10-06T18:00:00Z",
+            "window_end": "2023-10-06T18:00:00Z",
+            "window_start": "2023-10-06T18:00:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "Project Kuiper Protoflight Mission (Atlas V #1)",
             "mission_type": "Communications",
@@ -135,8 +135,8 @@
             "slug": "vega-theos-2-triton-others",
             "name": "Vega | THEOS-2, TRITON & others",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-10-07T01:36:00Z",
             "window_end": "2023-10-07T01:36:00Z",
@@ -188,9 +188,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-10-12T14:16:00Z",
-            "window_end": "2023-10-12T14:16:00Z",
-            "window_start": "2023-10-12T14:16:00Z",
+            "net": "2023-10-12T14:16:49Z",
+            "window_end": "2023-10-12T14:16:49Z",
+            "window_start": "2023-10-12T14:16:49Z",
             "lsp_name": "SpaceX",
             "mission": "Psyche",
             "mission_type": "Planetary Science",
