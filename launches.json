@@ -1,5 +1,5 @@
 {
-    "count": 328,
+    "count": 330,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -21,7 +21,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-10-06T00:00:00Z",
-            "window_end": "2023-10-06T00:00:00Z",
-            "window_start": "2023-10-06T00:00:00Z",
+            "net": "2023-10-06T14:30:00Z",
+            "window_end": "2023-10-06T23:00:00Z",
+            "window_start": "2023-10-06T14:30:00Z",
             "lsp_name": "Virgin Galactic",
             "mission": "Galactic 04",
             "mission_type": "Tourism",
@@ -76,31 +76,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520501_image_20190222030851.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b9fe915a-4359-4cc4-a23e-a9a5d8cf7856",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fe915a-4359-4cc4-a23e-a9a5d8cf7856/",
-            "launch_library_id": null,
-            "slug": "miura-1-sn1-test-flight",
-            "name": "Miura 1 | SN1 Test Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-10-07T00:00:00Z",
-            "window_end": "2023-10-07T00:00:00Z",
-            "window_start": "2023-10-07T00:00:00Z",
-            "lsp_name": "Payload Aerospace S.L.",
-            "mission": "SN1 Test Flight",
-            "mission_type": "Test Flight",
-            "pad": "M\u00e9dano del Loro",
-            "location": "El Arenosillo Test Centre",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": "Unknown F9",
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2da96504-8be7-4feb-bd8f-8aed5229a342",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2da96504-8be7-4feb-bd8f-8aed5229a342/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-22",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-22",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-31T00:00:00Z",
+            "window_end": "2023-10-31T00:00:00Z",
+            "window_start": "2023-10-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-22",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230522092919.png",
             "infographic": null
         }
     ]
