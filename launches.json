@@ -1,58 +1,8 @@
 {
-    "count": 331,
+    "count": 329,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "60ff25f7-ef7e-4203-8f10-9b6874332856",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/60ff25f7-ef7e-4203-8f10-9b6874332856/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-yaogan-39-group-03",
-            "name": "Long March 2D | Yaogan 39 Group 03",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-10-05T00:24:00Z",
-            "window_end": "2023-10-05T00:34:00Z",
-            "window_start": "2023-10-05T00:14:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 39 Group 03",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 3 (LC-3/LA-1)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20231005054230.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "16c2eec5-df98-4f84-8bf1-813f5fccf3f0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/16c2eec5-df98-4f84-8bf1-813f5fccf3f0/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-21",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-21",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-10-05T05:36:30Z",
-            "window_end": "2023-10-05T05:57:00Z",
-            "window_start": "2023-10-05T02:45:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-21",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1076",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727063457.png",
-            "infographic": null
-        },
         {
             "id": "b17abaa1-ef18-4c29-9ed9-a02eb4967bfa",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b17abaa1-ef18-4c29-9ed9-a02eb4967bfa/",
@@ -60,10 +10,10 @@
             "slug": "spaceshiptwo-galactic-04",
             "name": "SpaceShipTwo | Galactic 04",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-10-06T14:30:00Z",
+            "net": "2023-10-06T16:10:42Z",
             "window_end": "2023-10-06T23:00:00Z",
             "window_start": "2023-10-06T14:30:00Z",
             "lsp_name": "Virgin Galactic",
@@ -85,10 +35,10 @@
             "slug": "atlas-v-501-project-kuiper-protoflight-mission-atl",
             "name": "Atlas V 501 | Project Kuiper Protoflight Mission (Atlas V #1)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-10-06T18:00:00Z",
+            "net": "2023-10-06T18:06:00Z",
             "window_end": "2023-10-06T20:00:00Z",
             "window_start": "2023-10-06T18:00:00Z",
             "lsp_name": "United Launch Alliance",
@@ -101,6 +51,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/atlas2520v2520501_image_20190222030851.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b9fe915a-4359-4cc4-a23e-a9a5d8cf7856",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fe915a-4359-4cc4-a23e-a9a5d8cf7856/",
+            "launch_library_id": null,
+            "slug": "miura-1-sn1-test-flight",
+            "name": "Miura 1 | SN1 Test Flight",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-10-07T00:00:00Z",
+            "window_end": "2023-10-07T08:00:00Z",
+            "window_start": "2023-10-07T00:00:00Z",
+            "lsp_name": "Payload Aerospace S.L.",
+            "mission": "SN1 Test Flight",
+            "mission_type": "Test Flight",
+            "pad": "M\u00e9dano del Loro",
+            "location": "El Arenosillo Test Centre",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/miura_1_image_20230530100729.png",
             "infographic": null
         },
         {
@@ -146,7 +121,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -251,6 +226,31 @@
             "launcher": "Booster 9",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20230523063525.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0be2e9d6-50d5-49dc-b56c-a919b7e0dfd8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0be2e9d6-50d5-49dc-b56c-a919b7e0dfd8/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-o3b-mpower-5-6",
+            "name": "Falcon 9 Block 5 | O3b mPower 5 & 6",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-31T00:00:00Z",
+            "window_end": "2023-10-31T00:00:00Z",
+            "window_start": "2023-10-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "O3b mPower 5 & 6",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
