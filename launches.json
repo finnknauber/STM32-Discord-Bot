@@ -1,5 +1,5 @@
 {
-    "count": 325,
+    "count": 326,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-10-12T14:16:49Z",
-            "window_end": "2023-10-12T14:16:49Z",
-            "window_start": "2023-10-12T14:16:49Z",
+            "net": "2023-10-13T14:19:43Z",
+            "window_end": "2023-10-13T14:19:43Z",
+            "window_start": "2023-10-13T14:19:43Z",
             "lsp_name": "SpaceX",
             "mission": "Psyche",
             "mission_type": "Planetary Science",
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-10-12T22:55:00Z",
-            "window_end": "2023-10-13T03:27:00Z",
-            "window_start": "2023-10-12T22:55:00Z",
+            "net": "2023-10-13T23:00:00Z",
+            "window_end": "2023-10-14T03:01:00Z",
+            "window_start": "2023-10-13T22:29:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-22",
             "mission_type": "Communications",
@@ -88,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-10-16T21:15:00Z",
-            "window_end": "2023-10-17T01:46:00Z",
-            "window_start": "2023-10-16T21:15:00Z",
+            "net": "2023-10-17T22:00:00Z",
+            "window_end": "2023-10-18T01:20:00Z",
+            "window_start": "2023-10-17T20:49:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-23",
             "mission_type": "Communications",
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-10-26T00:00:00Z",
-            "window_end": "2023-10-26T00:00:00Z",
-            "window_start": "2023-10-26T00:00:00Z",
+            "net": "2023-10-21T00:00:00Z",
+            "window_end": "2023-10-21T00:00:00Z",
+            "window_start": "2023-10-21T00:00:00Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "TV-D1",
             "mission_type": "Test Flight",
@@ -179,6 +179,31 @@
             "infographic": null
         },
         {
+            "id": "45bd2cb8-05d1-4080-8c50-602c9f43971e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/45bd2cb8-05d1-4080-8c50-602c9f43971e/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-17",
+            "name": "Long March 2F/G | Shenzhou 17",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-10-31T00:00:00Z",
+            "window_end": "2023-10-31T00:00:00Z",
+            "window_start": "2023-10-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 17",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
             "id": "b76b836f-8e88-4bc3-a3bc-36bb8ee4bb3c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b76b836f-8e88-4bc3-a3bc-36bb8ee4bb3c/",
             "launch_library_id": null,
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d9a3c8e1-bc0d-4fab-a04c-218ffe44a026",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9a3c8e1-bc0d-4fab-a04c-218ffe44a026/",
-            "launch_library_id": null,
-            "slug": "gslv-mk-ii-insat-3ds",
-            "name": "GSLV Mk II | INSAT-3DS",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-01T00:00:00Z",
-            "window_end": "2023-11-01T00:00:00Z",
-            "window_start": "2023-11-01T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "INSAT-3DS",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         }
     ]
