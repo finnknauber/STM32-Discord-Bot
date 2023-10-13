@@ -10,8 +10,8 @@
             "slug": "falcon-heavy-psyche",
             "name": "Falcon Heavy | Psyche",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-10-13T14:19:43Z",
             "window_end": "2023-10-13T14:19:43Z",
@@ -22,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "MX Landing",
-            "landing_success": 0,
+            "landing_success": 3,
             "launcher": "MX Launchers",
             "orbit": "Helio-N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-22",
             "name": "Falcon 9 Block 5 | Starlink Group 6-22",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-10-13T23:00:00Z",
-            "window_end": "2023-10-14T03:01:00Z",
-            "window_start": "2023-10-13T22:29:00Z",
+            "net": "2023-10-13T23:01:10Z",
+            "window_end": "2023-10-14T02:29:30Z",
+            "window_start": "2023-10-13T23:01:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-22",
             "mission_type": "Communications",
