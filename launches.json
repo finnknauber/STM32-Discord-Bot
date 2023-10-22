@@ -1,58 +1,8 @@
 {
-    "count": 329,
+    "count": 327,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "8a186c70-5b9e-4e29-95dd-d2c82873fa8e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8a186c70-5b9e-4e29-95dd-d2c82873fa8e/",
-            "launch_library_id": null,
-            "slug": "gaganyaan-abort-test-booster-tv-d1",
-            "name": "Gaganyaan Abort Test Booster | TV-D1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-10-21T04:30:00Z",
-            "window_end": "2023-10-21T04:30:00Z",
-            "window_start": "2023-10-21T01:30:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "TV-D1",
-            "mission_type": "Test Flight",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/gaganyaan2520a_image_20231021132054.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "327a3fa6-8144-4e4a-8398-709ddfac7291",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/327a3fa6-8144-4e4a-8398-709ddfac7291/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-5",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-5",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-10-21T08:23:00Z",
-            "window_end": "2023-10-21T10:00:20Z",
-            "window_start": "2023-10-21T07:47:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-5",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1061",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230710162355.png",
-            "infographic": null
-        },
         {
             "id": "b46768df-d372-489f-9419-ff4f0057e025",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b46768df-d372-489f-9419-ff4f0057e025/",
@@ -60,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-24",
             "name": "Falcon 9 Block 5 | Starlink Group 6-24",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-10-22T02:17:00Z",
             "window_end": "2023-10-22T06:15:30Z",
@@ -72,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1080",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727063705.png",
@@ -163,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-10-28T22:00:00Z",
-            "window_end": "2023-10-29T04:00:00Z",
-            "window_start": "2023-10-28T22:00:00Z",
+            "net": "2023-10-29T01:00:00Z",
+            "window_end": "2023-10-29T05:00:00Z",
+            "window_start": "2023-10-29T01:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-25",
             "mission_type": "Communications",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "63076c5e-d16c-4f16-a6ac-2709fd5fab01",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/63076c5e-d16c-4f16-a6ac-2709fd5fab01/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-29",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-29",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-11-06T03:01:00Z",
+            "window_end": "2023-11-06T03:01:00Z",
+            "window_start": "2023-11-06T03:01:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-29",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155506.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a4a7fa7f-f3d9-467e-ac58-6e577155a969",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a4a7fa7f-f3d9-467e-ac58-6e577155a969/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-transporter-9-dedicated-sso-rides",
+            "name": "Falcon 9 Block 5 | Transporter 9 (Dedicated SSO Rideshare)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-07T00:00:00Z",
+            "window_end": "2023-11-07T00:00:00Z",
+            "window_start": "2023-11-07T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Transporter 9 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": "Unknown F9",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
