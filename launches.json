@@ -4,46 +4,21 @@
     "previous": null,
     "results": [
         {
-            "id": "b46768df-d372-489f-9419-ff4f0057e025",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b46768df-d372-489f-9419-ff4f0057e025/",
+            "id": "430000f8-ada7-4ced-999e-1ee93d50c0af",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/430000f8-ada7-4ced-999e-1ee93d50c0af/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-24",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-24",
+            "slug": "long-march-2d-yaogan-39-group-04",
+            "name": "Long March 2D | Yaogan 39 Group 04",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2023-10-22T02:17:00Z",
-            "window_end": "2023-10-22T06:15:30Z",
-            "window_start": "2023-10-22T02:17:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-24",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1080",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727063705.png",
-            "infographic": null
-        },
-        {
-            "id": "430000f8-ada7-4ced-999e-1ee93d50c0af",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/430000f8-ada7-4ced-999e-1ee93d50c0af/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-10-23T20:01:00Z",
+            "net": "2023-10-23T20:03:00Z",
             "window_end": "2023-10-23T20:09:00Z",
             "window_start": "2023-10-23T19:53:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "Yaogan 39 Group 04",
+            "mission_type": "Government/Top Secret",
             "pad": "Launch Complex 3 (LC-3/LA-1)",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -76,6 +51,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "10650ea2-29f0-4632-bde0-152418964e00",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/10650ea2-29f0-4632-bde0-152418964e00/",
+            "launch_library_id": null,
+            "slug": "soyuz-21b-lotos-s1-8",
+            "name": "Soyuz 2.1b | Lotos-S1 #8?",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-10-27T04:00:00Z",
+            "window_end": "2023-10-27T08:00:00Z",
+            "window_start": "2023-10-27T04:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Lotos-S1 #8?",
+            "mission_type": "Government/Top Secret",
+            "pad": "Unknown Pad",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20230802085331.jpg",
             "infographic": null
         },
         {
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-10-29T01:00:00Z",
-            "window_end": "2023-10-29T05:00:00Z",
-            "window_start": "2023-10-29T01:00:00Z",
+            "net": "2023-10-28T23:13:00Z",
+            "window_end": "2023-10-29T03:44:00Z",
+            "window_start": "2023-10-28T23:13:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-25",
             "mission_type": "Communications",
@@ -151,31 +151,6 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d9a3c8e1-bc0d-4fab-a04c-218ffe44a026",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9a3c8e1-bc0d-4fab-a04c-218ffe44a026/",
-            "launch_library_id": null,
-            "slug": "gslv-mk-ii-insat-3ds",
-            "name": "GSLV Mk II | INSAT-3DS",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-01T00:00:00Z",
-            "window_end": "2023-11-01T00:00:00Z",
-            "window_start": "2023-11-01T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "INSAT-3DS",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         },
         {
@@ -250,6 +225,31 @@
             "landing_success": null,
             "launcher": "Unknown F9",
             "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "942a1814-c237-41de-9970-d27bb9630f3b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/942a1814-c237-41de-9970-d27bb9630f3b/",
+            "launch_library_id": 1996,
+            "slug": "falcon-9-block-5-nova-c-im-1",
+            "name": "Falcon 9 Block 5 | Nova-C IM-1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-16T00:00:00Z",
+            "window_end": "2023-11-16T00:00:00Z",
+            "window_start": "2023-11-16T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Nova-C IM-1",
+            "mission_type": "Lunar Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
