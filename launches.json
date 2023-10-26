@@ -10,10 +10,10 @@
             "slug": "long-march-2fg-shenzhou-17",
             "name": "Long March 2F/G | Shenzhou 17",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-10-26T03:14:00Z",
+            "net": "2023-10-26T03:14:02Z",
             "window_end": "2023-10-26T03:44:00Z",
             "window_start": "2023-10-26T03:04:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -96,7 +96,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
