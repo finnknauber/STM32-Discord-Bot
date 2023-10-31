@@ -1,5 +1,5 @@
 {
-    "count": 325,
+    "count": 350,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-25",
             "name": "Falcon 9 Block 5 | Starlink Group 6-25",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-10-30T23:20:30Z",
             "window_end": "2023-10-31T02:22:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1077",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727064542.png",
@@ -60,12 +60,12 @@
             "slug": "spaceshiptwo-galactic-05",
             "name": "SpaceShipTwo | Galactic 05",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-11-02T00:00:00Z",
-            "window_end": "2023-11-02T00:00:00Z",
-            "window_start": "2023-11-02T00:00:00Z",
+            "net": "2023-11-02T14:30:00Z",
+            "window_end": "2023-11-02T23:00:00Z",
+            "window_start": "2023-11-02T14:30:00Z",
             "lsp_name": "Virgin Galactic",
             "mission": "Galactic 05",
             "mission_type": "Tourism",
@@ -113,15 +113,15 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-11-03T22:37:00Z",
+            "net": "2023-11-03T22:23:00Z",
             "window_end": "2023-11-04T02:54:00Z",
-            "window_start": "2023-11-03T22:37:00Z",
+            "window_start": "2023-11-03T22:23:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-26",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -188,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-11-30T00:00:00Z",
-            "window_end": "2023-11-30T00:00:00Z",
-            "window_start": "2023-11-30T00:00:00Z",
+            "net": "2023-11-12T00:00:00Z",
+            "window_end": "2023-11-12T00:00:00Z",
+            "window_start": "2023-11-12T00:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "O3b mPower 5 & 6",
             "mission_type": "Communications",
