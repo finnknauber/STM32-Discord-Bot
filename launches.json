@@ -1,33 +1,8 @@
 {
-    "count": 349,
+    "count": 351,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "938bc342-1fb9-4747-8012-30878a237d81",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/938bc342-1fb9-4747-8012-30878a237d81/",
-            "launch_library_id": null,
-            "slug": "long-march-6a-tianhui-5",
-            "name": "Long March 6A | Tianhui 5",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-10-31T22:50:00Z",
-            "window_end": "2023-10-31T23:33:00Z",
-            "window_start": "2023-10-31T22:41:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Tianhui 5",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 9A",
-            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_6a_image_20221109174525.png",
-            "infographic": null
-        },
         {
             "id": "577b4557-1291-4f26-8642-2f075490d580",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/577b4557-1291-4f26-8642-2f075490d580/",
@@ -35,10 +10,10 @@
             "slug": "spaceshiptwo-galactic-05",
             "name": "SpaceShipTwo | Galactic 05",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-11-02T14:30:00Z",
+            "net": "2023-11-02T15:44:00Z",
             "window_end": "2023-11-02T23:00:00Z",
             "window_start": "2023-11-02T14:30:00Z",
             "lsp_name": "Virgin Galactic",
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-11-03T22:23:00Z",
-            "window_end": "2023-11-04T02:54:00Z",
-            "window_start": "2023-11-03T22:23:00Z",
+            "net": "2023-11-03T22:30:00Z",
+            "window_end": "2023-11-04T02:15:00Z",
+            "window_start": "2023-11-03T22:30:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-26",
             "mission_type": "Communications",
@@ -113,44 +88,19 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-11-07T00:00:00Z",
-            "window_end": "2023-11-07T00:00:00Z",
-            "window_start": "2023-11-07T00:00:00Z",
+            "net": "2023-11-07T18:47:00Z",
+            "window_end": "2023-11-07T20:23:00Z",
+            "window_start": "2023-11-07T18:47:00Z",
             "lsp_name": "SpaceX",
             "mission": "Transporter 9 (Dedicated SSO Rideshare)",
             "mission_type": "Dedicated Rideshare",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
+            "landing": "LZ-4",
+            "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "6159729f-70fd-4817-9223-b250dca18f5f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/6159729f-70fd-4817-9223-b250dca18f5f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-27",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-27",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-08T00:00:00Z",
-            "window_end": "2023-11-08T00:00:00Z",
-            "window_start": "2023-11-08T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-27",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063448.png",
             "infographic": null
         },
         {
@@ -176,6 +126,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210922155506.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6159729f-70fd-4817-9223-b250dca18f5f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6159729f-70fd-4817-9223-b250dca18f5f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-27",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-27",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-08T04:00:00Z",
+            "window_end": "2023-11-08T04:00:00Z",
+            "window_start": "2023-11-08T04:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-27",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063448.png",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/new2520shepard_image_20190207032624.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d9a3c8e1-bc0d-4fab-a04c-218ffe44a026",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9a3c8e1-bc0d-4fab-a04c-218ffe44a026/",
+            "launch_library_id": null,
+            "slug": "gslv-mk-ii-insat-3ds",
+            "name": "GSLV Mk II | INSAT-3DS",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-30T00:00:00Z",
+            "window_end": "2023-11-30T00:00:00Z",
+            "window_start": "2023-11-30T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "INSAT-3DS",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         }
     ]
