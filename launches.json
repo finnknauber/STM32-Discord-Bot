@@ -1,33 +1,8 @@
 {
-    "count": 352,
+    "count": 353,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "48f71d70-4df8-4b8d-a3c5-8b5f08ab9858",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/48f71d70-4df8-4b8d-a3c5-8b5f08ab9858/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-26",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-26",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-11-04T00:37:20Z",
-            "window_end": "2023-11-04T02:22:20Z",
-            "window_start": "2023-11-03T22:30:10Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-26",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1058",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230727064652.png",
-            "infographic": null
-        },
         {
             "id": "6159729f-70fd-4817-9223-b250dca18f5f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6159729f-70fd-4817-9223-b250dca18f5f/",
@@ -46,7 +21,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -251,6 +226,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728065759.png",
+            "infographic": null
+        },
+        {
+            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
+            "launch_library_id": 1676,
+            "slug": "soyuz-21b-resurs-p-no4",
+            "name": "Soyuz 2.1b | Resurs-P No.4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-30T00:00:00Z",
+            "window_end": "2023-11-30T00:00:00Z",
+            "window_start": "2023-11-30T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Resurs-P No.4",
+            "mission_type": "Earth Science",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20230802085331.jpg",
             "infographic": null
         }
     ]
