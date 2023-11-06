@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-27",
             "name": "Falcon 9 Block 5 | Starlink Group 6-27",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-11-08T04:00:00Z",
-            "window_end": "2023-11-08T08:31:00Z",
-            "window_start": "2023-11-08T04:00:00Z",
+            "net": "2023-11-08T04:01:00Z",
+            "window_end": "2023-11-08T08:00:00Z",
+            "window_start": "2023-11-08T04:01:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-27",
             "mission_type": "Communications",
