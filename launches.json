@@ -1,5 +1,5 @@
 {
-    "count": 356,
+    "count": 358,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-27",
             "name": "Falcon 9 Block 5 | Starlink Group 6-27",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-11-08T04:31:00Z",
+            "net": "2023-11-08T05:05:30Z",
             "window_end": "2023-11-08T07:59:10Z",
             "window_start": "2023-11-08T04:31:00Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063448.png",
@@ -88,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-11-11T18:47:00Z",
-            "window_end": "2023-11-11T20:23:00Z",
-            "window_start": "2023-11-11T18:47:00Z",
+            "net": "2023-11-11T18:49:00Z",
+            "window_end": "2023-11-11T18:49:00Z",
+            "window_start": "2023-11-11T18:49:00Z",
             "lsp_name": "SpaceX",
             "mission": "Transporter 9 (Dedicated SSO Rideshare)",
             "mission_type": "Dedicated Rideshare",
@@ -138,9 +138,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-11-13T13:00:00Z",
-            "window_end": "2023-11-13T15:39:00Z",
-            "window_start": "2023-11-13T13:00:00Z",
+            "net": "2023-11-15T11:25:00Z",
+            "window_end": "2023-11-15T17:10:00Z",
+            "window_start": "2023-11-15T11:25:00Z",
             "lsp_name": "SpaceX",
             "mission": "Integrated Flight Test 2",
             "mission_type": "Test Flight",
@@ -151,6 +151,31 @@
             "launcher": "Booster 9",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20230523063525.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2918b5f6-1340-4c73-bb75-4f9b5e16999f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2918b5f6-1340-4c73-bb75-4f9b5e16999f/",
+            "launch_library_id": null,
+            "slug": "electron-the-moon-god-awakens-qps-sar-5",
+            "name": "Electron | The Moon God Awakens (QPS-SAR-5)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-11-28T04:00:00Z",
+            "window_end": "2023-11-28T06:00:00Z",
+            "window_start": "2023-11-28T04:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "The Moon God Awakens (QPS-SAR-5)",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728065759.png",
-            "infographic": null
-        },
-        {
-            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
-            "launch_library_id": 1676,
-            "slug": "soyuz-21b-resurs-p-no4",
-            "name": "Soyuz 2.1b | Resurs-P No.4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-30T00:00:00Z",
-            "window_end": "2023-11-30T00:00:00Z",
-            "window_start": "2023-11-30T00:00:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Resurs-P No.4",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20230802085331.jpg",
             "infographic": null
         }
     ]
