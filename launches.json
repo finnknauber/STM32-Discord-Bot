@@ -1,33 +1,8 @@
 {
-    "count": 356,
+    "count": 355,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "0be2e9d6-50d5-49dc-b56c-a919b7e0dfd8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0be2e9d6-50d5-49dc-b56c-a919b7e0dfd8/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-o3b-mpower-5-6",
-            "name": "Falcon 9 Block 5 | O3b mPower 5 & 6",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2023-11-12T21:08:00Z",
-            "window_end": "2023-11-12T22:37:00Z",
-            "window_start": "2023-11-12T21:08:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 5 & 6",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1076",
-            "orbit": "MEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231112201500.jpeg",
-            "infographic": null
-        },
         {
             "id": "05200b45-25bf-44b9-aafc-1ab77d80bb17",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/05200b45-25bf-44b9-aafc-1ab77d80bb17/",
@@ -179,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
-            "launch_library_id": 1676,
-            "slug": "soyuz-21b-resurs-p-no4",
-            "name": "Soyuz 2.1b | Resurs-P No.4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-30T00:00:00Z",
-            "window_end": "2023-11-30T00:00:00Z",
-            "window_start": "2023-11-30T00:00:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Resurs-P No.4",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20230802085331.jpg",
-            "infographic": null
-        },
-        {
             "id": "fd2a9c7e-7cad-45d1-94db-3b6bb3bfadb2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/fd2a9c7e-7cad-45d1-94db-3b6bb3bfadb2/",
             "launch_library_id": null,
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0098c032-73de-4c6f-8d73-5d68b9a12fdf/",
+            "launch_library_id": 1585,
+            "slug": "falcon-heavy-otv-7-x-37b-ussf-52",
+            "name": "Falcon Heavy | OTV-7 (X-37B) (USSF-52)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-07T00:00:00Z",
+            "window_end": "2023-12-07T00:00:00Z",
+            "window_start": "2023-12-07T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "OTV-7 (X-37B) (USSF-52)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
+            "landing_success": 0,
+            "launcher": "MX Launchers",
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a27cba79-7c56-40c8-8af1-eb9f871b43ad",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a27cba79-7c56-40c8-8af1-eb9f871b43ad/",
+            "launch_library_id": null,
+            "slug": "soyuz-21bfregat-m-ionosfera-m-1-2",
+            "name": "Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-09T23:18:00Z",
+            "window_end": "2023-12-09T23:18:00Z",
+            "window_start": "2023-12-09T23:18:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Ionosfera-M 1 & 2",
+            "mission_type": "Earth Science",
+            "pad": "Cosmodrome Site 1S",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b2ffr_image_20230802085359.jpg",
             "infographic": null
         }
     ]
