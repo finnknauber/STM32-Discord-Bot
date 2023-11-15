@@ -29,31 +29,6 @@
             "infographic": null
         },
         {
-            "id": "dc5c0513-9c1e-416d-8675-6e83187a4c07",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/dc5c0513-9c1e-416d-8675-6e83187a4c07/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-28",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-28",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-17T04:00:00Z",
-            "window_end": "2023-11-17T08:31:00Z",
-            "window_start": "2023-11-17T04:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-28",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728065759.png",
-            "infographic": null
-        },
-        {
             "id": "a6e6b618-51f7-41ba-a8d3-0d375ba4530a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a6e6b618-51f7-41ba-a8d3-0d375ba4530a/",
             "launch_library_id": null,
@@ -85,8 +60,8 @@
             "slug": "starship-integrated-flight-test-2",
             "name": "Starship | Integrated Flight Test 2",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-11-17T13:00:00Z",
             "window_end": "2023-11-17T15:00:00Z",
@@ -95,12 +70,37 @@
             "mission": "Integrated Flight Test 2",
             "mission_type": "Test Flight",
             "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Space Launch Facility, TX, USA",
+            "location": "SpaceX Starbase, TX, USA",
             "landing": "GOM",
             "landing_success": 0,
             "launcher": "Booster 9",
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/starship_image_20230523063525.jpeg",
+            "infographic": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/starship25202_infographic_20231115220404.png"
+        },
+        {
+            "id": "dc5c0513-9c1e-416d-8675-6e83187a4c07",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/dc5c0513-9c1e-416d-8675-6e83187a4c07/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-28",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-28",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-18T04:00:00Z",
+            "window_end": "2023-11-18T08:31:00Z",
+            "window_start": "2023-11-18T04:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-28",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "JRTI",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728065759.png",
             "infographic": null
         },
         {
