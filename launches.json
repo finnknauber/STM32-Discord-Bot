@@ -1,33 +1,8 @@
 {
-    "count": 359,
+    "count": 358,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "936a4871-997f-404c-ae52-58082da75303",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/936a4871-997f-404c-ae52-58082da75303/",
-            "launch_library_id": null,
-            "slug": "long-march-2dyz-3-satnet-test-satellite",
-            "name": "Long March 2D/YZ-3 | SatNet test satellite",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-11-23T10:00:04Z",
-            "window_end": "2023-11-23T10:15:00Z",
-            "window_start": "2023-11-23T09:52:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "SatNet test satellite",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 3 (LC-3/LA-1)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2d2_image_20231123203521.jpeg",
-            "infographic": null
-        },
         {
             "id": "8b0d00c6-731a-43c3-a333-3336e6c9f061",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8b0d00c6-731a-43c3-a333-3336e6c9f061/",
@@ -51,31 +26,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "7bf22b01-938a-4b64-ad1e-d3f372f78a34",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7bf22b01-938a-4b64-ad1e-d3f372f78a34/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-30",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-30",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-27T04:00:00Z",
-            "window_end": "2023-11-27T08:00:00Z",
-            "window_start": "2023-11-27T04:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-30",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728070842.png",
             "infographic": null
         },
         {
@@ -104,6 +54,56 @@
             "infographic": null
         },
         {
+            "id": "7bf22b01-938a-4b64-ad1e-d3f372f78a34",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7bf22b01-938a-4b64-ad1e-d3f372f78a34/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-30",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-30",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-28T04:00:00Z",
+            "window_end": "2023-11-28T08:31:00Z",
+            "window_start": "2023-11-28T04:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-30",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728070842.png",
+            "infographic": null
+        },
+        {
+            "id": "fd2a9c7e-7cad-45d1-94db-3b6bb3bfadb2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fd2a9c7e-7cad-45d1-94db-3b6bb3bfadb2/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-425-project-flight-1-and-others",
+            "name": "Falcon 9 Block 5 | 425 Project Flight 1 and others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-11-29T18:04:00Z",
+            "window_end": "2023-11-29T19:18:00Z",
+            "window_start": "2023-11-29T18:04:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "425 Project Flight 1 and others",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
             "id": "c326f57f-defb-410d-92a8-6776b63521c8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c326f57f-defb-410d-92a8-6776b63521c8/",
             "launch_library_id": null,
@@ -129,31 +129,6 @@
             "infographic": null
         },
         {
-            "id": "fd2a9c7e-7cad-45d1-94db-3b6bb3bfadb2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fd2a9c7e-7cad-45d1-94db-3b6bb3bfadb2/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-425-project-flight-1",
-            "name": "Falcon 9 Block 5 | 425 Project Flight 1",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-11-30T00:00:00Z",
-            "window_end": "2023-11-30T00:00:00Z",
-            "window_start": "2023-11-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "425 Project Flight 1",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "LZ-4",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "717751b2-4dae-4fa2-a1a0-73dcb68d24d6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/717751b2-4dae-4fa2-a1a0-73dcb68d24d6/",
             "launch_library_id": null,
@@ -163,9 +138,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-12-01T09:23:00Z",
-            "window_end": "2023-12-01T09:23:00Z",
-            "window_start": "2023-12-01T09:23:00Z",
+            "net": "2023-12-01T09:25:00Z",
+            "window_end": "2023-12-01T09:25:00Z",
+            "window_start": "2023-12-01T09:25:00Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-25 (86P)",
             "mission_type": "Resupply",
@@ -251,6 +226,31 @@
             "launcher": "Unknown F9",
             "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d524b397-7670-4183-b807-03a4c0d705de",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d524b397-7670-4183-b807-03a4c0d705de/",
+            "launch_library_id": null,
+            "slug": "soyuz-21bfregat-m-arktika-m-no2",
+            "name": "Soyuz 2.1b/Fregat-M | Arktika-M No.2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-16T00:00:00Z",
+            "window_end": "2023-12-16T00:00:00Z",
+            "window_start": "2023-12-16T00:00:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Arktika-M No.2",
+            "mission_type": "Earth Science",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Elliptical",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b2ffr_image_20230802085359.jpg",
             "infographic": null
         }
     ]
