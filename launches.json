@@ -1,5 +1,5 @@
 {
-    "count": 358,
+    "count": 359,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -71,7 +71,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -154,6 +154,56 @@
             "infographic": null
         },
         {
+            "id": "8cf1015d-3fe5-40c4-8436-2f79c1f3ff2e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8cf1015d-3fe5-40c4-8436-2f79c1f3ff2e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-31",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-31",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-02T00:00:00Z",
+            "window_end": "2023-12-02T00:00:00Z",
+            "window_start": "2023-12-02T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-31",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728070933.png",
+            "infographic": null
+        },
+        {
+            "id": "fc495db8-543e-4b3b-b831-79f5c8be3032",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fc495db8-543e-4b3b-b831-79f5c8be3032/",
+            "launch_library_id": null,
+            "slug": "smart-dragon-3-unknown-payload",
+            "name": "Smart Dragon 3 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-12-05T19:30:00Z",
+            "window_end": "2023-12-05T20:02:00Z",
+            "window_start": "2023-12-05T19:17:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Unknown Pad",
+            "location": "Sea Launch",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/smart_dragon_3_image_20221001082607.jpg",
+            "infographic": null
+        },
+        {
             "id": "f62556c2-41e5-4746-b0a1-5cd751b9ec96",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f62556c2-41e5-4746-b0a1-5cd751b9ec96/",
             "launch_library_id": null,
@@ -163,9 +213,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-04T23:30:00Z",
-            "window_end": "2023-12-04T23:30:00Z",
-            "window_start": "2023-12-04T23:30:00Z",
+            "net": "2023-12-06T23:30:00Z",
+            "window_end": "2023-12-06T23:30:00Z",
+            "window_start": "2023-12-06T23:30:00Z",
             "lsp_name": "LandSpace",
             "mission": "Flight 3",
             "mission_type": "Test Flight",
@@ -176,31 +226,6 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20230802052429.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0098c032-73de-4c6f-8d73-5d68b9a12fdf/",
-            "launch_library_id": 1585,
-            "slug": "falcon-heavy-otv-7-x-37b-ussf-52",
-            "name": "Falcon Heavy | OTV-7 (X-37B) (USSF-52)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-12-07T00:00:00Z",
-            "window_end": "2023-12-07T00:00:00Z",
-            "window_start": "2023-12-07T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "OTV-7 (X-37B) (USSF-52)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "MX Landing",
-            "landing_success": 0,
-            "launcher": "MX Launchers",
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         },
         {
@@ -224,33 +249,8 @@
             "landing": null,
             "landing_success": null,
             "launcher": "Unknown F9",
-            "orbit": "Direct-GEO",
+            "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d524b397-7670-4183-b807-03a4c0d705de",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d524b397-7670-4183-b807-03a4c0d705de/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-arktika-m-no2",
-            "name": "Soyuz 2.1b/Fregat-M | Arktika-M No.2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-12-16T00:00:00Z",
-            "window_end": "2023-12-16T00:00:00Z",
-            "window_start": "2023-12-16T00:00:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Arktika-M No.2",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Elliptical",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b2ffr_image_20230802085359.jpg",
             "infographic": null
         }
     ]
