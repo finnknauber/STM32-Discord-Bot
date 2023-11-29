@@ -1,33 +1,8 @@
 {
-    "count": 361,
+    "count": 360,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "7bf22b01-938a-4b64-ad1e-d3f372f78a34",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7bf22b01-938a-4b64-ad1e-d3f372f78a34/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-30",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-30",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-11-28T04:20:00Z",
-            "window_end": "2023-11-28T07:58:10Z",
-            "window_start": "2023-11-28T04:01:30Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-30",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1062",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230728070842.png",
-            "infographic": null
-        },
         {
             "id": "717751b2-4dae-4fa2-a1a0-73dcb68d24d6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/717751b2-4dae-4fa2-a1a0-73dcb68d24d6/",
@@ -63,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-01T18:04:00Z",
+            "net": "2023-12-01T18:18:00Z",
             "window_end": "2023-12-01T19:18:00Z",
             "window_start": "2023-12-01T18:04:00Z",
             "lsp_name": "SpaceX",
@@ -96,7 +71,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -179,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "3a88fa72-ad1d-4174-99c4-926596354b2a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3a88fa72-ad1d-4174-99c4-926596354b2a/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-32",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-32",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-06T04:00:00Z",
+            "window_end": "2023-12-06T08:00:00Z",
+            "window_start": "2023-12-06T04:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-32",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922123757.png",
+            "infographic": null
+        },
+        {
             "id": "f62556c2-41e5-4746-b0a1-5cd751b9ec96",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f62556c2-41e5-4746-b0a1-5cd751b9ec96/",
             "launch_library_id": null,
@@ -204,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0098c032-73de-4c6f-8d73-5d68b9a12fdf/",
+            "launch_library_id": 1585,
+            "slug": "falcon-heavy-otv-7-x-37b-ussf-52",
+            "name": "Falcon Heavy | OTV-7 (X-37B) (USSF-52)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-10T00:00:00Z",
+            "window_end": "2023-12-10T00:00:00Z",
+            "window_start": "2023-12-10T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "OTV-7 (X-37B) (USSF-52)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "MX Landing",
+            "landing_success": 0,
+            "launcher": "MX Launchers",
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
+            "infographic": null
+        },
+        {
             "id": "2918b5f6-1340-4c73-bb75-4f9b5e16999f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2918b5f6-1340-4c73-bb75-4f9b5e16999f/",
             "launch_library_id": null,
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "1d374bef-0e4e-4b3f-b45b-25c14aaa2b0e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1d374bef-0e4e-4b3f-b45b-25c14aaa2b0e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-ovzon-3",
-            "name": "Falcon 9 Block 5 | Ovzon-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-12-15T00:00:00Z",
-            "window_end": "2023-12-15T00:00:00Z",
-            "window_start": "2023-12-15T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Ovzon-3",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": "Unknown F9",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
