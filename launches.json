@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-02T04:00:00Z",
-            "window_end": "2023-12-02T08:00:00Z",
-            "window_start": "2023-12-02T04:00:00Z",
+            "net": "2023-12-02T04:01:30Z",
+            "window_end": "2023-12-02T07:58:10Z",
+            "window_start": "2023-12-02T04:01:30Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-31",
             "mission_type": "Communications",
@@ -154,11 +154,11 @@
             "infographic": null
         },
         {
-            "id": "3a88fa72-ad1d-4174-99c4-926596354b2a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3a88fa72-ad1d-4174-99c4-926596354b2a/",
+            "id": "b666d809-7a76-4b4d-98bd-6c471cd7e4a8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b666d809-7a76-4b4d-98bd-6c471cd7e4a8/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-32",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-32",
+            "slug": "falcon-9-block-5-starlink-group-6-33",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-33",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -167,7 +167,7 @@
             "window_end": "2023-12-06T08:00:00Z",
             "window_start": "2023-12-06T04:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-32",
+            "mission": "Starlink Group 6-33",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
@@ -175,7 +175,7 @@
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922123757.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922123911.png",
             "infographic": null
         },
         {
@@ -204,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "2008dbb3-a1ce-4677-ad95-abaf9773a7cf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2008dbb3-a1ce-4677-ad95-abaf9773a7cf/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-8",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-08T00:00:00Z",
+            "window_end": "2023-12-08T00:00:00Z",
+            "window_start": "2023-12-08T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230817061839.png",
+            "infographic": null
+        },
+        {
             "id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0098c032-73de-4c6f-8d73-5d68b9a12fdf/",
             "launch_library_id": 1585,
@@ -226,31 +251,6 @@
             "launcher": "MX Launchers",
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_heavy_image_20220129192819.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2918b5f6-1340-4c73-bb75-4f9b5e16999f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2918b5f6-1340-4c73-bb75-4f9b5e16999f/",
-            "launch_library_id": null,
-            "slug": "electron-the-moon-god-awakens-qps-sar-5",
-            "name": "Electron | The Moon God Awakens (QPS-SAR-5)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2023-12-13T04:00:00Z",
-            "window_end": "2023-12-13T06:00:00Z",
-            "window_start": "2023-12-13T04:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "The Moon God Awakens (QPS-SAR-5)",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
