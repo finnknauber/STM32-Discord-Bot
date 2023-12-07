@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-33",
             "name": "Falcon 9 Block 5 | Starlink Group 6-33",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-12-07T04:01:00Z",
+            "net": "2023-12-07T05:07:30Z",
             "window_end": "2023-12-07T07:59:00Z",
             "window_start": "2023-12-07T04:01:00Z",
             "lsp_name": "SpaceX",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1077",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922123911.png",
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-08T08:00:00Z",
-            "window_end": "2023-12-08T10:41:00Z",
-            "window_start": "2023-12-08T08:00:00Z",
+            "net": "2023-12-08T08:00:50Z",
+            "window_end": "2023-12-08T10:14:40Z",
+            "window_start": "2023-12-08T08:00:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-8",
             "mission_type": "Communications",
@@ -110,12 +110,12 @@
             "slug": "falcon-heavy-otv-7-x-37b-ussf-52",
             "name": "Falcon Heavy | OTV-7 (X-37B) (USSF-52)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-12-11T00:01:00Z",
-            "window_end": "2023-12-11T04:31:00Z",
-            "window_start": "2023-12-11T00:01:00Z",
+            "net": "2023-12-11T01:14:00Z",
+            "window_end": "2023-12-11T01:24:00Z",
+            "window_start": "2023-12-11T01:14:00Z",
             "lsp_name": "SpaceX",
             "mission": "OTV-7 (X-37B) (USSF-52)",
             "mission_type": "Government/Top Secret",
