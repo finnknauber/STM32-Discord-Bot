@@ -1,33 +1,8 @@
 {
-    "count": 357,
+    "count": 356,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b666d809-7a76-4b4d-98bd-6c471cd7e4a8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b666d809-7a76-4b4d-98bd-6c471cd7e4a8/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-33",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-33",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-12-07T05:07:30Z",
-            "window_end": "2023-12-07T07:59:00Z",
-            "window_start": "2023-12-07T04:01:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-33",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1077",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922123911.png",
-            "infographic": null
-        },
         {
             "id": "2008dbb3-a1ce-4677-ad95-abaf9773a7cf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2008dbb3-a1ce-4677-ad95-abaf9773a7cf/",
@@ -35,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-7-8",
             "name": "Falcon 9 Block 5 | Starlink Group 7-8",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-12-08T08:00:50Z",
+            "net": "2023-12-08T08:03:40Z",
             "window_end": "2023-12-08T10:14:40Z",
             "window_start": "2023-12-08T08:00:50Z",
             "lsp_name": "SpaceX",
@@ -47,8 +22,8 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230817061839.png",
             "infographic": null
@@ -146,7 +121,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vulcan2520vc2s_image_20231014170652.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2a29a629-f28c-4fc4-8e5f-48e959e0a5b1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2a29a629-f28c-4fc4-8e5f-48e959e0a5b1/",
+            "launch_library_id": null,
+            "slug": "pslv-dl-xposat",
+            "name": "PSLV-DL | XPoSat",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-28T02:00:00Z",
+            "window_end": "2023-12-28T06:00:00Z",
+            "window_start": "2023-12-28T02:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "XPoSat",
+            "mission_type": "Astrophysics",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg",
             "infographic": null
         }
     ]
