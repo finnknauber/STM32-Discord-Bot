@@ -1,33 +1,8 @@
 {
-    "count": 356,
+    "count": 355,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "2008dbb3-a1ce-4677-ad95-abaf9773a7cf",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2008dbb3-a1ce-4677-ad95-abaf9773a7cf/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-8",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-8",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-12-08T08:03:40Z",
-            "window_end": "2023-12-08T10:14:40Z",
-            "window_start": "2023-12-08T08:00:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-8",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1071",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230817061839.png",
-            "infographic": null
-        },
         {
             "id": "f62556c2-41e5-4746-b0a1-5cd751b9ec96",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f62556c2-41e5-4746-b0a1-5cd751b9ec96/",
@@ -35,22 +10,22 @@
             "slug": "zhuque-2-flight-3",
             "name": "Zhuque-2 | Flight 3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-12-08T23:40:00Z",
+            "net": "2023-12-08T23:39:00Z",
             "window_end": "2023-12-09T00:53:00Z",
             "window_start": "2023-12-08T23:31:00Z",
             "lsp_name": "LandSpace",
             "mission": "Flight 3",
-            "mission_type": "Test Flight",
+            "mission_type": "Technology",
             "pad": "Launch Area 96",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhuque-2_image_20230802052429.jpeg",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/zhuque-225202_image_20231209100246.jpeg",
             "infographic": null
         },
         {
@@ -154,6 +129,31 @@
             "infographic": null
         },
         {
+            "id": "161dbc75-e973-44f7-a346-6254aec99900",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/161dbc75-e973-44f7-a346-6254aec99900/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-9",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-9",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2023-12-14T00:00:00Z",
+            "window_end": "2023-12-14T00:00:00Z",
+            "window_start": "2023-12-14T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-9",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230920071550.png",
+            "infographic": null
+        },
+        {
             "id": "1d374bef-0e4e-4b3f-b45b-25c14aaa2b0e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1d374bef-0e4e-4b3f-b45b-25c14aaa2b0e/",
             "launch_library_id": null,
@@ -163,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-15T00:00:00Z",
-            "window_end": "2023-12-15T00:00:00Z",
-            "window_start": "2023-12-15T00:00:00Z",
+            "net": "2023-12-15T20:45:00Z",
+            "window_end": "2023-12-15T20:45:00Z",
+            "window_start": "2023-12-15T20:45:00Z",
             "lsp_name": "SpaceX",
             "mission": "Ovzon-3",
             "mission_type": "Communications",
