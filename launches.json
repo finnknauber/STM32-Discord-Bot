@@ -1,33 +1,8 @@
 {
-    "count": 355,
+    "count": 356,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "37262865-9752-4d2e-9dbb-23ae0d5e11f0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/37262865-9752-4d2e-9dbb-23ae0d5e11f0/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-yaogan-39-group-05",
-            "name": "Long March 2D | Yaogan 39 Group 05",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-12-10T01:58:00Z",
-            "window_end": "2023-12-10T02:08:00Z",
-            "window_start": "2023-12-10T01:48:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 39 Group 05",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 3 (LC-3/LA-1)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20231210054414.jpg",
-            "infographic": null
-        },
         {
             "id": "0098c032-73de-4c6f-8d73-5d68b9a12fdf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0098c032-73de-4c6f-8d73-5d68b9a12fdf/",
@@ -60,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-34",
             "name": "Falcon 9 Block 5 | Starlink Group 6-34",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2023-12-12T04:00:00Z",
-            "window_end": "2023-12-12T08:31:00Z",
-            "window_start": "2023-12-12T04:00:00Z",
+            "net": "2023-12-12T04:05:20Z",
+            "window_end": "2023-12-12T08:00:00Z",
+            "window_start": "2023-12-12T04:05:20Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-34",
             "mission_type": "Communications",
@@ -113,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-14T00:00:00Z",
-            "window_end": "2023-12-14T00:00:00Z",
-            "window_start": "2023-12-14T00:00:00Z",
+            "net": "2023-12-14T04:59:00Z",
+            "window_end": "2023-12-14T09:24:00Z",
+            "window_start": "2023-12-14T04:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-9",
             "mission_type": "Communications",
@@ -129,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "ea4825db-6866-40dd-932d-bacdb1c705ab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ea4825db-6866-40dd-932d-bacdb1c705ab/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-chinese-reusable-space-vehicle-3",
+            "name": "Long March 2F/G | Chinese Reusable Space Vehicle (???)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-12-14T14:10:00Z",
+            "window_end": "2023-12-14T17:10:00Z",
+            "window_start": "2023-12-14T14:01:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Chinese Reusable Space Vehicle (???)",
+            "mission_type": "Government/Top Secret",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
             "id": "ebefa135-366c-4a21-afdf-af4d18ea360b",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ebefa135-366c-4a21-afdf-af4d18ea360b/",
             "launch_library_id": null,
@@ -138,9 +138,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2023-12-15T12:00:00Z",
-            "window_end": "2023-12-15T16:00:00Z",
-            "window_start": "2023-12-15T12:00:00Z",
+            "net": "2023-12-15T13:45:00Z",
+            "window_end": "2023-12-15T14:26:00Z",
+            "window_start": "2023-12-15T13:32:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Unknown Payload",
             "mission_type": "Unknown",
@@ -163,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2023-12-15T20:45:00Z",
-            "window_end": "2023-12-15T20:45:00Z",
-            "window_start": "2023-12-15T20:45:00Z",
+            "net": "2023-12-15T20:46:00Z",
+            "window_end": "2023-12-15T23:46:00Z",
+            "window_start": "2023-12-15T20:46:00Z",
             "lsp_name": "SpaceX",
             "mission": "Ovzon-3",
             "mission_type": "Communications",
@@ -176,6 +176,31 @@
             "launcher": "Unknown F9",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0a399298-8e59-4ad3-80bd-3e211dff7596",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0a399298-8e59-4ad3-80bd-3e211dff7596/",
+            "launch_library_id": null,
+            "slug": "hyperbola-1-unknown-payload",
+            "name": "Hyperbola-1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-12-16T06:00:00Z",
+            "window_end": "2023-12-16T12:00:00Z",
+            "window_start": "2023-12-16T06:00:00Z",
+            "lsp_name": "iSpace",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/hyperbola-1_image_20230403194326.png",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/pslv-dl_image_20191201202351.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "1c322288-e79c-4975-a76a-c2e83908903e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1c322288-e79c-4975-a76a-c2e83908903e/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta004-fly-the-lightning",
-            "name": "Firefly Alpha | FLTA004 Fly the Lightning",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2023-12-31T00:00:00Z",
-            "window_end": "2023-12-31T00:00:00Z",
-            "window_start": "2023-12-31T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA004 Fly the Lightning",
-            "mission_type": "Technology",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/firefly_alpha_image_20210429094607.jpg",
             "infographic": null
         }
     ]
