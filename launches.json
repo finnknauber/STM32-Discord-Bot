@@ -7,25 +7,25 @@
             "id": "ccc493aa-d739-470c-af1a-4f1005317760",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ccc493aa-d739-470c-af1a-4f1005317760/",
             "launch_library_id": null,
-            "slug": "soyuz-21a-kosmos-unknown-payload",
-            "name": "Soyuz 2.1a | Kosmos (Unknown Payload)",
+            "slug": "soyuz-21b-kosmos-2573-bars-m-no-5",
+            "name": "Soyuz 2.1b | Kosmos 2573 (Bars-M No. 5?)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2023-12-21T08:00:00Z",
+            "net": "2023-12-21T08:48:00Z",
             "window_end": "2023-12-21T10:00:00Z",
             "window_start": "2023-12-21T08:00:00Z",
             "lsp_name": "Russian Space Forces",
-            "mission": "Kosmos (Unknown Payload)",
+            "mission": "Kosmos 2573 (Bars-M No. 5?)",
             "mission_type": "Government/Top Secret",
-            "pad": "Unknown Pad",
+            "pad": "43/4 (43R)",
             "location": "Plesetsk Cosmodrome, Russian Federation",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/soyuz25202.1b_image_20231221133123.png",
             "infographic": null
         },
         {
@@ -35,11 +35,11 @@
             "slug": "firefly-alpha-flta004-fly-the-lightning",
             "name": "Firefly Alpha | FLTA004 Fly the Lightning",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2023-12-22T17:18:00Z",
-            "window_end": "2023-12-22T17:38:00Z",
+            "window_end": "2023-12-22T17:48:00Z",
             "window_start": "2023-12-22T17:18:00Z",
             "lsp_name": "Firefly Aerospace",
             "mission": "FLTA004 Fly the Lightning",
