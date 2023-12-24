@@ -1,33 +1,8 @@
 {
-    "count": 361,
+    "count": 360,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3a88fa72-ad1d-4174-99c4-926596354b2a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3a88fa72-ad1d-4174-99c4-926596354b2a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-32",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-32",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2023-12-23T05:33:00Z",
-            "window_end": "2023-12-23T08:00:00Z",
-            "window_start": "2023-12-23T04:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-32",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1058",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922123757.png",
-            "infographic": null
-        },
         {
             "id": "dff32800-585f-443f-b82b-4fdc4a3fddb4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/dff32800-585f-443f-b82b-4fdc4a3fddb4/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-sarah-2-3",
             "name": "Falcon 9 Block 5 | SARah 2 & 3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2023-12-24T13:11:00Z",
             "window_end": "2023-12-24T14:34:00Z",
@@ -47,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "LZ-4",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1075",
             "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231223073520.jpeg",
@@ -221,7 +196,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-1",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/ceres-1_image_20230722081939.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "161dbc75-e973-44f7-a346-6254aec99900",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/161dbc75-e973-44f7-a346-6254aec99900/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-9",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-9",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2023-12-31T03:17:00Z",
+            "window_end": "2023-12-31T07:16:00Z",
+            "window_start": "2023-12-31T03:17:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-9",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1082",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230920071550.png",
             "infographic": null
         }
     ]
