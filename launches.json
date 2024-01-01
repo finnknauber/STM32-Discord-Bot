@@ -10,11 +10,11 @@
             "slug": "pslv-dl-xposat",
             "name": "PSLV-DL | XPoSat",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-01-01T03:40:00Z",
-            "window_end": "2024-01-01T06:00:00Z",
+            "window_end": "2024-01-01T03:40:00Z",
             "window_start": "2024-01-01T03:40:00Z",
             "lsp_name": "Indian Space Research Organization",
             "mission": "XPoSat",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pslv-dl252025_image_20231229181114.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pslv-dl252025_image_20240101105209.jpeg",
             "infographic": null
         },
         {
