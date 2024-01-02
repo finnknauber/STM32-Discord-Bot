@@ -1,33 +1,8 @@
 {
-    "count": 357,
+    "count": 356,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "2a29a629-f28c-4fc4-8e5f-48e959e0a5b1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2a29a629-f28c-4fc4-8e5f-48e959e0a5b1/",
-            "launch_library_id": null,
-            "slug": "pslv-dl-xposat",
-            "name": "PSLV-DL | XPoSat",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-01T03:40:00Z",
-            "window_end": "2024-01-01T03:40:00Z",
-            "window_start": "2024-01-01T03:40:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "XPoSat",
-            "mission_type": "Astrophysics",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/pslv-dl252025_image_20240101105209.jpeg",
-            "infographic": null
-        },
         {
             "id": "161dbc75-e973-44f7-a346-6254aec99900",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/161dbc75-e973-44f7-a346-6254aec99900/",
@@ -38,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-01-03T02:13:00Z",
+            "net": "2024-01-03T02:31:00Z",
             "window_end": "2024-01-03T06:13:00Z",
             "window_start": "2024-01-03T02:13:00Z",
             "lsp_name": "SpaceX",
@@ -60,11 +35,11 @@
             "slug": "falcon-9-block-5-ovzon-3",
             "name": "Falcon 9 Block 5 | Ovzon-3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-01-03T23:04:00Z",
-            "window_end": "2024-01-03T23:45:00Z",
+            "window_end": "2024-01-03T23:14:00Z",
             "window_start": "2024-01-03T23:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "Ovzon-3",
@@ -75,7 +50,7 @@
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240102222613.jpeg",
             "infographic": null
         },
         {
@@ -85,12 +60,12 @@
             "slug": "kuaizhou-1a-unknown-payload",
             "name": "Kuaizhou-1A | Unknown Payload",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-01-05T10:00:00Z",
-            "window_end": "2024-01-05T15:00:00Z",
-            "window_start": "2024-01-05T10:00:00Z",
+            "net": "2024-01-05T11:20:00Z",
+            "window_end": "2024-01-05T11:32:00Z",
+            "window_start": "2024-01-05T11:09:00Z",
             "lsp_name": "ExPace",
             "mission": "Unknown Payload",
             "mission_type": "Unknown",
@@ -101,6 +76,56 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "60634a63-633d-42b3-b87e-710e7e0d4282",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/60634a63-633d-42b3-b87e-710e7e0d4282/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-35",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-35",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-07T00:00:00Z",
+            "window_end": "2024-01-07T00:00:00Z",
+            "window_start": "2024-01-07T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-35",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922124100.png",
+            "infographic": null
+        },
+        {
+            "id": "429277e6-dc65-4166-a556-44edc39d71ea",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/429277e6-dc65-4166-a556-44edc39d71ea/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-08T00:00:00Z",
+            "window_end": "2024-01-08T00:00:00Z",
+            "window_start": "2024-01-08T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014184904.png",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": "B1080",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20210525171042.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "d9a3c8e1-bc0d-4fab-a04c-218ffe44a026",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9a3c8e1-bc0d-4fab-a04c-218ffe44a026/",
-            "launch_library_id": null,
-            "slug": "gslv-mk-ii-insat-3ds",
-            "name": "GSLV Mk II | INSAT-3DS",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-01-20T11:30:00Z",
-            "window_end": "2024-01-20T15:30:00Z",
-            "window_start": "2024-01-20T11:30:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "INSAT-3DS",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         }
     ]
