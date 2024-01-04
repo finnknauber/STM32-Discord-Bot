@@ -1,33 +1,8 @@
 {
-    "count": 356,
+    "count": 355,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "161dbc75-e973-44f7-a346-6254aec99900",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/161dbc75-e973-44f7-a346-6254aec99900/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-9",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-9",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-03T03:44:20Z",
-            "window_end": "2024-01-03T06:02:10Z",
-            "window_start": "2024-01-03T02:13:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-9",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1082",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230920071550.png",
-            "infographic": null
-        },
         {
             "id": "1d374bef-0e4e-4b3f-b45b-25c14aaa2b0e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1d374bef-0e4e-4b3f-b45b-25c14aaa2b0e/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-ovzon-3",
             "name": "Falcon 9 Block 5 | Ovzon-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-01-03T23:04:00Z",
             "window_end": "2024-01-03T23:14:00Z",
@@ -47,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1076",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240102222613.jpeg",
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": "LO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vulcan2520vc2s_image_20231014170652.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "e4d243bc-153c-454f-a426-69100b0daedc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e4d243bc-153c-454f-a426-69100b0daedc/",
+            "launch_library_id": null,
+            "slug": "gravity-1-maiden-flight",
+            "name": "Gravity-1 | Maiden flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-09T03:00:00Z",
+            "window_end": "2024-01-09T09:00:00Z",
+            "window_start": "2024-01-09T03:00:00Z",
+            "lsp_name": "Orienspace Technology",
+            "mission": "Maiden flight",
+            "mission_type": "Test Flight",
+            "pad": "Haiyang Spaceport",
+            "location": "Sea Launch",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": null,
             "infographic": null
         },
         {
