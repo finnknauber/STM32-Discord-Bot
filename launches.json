@@ -10,11 +10,11 @@
             "slug": "falcon-9-block-5-starlink-group-6-35",
             "name": "Falcon 9 Block 5 | Starlink Group 6-35",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2024-01-07T21:00:40Z",
-            "window_end": "2024-01-07T22:54:10Z",
+            "net": "2024-01-07T22:35:40Z",
+            "window_end": "2024-01-08T00:35:10Z",
             "window_start": "2024-01-07T21:00:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-35",
@@ -22,8 +22,8 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1067",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922124100.png",
             "infographic": null
@@ -38,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-01-08T07:18:00Z",
+            "net": "2024-01-08T07:18:38Z",
             "window_end": "2024-01-08T08:03:00Z",
             "window_start": "2024-01-08T07:18:00Z",
             "lsp_name": "United Launch Alliance",
@@ -50,32 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vulcan2520vc2s_image_20231014170652.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "429277e6-dc65-4166-a556-44edc39d71ea",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/429277e6-dc65-4166-a556-44edc39d71ea/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-10",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-01-09T05:00:00Z",
-            "window_end": "2024-01-09T09:27:00Z",
-            "window_start": "2024-01-09T05:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-10",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014184904.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/vulcan2520vc2s_image_20240107162732.jpeg",
             "infographic": null
         },
         {
@@ -126,6 +101,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhongke-1a_image_20220912002218.png",
+            "infographic": null
+        },
+        {
+            "id": "429277e6-dc65-4166-a556-44edc39d71ea",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/429277e6-dc65-4166-a556-44edc39d71ea/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-10T05:00:00Z",
+            "window_end": "2024-01-10T09:27:00Z",
+            "window_start": "2024-01-10T05:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014184904.png",
             "infographic": null
         },
         {
