@@ -1,33 +1,8 @@
 {
-    "count": 353,
+    "count": 352,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "60634a63-633d-42b3-b87e-710e7e0d4282",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/60634a63-633d-42b3-b87e-710e7e0d4282/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-35",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-35",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2024-01-07T22:35:40Z",
-            "window_end": "2024-01-08T00:35:10Z",
-            "window_start": "2024-01-07T21:00:40Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-35",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1067",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230922124100.png",
-            "infographic": null
-        },
         {
             "id": "b973e965-3901-4bda-9236-b0afee33f388",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b973e965-3901-4bda-9236-b0afee33f388/",
@@ -35,8 +10,8 @@
             "slug": "vulcan-vc2s-peregrine-lunar-lander-maiden-flight",
             "name": "Vulcan VC2S | Peregrine lunar lander (Maiden flight)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-01-08T07:18:38Z",
             "window_end": "2024-01-08T08:03:00Z",
@@ -79,43 +54,18 @@
             "infographic": null
         },
         {
-            "id": "5df41f2a-0cf1-4634-92f9-c815086d8d45",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5df41f2a-0cf1-4634-92f9-c815086d8d45/",
-            "launch_library_id": null,
-            "slug": "kinetica-1-unknown-payload",
-            "name": "Kinetica 1 | Unknown Payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-01-10T02:00:00Z",
-            "window_end": "2024-01-10T08:00:00Z",
-            "window_start": "2024-01-10T02:00:00Z",
-            "lsp_name": "CAS Space",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 130",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhongke-1a_image_20220912002218.png",
-            "infographic": null
-        },
-        {
             "id": "429277e6-dc65-4166-a556-44edc39d71ea",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/429277e6-dc65-4166-a556-44edc39d71ea/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-7-10",
             "name": "Falcon 9 Block 5 | Starlink Group 7-10",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-01-10T05:00:00Z",
-            "window_end": "2024-01-10T09:27:00Z",
-            "window_start": "2024-01-10T05:00:00Z",
+            "net": "2024-01-10T05:06:00Z",
+            "window_end": "2024-01-10T06:16:40Z",
+            "window_start": "2024-01-10T05:06:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-10",
             "mission_type": "Communications",
@@ -129,28 +79,28 @@
             "infographic": null
         },
         {
-            "id": "e4d243bc-153c-454f-a426-69100b0daedc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e4d243bc-153c-454f-a426-69100b0daedc/",
+            "id": "5df41f2a-0cf1-4634-92f9-c815086d8d45",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5df41f2a-0cf1-4634-92f9-c815086d8d45/",
             "launch_library_id": null,
-            "slug": "gravity-1-maiden-flight",
-            "name": "Gravity-1 | Maiden flight",
+            "slug": "kinetica-1-unknown-payload",
+            "name": "Kinetica 1 | Unknown Payload",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-01-11T03:00:00Z",
-            "window_end": "2024-01-11T09:00:00Z",
-            "window_start": "2024-01-11T03:00:00Z",
-            "lsp_name": "Orienspace Technology",
-            "mission": "Maiden flight",
-            "mission_type": "Test Flight",
-            "pad": "Haiyang Spaceport",
-            "location": "Sea Launch",
+            "net": "2024-01-11T03:55:00Z",
+            "window_end": "2024-01-11T04:10:00Z",
+            "window_start": "2024-01-11T03:42:00Z",
+            "lsp_name": "CAS Space",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 130",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": "N/A",
-            "image": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhongke-1a_image_20220912002218.png",
             "infographic": null
         },
         {
@@ -176,6 +126,56 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h-iia2520202_image_20190222031201.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "e4d243bc-153c-454f-a426-69100b0daedc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e4d243bc-153c-454f-a426-69100b0daedc/",
+            "launch_library_id": null,
+            "slug": "gravity-1-maiden-flight",
+            "name": "Gravity-1 | Maiden flight",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-01-11T05:30:00Z",
+            "window_end": "2024-01-11T07:05:00Z",
+            "window_start": "2024-01-11T05:15:00Z",
+            "lsp_name": "Orienspace Technology",
+            "mission": "Maiden flight",
+            "mission_type": "Test Flight",
+            "pad": "Haiyang Spaceport",
+            "location": "Sea Launch",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gravity-1_image_20240108105446.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "839c1427-45db-4b88-ae41-bb666c1dd097",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/839c1427-45db-4b88-ae41-bb666c1dd097/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-37",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-37",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-14T00:45:00Z",
+            "window_end": "2024-01-14T00:45:00Z",
+            "window_start": "2024-01-14T00:45:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-37",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063617.png",
             "infographic": null
         },
         {
@@ -229,28 +229,28 @@
             "infographic": null
         },
         {
-            "id": "206ec3ec-d265-4f74-b7c1-40ef231ef1d2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/206ec3ec-d265-4f74-b7c1-40ef231ef1d2/",
+            "id": "89f9600b-b250-4b0f-a713-99b123bb58d8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/89f9600b-b250-4b0f-a713-99b123bb58d8/",
             "launch_library_id": null,
-            "slug": "spaceshiptwo-galactic-06",
-            "name": "SpaceShipTwo | Galactic 06",
+            "slug": "electron-four-of-a-kind-northstar-1",
+            "name": "Electron | Four Of A Kind (NorthStar 1)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-01-26T00:00:00Z",
-            "window_end": "2024-01-26T00:00:00Z",
-            "window_start": "2024-01-26T00:00:00Z",
-            "lsp_name": "Virgin Galactic",
-            "mission": "Galactic 06",
-            "mission_type": "Tourism",
-            "pad": "Spaceport America",
-            "location": "Air launch to Suborbital flight",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/spaceshiptwo_image_20210522140909.jpeg",
+            "net": "2024-01-18T06:15:00Z",
+            "window_end": "2024-01-18T07:00:00Z",
+            "window_start": "2024-01-18T06:15:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Four Of A Kind (NorthStar 1)",
+            "mission_type": "Space Situational Awareness",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": "PAC",
+            "landing_success": 0,
+            "launcher": "43",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
