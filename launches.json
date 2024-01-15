@@ -1,33 +1,8 @@
 {
-    "count": 355,
+    "count": 354,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "429277e6-dc65-4166-a556-44edc39d71ea",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/429277e6-dc65-4166-a556-44edc39d71ea/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-10",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-14T08:59:30Z",
-            "window_end": "2024-01-14T08:59:30Z",
-            "window_start": "2024-01-14T08:59:30Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-10",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1061",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014184904.png",
-            "infographic": null
-        },
         {
             "id": "839c1427-45db-4b88-ae41-bb666c1dd097",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/839c1427-45db-4b88-ae41-bb666c1dd097/",
@@ -35,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-37",
             "name": "Falcon 9 Block 5 | Starlink Group 6-37",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-01-15T00:27:00Z",
+            "net": "2024-01-15T01:52:00Z",
             "window_end": "2024-01-15T04:23:40Z",
             "window_start": "2024-01-15T00:27:00Z",
             "lsp_name": "SpaceX",
@@ -47,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063617.png",
@@ -88,7 +63,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-01-17T14:20:00Z",
+            "net": "2024-01-17T14:27:00Z",
             "window_end": "2024-01-17T14:34:00Z",
             "window_start": "2024-01-17T14:17:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -179,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "d9a3c8e1-bc0d-4fab-a04c-218ffe44a026",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9a3c8e1-bc0d-4fab-a04c-218ffe44a026/",
-            "launch_library_id": null,
-            "slug": "gslv-mk-ii-insat-3ds",
-            "name": "GSLV Mk II | INSAT-3DS",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-01-28T11:30:00Z",
-            "window_end": "2024-01-28T15:30:00Z",
-            "window_start": "2024-01-28T11:30:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "INSAT-3DS",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
-            "infographic": null
-        },
-        {
             "id": "665678b9-8b91-45de-9e9c-5063622bcca1",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/665678b9-8b91-45de-9e9c-5063622bcca1/",
             "launch_library_id": null,
@@ -251,6 +201,56 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231220102117.png",
+            "infographic": null
+        },
+        {
+            "id": "378bd440-63df-48a6-97f7-c528a9a1968c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/378bd440-63df-48a6-97f7-c528a9a1968c/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-38",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-38",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-31T00:00:00Z",
+            "window_end": "2024-01-31T00:00:00Z",
+            "window_start": "2024-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-38",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063708.png",
+            "infographic": null
+        },
+        {
+            "id": "855868c5-0d8a-48d1-be59-2b357c0d1924",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/855868c5-0d8a-48d1-be59-2b357c0d1924/",
+            "launch_library_id": null,
+            "slug": "rs1-flight-2",
+            "name": "RS1 | Flight 2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-31T00:00:00Z",
+            "window_end": "2024-01-31T00:00:00Z",
+            "window_start": "2024-01-31T00:00:00Z",
+            "lsp_name": "ABL Space Systems",
+            "mission": "Flight 2",
+            "mission_type": "Test Flight",
+            "pad": "Launch Pad 3C",
+            "location": "Pacific Spaceport Complex, Alaska, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
             "infographic": null
         }
     ]
