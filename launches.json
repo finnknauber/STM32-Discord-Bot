@@ -4,50 +4,25 @@
     "previous": null,
     "results": [
         {
-            "id": "e11c7aee-b185-49d5-8596-65959d2e009b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e11c7aee-b185-49d5-8596-65959d2e009b/",
-            "launch_library_id": null,
-            "slug": "long-march-7-tianzhou-7",
-            "name": "Long March 7  | Tianzhou 7",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-17T14:27:30Z",
-            "window_end": "2024-01-17T14:34:00Z",
-            "window_start": "2024-01-17T14:17:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Tianzhou 7",
-            "mission_type": "Resupply",
-            "pad": "201",
-            "location": "Wenchang Space Launch Site, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/long2520march_image_20240117193513.jpeg",
-            "infographic": null
-        },
-        {
             "id": "da48063e-b50f-4602-adab-ad7331ee6d82",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/da48063e-b50f-4602-adab-ad7331ee6d82/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-axiom-space-mission-3",
             "name": "Falcon 9 Block 5 | Axiom Space Mission 3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-01-18T21:49:00Z",
-            "window_end": "2024-01-18T21:49:00Z",
-            "window_start": "2024-01-18T21:49:00Z",
+            "net": "2024-01-18T21:49:11Z",
+            "window_end": "2024-01-18T21:49:11Z",
+            "window_start": "2024-01-18T21:49:11Z",
             "lsp_name": "SpaceX",
             "mission": "Axiom Space Mission 3",
             "mission_type": "Tourism",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1080",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240116164417.jpeg",
@@ -63,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-01-19T04:00:00Z",
+            "net": "2024-01-19T04:04:30Z",
             "window_end": "2024-01-19T06:50:00Z",
             "window_start": "2024-01-19T04:00:00Z",
             "lsp_name": "SpaceX",
@@ -76,6 +51,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014184958.png",
+            "infographic": null
+        },
+        {
+            "id": "23ba3860-a7e8-4a81-8f41-9c9958e34e38",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/23ba3860-a7e8-4a81-8f41-9c9958e34e38/",
+            "launch_library_id": null,
+            "slug": "kinetica-1-unknown-payload",
+            "name": "Kinetica 1 | Unknown Payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-23T03:00:00Z",
+            "window_end": "2024-01-23T09:00:00Z",
+            "window_start": "2024-01-23T03:00:00Z",
+            "lsp_name": "CAS Space",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 130",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhongke-1a_image_20220912002218.png",
             "infographic": null
         },
         {
@@ -138,9 +138,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-01-29T17:29:00Z",
-            "window_end": "2024-01-29T17:29:00Z",
-            "window_start": "2024-01-29T17:29:00Z",
+            "net": "2024-01-29T17:29:52Z",
+            "window_end": "2024-01-29T17:29:52Z",
+            "window_start": "2024-01-29T17:29:52Z",
             "lsp_name": "SpaceX",
             "mission": "Cygnus CRS-2 NG-20 (S.S. Patricia \u201cPatty\u201d Hilliard Robertson)",
             "mission_type": "Resupply",
@@ -151,31 +151,6 @@
             "launcher": "B1072",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0c61bd06-0bd9-40a8-8be3-1d46368ae094",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0c61bd06-0bd9-40a8-8be3-1d46368ae094/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-39",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-39",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-01-31T00:00:00Z",
-            "window_end": "2024-01-31T00:00:00Z",
-            "window_start": "2024-01-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-39",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231220102117.png",
             "infographic": null
         },
         {
@@ -204,31 +179,6 @@
             "infographic": null
         },
         {
-            "id": "378bd440-63df-48a6-97f7-c528a9a1968c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/378bd440-63df-48a6-97f7-c528a9a1968c/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-38",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-38",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-01-31T00:00:00Z",
-            "window_end": "2024-01-31T00:00:00Z",
-            "window_start": "2024-01-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-38",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063708.png",
-            "infographic": null
-        },
-        {
             "id": "855868c5-0d8a-48d1-be59-2b357c0d1924",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/855868c5-0d8a-48d1-be59-2b357c0d1924/",
             "launch_library_id": null,
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/rs1_image_20211102160004.jpg",
+            "infographic": null
+        },
+        {
+            "id": "549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8/",
+            "launch_library_id": 2039,
+            "slug": "falcon-9-block-5-pace-plankton-aerosol-cloud-ocean",
+            "name": "Falcon 9 Block 5 | PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-02-06T06:30:00Z",
+            "window_end": "2024-02-06T06:30:00Z",
+            "window_start": "2024-02-06T06:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "942a1814-c237-41de-9970-d27bb9630f3b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/942a1814-c237-41de-9970-d27bb9630f3b/",
+            "launch_library_id": 1996,
+            "slug": "falcon-9-block-5-nova-c-im-1",
+            "name": "Falcon 9 Block 5 | Nova-C IM-1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-10T00:00:00Z",
+            "window_end": "2024-02-10T00:00:00Z",
+            "window_start": "2024-02-10T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Nova-C IM-1",
+            "mission_type": "Lunar Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
