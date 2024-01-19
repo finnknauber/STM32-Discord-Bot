@@ -1,33 +1,8 @@
 {
-    "count": 354,
+    "count": 353,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "da48063e-b50f-4602-adab-ad7331ee6d82",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/da48063e-b50f-4602-adab-ad7331ee6d82/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-axiom-space-mission-3",
-            "name": "Falcon 9 Block 5 | Axiom Space Mission 3",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-18T21:49:11Z",
-            "window_end": "2024-01-18T21:49:11Z",
-            "window_start": "2024-01-18T21:49:11Z",
-            "lsp_name": "SpaceX",
-            "mission": "Axiom Space Mission 3",
-            "mission_type": "Tourism",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 1,
-            "launcher": "B1080",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240116164417.jpeg",
-            "infographic": null
-        },
         {
             "id": "f8f2a91e-0d76-46f0-9110-8c45d85fab86",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f8f2a91e-0d76-46f0-9110-8c45d85fab86/",
@@ -35,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-7-11",
             "name": "Falcon 9 Block 5 | Starlink Group 7-11",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-01-19T04:04:30Z",
-            "window_end": "2024-01-19T06:50:00Z",
-            "window_start": "2024-01-19T04:00:00Z",
+            "net": "2024-01-20T02:15:40Z",
+            "window_end": "2024-01-20T05:58:00Z",
+            "window_start": "2024-01-20T02:15:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-11",
             "mission_type": "Communications",
@@ -48,7 +23,7 @@
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1063",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014184958.png",
             "infographic": null
@@ -57,24 +32,24 @@
             "id": "23ba3860-a7e8-4a81-8f41-9c9958e34e38",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/23ba3860-a7e8-4a81-8f41-9c9958e34e38/",
             "launch_library_id": null,
-            "slug": "kinetica-1-unknown-payload",
-            "name": "Kinetica 1 | Unknown Payload",
+            "slug": "kinetica-1-flight-3",
+            "name": "Kinetica 1 | Flight 3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-01-23T03:00:00Z",
-            "window_end": "2024-01-23T09:00:00Z",
-            "window_start": "2024-01-23T03:00:00Z",
+            "net": "2024-01-23T04:05:00Z",
+            "window_end": "2024-01-23T04:16:00Z",
+            "window_start": "2024-01-23T03:52:00Z",
             "lsp_name": "CAS Space",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "Flight 3",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 130",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "N/A",
+            "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/zhongke-1a_image_20220912002218.png",
             "infographic": null
         },
@@ -126,6 +101,31 @@
             "launcher": "43",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "378bd440-63df-48a6-97f7-c528a9a1968c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/378bd440-63df-48a6-97f7-c528a9a1968c/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-38",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-38",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-01-28T23:04:00Z",
+            "window_end": "2024-01-29T03:04:00Z",
+            "window_start": "2024-01-28T23:04:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-38",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063708.png",
             "infographic": null
         },
         {
