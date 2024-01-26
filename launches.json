@@ -1,5 +1,5 @@
 {
-    "count": 355,
+    "count": 359,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,10 +10,10 @@
             "slug": "spaceshiptwo-galactic-06",
             "name": "SpaceShipTwo | Galactic 06",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-01-26T15:00:00Z",
+            "net": "2024-01-26T17:40:00Z",
             "window_end": "2024-01-26T23:00:00Z",
             "window_start": "2024-01-26T15:00:00Z",
             "lsp_name": "Virgin Galactic",
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-01-27T06:15:00Z",
-            "window_end": "2024-01-27T07:00:00Z",
-            "window_start": "2024-01-27T06:15:00Z",
+            "net": "2024-01-28T06:15:00Z",
+            "window_end": "2024-01-28T07:00:00Z",
+            "window_start": "2024-01-28T06:15:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Four Of A Kind (NorthStar 1)",
             "mission_type": "Space Situational Awareness",
