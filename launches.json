@@ -1,33 +1,8 @@
 {
-    "count": 360,
+    "count": 359,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3e3b4557-1f4f-46c3-9c6d-ed6fd0f66ef7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3e3b4557-1f4f-46c3-9c6d-ed6fd0f66ef7/",
-            "launch_library_id": null,
-            "slug": "simorgh-mahda-keyhan-2-hatef-1",
-            "name": "Simorgh | Mahda, Keyhan-2 & Hatef-1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-28T00:04:00Z",
-            "window_end": "2024-01-28T00:04:00Z",
-            "window_start": "2024-01-28T00:04:00Z",
-            "lsp_name": "Iranian Space Agency",
-            "mission": "Mahda, Keyhan-2 & Hatef-1",
-            "mission_type": "Technology",
-            "pad": "Imam Khomeini Spaceport",
-            "location": "Semnan Space Center, Islamic Republic of Iran",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": null,
-            "infographic": null
-        },
         {
             "id": "378bd440-63df-48a6-97f7-c528a9a1968c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/378bd440-63df-48a6-97f7-c528a9a1968c/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-38",
             "name": "Falcon 9 Block 5 | Starlink Group 6-38",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-01-29T01:10:00Z",
             "window_end": "2024-01-29T02:55:00Z",
@@ -47,7 +22,7 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063708.png",
@@ -60,10 +35,10 @@
             "slug": "falcon-9-block-5-starlink-group-7-12",
             "name": "Falcon 9 Block 5 | Starlink Group 7-12",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-01-29T02:16:50Z",
+            "net": "2024-01-29T05:57:20Z",
             "window_end": "2024-01-29T06:03:20Z",
             "window_start": "2024-01-29T02:16:50Z",
             "lsp_name": "SpaceX",
@@ -72,7 +47,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1075",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185101.png",
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/smart_dragon_3_image_20221001082607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "3fe9e0be-183a-4e14-8193-516219fb37e4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3fe9e0be-183a-4e14-8193-516219fb37e4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-13",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-03T00:00:00Z",
+            "window_end": "2024-02-03T00:00:00Z",
+            "window_start": "2024-02-03T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185144.png",
             "infographic": null
         },
         {
