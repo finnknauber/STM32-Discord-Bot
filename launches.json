@@ -1,58 +1,8 @@
 {
-    "count": 359,
+    "count": 358,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "378bd440-63df-48a6-97f7-c528a9a1968c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/378bd440-63df-48a6-97f7-c528a9a1968c/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-38",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-38",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-29T01:10:00Z",
-            "window_end": "2024-01-29T02:55:00Z",
-            "window_start": "2024-01-28T23:15:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-38",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1062",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063708.png",
-            "infographic": null
-        },
-        {
-            "id": "20f597cc-eb98-4c7d-b137-87e048493c3e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/20f597cc-eb98-4c7d-b137-87e048493c3e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-12",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-12",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-29T05:57:20Z",
-            "window_end": "2024-01-29T06:03:20Z",
-            "window_start": "2024-01-29T02:16:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-12",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1075",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185101.png",
-            "infographic": null
-        },
         {
             "id": "665678b9-8b91-45de-9e9c-5063622bcca1",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/665678b9-8b91-45de-9e9c-5063622bcca1/",
@@ -60,8 +10,8 @@
             "slug": "falcon-9-block-5-cygnus-crs-2-ng-20-ss-patricia-pa",
             "name": "Falcon 9 Block 5 | Cygnus CRS-2 NG-20 (S.S. Patricia \u201cPatty\u201d Hilliard Robertson)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-01-30T17:07:00Z",
             "window_end": "2024-01-30T17:07:00Z",
@@ -72,10 +22,10 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1077",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240130145110.jpeg",
             "infographic": null
         },
         {
@@ -110,12 +60,12 @@
             "slug": "smart-dragon-3-unknown-payload",
             "name": "Smart Dragon 3 | Unknown Payload",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-02-02T02:00:00Z",
-            "window_end": "2024-02-02T08:00:00Z",
-            "window_start": "2024-02-02T02:00:00Z",
+            "net": "2024-02-02T03:00:00Z",
+            "window_end": "2024-02-02T03:15:00Z",
+            "window_start": "2024-02-02T02:50:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Unknown Payload",
             "mission_type": "Unknown",
@@ -129,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "1ade54b0-32dc-4e3f-86df-8b5aaa0e377b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1ade54b0-32dc-4e3f-86df-8b5aaa0e377b/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-geely-constellation-group-02",
+            "name": "Long March 2C | Geely Constellation Group 02 (?)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-02-02T23:45:00Z",
+            "window_end": "2024-02-02T23:59:00Z",
+            "window_start": "2024-02-02T23:34:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Geely Constellation Group 02 (?)",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_2_image_20230803100234.jpeg",
+            "infographic": null
+        },
+        {
             "id": "3fe9e0be-183a-4e14-8193-516219fb37e4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3fe9e0be-183a-4e14-8193-516219fb37e4/",
             "launch_library_id": null,
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-03T00:00:00Z",
-            "window_end": "2024-02-03T00:00:00Z",
-            "window_start": "2024-02-03T00:00:00Z",
+            "net": "2024-02-03T03:04:00Z",
+            "window_end": "2024-02-03T07:33:00Z",
+            "window_start": "2024-02-03T03:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-13",
             "mission_type": "Communications",
@@ -163,9 +138,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-02-06T06:30:00Z",
-            "window_end": "2024-02-06T06:30:00Z",
-            "window_start": "2024-02-06T06:30:00Z",
+            "net": "2024-02-06T06:33:00Z",
+            "window_end": "2024-02-06T06:33:00Z",
+            "window_start": "2024-02-06T06:33:00Z",
             "lsp_name": "SpaceX",
             "mission": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
             "mission_type": "Earth Science",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h3-22_image_20230307130808.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d9a3c8e1-bc0d-4fab-a04c-218ffe44a026",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d9a3c8e1-bc0d-4fab-a04c-218ffe44a026/",
+            "launch_library_id": null,
+            "slug": "gslv-mk-ii-insat-3ds",
+            "name": "GSLV Mk II | INSAT-3DS",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-17T11:30:00Z",
+            "window_end": "2024-02-17T15:30:00Z",
+            "window_start": "2024-02-17T11:30:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "INSAT-3DS",
+            "mission_type": "Earth Science",
+            "pad": "Satish Dhawan Space Centre Second Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         }
     ]
