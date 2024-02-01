@@ -1,33 +1,8 @@
 {
-    "count": 359,
+    "count": 358,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "89f9600b-b250-4b0f-a713-99b123bb58d8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/89f9600b-b250-4b0f-a713-99b123bb58d8/",
-            "launch_library_id": null,
-            "slug": "electron-four-of-a-kind-northstar-1",
-            "name": "Electron | Four Of A Kind (NorthStar 1)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-01-31T06:34:00Z",
-            "window_end": "2024-01-31T07:00:00Z",
-            "window_start": "2024-01-31T06:15:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Four Of A Kind (NorthStar 1)",
-            "mission_type": "Space Situational Awareness",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": "PAC",
-            "landing_success": 1,
-            "launcher": "43",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20240128092657.jpeg",
-            "infographic": null
-        },
         {
             "id": "5a30129a-8ec6-4189-999e-b9fa22fc4688",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5a30129a-8ec6-4189-999e-b9fa22fc4688/",
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-03T03:04:00Z",
-            "window_end": "2024-02-03T07:33:00Z",
-            "window_start": "2024-02-03T03:04:00Z",
+            "net": "2024-02-04T02:43:00Z",
+            "window_end": "2024-02-04T07:12:00Z",
+            "window_start": "2024-02-04T02:43:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-13",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": "B1083",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071956.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0c61bd06-0bd9-40a8-8be3-1d46368ae094",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0c61bd06-0bd9-40a8-8be3-1d46368ae094/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-39",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-39",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-29T00:00:00Z",
+            "window_end": "2024-02-29T00:00:00Z",
+            "window_start": "2024-02-29T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-39",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231220102117.png",
             "infographic": null
         }
     ]
