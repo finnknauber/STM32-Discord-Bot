@@ -1,33 +1,8 @@
 {
-    "count": 359,
+    "count": 360,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8/",
-            "launch_library_id": 2039,
-            "slug": "falcon-9-block-5-pace-plankton-aerosol-cloud-ocean",
-            "name": "Falcon 9 Block 5 | PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-02-06T06:33:32Z",
-            "window_end": "2024-02-06T06:33:32Z",
-            "window_start": "2024-02-06T06:33:32Z",
-            "lsp_name": "SpaceX",
-            "mission": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
-            "mission_type": "Earth Science",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "B1081",
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240205152830.jpeg",
-            "infographic": null
-        },
         {
             "id": "3fe9e0be-183a-4e14-8193-516219fb37e4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3fe9e0be-183a-4e14-8193-516219fb37e4/",
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-07T01:38:00Z",
-            "window_end": "2024-02-07T06:07:00Z",
-            "window_start": "2024-02-07T01:38:00Z",
+            "net": "2024-02-07T01:39:10Z",
+            "window_end": "2024-02-07T05:37:50Z",
+            "window_start": "2024-02-07T01:39:10Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-13",
             "mission_type": "Communications",
@@ -51,6 +26,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185144.png",
+            "infographic": null
+        },
+        {
+            "id": "549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8/",
+            "launch_library_id": 2039,
+            "slug": "falcon-9-block-5-pace-plankton-aerosol-cloud-ocean",
+            "name": "Falcon 9 Block 5 | PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-02-07T06:33:32Z",
+            "window_end": "2024-02-07T06:33:32Z",
+            "window_start": "2024-02-07T06:33:32Z",
+            "lsp_name": "SpaceX",
+            "mission": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
+            "mission_type": "Earth Science",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1081",
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240206070912.jpeg",
             "infographic": null
         },
         {
