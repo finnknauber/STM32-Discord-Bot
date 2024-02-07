@@ -1,33 +1,8 @@
 {
-    "count": 360,
+    "count": 361,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3fe9e0be-183a-4e14-8193-516219fb37e4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3fe9e0be-183a-4e14-8193-516219fb37e4/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-13",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-02-07T01:39:10Z",
-            "window_end": "2024-02-07T05:37:50Z",
-            "window_start": "2024-02-07T01:39:10Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-13",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185144.png",
-            "infographic": null
-        },
         {
             "id": "549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/549f26ed-a5f7-49fb-97a7-fb2ffa26e3e8/",
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-02-07T06:33:32Z",
-            "window_end": "2024-02-07T06:33:32Z",
-            "window_start": "2024-02-07T06:33:32Z",
+            "net": "2024-02-08T06:33:32Z",
+            "window_end": "2024-02-08T06:33:32Z",
+            "window_start": "2024-02-08T06:33:32Z",
             "lsp_name": "SpaceX",
             "mission": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
             "mission_type": "Earth Science",
@@ -54,6 +29,56 @@
             "infographic": null
         },
         {
+            "id": "3fe9e0be-183a-4e14-8193-516219fb37e4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3fe9e0be-183a-4e14-8193-516219fb37e4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-13",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-02-09T00:56:00Z",
+            "window_end": "2024-02-09T04:54:00Z",
+            "window_start": "2024-02-09T00:56:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185144.png",
+            "infographic": null
+        },
+        {
+            "id": "92fe7bb1-4003-446d-86e0-ffdc9794665e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/92fe7bb1-4003-446d-86e0-ffdc9794665e/",
+            "launch_library_id": null,
+            "slug": "soyuz-21v-kosmos-unknown-payload",
+            "name": "Soyuz 2.1v | Kosmos (Unknown Payload)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-02-09T06:00:00Z",
+            "window_end": "2024-02-09T08:00:00Z",
+            "window_start": "2024-02-09T06:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Kosmos (Unknown Payload)",
+            "mission_type": "Government/Top Secret",
+            "pad": "43/4 (43R)",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
+            "infographic": null
+        },
+        {
             "id": "0c61bd06-0bd9-40a8-8be3-1d46368ae094",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0c61bd06-0bd9-40a8-8be3-1d46368ae094/",
             "launch_library_id": null,
@@ -63,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-10T06:00:00Z",
-            "window_end": "2024-02-10T10:31:00Z",
-            "window_start": "2024-02-10T06:00:00Z",
+            "net": "2024-02-11T06:00:00Z",
+            "window_end": "2024-02-11T10:31:00Z",
+            "window_start": "2024-02-11T06:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-39",
             "mission_type": "Communications",
@@ -179,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "3d959fa3-5a10-4b54-a603-4cfc7c414fb2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3d959fa3-5a10-4b54-a603-4cfc7c414fb2/",
+            "launch_library_id": null,
+            "slug": "electron-on-closer-inspection-adras-j",
+            "name": "Electron | On Closer Inspection (ADRAS-J)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-19T00:00:00Z",
+            "window_end": "2024-02-19T00:00:00Z",
+            "window_start": "2024-02-19T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "On Closer Inspection (ADRAS-J)",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "ffd29f94-06b4-49f7-b5f9-b21a928e6eaa",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ffd29f94-06b4-49f7-b5f9-b21a928e6eaa/",
             "launch_library_id": null,
@@ -201,56 +251,6 @@
             "launcher": "Unknown F9",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2f101902-03dd-4b23-8546-d25ea514b36f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2f101902-03dd-4b23-8546-d25ea514b36f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-crew-8",
-            "name": "Falcon 9 Block 5 | Crew-8",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-02-22T08:00:00Z",
-            "window_end": "2024-02-22T08:00:00Z",
-            "window_start": "2024-02-22T08:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Crew-8",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "LZ-1",
-            "landing_success": 0,
-            "launcher": "B1083",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071956.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "42b2c850-ecee-4ec9-8496-cc304f4353f5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/42b2c850-ecee-4ec9-8496-cc304f4353f5/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-41",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-41",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-02-29T00:00:00Z",
-            "window_end": "2024-02-29T00:00:00Z",
-            "window_start": "2024-02-29T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-41",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240111164941.png",
             "infographic": null
         }
     ]
