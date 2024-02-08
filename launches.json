@@ -1,5 +1,5 @@
 {
-    "count": 361,
+    "count": 363,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,22 +10,22 @@
             "slug": "falcon-9-block-5-pace-plankton-aerosol-cloud-ocean",
             "name": "Falcon 9 Block 5 | PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-02-08T06:33:32Z",
-            "window_end": "2024-02-08T06:33:32Z",
-            "window_start": "2024-02-08T06:33:32Z",
+            "net": "2024-02-08T06:33:36Z",
+            "window_end": "2024-02-08T06:33:36Z",
+            "window_start": "2024-02-08T06:33:36Z",
             "lsp_name": "SpaceX",
             "mission": "PACE (Plankton, Aerosol, Cloud, ocean Ecosystem)",
             "mission_type": "Earth Science",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1081",
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240206070912.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240208174209.jpg",
             "infographic": null
         },
         {
@@ -38,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-02-09T00:56:00Z",
-            "window_end": "2024-02-09T04:54:00Z",
-            "window_start": "2024-02-09T00:56:00Z",
+            "net": "2024-02-09T00:55:30Z",
+            "window_end": "2024-02-09T04:54:10Z",
+            "window_start": "2024-02-09T00:55:30Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-13",
             "mission_type": "Communications",
@@ -48,7 +48,7 @@
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185144.png",
             "infographic": null
@@ -79,28 +79,28 @@
             "infographic": null
         },
         {
-            "id": "0c61bd06-0bd9-40a8-8be3-1d46368ae094",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0c61bd06-0bd9-40a8-8be3-1d46368ae094/",
+            "id": "d8fead19-b792-4e77-8c93-03a953958005",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d8fead19-b792-4e77-8c93-03a953958005/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-39",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-39",
+            "slug": "falcon-9-block-5-ussf-124",
+            "name": "Falcon 9 Block 5 | USSF-124",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-11T06:00:00Z",
-            "window_end": "2024-02-11T10:31:00Z",
-            "window_start": "2024-02-11T06:00:00Z",
+            "net": "2024-02-14T00:00:00Z",
+            "window_end": "2024-02-14T00:00:00Z",
+            "window_start": "2024-02-14T00:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-39",
-            "mission_type": "Communications",
+            "mission": "USSF-124",
+            "mission_type": "Government/Top Secret",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231220102117.png",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         },
         {
@@ -185,10 +185,10 @@
             "slug": "gslv-mk-ii-insat-3ds",
             "name": "GSLV Mk II | INSAT-3DS",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-02-17T11:30:00Z",
+            "net": "2024-02-17T12:00:00Z",
             "window_end": "2024-02-17T15:30:00Z",
             "window_start": "2024-02-17T11:30:00Z",
             "lsp_name": "Indian Space Research Organization",
@@ -213,9 +213,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-19T00:00:00Z",
-            "window_end": "2024-02-19T00:00:00Z",
-            "window_start": "2024-02-19T00:00:00Z",
+            "net": "2024-02-18T00:00:00Z",
+            "window_end": "2024-02-18T00:00:00Z",
+            "window_start": "2024-02-18T00:00:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "On Closer Inspection (ADRAS-J)",
             "mission_type": "Earth Science",
