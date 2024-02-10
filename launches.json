@@ -1,33 +1,8 @@
 {
-    "count": 362,
+    "count": 361,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "92fe7bb1-4003-446d-86e0-ffdc9794665e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/92fe7bb1-4003-446d-86e0-ffdc9794665e/",
-            "launch_library_id": null,
-            "slug": "soyuz-21v-kosmos-2575",
-            "name": "Soyuz 2.1v | Kosmos 2575",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-02-09T07:03:00Z",
-            "window_end": "2024-02-09T08:00:00Z",
-            "window_start": "2024-02-09T06:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Kosmos 2575",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_image_20190222031122.jpeg",
-            "infographic": null
-        },
         {
             "id": "3fe9e0be-183a-4e14-8193-516219fb37e4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3fe9e0be-183a-4e14-8193-516219fb37e4/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-7-13",
             "name": "Falcon 9 Block 5 | Starlink Group 7-13",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-02-10T00:34:00Z",
             "window_end": "2024-02-10T04:32:40Z",
@@ -47,7 +22,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231014185144.png",
@@ -63,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-13T00:00:00Z",
-            "window_end": "2024-02-13T00:00:00Z",
-            "window_start": "2024-02-13T00:00:00Z",
+            "net": "2024-02-13T22:17:00Z",
+            "window_end": "2024-02-14T02:46:00Z",
+            "window_start": "2024-02-13T22:17:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-14",
             "mission_type": "Communications",
@@ -124,7 +99,7 @@
             "landing": "N/A",
             "landing_success": 0,
             "launcher": "Unknown F9",
-            "orbit": "LEO",
+            "orbit": "PO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         },
@@ -251,6 +226,31 @@
             "launcher": "Unknown F9",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2f101902-03dd-4b23-8546-d25ea514b36f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2f101902-03dd-4b23-8546-d25ea514b36f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-crew-8",
+            "name": "Falcon 9 Block 5 | Crew-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-22T08:11:12Z",
+            "window_end": "2024-02-22T08:11:12Z",
+            "window_start": "2024-02-22T08:11:12Z",
+            "lsp_name": "SpaceX",
+            "mission": "Crew-8",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1083",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071956.jpeg",
             "infographic": null
         }
     ]
