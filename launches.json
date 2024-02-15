@@ -1,58 +1,8 @@
 {
-    "count": 360,
+    "count": 361,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "d8fead19-b792-4e77-8c93-03a953958005",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d8fead19-b792-4e77-8c93-03a953958005/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-ussf-124",
-            "name": "Falcon 9 Block 5 | USSF-124",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2024-02-14T22:30:00Z",
-            "window_end": "2024-02-15T03:00:00Z",
-            "window_start": "2024-02-14T22:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "USSF-124",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "LZ-2",
-            "landing_success": 1,
-            "launcher": "B1078",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240214164226.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9603b3c2-da94-41c6-8012-30e990fdc999",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9603b3c2-da94-41c6-8012-30e990fdc999/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-14",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-14",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-02-15T00:30:00Z",
-            "window_end": "2024-02-15T01:54:40Z",
-            "window_start": "2024-02-15T00:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-14",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1082",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231228003227.png",
-            "infographic": null
-        },
         {
             "id": "b2710940-dc12-4cce-aef7-e862307785b7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b2710940-dc12-4cce-aef7-e862307785b7/",
@@ -60,12 +10,12 @@
             "slug": "soyuz-21a-progress-ms-26-87p",
             "name": "Soyuz 2.1a | Progress MS-26 (87P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-02-15T03:25:07Z",
-            "window_end": "2024-02-15T03:25:07Z",
-            "window_start": "2024-02-15T03:25:07Z",
+            "net": "2024-02-15T03:25:06Z",
+            "window_end": "2024-02-15T03:25:06Z",
+            "window_start": "2024-02-15T03:25:06Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-26 (87P)",
             "mission_type": "Resupply",
@@ -85,8 +35,8 @@
             "slug": "falcon-9-block-5-nova-c-im-1",
             "name": "Falcon 9 Block 5 | Nova-C IM-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-02-15T06:05:00Z",
             "window_end": "2024-02-15T06:05:00Z",
@@ -97,10 +47,35 @@
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1060",
             "orbit": "LO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240212210233.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240215175151.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "9603b3c2-da94-41c6-8012-30e990fdc999",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9603b3c2-da94-41c6-8012-30e990fdc999/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-14",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-14",
+            "status": {
+                "id": 3,
+                "name": "Success"
+            },
+            "net": "2024-02-15T21:34:30Z",
+            "window_end": "2024-02-16T01:33:10Z",
+            "window_start": "2024-02-15T21:34:30Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-14",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 1,
+            "launcher": "B1082",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231228003227.png",
             "infographic": null
         },
         {
@@ -138,7 +113,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-02-17T12:00:00Z",
+            "net": "2024-02-17T12:05:00Z",
             "window_end": "2024-02-17T15:30:00Z",
             "window_start": "2024-02-17T11:30:00Z",
             "lsp_name": "Indian Space Research Organization",
@@ -163,9 +138,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-18T00:00:00Z",
-            "window_end": "2024-02-18T00:00:00Z",
-            "window_start": "2024-02-18T00:00:00Z",
+            "net": "2024-02-18T11:45:00Z",
+            "window_end": "2024-02-18T16:30:00Z",
+            "window_start": "2024-02-18T11:45:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "On Closer Inspection (ADRAS-J)",
             "mission_type": "Earth Science",
@@ -176,31 +151,6 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ffd29f94-06b4-49f7-b5f9-b21a928e6eaa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ffd29f94-06b4-49f7-b5f9-b21a928e6eaa/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-hts-113bt",
-            "name": "Falcon 9 Block 5 | HTS-113BT",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-02-19T17:53:00Z",
-            "window_end": "2024-02-19T22:26:00Z",
-            "window_start": "2024-02-19T17:53:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "HTS-113BT",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         },
         {
@@ -226,6 +176,56 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231228003428.png",
+            "infographic": null
+        },
+        {
+            "id": "ffd29f94-06b4-49f7-b5f9-b21a928e6eaa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ffd29f94-06b4-49f7-b5f9-b21a928e6eaa/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-hts-113bt",
+            "name": "Falcon 9 Block 5 | HTS-113BT",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-20T20:11:00Z",
+            "window_end": "2024-02-20T22:44:00Z",
+            "window_start": "2024-02-20T20:11:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "HTS-113BT",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "GTO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "57b661ae-5250-40a2-ae90-7dcaf845d1e7",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/57b661ae-5250-40a2-ae90-7dcaf845d1e7/",
+            "launch_library_id": null,
+            "slug": "long-march-5byz-2-unknown-payload",
+            "name": "Long March 5B/YZ-2 | Unknown Payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-23T10:00:00Z",
+            "window_end": "2024-02-23T16:00:00Z",
+            "window_start": "2024-02-23T10:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "101",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_5b2_image_20240215110654.JPG",
             "infographic": null
         },
         {
