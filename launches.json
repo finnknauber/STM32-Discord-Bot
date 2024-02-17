@@ -10,8 +10,8 @@
             "slug": "h3-22-vep-4-ce-sat-1e-tirsat",
             "name": "H3-22 | VEP 4, CE-SAT-1E & TIRSAT",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-02-17T00:22:55Z",
             "window_end": "2024-02-17T04:06:34Z",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/h3-22_image_20230307130808.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/h3-222520257c_image_20240217070707.jpeg",
             "infographic": null
         },
         {
@@ -35,8 +35,8 @@
             "slug": "gslv-mk-ii-insat-3ds",
             "name": "GSLV Mk II | INSAT-3DS",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-02-17T12:05:00Z",
             "window_end": "2024-02-17T15:30:00Z",
@@ -79,31 +79,6 @@
             "infographic": null
         },
         {
-            "id": "43edc89d-bba0-49ce-85d3-be350104a29c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/43edc89d-bba0-49ce-85d3-be350104a29c/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-15",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-15",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-02-20T05:07:00Z",
-            "window_end": "2024-02-20T09:36:00Z",
-            "window_start": "2024-02-20T05:07:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-15",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231228003428.png",
-            "infographic": null
-        },
-        {
             "id": "ffd29f94-06b4-49f7-b5f9-b21a928e6eaa",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ffd29f94-06b4-49f7-b5f9-b21a928e6eaa/",
             "launch_library_id": null,
@@ -121,7 +96,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "GTO",
@@ -129,11 +104,36 @@
             "infographic": null
         },
         {
+            "id": "43edc89d-bba0-49ce-85d3-be350104a29c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/43edc89d-bba0-49ce-85d3-be350104a29c/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-15",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-15",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-02-22T04:24:00Z",
+            "window_end": "2024-02-22T08:46:00Z",
+            "window_start": "2024-02-22T04:24:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-15",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231228003428.png",
+            "infographic": null
+        },
+        {
             "id": "57b661ae-5250-40a2-ae90-7dcaf845d1e7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/57b661ae-5250-40a2-ae90-7dcaf845d1e7/",
             "launch_library_id": null,
-            "slug": "long-march-5byz-2-unknown-payload",
-            "name": "Long March 5B/YZ-2 | Unknown Payload",
+            "slug": "long-march-5-unknown-payload",
+            "name": "Long March 5 | Unknown Payload",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -150,7 +150,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_5b2_image_20240215110654.JPG",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long_march_5_image_20231214064353.jpeg",
             "infographic": null
         },
         {
