@@ -1,39 +1,14 @@
 {
-    "count": 356,
+    "count": 355,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "3d959fa3-5a10-4b54-a603-4cfc7c414fb2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3d959fa3-5a10-4b54-a603-4cfc7c414fb2/",
-            "launch_library_id": null,
-            "slug": "electron-on-closer-inspection-adras-j",
-            "name": "Electron | On Closer Inspection (ADRAS-J)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-02-18T14:52:00Z",
-            "window_end": "2024-02-18T14:52:00Z",
-            "window_start": "2024-02-18T14:52:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "On Closer Inspection (ADRAS-J)",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/electron25202_image_20240218193513.jpeg",
-            "infographic": null
-        },
-        {
             "id": "ffd29f94-06b4-49f7-b5f9-b21a928e6eaa",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ffd29f94-06b4-49f7-b5f9-b21a928e6eaa/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-hts-113bt",
-            "name": "Falcon 9 Block 5 | HTS-113BT",
+            "slug": "falcon-9-block-5-hts-113bt-merah-putih-2",
+            "name": "Falcon 9 Block 5 | HTS-113BT (Merah Putih 2)",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -42,7 +17,7 @@
             "window_end": "2024-02-20T22:44:00Z",
             "window_start": "2024-02-20T20:11:00Z",
             "lsp_name": "SpaceX",
-            "mission": "HTS-113BT",
+            "mission": "HTS-113BT (Merah Putih 2)",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-23T10:00:00Z",
-            "window_end": "2024-02-23T16:00:00Z",
-            "window_start": "2024-02-23T10:00:00Z",
+            "net": "2024-02-23T11:30:00Z",
+            "window_end": "2024-02-23T13:40:00Z",
+            "window_start": "2024-02-23T11:21:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Unknown Payload",
             "mission_type": "Unknown",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/long2520march25203_image_20190224025008.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2f101902-03dd-4b23-8546-d25ea514b36f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2f101902-03dd-4b23-8546-d25ea514b36f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-crew-8",
+            "name": "Falcon 9 Block 5 | Crew-8",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-03-01T05:04:00Z",
+            "window_end": "2024-03-01T05:04:00Z",
+            "window_start": "2024-03-01T05:04:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Crew-8",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "LZ-1",
+            "landing_success": 0,
+            "launcher": "B1083",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20220301071956.jpeg",
             "infographic": null
         }
     ]
