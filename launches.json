@@ -10,11 +10,11 @@
             "slug": "falcon-9-block-5-hts-113bt-merah-putih-2",
             "name": "Falcon 9 Block 5 | HTS-113BT (Merah Putih 2)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2024-02-20T20:11:00Z",
-            "window_end": "2024-02-20T22:44:00Z",
+            "window_end": "2024-02-20T22:11:00Z",
             "window_start": "2024-02-20T20:11:00Z",
             "lsp_name": "SpaceX",
             "mission": "HTS-113BT (Merah Putih 2)",
@@ -22,10 +22,10 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1067",
             "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240220194114.jpeg",
             "infographic": null
         },
         {
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-22T04:24:00Z",
-            "window_end": "2024-02-22T08:46:00Z",
-            "window_start": "2024-02-22T04:24:00Z",
+            "net": "2024-02-23T04:02:00Z",
+            "window_end": "2024-02-23T08:24:00Z",
+            "window_start": "2024-02-23T04:02:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-15",
             "mission_type": "Communications",
@@ -88,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-24T00:00:00Z",
-            "window_end": "2024-02-24T00:00:00Z",
-            "window_start": "2024-02-24T00:00:00Z",
+            "net": "2024-02-24T21:59:00Z",
+            "window_end": "2024-02-25T02:30:00Z",
+            "window_start": "2024-02-24T21:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-39",
             "mission_type": "Communications",
@@ -171,7 +171,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
