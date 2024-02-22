@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-7-15",
             "name": "Falcon 9 Block 5 | Starlink Group 7-15",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-02-23T04:02:00Z",
-            "window_end": "2024-02-23T08:24:00Z",
-            "window_start": "2024-02-23T04:02:00Z",
+            "net": "2024-02-23T04:11:50Z",
+            "window_end": "2024-02-23T07:44:20Z",
+            "window_start": "2024-02-23T04:11:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-15",
             "mission_type": "Communications",
@@ -23,7 +23,7 @@
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1061",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231228003428.png",
             "infographic": null
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-02-24T21:59:00Z",
-            "window_end": "2024-02-25T02:30:00Z",
-            "window_start": "2024-02-24T21:59:00Z",
+            "net": "2024-02-24T21:59:40Z",
+            "window_end": "2024-02-25T01:57:50Z",
+            "window_start": "2024-02-24T21:59:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-39",
             "mission_type": "Communications",
