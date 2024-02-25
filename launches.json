@@ -1,5 +1,5 @@
 {
-    "count": 359,
+    "count": 361,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,19 +10,19 @@
             "slug": "falcon-9-block-5-starlink-group-6-39",
             "name": "Falcon 9 Block 5 | Starlink Group 6-39",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2024-02-25T01:59:00Z",
-            "window_end": "2024-02-25T01:59:00Z",
-            "window_start": "2024-02-24T21:59:00Z",
+            "net": "2024-02-25T22:06:00Z",
+            "window_end": "2024-02-26T01:34:00Z",
+            "window_start": "2024-02-25T21:34:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-39",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1069",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20231220102117.png",
@@ -88,9 +88,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-02-29T05:43:00Z",
-            "window_end": "2024-02-29T05:43:00Z",
-            "window_start": "2024-02-29T05:43:00Z",
+            "net": "2024-02-29T05:43:26Z",
+            "window_end": "2024-02-29T05:43:26Z",
+            "window_start": "2024-02-29T05:43:26Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Meteor-M No.2-4",
             "mission_type": "Earth Science",
