@@ -104,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "42b2c850-ecee-4ec9-8496-cc304f4353f5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/42b2c850-ecee-4ec9-8496-cc304f4353f5/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-41",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-41",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-03T00:00:00Z",
+            "window_end": "2024-03-03T00:00:00Z",
+            "window_start": "2024-03-03T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-41",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240111164941.png",
+            "infographic": null
+        },
+        {
             "id": "2f10c861-8c07-4af1-8873-cdba6d2566ba",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2f10c861-8c07-4af1-8873-cdba6d2566ba/",
             "launch_library_id": null,
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "96ac7396-cba9-4548-b574-3a65fd6aa4ac",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/96ac7396-cba9-4548-b574-3a65fd6aa4ac/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-soyuz-ms-25",
-            "name": "Soyuz 2.1a | Soyuz MS-25",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-21T13:21:00Z",
-            "window_end": "2024-03-21T13:21:00Z",
-            "window_start": "2024-03-21T13:21:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Soyuz MS-25",
-            "mission_type": "Human Exploration",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1a_image_20230805184309.jpg",
             "infographic": null
         }
     ]
