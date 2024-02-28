@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-01T05:04:00Z",
-            "window_end": "2024-03-01T05:04:00Z",
-            "window_start": "2024-03-01T05:04:00Z",
+            "net": "2024-03-01T05:04:26Z",
+            "window_end": "2024-03-01T05:04:26Z",
+            "window_start": "2024-03-01T05:04:26Z",
             "lsp_name": "SpaceX",
             "mission": "Crew-8",
             "mission_type": "Human Exploration",
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "42b2c850-ecee-4ec9-8496-cc304f4353f5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/42b2c850-ecee-4ec9-8496-cc304f4353f5/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-41",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-41",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-03T00:00:00Z",
-            "window_end": "2024-03-03T00:00:00Z",
-            "window_start": "2024-03-03T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-41",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240111164941.png",
-            "infographic": null
-        },
-        {
             "id": "2f10c861-8c07-4af1-8873-cdba6d2566ba",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2f10c861-8c07-4af1-8873-cdba6d2566ba/",
             "launch_library_id": null,
@@ -151,6 +126,31 @@
             "launcher": "Unknown F9",
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "42b2c850-ecee-4ec9-8496-cc304f4353f5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/42b2c850-ecee-4ec9-8496-cc304f4353f5/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-41",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-41",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-04T00:19:00Z",
+            "window_end": "2024-03-04T04:50:00Z",
+            "window_start": "2024-03-04T00:19:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-41",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "ASOG",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240111164941.png",
             "infographic": null
         },
         {
@@ -189,12 +189,12 @@
                 "name": "Go"
             },
             "net": "2024-03-09T14:00:00Z",
-            "window_end": "2024-03-09T14:00:00Z",
+            "window_end": "2024-03-09T15:15:00Z",
             "window_start": "2024-03-09T14:00:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Owl Night Long",
             "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
