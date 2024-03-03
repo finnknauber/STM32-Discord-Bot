@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-03T04:16:00Z",
-            "window_end": "2024-03-03T04:16:00Z",
-            "window_start": "2024-03-03T04:16:00Z",
+            "net": "2024-03-04T03:53:00Z",
+            "window_end": "2024-03-04T03:53:00Z",
+            "window_start": "2024-03-04T03:53:00Z",
             "lsp_name": "SpaceX",
             "mission": "Crew-8",
             "mission_type": "Human Exploration",
@@ -38,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-03-04T21:04:00Z",
+            "net": "2024-03-04T21:18:00Z",
             "window_end": "2024-03-04T22:59:00Z",
             "window_start": "2024-03-04T21:04:00Z",
             "lsp_name": "SpaceX",
@@ -76,6 +76,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20240111164941.png",
+            "infographic": null
+        },
+        {
+            "id": "e7b297d1-3312-4264-b802-f9d6ea11b3b2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e7b297d1-3312-4264-b802-f9d6ea11b3b2/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-42",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-42",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-08T00:19:00Z",
+            "window_end": "2024-03-08T04:50:00Z",
+            "window_start": "2024-03-08T00:19:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-42",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launch_images/falcon2520925_image_20230622063801.png",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/soyuz_2.1b_image_20230802085331.jpg",
-            "infographic": null
-        },
-        {
-            "id": "05864985-e660-4723-b489-32a78d4b53fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/05864985-e660-4723-b489-32a78d4b53fc/",
-            "launch_library_id": null,
-            "slug": "gaganyaan-abort-test-booster-tv-d2",
-            "name": "Gaganyaan Abort Test Booster | TV-D2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-31T00:00:00Z",
-            "window_end": "2024-03-31T00:00:00Z",
-            "window_start": "2024-03-31T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "TV-D2",
-            "mission_type": "Test Flight",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/launcher_images/gaganyaan_abort_image_20231021132156.jpeg",
             "infographic": null
         }
     ]
