@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-09T02:00:00Z",
-            "window_end": "2024-03-09T03:00:00Z",
-            "window_start": "2024-03-09T02:00:00Z",
+            "net": "2024-03-09T02:01:00Z",
+            "window_end": "2024-03-09T02:17:00Z",
+            "window_start": "2024-03-09T02:01:00Z",
             "lsp_name": "Space One",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
@@ -54,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "ed3aa4cd-ebd2-4871-a541-968a1b08afb1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ed3aa4cd-ebd2-4871-a541-968a1b08afb1/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-43",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-43",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-10T23:03:00Z",
+            "window_end": "2024-03-11T03:34:00Z",
+            "window_start": "2024-03-10T23:03:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-43",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "8b703f3e-2758-466b-a899-7c1b463c2f31",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8b703f3e-2758-466b-a899-7c1b463c2f31/",
             "launch_library_id": null,
@@ -72,31 +97,6 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "ed3aa4cd-ebd2-4871-a541-968a1b08afb1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ed3aa4cd-ebd2-4871-a541-968a1b08afb1/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-43",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-43",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-11T22:38:00Z",
-            "window_end": "2024-03-12T03:09:00Z",
-            "window_start": "2024-03-11T22:38:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-43",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -135,8 +135,8 @@
             "slug": "electron-live-and-let-fly-nrol-123",
             "name": "Electron | Live and Let Fly (NROL-123)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-03-20T06:15:00Z",
             "window_end": "2024-03-20T10:30:00Z",
