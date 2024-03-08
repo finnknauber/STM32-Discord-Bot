@@ -1,5 +1,5 @@
 {
-    "count": 355,
+    "count": 360,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -13,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-09T02:01:00Z",
-            "window_end": "2024-03-09T02:17:00Z",
-            "window_start": "2024-03-09T02:01:00Z",
+            "net": "2024-03-09T02:01:12Z",
+            "window_end": "2024-03-09T02:17:12Z",
+            "window_start": "2024-03-09T02:01:12Z",
             "lsp_name": "Space One",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
@@ -24,33 +24,8 @@
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/kairos_image_20240216144656.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "c16c61fb-fd2c-482b-8904-bc3db306d747",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c16c61fb-fd2c-482b-8904-bc3db306d747/",
-            "launch_library_id": null,
-            "slug": "electron-owl-night-long",
-            "name": "Electron | Owl Night Long",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-03-09T14:00:00Z",
-            "window_end": "2024-03-09T15:15:00Z",
-            "window_start": "2024-03-09T14:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Owl Night Long",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/kairos_image_20240216144656.jpeg",
             "infographic": null
         },
         {
@@ -71,7 +46,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "JRTI",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -97,6 +72,56 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "c16c61fb-fd2c-482b-8904-bc3db306d747",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c16c61fb-fd2c-482b-8904-bc3db306d747/",
+            "launch_library_id": null,
+            "slug": "electron-owl-night-long",
+            "name": "Electron | Owl Night Long",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-03-12T14:00:00Z",
+            "window_end": "2024-03-12T15:15:00Z",
+            "window_start": "2024-03-12T14:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Owl Night Long",
+            "mission_type": "Earth Science",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "827fac66-147f-4afc-9489-1b1d736ee989",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/827fac66-147f-4afc-9489-1b1d736ee989/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-44",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-44",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-13T23:00:00Z",
+            "window_end": "2024-03-14T03:00:00Z",
+            "window_start": "2024-03-13T23:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-44",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -160,8 +185,8 @@
             "slug": "soyuz-21a-soyuz-ms-25",
             "name": "Soyuz 2.1a | Soyuz MS-25",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-03-21T13:21:00Z",
             "window_end": "2024-03-21T13:21:00Z",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": "Sub",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/gaganyaan_abort_image_20231021132156.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "17d0ec68-f466-4916-9dc5-16123eda6484",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/17d0ec68-f466-4916-9dc5-16123eda6484/",
-            "launch_library_id": 1879,
-            "slug": "gslv-mk-ii-gisat-2",
-            "name": "GSLV Mk II | GISAT-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-31T00:00:00Z",
-            "window_end": "2024-03-31T00:00:00Z",
-            "window_start": "2024-03-31T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "GISAT-2",
-            "mission_type": "Earth Science",
-            "pad": "Satish Dhawan Space Centre Second Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/gslv2520mk2520ii_image_20190825171642.jpg",
             "infographic": null
         }
     ]
