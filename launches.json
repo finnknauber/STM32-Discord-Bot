@@ -121,7 +121,7 @@
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
