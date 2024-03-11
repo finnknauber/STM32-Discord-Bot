@@ -1,5 +1,5 @@
 {
-    "count": 360,
+    "count": 365,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-43",
             "name": "Falcon 9 Block 5 | Starlink Group 6-43",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-03-10T23:05:00Z",
             "window_end": "2024-03-11T03:03:00Z",
@@ -22,7 +22,7 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "JRTI",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1077",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
@@ -35,10 +35,10 @@
             "slug": "falcon-9-block-5-starlink-group-7-17",
             "name": "Falcon 9 Block 5 | Starlink Group 7-17",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-03-11T02:13:00Z",
+            "net": "2024-03-11T04:09:00Z",
             "window_end": "2024-03-11T06:13:00Z",
             "window_start": "2024-03-11T02:13:00Z",
             "lsp_name": "SpaceX",
@@ -47,7 +47,7 @@
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
             "landing": "OCISLY",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1063",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
@@ -85,8 +85,8 @@
             "slug": "kairos-maiden-flight",
             "name": "KAIROS | Maiden Flight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-03-13T02:01:12Z",
             "window_end": "2024-03-13T02:17:12Z",
@@ -101,6 +101,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/kairos_image_20240216144656.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "85235d3c-55c8-494c-9fcc-03037b4158a9",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/85235d3c-55c8-494c-9fcc-03037b4158a9/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-03-13T12:49:00Z",
+            "window_end": "2024-03-13T12:59:00Z",
+            "window_start": "2024-03-13T12:39:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
-            "launch_library_id": 1676,
-            "slug": "soyuz-21b-resurs-p-no4",
-            "name": "Soyuz 2.1b | Resurs-P No.4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-30T09:36:00Z",
-            "window_end": "2024-03-30T09:36:00Z",
-            "window_start": "2024-03-30T09:36:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Resurs-P No.4",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
             "infographic": null
         }
     ]
