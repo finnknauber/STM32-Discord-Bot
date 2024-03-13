@@ -1,33 +1,8 @@
 {
-    "count": 363,
+    "count": 364,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "c16c61fb-fd2c-482b-8904-bc3db306d747",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c16c61fb-fd2c-482b-8904-bc3db306d747/",
-            "launch_library_id": null,
-            "slug": "electron-owl-night-long",
-            "name": "Electron | Owl Night Long",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-03-12T15:03:00Z",
-            "window_end": "2024-03-12T15:15:00Z",
-            "window_start": "2024-03-12T14:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Owl Night Long",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/electron_liftof_image_20240312182206.jpg",
-            "infographic": null
-        },
         {
             "id": "9633c43d-c951-4e6d-be7a-dadd74f99734",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9633c43d-c951-4e6d-be7a-dadd74f99734/",
@@ -35,8 +10,8 @@
             "slug": "kairos-maiden-flight",
             "name": "KAIROS | Maiden Flight",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
             "net": "2024-03-13T02:01:12Z",
             "window_end": "2024-03-13T02:17:12Z",
@@ -60,8 +35,8 @@
             "slug": "long-march-2c-unknown-payload",
             "name": "Long March 2C | Unknown Payload",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2024-03-13T12:49:00Z",
             "window_end": "2024-03-13T12:59:00Z",
@@ -85,11 +60,11 @@
             "slug": "falcon-9-block-5-starlink-group-6-44",
             "name": "Falcon 9 Block 5 | Starlink Group 6-44",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-03-13T23:29:00Z",
-            "window_end": "2024-03-14T04:00:00Z",
+            "window_end": "2024-03-14T03:29:00Z",
             "window_start": "2024-03-13T23:29:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-44",
@@ -98,7 +73,7 @@
             "location": "Kennedy Space Center, FL, USA",
             "landing": "ASOG",
             "landing_success": 0,
-            "launcher": "Unknown F9",
+            "launcher": "B1062",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
@@ -110,11 +85,11 @@
             "slug": "starship-integrated-flight-test-3",
             "name": "Starship | Integrated Flight Test 3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-03-14T12:00:00Z",
-            "window_end": "2024-03-14T16:00:00Z",
+            "window_end": "2024-03-14T13:50:00Z",
             "window_start": "2024-03-14T12:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Integrated Flight Test 3",
@@ -179,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "e7b297d1-3312-4264-b802-f9d6ea11b3b2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e7b297d1-3312-4264-b802-f9d6ea11b3b2/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-42",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-42",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-21T00:45:00Z",
+            "window_end": "2024-03-21T05:16:00Z",
+            "window_start": "2024-03-21T00:45:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-42",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "96ac7396-cba9-4548-b574-3a65fd6aa4ac",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/96ac7396-cba9-4548-b574-3a65fd6aa4ac/",
             "launch_library_id": null,
@@ -188,9 +188,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-21T13:21:00Z",
-            "window_end": "2024-03-21T13:21:00Z",
-            "window_start": "2024-03-21T13:21:00Z",
+            "net": "2024-03-21T13:21:19Z",
+            "window_end": "2024-03-21T13:21:19Z",
+            "window_start": "2024-03-21T13:21:19Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Soyuz MS-25",
             "mission_type": "Human Exploration",
