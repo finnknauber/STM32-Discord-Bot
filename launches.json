@@ -1,33 +1,8 @@
 {
-    "count": 362,
+    "count": 361,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "c0d90c60-4961-470a-a6d7-804b3bf4b012",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c0d90c60-4961-470a-a6d7-804b3bf4b012/",
-            "launch_library_id": null,
-            "slug": "starship-integrated-flight-test-3",
-            "name": "Starship | Integrated Flight Test 3",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-03-14T13:25:00Z",
-            "window_end": "2024-03-14T13:50:00Z",
-            "window_start": "2024-03-14T12:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Integrated Flight Test 3",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": "GOM",
-            "landing_success": 2,
-            "launcher": "Booster 10",
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/starship_liftof_image_20240314160301.jpg",
-            "infographic": null
-        },
         {
             "id": "827fac66-147f-4afc-9489-1b1d736ee989",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/827fac66-147f-4afc-9489-1b1d736ee989/",
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-14T23:04:00Z",
-            "window_end": "2024-03-15T02:40:00Z",
-            "window_start": "2024-03-14T23:04:00Z",
+            "net": "2024-03-15T23:57:00Z",
+            "window_end": "2024-03-16T02:39:00Z",
+            "window_start": "2024-03-15T22:39:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-44",
             "mission_type": "Communications",
@@ -79,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "aed6a40f-012e-4b97-b701-d7a8c73edcfd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/aed6a40f-012e-4b97-b701-d7a8c73edcfd/",
+            "launch_library_id": null,
+            "slug": "long-march-8-queqiao-2",
+            "name": "Long March 8 | Queqiao-2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-03-20T00:35:00Z",
+            "window_end": "2024-03-20T02:16:00Z",
+            "window_start": "2024-03-20T00:21:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Queqiao-2",
+            "mission_type": "Planetary Science",
+            "pad": "201",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg",
+            "infographic": null
+        },
+        {
             "id": "7f854a08-ea51-4470-9b80-84fb2252c9fe",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/7f854a08-ea51-4470-9b80-84fb2252c9fe/",
             "launch_library_id": null,
@@ -88,9 +88,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-20T06:40:00Z",
-            "window_end": "2024-03-20T10:30:00Z",
-            "window_start": "2024-03-20T06:15:00Z",
+            "net": "2024-03-21T06:15:00Z",
+            "window_end": "2024-03-21T10:30:00Z",
+            "window_start": "2024-03-21T06:15:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Live and Let Fly (NROL-123)",
             "mission_type": "Government/Top Secret",
@@ -101,31 +101,6 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "e7b297d1-3312-4264-b802-f9d6ea11b3b2",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e7b297d1-3312-4264-b802-f9d6ea11b3b2/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-42",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-42",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-21T00:45:00Z",
-            "window_end": "2024-03-21T05:16:00Z",
-            "window_start": "2024-03-21T00:45:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-42",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -163,9 +138,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-03-21T20:54:00Z",
-            "window_end": "2024-03-21T20:54:00Z",
-            "window_start": "2024-03-21T20:54:00Z",
+            "net": "2024-03-21T20:55:09Z",
+            "window_end": "2024-03-21T20:55:09Z",
+            "window_start": "2024-03-21T20:55:09Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-30",
             "mission_type": "Resupply",
@@ -176,6 +151,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "e7b297d1-3312-4264-b802-f9d6ea11b3b2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e7b297d1-3312-4264-b802-f9d6ea11b3b2/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-42",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-42",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-22T00:20:00Z",
+            "window_end": "2024-03-22T04:51:00Z",
+            "window_start": "2024-03-22T00:20:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-42",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
