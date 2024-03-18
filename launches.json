@@ -13,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-03-19T02:20:00Z",
-            "window_end": "2024-03-19T06:51:00Z",
-            "window_start": "2024-03-19T02:20:00Z",
+            "net": "2024-03-19T02:28:00Z",
+            "window_end": "2024-03-19T06:10:00Z",
+            "window_start": "2024-03-19T02:28:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 7-16",
             "mission_type": "Communications",
@@ -38,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-20T00:35:00Z",
+            "net": "2024-03-20T00:31:00Z",
             "window_end": "2024-03-20T02:16:00Z",
             "window_start": "2024-03-20T00:21:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -88,7 +88,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-03-21T06:15:00Z",
+            "net": "2024-03-21T06:40:00Z",
             "window_end": "2024-03-21T10:30:00Z",
             "window_start": "2024-03-21T06:15:00Z",
             "lsp_name": "Rocket Lab",
