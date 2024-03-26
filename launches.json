@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-46",
             "name": "Falcon 9 Block 5 | Starlink Group 6-46",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-03-25T23:42:00Z",
             "window_end": "2024-03-26T01:00:00Z",
@@ -22,8 +22,8 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
+            "landing_success": 1,
+            "launcher": "B1078",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
@@ -50,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "N/A",
-            "image": null,
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/cz-6c_model_at__image_20240326135852.png",
             "infographic": null
         },
         {
@@ -104,56 +104,6 @@
             "infographic": null
         },
         {
-            "id": "3f61f099-5176-49f2-8e77-41c02ce80e5a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3f61f099-5176-49f2-8e77-41c02ce80e5a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-45",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-45",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-30T00:00:00Z",
-            "window_end": "2024-03-30T00:00:00Z",
-            "window_start": "2024-03-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-45",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
-            "landing_success": 0,
-            "launcher": "Unknown F9",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
-            "launch_library_id": 1676,
-            "slug": "soyuz-21b-resurs-p-no4",
-            "name": "Soyuz 2.1b | Resurs-P No.4",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-30T09:36:00Z",
-            "window_end": "2024-03-30T09:36:00Z",
-            "window_start": "2024-03-30T09:36:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Resurs-P No.4",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-            "infographic": null
-        },
-        {
             "id": "ba739b7f-9bdd-487c-9742-d76182af49f8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ba739b7f-9bdd-487c-9742-d76182af49f8/",
             "launch_library_id": null,
@@ -164,7 +114,7 @@
                 "name": "TBD"
             },
             "net": "2024-03-30T21:52:00Z",
-            "window_end": "2024-03-31T02:21:00Z",
+            "window_end": "2024-03-31T00:31:00Z",
             "window_start": "2024-03-30T21:52:00Z",
             "lsp_name": "SpaceX",
             "mission": "Eutelsat 36D",
@@ -176,31 +126,6 @@
             "launcher": "Unknown F9",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "05864985-e660-4723-b489-32a78d4b53fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/05864985-e660-4723-b489-32a78d4b53fc/",
-            "launch_library_id": null,
-            "slug": "gaganyaan-abort-test-booster-tv-d2",
-            "name": "Gaganyaan Abort Test Booster | TV-D2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-31T00:00:00Z",
-            "window_end": "2024-03-31T00:00:00Z",
-            "window_start": "2024-03-31T00:00:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "TV-D2",
-            "mission_type": "Test Flight",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "Sub",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/gaganyaan_abort_image_20231021132156.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "infographic": null
+        },
+        {
+            "id": "3f61f099-5176-49f2-8e77-41c02ce80e5a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3f61f099-5176-49f2-8e77-41c02ce80e5a/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-45",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-45",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-31T01:00:00Z",
+            "window_end": "2024-03-31T02:31:00Z",
+            "window_start": "2024-03-31T01:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-45",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": "N/A",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
+            "launch_library_id": 1676,
+            "slug": "soyuz-21b-resurs-p-no4",
+            "name": "Soyuz 2.1b | Resurs-P No.4",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-03-31T09:36:00Z",
+            "window_end": "2024-03-31T09:36:00Z",
+            "window_start": "2024-03-31T09:36:00Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Resurs-P No.4",
+            "mission_type": "Earth Science",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "SSO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "infographic": null
+        },
+        {
+            "id": "1b8e6f37-c703-4e48-b160-470ffe5ecb26",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1b8e6f37-c703-4e48-b160-470ffe5ecb26/",
+            "launch_library_id": 1984,
+            "slug": "angara-a5blok-dm-03-vostochny-angara-test-flight",
+            "name": "Angara A5/Blok DM-03 | Vostochny Angara Test Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-06T00:00:00Z",
+            "window_end": "2024-04-06T00:00:00Z",
+            "window_start": "2024-04-06T00:00:00Z",
+            "lsp_name": "Khrunichev State Research and Production Space Center",
+            "mission": "Vostochny Angara Test Flight",
+            "mission_type": "Test Flight",
+            "pad": "Cosmodrome Site 1A",
+            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/angara_a52fper_image_20211227193648.jpg",
             "infographic": null
         }
     ]
