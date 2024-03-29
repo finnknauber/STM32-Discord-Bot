@@ -4,56 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "8bb37c47-eefc-4a37-80c5-03b760cc99fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bb37c47-eefc-4a37-80c5-03b760cc99fc/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-18",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-18",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-03-29T02:30:00Z",
-            "window_end": "2024-03-29T06:24:00Z",
-            "window_start": "2024-03-29T02:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-18",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1071",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "a32fa9ec-7925-4698-bbc7-a7ed1ad12621",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a32fa9ec-7925-4698-bbc7-a7ed1ad12621/",
-            "launch_library_id": 1977,
-            "slug": "delta-iv-heavy-nrol-70",
-            "name": "Delta IV Heavy | NROL-70",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-03-29T17:37:00Z",
-            "window_end": "2024-03-29T22:51:00Z",
-            "window_start": "2024-03-29T17:37:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "NROL-70",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 37B",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/delta_iv_heavy_image_20210426103838.jpg",
-            "infographic": null
-        },
-        {
             "id": "ba739b7f-9bdd-487c-9742-d76182af49f8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ba739b7f-9bdd-487c-9742-d76182af49f8/",
             "launch_library_id": null,
@@ -64,7 +14,7 @@
                 "name": "TBD"
             },
             "net": "2024-03-30T21:52:00Z",
-            "window_end": "2024-03-31T00:31:00Z",
+            "window_end": "2024-03-31T00:00:00Z",
             "window_start": "2024-03-30T21:52:00Z",
             "lsp_name": "SpaceX",
             "mission": "Eutelsat 36D",
@@ -76,31 +26,6 @@
             "launcher": "Unknown F9",
             "orbit": "GTO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "855868c5-0d8a-48d1-be59-2b357c0d1924",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/855868c5-0d8a-48d1-be59-2b357c0d1924/",
-            "launch_library_id": null,
-            "slug": "rs1-flight-2",
-            "name": "RS1 | Flight 2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-03-31T00:00:00Z",
-            "window_end": "2024-03-31T00:00:00Z",
-            "window_start": "2024-03-31T00:00:00Z",
-            "lsp_name": "ABL Space Systems",
-            "mission": "Flight 2",
-            "mission_type": "Test Flight",
-            "pad": "Launch Pad 3C",
-            "location": "Pacific Spaceport Complex, Alaska, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/rs1_on_the_pad__image_20240325094914.jpeg",
             "infographic": null
         },
         {
@@ -129,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "8bb37c47-eefc-4a37-80c5-03b760cc99fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bb37c47-eefc-4a37-80c5-03b760cc99fc/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-18",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-18",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-03-31T02:30:00Z",
+            "window_end": "2024-03-31T06:30:00Z",
+            "window_start": "2024-03-31T02:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-18",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1071",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
             "launch_library_id": 1676,
@@ -150,7 +100,57 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_on_p_image_20240329193404.jpg",
+            "infographic": null
+        },
+        {
+            "id": "a32fa9ec-7925-4698-bbc7-a7ed1ad12621",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a32fa9ec-7925-4698-bbc7-a7ed1ad12621/",
+            "launch_library_id": 1977,
+            "slug": "delta-iv-heavy-nrol-70",
+            "name": "Delta IV Heavy | NROL-70",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-01T17:25:00Z",
+            "window_end": "2024-04-01T22:51:00Z",
+            "window_start": "2024-04-01T17:25:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-70",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 37B",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/slc-37b_image_20240329083424.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b76b836f-8e88-4bc3-a3bc-36bb8ee4bb3c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b76b836f-8e88-4bc3-a3bc-36bb8ee4bb3c/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-8-1",
+            "name": "Falcon 9 Block 5 | Starlink Group 8-1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-04T00:00:00Z",
+            "window_end": "2024-04-04T00:00:00Z",
+            "window_start": "2024-04-04T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 8-1",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
