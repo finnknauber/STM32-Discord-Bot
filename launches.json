@@ -1,33 +1,8 @@
 {
-    "count": 357,
+    "count": 356,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ba739b7f-9bdd-487c-9742-d76182af49f8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ba739b7f-9bdd-487c-9742-d76182af49f8/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-eutelsat-36d",
-            "name": "Falcon 9 Block 5 | Eutelsat 36D",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2024-03-30T21:52:00Z",
-            "window_end": "2024-03-31T01:50:00Z",
-            "window_start": "2024-03-30T21:52:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Eutelsat 36D",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": "JRTI",
-            "landing_success": 1,
-            "launcher": "B1076",
-            "orbit": "GTO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/f9_on_lc-39a_2_image_20240330210508.jpg",
-            "infographic": null
-        },
         {
             "id": "3f61f099-5176-49f2-8e77-41c02ce80e5a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/3f61f099-5176-49f2-8e77-41c02ce80e5a/",
@@ -35,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-45",
             "name": "Falcon 9 Block 5 | Starlink Group 6-45",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-03-31T01:02:00Z",
+            "net": "2024-03-31T01:30:00Z",
             "window_end": "2024-03-31T02:00:00Z",
             "window_start": "2024-03-31T01:02:00Z",
             "lsp_name": "SpaceX",
@@ -47,33 +22,8 @@
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
             "landing": "ASOG",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1067",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "8bb37c47-eefc-4a37-80c5-03b760cc99fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bb37c47-eefc-4a37-80c5-03b760cc99fc/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-18",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-18",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-03-31T02:30:00Z",
-            "window_end": "2024-03-31T06:30:00Z",
-            "window_start": "2024-03-31T02:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-18",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 0,
-            "launcher": "B1071",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
@@ -85,8 +35,8 @@
             "slug": "soyuz-21b-resurs-p-no4",
             "name": "Soyuz 2.1b | Resurs-P No.4",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-03-31T09:36:45Z",
             "window_end": "2024-03-31T09:36:45Z",
@@ -100,32 +50,32 @@
             "landing_success": null,
             "launcher": null,
             "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_on_p_image_20240329193404.jpg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20240331153244.jpg",
             "infographic": null
         },
         {
-            "id": "a32fa9ec-7925-4698-bbc7-a7ed1ad12621",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a32fa9ec-7925-4698-bbc7-a7ed1ad12621/",
-            "launch_library_id": 1977,
-            "slug": "delta-iv-heavy-nrol-70",
-            "name": "Delta IV Heavy | NROL-70",
+            "id": "8bb37c47-eefc-4a37-80c5-03b760cc99fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bb37c47-eefc-4a37-80c5-03b760cc99fc/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-7-18",
+            "name": "Falcon 9 Block 5 | Starlink Group 7-18",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-04-01T17:25:00Z",
-            "window_end": "2024-04-01T22:51:00Z",
-            "window_start": "2024-04-01T17:25:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "NROL-70",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 37B",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/slc-37b_image_20240329083424.jpeg",
+            "net": "2024-04-02T02:30:00Z",
+            "window_end": "2024-04-02T06:30:00Z",
+            "window_start": "2024-04-02T02:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 7-18",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "OCISLY",
+            "landing_success": 0,
+            "launcher": "B1071",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -213,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-04-07T00:00:00Z",
-            "window_end": "2024-04-07T00:00:00Z",
-            "window_start": "2024-04-07T00:00:00Z",
+            "net": "2024-04-07T23:17:00Z",
+            "window_end": "2024-04-07T23:17:00Z",
+            "window_start": "2024-04-07T23:17:00Z",
             "lsp_name": "SpaceX",
             "mission": "Bandwagon 1 (Dedicated Mid-Inclination Rideshare)",
             "mission_type": "Dedicated Rideshare",
@@ -226,6 +176,31 @@
             "launcher": "Unknown F9",
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a32fa9ec-7925-4698-bbc7-a7ed1ad12621",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a32fa9ec-7925-4698-bbc7-a7ed1ad12621/",
+            "launch_library_id": 1977,
+            "slug": "delta-iv-heavy-nrol-70",
+            "name": "Delta IV Heavy | NROL-70",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-08T16:57:00Z",
+            "window_end": "2024-04-08T22:51:00Z",
+            "window_start": "2024-04-08T16:57:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "NROL-70",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 37B",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "N/A",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/slc-37b_image_20240329083424.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "N/A",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/angara_a52fper_image_20211227193648.jpg",
+            "infographic": null
+        },
+        {
+            "id": "974b4774-cda7-4373-abfc-40c1a1859cba",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/974b4774-cda7-4373-abfc-40c1a1859cba/",
+            "launch_library_id": 1372,
+            "slug": "falcon-9-block-5-2-x-galileo",
+            "name": "Falcon 9 Block 5 | 2 x Galileo",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-22T00:00:00Z",
+            "window_end": "2024-04-22T00:00:00Z",
+            "window_start": "2024-04-22T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "2 x Galileo",
+            "mission_type": "Navigation",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": "Unknown F9",
+            "orbit": "MEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
