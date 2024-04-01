@@ -1,58 +1,8 @@
 {
-    "count": 356,
+    "count": 354,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "3f61f099-5176-49f2-8e77-41c02ce80e5a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3f61f099-5176-49f2-8e77-41c02ce80e5a/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-45",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-45",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-03-31T01:30:00Z",
-            "window_end": "2024-03-31T02:00:00Z",
-            "window_start": "2024-03-31T01:02:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-45",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral, FL, USA",
-            "landing": "ASOG",
-            "landing_success": 1,
-            "launcher": "B1067",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "eab593aa-ba0b-4191-91b4-406b22ad8d74",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/eab593aa-ba0b-4191-91b4-406b22ad8d74/",
-            "launch_library_id": 1676,
-            "slug": "soyuz-21b-resurs-p-no4",
-            "name": "Soyuz 2.1b | Resurs-P No.4",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-03-31T09:36:45Z",
-            "window_end": "2024-03-31T09:36:45Z",
-            "window_start": "2024-03-31T09:36:45Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Resurs-P No.4",
-            "mission_type": "Earth Science",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "SSO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20240331153244.jpg",
-            "infographic": null
-        },
         {
             "id": "8bb37c47-eefc-4a37-80c5-03b760cc99fc",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8bb37c47-eefc-4a37-80c5-03b760cc99fc/",
@@ -138,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-04-05T00:00:00Z",
-            "window_end": "2024-04-05T00:00:00Z",
-            "window_start": "2024-04-05T00:00:00Z",
+            "net": "2024-04-05T06:14:00Z",
+            "window_end": "2024-04-05T10:45:00Z",
+            "window_start": "2024-04-05T06:14:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-47",
             "mission_type": "Communications",
@@ -251,6 +201,56 @@
             "launcher": "Unknown F9",
             "orbit": "MEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "607135c8-8090-4f5e-8bd3-d69bef2f2618",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/607135c8-8090-4f5e-8bd3-d69bef2f2618/",
+            "launch_library_id": null,
+            "slug": "electron-acs3-others",
+            "name": "Electron | ACS3 & others",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-23T17:43:00Z",
+            "window_end": "2024-04-23T17:43:00Z",
+            "window_start": "2024-04-23T17:43:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "ACS3 & others",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Unknown Pad",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "12978b64-816d-4ab1-b15f-44f237a0c083",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/12978b64-816d-4ab1-b15f-44f237a0c083/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-18",
+            "name": "Long March 2F/G | Shenzhou 18",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-25T00:00:00Z",
+            "window_end": "2024-04-25T00:00:00Z",
+            "window_start": "2024-04-25T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 18",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20210908195835.jpeg",
             "infographic": null
         }
     ]
