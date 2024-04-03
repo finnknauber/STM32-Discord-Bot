@@ -1,56 +1,31 @@
 {
-    "count": 355,
+    "count": 354,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "8bb37c47-eefc-4a37-80c5-03b760cc99fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bb37c47-eefc-4a37-80c5-03b760cc99fc/",
+            "id": "464384ba-7a9a-455a-9d90-1053e9bc453c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/464384ba-7a9a-455a-9d90-1053e9bc453c/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-7-18",
-            "name": "Falcon 9 Block 5 | Starlink Group 7-18",
+            "slug": "long-march-2d-yaogan-42-01",
+            "name": "Long March 2D | Yaogan 42-01",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2024-04-02T02:30:00Z",
-            "window_end": "2024-04-02T06:30:00Z",
-            "window_start": "2024-04-02T02:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 7-18",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1071",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "464384ba-7a9a-455a-9d90-1053e9bc453c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/464384ba-7a9a-455a-9d90-1053e9bc453c/",
-            "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-04-02T22:55:00Z",
+            "net": "2024-04-02T22:56:00Z",
             "window_end": "2024-04-02T23:12:00Z",
             "window_start": "2024-04-02T22:47:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "Yaogan 42-01",
+            "mission_type": "Government/Top Secret",
             "pad": "Launch Complex 3 (LC-3/LA-1)",
             "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "N/A",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/cz-2d_liftoff_f_image_20240403102500.jpg",
             "infographic": null
         },
         {
@@ -71,7 +46,7 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral, FL, USA",
-            "landing": "N/A",
+            "landing": "ASOG",
             "landing_success": 0,
             "launcher": "Unknown F9",
             "orbit": "LEO",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "SSO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "12978b64-816d-4ab1-b15f-44f237a0c083",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/12978b64-816d-4ab1-b15f-44f237a0c083/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-18",
+            "name": "Long March 2F/G | Shenzhou 18",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-25T00:00:00Z",
+            "window_end": "2024-04-25T00:00:00Z",
+            "window_start": "2024-04-25T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 18",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "LEO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20210908195835.jpeg",
             "infographic": null
         }
     ]
