@@ -1,33 +1,8 @@
 {
-    "count": 354,
+    "count": 353,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "464384ba-7a9a-455a-9d90-1053e9bc453c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/464384ba-7a9a-455a-9d90-1053e9bc453c/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-yaogan-42-01",
-            "name": "Long March 2D | Yaogan 42-01",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-04-02T22:56:00Z",
-            "window_end": "2024-04-02T23:12:00Z",
-            "window_start": "2024-04-02T22:47:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 42-01",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 3 (LC-3/LA-1)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/cz-2d_liftoff_f_image_20240403102500.jpg",
-            "infographic": null
-        },
         {
             "id": "d90ac995-1d5d-48d6-8339-7ab42c567449",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d90ac995-1d5d-48d6-8339-7ab42c567449/",
@@ -39,7 +14,7 @@
                 "name": "TBD"
             },
             "net": "2024-04-05T06:14:00Z",
-            "window_end": "2024-04-05T10:45:00Z",
+            "window_end": "2024-04-05T10:14:00Z",
             "window_start": "2024-04-05T06:14:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-47",
@@ -213,13 +188,13 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-04-23T17:43:00Z",
-            "window_end": "2024-04-23T17:43:00Z",
-            "window_start": "2024-04-23T17:43:00Z",
+            "net": "2024-04-23T21:30:00Z",
+            "window_end": "2024-04-23T22:45:00Z",
+            "window_start": "2024-04-23T21:30:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Beginning Of The Swarm (ACS3 & NeonSat-1)",
             "mission_type": "Dedicated Rideshare",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Onenui Station, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": "LEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "05864985-e660-4723-b489-32a78d4b53fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/05864985-e660-4723-b489-32a78d4b53fc/",
+            "launch_library_id": null,
+            "slug": "gaganyaan-abort-test-booster-tv-d2",
+            "name": "Gaganyaan Abort Test Booster | TV-D2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-30T00:00:00Z",
+            "window_end": "2024-04-30T00:00:00Z",
+            "window_start": "2024-04-30T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "TV-D2",
+            "mission_type": "Test Flight",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": "Sub",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/gaganyaan_abort_image_20231021132156.jpeg",
             "infographic": null
         }
     ]
