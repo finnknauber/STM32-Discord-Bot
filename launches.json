@@ -1,33 +1,8 @@
 {
-    "count": 353,
+    "count": 352,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b76b836f-8e88-4bc3-a3bc-36bb8ee4bb3c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b76b836f-8e88-4bc3-a3bc-36bb8ee4bb3c/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-8-1",
-            "name": "Falcon 9 Block 5 | Starlink Group 8-1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-04-07T02:25:00Z",
-            "window_end": "2024-04-07T06:17:00Z",
-            "window_start": "2024-04-07T02:25:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 8-1",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": "OCISLY",
-            "landing_success": 1,
-            "launcher": "B1081",
-            "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "c6344720-1266-4697-90ab-943a6f1760a5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c6344720-1266-4697-90ab-943a6f1760a5/",
@@ -35,22 +10,22 @@
             "slug": "falcon-9-block-5-bandwagon-1-dedicated-mid-inclina",
             "name": "Falcon 9 Block 5 | Bandwagon 1 (Dedicated Mid-Inclination Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-04-07T23:16:00Z",
-            "window_end": "2024-04-07T23:16:00Z",
-            "window_start": "2024-04-07T23:16:00Z",
+            "net": "2024-04-07T23:16:57Z",
+            "window_end": "2024-04-07T23:16:57Z",
+            "window_start": "2024-04-07T23:16:57Z",
             "lsp_name": "SpaceX",
             "mission": "Bandwagon 1 (Dedicated Mid-Inclination Rideshare)",
             "mission_type": "Dedicated Rideshare",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
             "landing": "LZ-1",
-            "landing_success": 0,
+            "landing_success": 1,
             "launcher": "B1073",
             "orbit": "LEO",
-            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/f9_liftoff_from_image_20240408051847.jpeg",
             "infographic": null
         },
         {
@@ -60,12 +35,12 @@
             "slug": "angara-a5blok-dm-03-vostochny-angara-test-flight",
             "name": "Angara A5/Blok DM-03 | Vostochny Angara Test Flight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-04-09T00:00:00Z",
-            "window_end": "2024-04-09T00:00:00Z",
-            "window_start": "2024-04-09T00:00:00Z",
+            "net": "2024-04-09T09:00:00Z",
+            "window_end": "2024-04-09T09:00:00Z",
+            "window_start": "2024-04-09T09:00:00Z",
             "lsp_name": "Khrunichev State Research and Production Space Center",
             "mission": "Vostochny Angara Test Flight",
             "mission_type": "Test Flight",
@@ -74,7 +49,7 @@
             "landing": null,
             "landing_success": null,
             "launcher": null,
-            "orbit": "N/A",
+            "orbit": "Direct-GEO",
             "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/angara_a52fper_image_20211227193648.jpg",
             "infographic": null
         },
@@ -129,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "a2e723fe-c893-4eaa-9dd3-63533a703091",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a2e723fe-c893-4eaa-9dd3-63533a703091/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-ussf-62",
+            "name": "Falcon 9 Block 5 | USSF-62",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-04-11T12:00:00Z",
+            "window_end": "2024-04-11T16:36:00Z",
+            "window_start": "2024-04-11T12:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "USSF-62",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": "LZ-4",
+            "landing_success": 0,
+            "launcher": "Unknown F9",
+            "orbit": "PO",
+            "image": "https://spacelaunchnow-prod-east.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
             "id": "08508c47-42ea-44c8-9da6-9e2e21742994",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/08508c47-42ea-44c8-9da6-9e2e21742994/",
             "launch_library_id": null,
@@ -138,14 +138,14 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-04-13T00:00:00Z",
-            "window_end": "2024-04-13T00:00:00Z",
-            "window_start": "2024-04-13T00:00:00Z",
+            "net": "2024-04-13T01:00:00Z",
+            "window_end": "2024-04-13T05:31:00Z",
+            "window_start": "2024-04-13T01:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-49",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral, FL, USA",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
             "landing": "N/A",
             "landing_success": 0,
             "launcher": "Unknown F9",
