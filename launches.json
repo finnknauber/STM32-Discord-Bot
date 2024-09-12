@@ -1,58 +1,8 @@
 {
-    "count": 326,
+    "count": 325,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "cb26e9e5-0d72-44e8-b1e3-5ec5e3b44e9d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/cb26e9e5-0d72-44e8-b1e3-5ec5e3b44e9d/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-soyuz-ms-26",
-            "name": "Soyuz 2.1a | Soyuz MS-26",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-09-11T16:23:12Z",
-            "window_end": "2024-09-11T16:23:12Z",
-            "window_start": "2024-09-11T16:23:12Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Soyuz MS-26",
-            "mission_type": "Human Exploration",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "f53462c6-7e3a-41a9-b5a4-d884582ef0fa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f53462c6-7e3a-41a9-b5a4-d884582ef0fa/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-9-6",
-            "name": "Falcon 9 Block 5 | Starlink Group 9-6",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-09-12T02:47:00Z",
-            "window_end": "2024-09-12T04:30:00Z",
-            "window_start": "2024-09-12T02:45:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 9-6",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "11f32024-8382-4b7a-9f75-c211820b9e2d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/11f32024-8382-4b7a-9f75-c211820b9e2d/",
@@ -60,11 +10,11 @@
             "slug": "falcon-9-block-5-bluebird-block-1",
             "name": "Falcon 9 Block 5 | BlueBird Block 1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-09-12T08:52:00Z",
-            "window_end": "2024-09-12T13:21:00Z",
+            "window_end": "2024-09-12T12:52:00Z",
             "window_start": "2024-09-12T08:52:00Z",
             "lsp_name": "SpaceX",
             "mission": "BlueBird Block 1",
@@ -76,6 +26,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f53462c6-7e3a-41a9-b5a4-d884582ef0fa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f53462c6-7e3a-41a9-b5a4-d884582ef0fa/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-6",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-6",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-09-13T01:45:00Z",
+            "window_end": "2024-09-13T04:49:00Z",
+            "window_start": "2024-09-13T01:45:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-6",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -113,9 +88,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-09-16T23:01:00Z",
-            "window_end": "2024-09-16T23:01:00Z",
-            "window_start": "2024-09-16T23:01:00Z",
+            "net": "2024-09-16T23:02:00Z",
+            "window_end": "2024-09-16T23:02:00Z",
+            "window_start": "2024-09-16T23:02:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
             "mission_type": "Communications",
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-09-24T18:50:00Z",
-            "window_end": "2024-09-24T18:50:00Z",
-            "window_start": "2024-09-24T18:50:00Z",
+            "net": "2024-09-25T18:28:00Z",
+            "window_end": "2024-09-25T18:28:00Z",
+            "window_start": "2024-09-25T18:28:00Z",
             "lsp_name": "SpaceX",
             "mission": "Crew-9",
             "mission_type": "Human Exploration",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "83ba001e-9bca-48ac-84cb-ccea96bfe9c1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/83ba001e-9bca-48ac-84cb-ccea96bfe9c1/",
+            "launch_library_id": null,
+            "slug": "starship-integrated-flight-test-5",
+            "name": "Starship | Integrated Flight Test 5",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-09-30T00:00:00Z",
+            "window_end": "2024-09-30T00:00:00Z",
+            "window_start": "2024-09-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Integrated Flight Test 5",
+            "mission_type": "Test Flight",
+            "pad": "Orbital Launch Mount A",
+            "location": "SpaceX Starbase, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_full_s_image_20240520184130.jpeg",
             "infographic": null
         }
     ]
