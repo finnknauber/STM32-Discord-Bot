@@ -1,33 +1,8 @@
 {
-    "count": 326,
+    "count": 325,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "e0d5b592-ae3c-4586-b840-b717d269ba22",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e0d5b592-ae3c-4586-b840-b717d269ba22/",
-            "launch_library_id": null,
-            "slug": "qaem-100-chamran-1",
-            "name": "Qaem 100 | Chamran-1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-09-14T05:58:00Z",
-            "window_end": "2024-09-14T05:58:00Z",
-            "window_start": "2024-09-14T05:58:00Z",
-            "lsp_name": "Islamic Revolutionary Guard Corps Aerospace Force",
-            "mission": "Chamran-1",
-            "mission_type": "Technology",
-            "pad": "Launch Platform",
-            "location": "Shahrud Missile Test Site, Islamic Republic of Iran",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/qaem_100_image_20240123065309.jpg",
-            "infographic": null
-        },
         {
             "id": "ca78b818-63d5-4280-853e-478db107b022",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ca78b818-63d5-4280-853e-478db107b022/",
@@ -79,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "1fae2781-87aa-4a0a-a023-af689a9c5d79",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1fae2781-87aa-4a0a-a023-af689a9c5d79/",
-            "launch_library_id": null,
-            "slug": "electron-kineis-killed-the-radiot-star-kineis-6-10",
-            "name": "Electron | Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-09-16T23:02:00Z",
-            "window_end": "2024-09-16T23:02:00Z",
-            "window_start": "2024-09-16T23:02:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
-            "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Onenui Station, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "40b7cb3e-4418-4cdf-a274-d01709706b86",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/40b7cb3e-4418-4cdf-a274-d01709706b86/",
             "launch_library_id": null,
@@ -139,7 +89,7 @@
                 "name": "TBD"
             },
             "net": "2024-09-18T14:20:00Z",
-            "window_end": "2024-09-18T16:48:00Z",
+            "window_end": "2024-09-18T16:29:00Z",
             "window_start": "2024-09-18T14:20:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 9-17",
@@ -151,6 +101,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "1fae2781-87aa-4a0a-a023-af689a9c5d79",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1fae2781-87aa-4a0a-a023-af689a9c5d79/",
+            "launch_library_id": null,
+            "slug": "electron-kineis-killed-the-radiot-star-kineis-6-10",
+            "name": "Electron | Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-09-18T23:00:00Z",
+            "window_end": "2024-09-18T23:00:00Z",
+            "window_start": "2024-09-18T23:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
+            "mission_type": "Communications",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Onenui Station, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "infographic": null
+        },
+        {
+            "id": "525ed290-dd97-4187-9118-d71f0b8285be",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-oneweb-20",
+            "name": "Falcon 9 Block 5 | OneWeb 20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-09-30T00:00:00Z",
+            "window_end": "2024-09-30T00:00:00Z",
+            "window_start": "2024-09-30T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "OneWeb 20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
             "infographic": null
         }
     ]
