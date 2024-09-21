@@ -1,83 +1,8 @@
 {
-    "count": 326,
+    "count": 323,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "acc6cddc-0c34-4d64-9cbe-1d8fa1833544",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/acc6cddc-0c34-4d64-9cbe-1d8fa1833544/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-jilin-1-wideband-02b-01-to-06",
-            "name": "Long March 2D | Jilin-1 Wideband 02B-01 to 06",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-09-20T04:11:00Z",
-            "window_end": "2024-09-20T04:26:00Z",
-            "window_start": "2024-09-20T04:01:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Jilin-1 Wideband 02B-01 to 06",
-            "mission_type": "Earth Science",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "f9c16ec7-7592-4ec0-ab1e-f753b96d23fb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f9c16ec7-7592-4ec0-ab1e-f753b96d23fb/",
-            "launch_library_id": null,
-            "slug": "kuaizhou-1a-tianqi-29-32",
-            "name": "Kuaizhou-1A | Tianqi 29-32",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-09-20T09:43:00Z",
-            "window_end": "2024-09-20T09:58:00Z",
-            "window_start": "2024-09-20T09:33:00Z",
-            "lsp_name": "ExPace",
-            "mission": "Tianqi 29-32",
-            "mission_type": "Communications",
-            "pad": "Mobile Launcher Pad",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "facd46c6-5197-4c27-939a-2b6b3f08d39d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/facd46c6-5197-4c27-939a-2b6b3f08d39d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-9-17",
-            "name": "Falcon 9 Block 5 | Starlink Group 9-17",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-09-20T13:50:00Z",
-            "window_end": "2024-09-20T14:04:00Z",
-            "window_start": "2024-09-20T13:50:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 9-17",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "1fae2781-87aa-4a0a-a023-af689a9c5d79",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1fae2781-87aa-4a0a-a023-af689a9c5d79/",
@@ -85,8 +10,8 @@
             "slug": "electron-kineis-killed-the-radiot-star-kineis-6-10",
             "name": "Electron | Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-09-20T23:01:00Z",
             "window_end": "2024-09-20T23:01:00Z",
@@ -113,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-09-25T03:48:00Z",
-            "window_end": "2024-09-25T07:48:00Z",
-            "window_start": "2024-09-25T03:48:00Z",
+            "net": "2024-09-25T03:59:00Z",
+            "window_end": "2024-09-25T04:59:00Z",
+            "window_start": "2024-09-25T03:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 9-8",
             "mission_type": "Communications",
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h-iia_202_lifto_image_20240325123250.jpg",
+            "infographic": null
+        },
+        {
+            "id": "cd199e27-63cd-409c-817c-5c38039b17cd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/cd199e27-63cd-409c-817c-5c38039b17cd/",
+            "launch_library_id": null,
+            "slug": "vulcan-vc2s-certification-flight-2",
+            "name": "Vulcan VC2S | Certification Flight 2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-04T10:00:00Z",
+            "window_end": "2024-10-04T13:00:00Z",
+            "window_start": "2024-10-04T10:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "Certification Flight 2",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e1ffdd01-c146-44d0-a250-b845dc2eb20d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-hera",
+            "name": "Falcon 9 Block 5 | Hera",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-07T14:52:00Z",
+            "window_end": "2024-10-07T14:52:00Z",
+            "window_start": "2024-10-07T14:52:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Hera",
+            "mission_type": "Robotic Exploration",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "59548105-347d-4477-8747-7fc3f91016c5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/59548105-347d-4477-8747-7fc3f91016c5/",
+            "launch_library_id": 2040,
+            "slug": "falcon-heavy-europa-clipper",
+            "name": "Falcon Heavy | Europa Clipper",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-10T16:31:00Z",
+            "window_end": "2024-10-10T16:31:00Z",
+            "window_start": "2024-10-10T16:31:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Europa Clipper",
+            "mission_type": "Planetary Science",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         }
     ]
