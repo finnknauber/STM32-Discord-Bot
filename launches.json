@@ -1,31 +1,56 @@
 {
-    "count": 323,
+    "count": 326,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "1fae2781-87aa-4a0a-a023-af689a9c5d79",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1fae2781-87aa-4a0a-a023-af689a9c5d79/",
+            "id": "78224ca7-278d-4410-a1ac-eddb3cc018ca",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/78224ca7-278d-4410-a1ac-eddb3cc018ca/",
             "launch_library_id": null,
-            "slug": "electron-kineis-killed-the-radiot-star-kineis-6-10",
-            "name": "Electron | Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
+            "slug": "smart-dragon-3-unknown-payload",
+            "name": "Smart Dragon 3 | Unknown Payload",
             "status": {
-                "id": 3,
-                "name": "Success"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-09-20T23:01:00Z",
-            "window_end": "2024-09-20T23:01:00Z",
-            "window_start": "2024-09-20T23:01:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Kin\u00e9is Killed the RadIoT Star (Kin\u00e9is 6-10)",
-            "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "net": "2024-09-24T02:30:00Z",
+            "window_end": "2024-09-24T03:52:00Z",
+            "window_start": "2024-09-24T02:24:00Z",
+            "lsp_name": "China Rocket Co. Ltd.",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Haiyang Spaceport",
+            "location": "Sea Launch",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3_image_20221001082607.jpg",
+            "infographic": null
+        },
+        {
+            "id": "4df73c3a-3bd8-4ea9-bb8c-1fe306564b53",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4df73c3a-3bd8-4ea9-bb8c-1fe306564b53/",
+            "launch_library_id": null,
+            "slug": "kinetica-1-unknown-payload",
+            "name": "Kinetica 1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-09-24T23:35:00Z",
+            "window_end": "2024-09-24T23:50:00Z",
+            "window_start": "2024-09-24T23:24:00Z",
+            "lsp_name": "CAS Space",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 130",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
             "infographic": null
         },
         {
@@ -76,6 +101,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "bdfd3337-621d-4fc1-965f-1844638a3204",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/bdfd3337-621d-4fc1-965f-1844638a3204/",
+            "launch_library_id": null,
+            "slug": "long-march-2d-unknown-payload",
+            "name": "Long March 2D | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-09-27T10:35:00Z",
+            "window_end": "2024-09-27T11:02:00Z",
+            "window_start": "2024-09-27T10:22:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
             "infographic": null
         },
         {
@@ -201,56 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e1ffdd01-c146-44d0-a250-b845dc2eb20d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-hera",
-            "name": "Falcon 9 Block 5 | Hera",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-07T14:52:00Z",
-            "window_end": "2024-10-07T14:52:00Z",
-            "window_start": "2024-10-07T14:52:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Hera",
-            "mission_type": "Robotic Exploration",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "59548105-347d-4477-8747-7fc3f91016c5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/59548105-347d-4477-8747-7fc3f91016c5/",
-            "launch_library_id": 2040,
-            "slug": "falcon-heavy-europa-clipper",
-            "name": "Falcon Heavy | Europa Clipper",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-10-10T16:31:00Z",
-            "window_end": "2024-10-10T16:31:00Z",
-            "window_start": "2024-10-10T16:31:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Europa Clipper",
-            "mission_type": "Planetary Science",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_heavy_image_20220129192819.jpeg",
             "infographic": null
         }
     ]
