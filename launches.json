@@ -79,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "ca78b818-63d5-4280-853e-478db107b022",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ca78b818-63d5-4280-853e-478db107b022/",
+            "launch_library_id": null,
+            "slug": "h-iia-202-igs-radar-8",
+            "name": "H-IIA 202 | IGS Radar 8",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-09-26T05:24:20Z",
+            "window_end": "2024-09-26T05:25:21Z",
+            "window_start": "2024-09-26T05:24:20Z",
+            "lsp_name": "Mitsubishi Heavy Industries",
+            "mission": "IGS Radar 8",
+            "mission_type": "Government/Top Secret",
+            "pad": "Yoshinobu Launch Complex LP-1",
+            "location": "Tanegashima Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h-iia_202_lifto_image_20240325123250.jpg",
+            "infographic": null
+        },
+        {
             "id": "0102940a-4a60-4686-b34d-ced3fed6c595",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0102940a-4a60-4686-b34d-ced3fed6c595/",
             "launch_library_id": null,
@@ -88,9 +113,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-09-26T18:05:00Z",
-            "window_end": "2024-09-26T18:05:00Z",
-            "window_start": "2024-09-26T18:05:00Z",
+            "net": "2024-09-26T18:05:35Z",
+            "window_end": "2024-09-26T18:05:35Z",
+            "window_start": "2024-09-26T18:05:35Z",
             "lsp_name": "SpaceX",
             "mission": "Crew-9",
             "mission_type": "Human Exploration",
@@ -201,31 +226,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-            "infographic": null
-        },
-        {
-            "id": "ca78b818-63d5-4280-853e-478db107b022",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ca78b818-63d5-4280-853e-478db107b022/",
-            "launch_library_id": null,
-            "slug": "h-iia-202-igs-radar-8",
-            "name": "H-IIA 202 | IGS Radar 8",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-09-30T05:24:20Z",
-            "window_end": "2024-09-30T05:25:21Z",
-            "window_start": "2024-09-30T05:24:20Z",
-            "lsp_name": "Mitsubishi Heavy Industries",
-            "mission": "IGS Radar 8",
-            "mission_type": "Government/Top Secret",
-            "pad": "Yoshinobu Launch Complex LP-1",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h-iia_202_lifto_image_20240325123250.jpg",
             "infographic": null
         },
         {
