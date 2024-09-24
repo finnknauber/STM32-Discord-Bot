@@ -1,5 +1,5 @@
 {
-    "count": 326,
+    "count": 328,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,18 +7,18 @@
             "id": "78224ca7-278d-4410-a1ac-eddb3cc018ca",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/78224ca7-278d-4410-a1ac-eddb3cc018ca/",
             "launch_library_id": null,
-            "slug": "smart-dragon-3-unknown-payload",
-            "name": "Smart Dragon 3 | Unknown Payload",
+            "slug": "smart-dragon-3-8-satellites",
+            "name": "Smart Dragon 3 | 8 satellites",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-09-24T02:30:00Z",
+            "net": "2024-09-24T02:31:00Z",
             "window_end": "2024-09-24T03:52:00Z",
             "window_start": "2024-09-24T02:24:00Z",
             "lsp_name": "China Rocket Co. Ltd.",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "8 satellites",
+            "mission_type": "Technology",
             "pad": "Haiyang Spaceport",
             "location": "Sea Launch",
             "landing": null,
@@ -60,10 +60,10 @@
             "slug": "falcon-9-block-5-starlink-group-9-8",
             "name": "Falcon 9 Block 5 | Starlink Group 9-8",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-09-25T03:59:00Z",
+            "net": "2024-09-25T04:01:00Z",
             "window_end": "2024-09-25T04:59:00Z",
             "window_start": "2024-09-25T03:59:00Z",
             "lsp_name": "SpaceX",
@@ -179,31 +179,6 @@
             "infographic": null
         },
         {
-            "id": "525ed290-dd97-4187-9118-d71f0b8285be",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-oneweb-20",
-            "name": "Falcon 9 Block 5 | OneWeb 20",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-09-30T00:00:00Z",
-            "window_end": "2024-09-30T00:00:00Z",
-            "window_start": "2024-09-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "OneWeb 20",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
-            "infographic": null
-        },
-        {
             "id": "c5c59136-3554-45e7-9583-9d5611bed7b4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c5c59136-3554-45e7-9583-9d5611bed7b4/",
             "launch_library_id": null,
@@ -229,28 +204,53 @@
             "infographic": null
         },
         {
-            "id": "cd199e27-63cd-409c-817c-5c38039b17cd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/cd199e27-63cd-409c-817c-5c38039b17cd/",
+            "id": "525ed290-dd97-4187-9118-d71f0b8285be",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
             "launch_library_id": null,
-            "slug": "vulcan-vc2s-certification-flight-2",
-            "name": "Vulcan VC2S | Certification Flight 2",
+            "slug": "falcon-9-block-5-oneweb-20",
+            "name": "Falcon 9 Block 5 | OneWeb 20",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2024-10-04T10:00:00Z",
-            "window_end": "2024-10-04T13:00:00Z",
-            "window_start": "2024-10-04T10:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "Certification Flight 2",
-            "mission_type": "Test Flight",
-            "pad": "Space Launch Complex 41",
+            "net": "2024-09-30T06:30:00Z",
+            "window_end": "2024-09-30T06:30:00Z",
+            "window_start": "2024-09-30T06:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "OneWeb 20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-10-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-09-30T09:34:00Z",
+            "window_end": "2024-09-30T13:34:00Z",
+            "window_start": "2024-09-30T09:34:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 10-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         }
     ]
