@@ -1,49 +1,24 @@
 {
-    "count": 328,
+    "count": 327,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "78224ca7-278d-4410-a1ac-eddb3cc018ca",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/78224ca7-278d-4410-a1ac-eddb3cc018ca/",
+            "id": "4df73c3a-3bd8-4ea9-bb8c-1fe306564b53",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4df73c3a-3bd8-4ea9-bb8c-1fe306564b53/",
             "launch_library_id": null,
-            "slug": "smart-dragon-3-8-satellites",
-            "name": "Smart Dragon 3 | 8 satellites",
+            "slug": "kinetica-1-5-satellites",
+            "name": "Kinetica 1 | 5 satellites",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2024-09-24T02:31:00Z",
-            "window_end": "2024-09-24T03:52:00Z",
-            "window_start": "2024-09-24T02:24:00Z",
-            "lsp_name": "China Rocket Co. Ltd.",
-            "mission": "8 satellites",
-            "mission_type": "Technology",
-            "pad": "Haiyang Spaceport",
-            "location": "Sea Launch",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3_image_20221001082607.jpg",
-            "infographic": null
-        },
-        {
-            "id": "4df73c3a-3bd8-4ea9-bb8c-1fe306564b53",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4df73c3a-3bd8-4ea9-bb8c-1fe306564b53/",
-            "launch_library_id": null,
-            "slug": "kinetica-1-unknown-payload",
-            "name": "Kinetica 1 | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-09-24T23:35:00Z",
+            "net": "2024-09-24T23:33:00Z",
             "window_end": "2024-09-24T23:50:00Z",
             "window_start": "2024-09-24T23:24:00Z",
             "lsp_name": "CAS Space",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "5 satellites",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 130",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -60,11 +35,11 @@
             "slug": "falcon-9-block-5-starlink-group-9-8",
             "name": "Falcon 9 Block 5 | Starlink Group 9-8",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-09-25T04:01:00Z",
-            "window_end": "2024-09-25T04:59:00Z",
+            "net": "2024-09-25T04:01:20Z",
+            "window_end": "2024-09-25T04:05:00Z",
             "window_start": "2024-09-25T03:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 9-8",
@@ -104,31 +79,6 @@
             "infographic": null
         },
         {
-            "id": "0102940a-4a60-4686-b34d-ced3fed6c595",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0102940a-4a60-4686-b34d-ced3fed6c595/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-crew-9",
-            "name": "Falcon 9 Block 5 | Crew-9",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-09-26T18:05:35Z",
-            "window_end": "2024-09-26T18:05:35Z",
-            "window_start": "2024-09-26T18:05:35Z",
-            "lsp_name": "SpaceX",
-            "mission": "Crew-9",
-            "mission_type": "Human Exploration",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
-            "infographic": null
-        },
-        {
             "id": "bdfd3337-621d-4fc1-965f-1844638a3204",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/bdfd3337-621d-4fc1-965f-1844638a3204/",
             "launch_library_id": null,
@@ -151,6 +101,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "0102940a-4a60-4686-b34d-ced3fed6c595",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0102940a-4a60-4686-b34d-ced3fed6c595/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-crew-9",
+            "name": "Falcon 9 Block 5 | Crew-9",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-09-28T17:17:20Z",
+            "window_end": "2024-09-28T17:17:20Z",
+            "window_start": "2024-09-28T17:17:20Z",
+            "lsp_name": "SpaceX",
+            "mission": "Crew-9",
+            "mission_type": "Human Exploration",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20220301072106.jpeg",
             "infographic": null
         },
         {
@@ -213,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-09-30T06:30:00Z",
-            "window_end": "2024-09-30T06:30:00Z",
-            "window_start": "2024-09-30T06:30:00Z",
+            "net": "2024-09-30T06:49:00Z",
+            "window_end": "2024-09-30T07:28:00Z",
+            "window_start": "2024-09-30T06:49:00Z",
             "lsp_name": "SpaceX",
             "mission": "OneWeb 20",
             "mission_type": "Communications",
@@ -238,9 +213,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-09-30T09:34:00Z",
-            "window_end": "2024-09-30T13:34:00Z",
-            "window_start": "2024-09-30T09:34:00Z",
+            "net": "2024-10-02T08:50:00Z",
+            "window_end": "2024-10-02T12:50:00Z",
+            "window_start": "2024-10-02T08:50:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 10-10",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "cd199e27-63cd-409c-817c-5c38039b17cd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/cd199e27-63cd-409c-817c-5c38039b17cd/",
+            "launch_library_id": null,
+            "slug": "vulcan-vc2s-certification-flight-2",
+            "name": "Vulcan VC2S | Certification Flight 2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-04T10:00:00Z",
+            "window_end": "2024-10-04T13:00:00Z",
+            "window_start": "2024-10-04T10:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "Certification Flight 2",
+            "mission_type": "Test Flight",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
             "infographic": null
         }
     ]
