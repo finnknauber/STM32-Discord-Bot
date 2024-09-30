@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "525ed290-dd97-4187-9118-d71f0b8285be",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-oneweb-20",
-            "name": "Falcon 9 Block 5 | OneWeb 20",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-01T06:49:00Z",
-            "window_end": "2024-10-01T07:23:00Z",
-            "window_start": "2024-10-01T06:44:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "OneWeb 20",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
-            "infographic": null
-        },
-        {
             "id": "cd199e27-63cd-409c-817c-5c38039b17cd",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/cd199e27-63cd-409c-817c-5c38039b17cd/",
             "launch_library_id": null,
@@ -54,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-10-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-05T07:43:00Z",
+            "window_end": "2024-10-05T11:43:00Z",
+            "window_start": "2024-10-05T07:43:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 10-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e1ffdd01-c146-44d0-a250-b845dc2eb20d/",
             "launch_library_id": null,
@@ -76,6 +76,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "525ed290-dd97-4187-9118-d71f0b8285be",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-oneweb-20",
+            "name": "Falcon 9 Block 5 | OneWeb 20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-09T06:49:00Z",
+            "window_end": "2024-10-09T07:23:00Z",
+            "window_start": "2024-10-09T06:44:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "OneWeb 20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
             "infographic": null
         },
         {
@@ -176,31 +201,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-10-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 10-10",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
