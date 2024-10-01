@@ -4,6 +4,31 @@
     "previous": null,
     "results": [
         {
+            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-10-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-04T08:05:00Z",
+            "window_end": "2024-10-04T12:35:00Z",
+            "window_start": "2024-10-04T08:05:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 10-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "cd199e27-63cd-409c-817c-5c38039b17cd",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/cd199e27-63cd-409c-817c-5c38039b17cd/",
             "launch_library_id": null,
@@ -29,23 +54,23 @@
             "infographic": null
         },
         {
-            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
+            "id": "f2e861e9-f956-4bad-8318-3d669ba5aedb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f2e861e9-f956-4bad-8318-3d669ba5aedb/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-10-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
+            "slug": "falcon-9-block-5-starlink-group-11-2",
+            "name": "Falcon 9 Block 5 | Starlink Group 11-2",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-05T07:43:00Z",
-            "window_end": "2024-10-05T11:43:00Z",
-            "window_start": "2024-10-05T07:43:00Z",
+            "net": "2024-10-04T17:00:00Z",
+            "window_end": "2024-10-04T21:31:00Z",
+            "window_start": "2024-10-04T17:00:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 10-10",
+            "mission": "Starlink Group 11-2",
             "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -179,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "28c2b327-bb20-452d-b1df-c100265d6aa5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/28c2b327-bb20-452d-b1df-c100265d6aa5/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-19",
+            "name": "Long March 2F/G | Shenzhou 19",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 19",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
             "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
             "launch_library_id": null,
@@ -201,56 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "a9fa3ed5-4988-4a72-b262-454e7b03ab50",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a9fa3ed5-4988-4a72-b262-454e7b03ab50/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-koreasat-6a",
-            "name": "Falcon 9 Block 5 | Koreasat 6A",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Koreasat 6A",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ae15ed89-63fa-4256-8b71-cb3c30e23e31",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ae15ed89-63fa-4256-8b71-cb3c30e23e31/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-sirius-sxm-9",
-            "name": "Falcon 9 Block 5 | Sirius SXM-9",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Sirius SXM-9",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
