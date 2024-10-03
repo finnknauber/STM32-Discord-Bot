@@ -169,38 +169,13 @@
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-31",
             "mission_type": "Resupply",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "0c5642f3-24ae-4879-a8e9-981ad36a8911",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0c5642f3-24ae-4879-a8e9-981ad36a8911/",
-            "launch_library_id": 2087,
-            "slug": "vulcan-ussf-106",
-            "name": "Vulcan | USSF-106",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "United Launch Alliance",
-            "mission": "USSF-106",
-            "mission_type": "Government/Top Secret",
-            "pad": "Space Launch Complex 41",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vulcan_image_20240107162928.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a9fa3ed5-4988-4a72-b262-454e7b03ab50",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a9fa3ed5-4988-4a72-b262-454e7b03ab50/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-koreasat-6a",
+            "name": "Falcon 9 Block 5 | Koreasat 6A",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Koreasat 6A",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
