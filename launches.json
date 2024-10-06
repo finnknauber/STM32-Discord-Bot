@@ -1,5 +1,5 @@
 {
-    "count": 328,
+    "count": 330,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -79,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "3fcc3bea-dd86-4818-96e2-71ca0f24fd5b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3fcc3bea-dd86-4818-96e2-71ca0f24fd5b/",
+            "launch_library_id": null,
+            "slug": "long-march-3be-unknown-payload",
+            "name": "Long March 3B/E | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-10T13:50:00Z",
+            "window_end": "2024-10-10T14:12:00Z",
+            "window_start": "2024-10-10T13:40:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 2 (LC-2)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
+            "infographic": null
+        },
+        {
             "id": "59548105-347d-4477-8747-7fc3f91016c5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/59548105-347d-4477-8747-7fc3f91016c5/",
             "launch_library_id": 2040,
@@ -104,6 +129,31 @@
             "infographic": null
         },
         {
+            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-10-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-11T06:54:00Z",
+            "window_end": "2024-10-11T11:24:00Z",
+            "window_start": "2024-10-11T06:54:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 10-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "83ba001e-9bca-48ac-84cb-ccea96bfe9c1",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/83ba001e-9bca-48ac-84cb-ccea96bfe9c1/",
             "launch_library_id": null,
@@ -126,6 +176,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_full_s_image_20240520184130.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "11533922-1fc5-4505-b309-1c20652b63e0",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/11533922-1fc5-4505-b309-1c20652b63e0/",
+            "launch_library_id": null,
+            "slug": "long-march-6a-unknown-payload",
+            "name": "Long March 6A | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-15T11:25:00Z",
+            "window_end": "2024-10-15T11:36:00Z",
+            "window_start": "2024-10-15T11:14:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 9A",
+            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6a_image_20221109174525.png",
             "infographic": null
         },
         {
@@ -176,81 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "28c2b327-bb20-452d-b1df-c100265d6aa5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/28c2b327-bb20-452d-b1df-c100265d6aa5/",
-            "launch_library_id": null,
-            "slug": "long-march-2fg-shenzhou-19",
-            "name": "Long March 2F/G | Shenzhou 19",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Shenzhou 19",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Area 4 (SLS-1 / 921)",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20210908195835.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
-            "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-10-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 10-10",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         }
     ]
