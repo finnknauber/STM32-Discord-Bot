@@ -1,33 +1,8 @@
 {
-    "count": 331,
+    "count": 330,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "e1ffdd01-c146-44d0-a250-b845dc2eb20d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e1ffdd01-c146-44d0-a250-b845dc2eb20d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-hera",
-            "name": "Falcon 9 Block 5 | Hera",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-07T14:52:11Z",
-            "window_end": "2024-10-07T14:52:11Z",
-            "window_start": "2024-10-07T14:52:11Z",
-            "lsp_name": "SpaceX",
-            "mission": "Hera",
-            "mission_type": "Robotic Exploration",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
         {
             "id": "828095e3-1c38-4700-9dd2-a700162fbd15",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/828095e3-1c38-4700-9dd2-a700162fbd15/",
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-08T13:00:00Z",
-            "window_end": "2024-10-08T20:30:00Z",
-            "window_start": "2024-10-08T13:00:00Z",
+            "net": "2024-10-09T13:00:00Z",
+            "window_end": "2024-10-09T20:30:00Z",
+            "window_start": "2024-10-09T13:00:00Z",
             "lsp_name": "Blue Origin",
             "mission": "NS-27",
             "mission_type": "Suborbital",
@@ -51,31 +26,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "525ed290-dd97-4187-9118-d71f0b8285be",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-oneweb-20",
-            "name": "Falcon 9 Block 5 | OneWeb 20",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-09T06:03:00Z",
-            "window_end": "2024-10-09T06:43:00Z",
-            "window_start": "2024-10-09T06:03:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "OneWeb 20",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
             "infographic": null
         },
         {
@@ -101,31 +51,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "9d576892-dcf0-472b-92d1-37053ff549ab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/9d576892-dcf0-472b-92d1-37053ff549ab/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-10-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 10-10",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-11T06:54:00Z",
-            "window_end": "2024-10-11T11:24:00Z",
-            "window_start": "2024-10-11T06:54:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 10-10",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_image_20230307130808.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f97bce95-052e-4fa9-80e8-dbedf16bc516",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f97bce95-052e-4fa9-80e8-dbedf16bc516/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-31",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-31",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-30T04:49:00Z",
+            "window_end": "2024-10-30T04:49:00Z",
+            "window_start": "2024-10-30T04:49:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-31",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "28c2b327-bb20-452d-b1df-c100265d6aa5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/28c2b327-bb20-452d-b1df-c100265d6aa5/",
+            "launch_library_id": null,
+            "slug": "long-march-2fg-shenzhou-19",
+            "name": "Long March 2F/G | Shenzhou 19",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shenzhou 19",
+            "mission_type": "Human Exploration",
+            "pad": "Launch Area 4 (SLS-1 / 921)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20210908195835.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
+            "launch_library_id": null,
+            "slug": "ceres-1-unknown-payload",
+            "name": "Ceres-1 | Unknown Payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         }
     ]
