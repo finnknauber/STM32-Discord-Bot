@@ -10,11 +10,11 @@
             "slug": "starship-integrated-flight-test-5",
             "name": "Starship | Integrated Flight Test 5",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-10-13T12:00:00Z",
-            "window_end": "2024-10-13T13:10:00Z",
+            "window_end": "2024-10-13T12:30:00Z",
             "window_start": "2024-10-13T12:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Integrated Flight Test 5",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_full_s_image_20240520184130.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_at_sta_image_20241012171948.jpg",
             "infographic": null
         },
         {
@@ -35,12 +35,12 @@
             "slug": "new-shepard-ns-27",
             "name": "New Shepard | NS-27",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-10-13T13:00:00Z",
+            "net": "2024-10-13T12:30:00Z",
             "window_end": "2024-10-13T20:30:00Z",
-            "window_start": "2024-10-13T13:00:00Z",
+            "window_start": "2024-10-13T12:30:00Z",
             "lsp_name": "Blue Origin",
             "mission": "NS-27",
             "mission_type": "Suborbital",
@@ -60,12 +60,12 @@
             "slug": "falcon-heavy-europa-clipper",
             "name": "Falcon Heavy | Europa Clipper",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-10-13T16:12:00Z",
-            "window_end": "2024-10-13T16:12:00Z",
-            "window_start": "2024-10-13T16:12:00Z",
+            "net": "2024-10-14T16:06:00Z",
+            "window_end": "2024-10-14T16:06:00Z",
+            "window_start": "2024-10-14T16:06:00Z",
             "lsp_name": "SpaceX",
             "mission": "Europa Clipper",
             "mission_type": "Planetary Science",
@@ -88,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-14T05:48:00Z",
-            "window_end": "2024-10-14T09:48:00Z",
-            "window_start": "2024-10-14T05:48:00Z",
+            "net": "2024-10-15T05:26:00Z",
+            "window_end": "2024-10-15T09:26:00Z",
+            "window_start": "2024-10-15T05:26:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 10-10",
             "mission_type": "Communications",
@@ -188,9 +188,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-16T20:18:00Z",
-            "window_end": "2024-10-17T00:18:00Z",
-            "window_start": "2024-10-16T20:18:00Z",
+            "net": "2024-10-17T19:55:00Z",
+            "window_end": "2024-10-17T23:55:00Z",
+            "window_start": "2024-10-17T19:55:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 8-19",
             "mission_type": "Communications",
