@@ -1,33 +1,8 @@
 {
-    "count": 333,
+    "count": 335,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "83ba001e-9bca-48ac-84cb-ccea96bfe9c1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/83ba001e-9bca-48ac-84cb-ccea96bfe9c1/",
-            "launch_library_id": null,
-            "slug": "starship-integrated-flight-test-5",
-            "name": "Starship | Integrated Flight Test 5",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-13T12:25:00Z",
-            "window_end": "2024-10-13T12:30:00Z",
-            "window_start": "2024-10-13T12:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Integrated Flight Test 5",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/superheavy_appr_image_20241013171532.jpeg",
-            "infographic": null
-        },
         {
             "id": "59548105-347d-4477-8747-7fc3f91016c5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/59548105-347d-4477-8747-7fc3f91016c5/",
@@ -35,12 +10,12 @@
             "slug": "falcon-heavy-europa-clipper",
             "name": "Falcon Heavy | Europa Clipper",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-10-14T16:06:00Z",
             "window_end": "2024-10-14T16:06:00Z",
-            "window_start": "2024-10-14T16:06:00Z",
+            "window_start": "2024-10-14T16:05:45Z",
             "lsp_name": "SpaceX",
             "mission": "Europa Clipper",
             "mission_type": "Planetary Science",
@@ -63,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-15T05:26:00Z",
+            "net": "2024-10-15T05:34:00Z",
             "window_end": "2024-10-15T09:26:00Z",
             "window_start": "2024-10-15T05:26:00Z",
             "lsp_name": "SpaceX",
@@ -88,7 +63,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-15T08:03:00Z",
+            "net": "2024-10-15T08:07:00Z",
             "window_end": "2024-10-15T12:03:00Z",
             "window_start": "2024-10-15T08:03:00Z",
             "lsp_name": "SpaceX",
@@ -113,9 +88,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-10-15T11:25:00Z",
-            "window_end": "2024-10-15T11:36:00Z",
-            "window_start": "2024-10-15T11:14:00Z",
+            "net": "2024-10-15T11:08:00Z",
+            "window_end": "2024-10-15T11:18:00Z",
+            "window_start": "2024-10-15T10:58:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
             "mission": "Unknown Payload",
             "mission_type": "Unknown",
@@ -168,6 +143,31 @@
             "window_start": "2024-10-17T19:55:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 8-19",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "beb6bfff-c584-42d9-9fea-e3e82a5fd32a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/beb6bfff-c584-42d9-9fea-e3e82a5fd32a/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-61",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-61",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-19T23:52:00Z",
+            "window_end": "2024-10-20T03:52:00Z",
+            "window_start": "2024-10-19T23:52:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-61",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral SFS, FL, USA",
