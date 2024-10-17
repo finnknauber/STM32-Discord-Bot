@@ -1,33 +1,8 @@
 {
-    "count": 333,
+    "count": 332,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b640ae22-876c-41c9-909b-44dfd82f69a5",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b640ae22-876c-41c9-909b-44dfd82f69a5/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-gaofen-12-05",
-            "name": "Long March 4C | Gaofen-12 05",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-15T23:45:00Z",
-            "window_end": "2024-10-15T23:59:00Z",
-            "window_start": "2024-10-15T23:31:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Gaofen-12 05",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
-            "infographic": null
-        },
         {
             "id": "5f9fa9b2-e6f4-4e68-b4c8-2b1586cc5fba",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5f9fa9b2-e6f4-4e68-b4c8-2b1586cc5fba/",
@@ -38,9 +13,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-17T23:53:00Z",
-            "window_end": "2024-10-17T23:55:00Z",
-            "window_start": "2024-10-17T19:55:00Z",
+            "net": "2024-10-18T19:31:00Z",
+            "window_end": "2024-10-18T23:31:00Z",
+            "window_start": "2024-10-18T19:31:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 8-19",
             "mission_type": "Communications",
@@ -69,7 +44,7 @@
             "lsp_name": "Rocket Lab",
             "mission": "Changes In Latitudes, Changes In Attitudes",
             "mission_type": "Unknown",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
@@ -113,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-20T23:06:00Z",
-            "window_end": "2024-10-21T03:06:00Z",
-            "window_start": "2024-10-20T23:06:00Z",
+            "net": "2024-10-21T22:40:00Z",
+            "window_end": "2024-10-22T02:40:00Z",
+            "window_start": "2024-10-21T22:40:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-61",
             "mission_type": "Communications",
@@ -151,31 +126,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_image_20230307130808.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "f97bce95-052e-4fa9-80e8-dbedf16bc516",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f97bce95-052e-4fa9-80e8-dbedf16bc516/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-31",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-31",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-30T04:50:00Z",
-            "window_end": "2024-10-30T04:50:00Z",
-            "window_start": "2024-10-30T04:50:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-31",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ae15ed89-63fa-4256-8b71-cb3c30e23e31",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ae15ed89-63fa-4256-8b71-cb3c30e23e31/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-sirius-sxm-9",
+            "name": "Falcon 9 Block 5 | Sirius SXM-9",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Sirius SXM-9",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b94b49fc-5784-4dfd-92e7-07e57f50edcd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b94b49fc-5784-4dfd-92e7-07e57f50edcd/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flta006-lockheed-martin-demo-1",
+            "name": "Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "FLTA006 (Lockheed Martin Demo 1)",
+            "mission_type": "Technology",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
             "infographic": null
         }
     ]
