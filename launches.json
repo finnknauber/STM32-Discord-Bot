@@ -1,5 +1,5 @@
 {
-    "count": 332,
+    "count": 338,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-8-19",
             "name": "Falcon 9 Block 5 | Starlink Group 8-19",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-10-18T19:31:00Z",
+            "net": "2024-10-18T23:31:00Z",
             "window_end": "2024-10-18T23:31:00Z",
             "window_start": "2024-10-18T19:31:00Z",
             "lsp_name": "SpaceX",
@@ -26,31 +26,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "3dfcd148-b684-447a-acde-e6195dbd12f1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3dfcd148-b684-447a-acde-e6195dbd12f1/",
-            "launch_library_id": null,
-            "slug": "electron-changes-in-latitudes-changes-in-attitudes",
-            "name": "Electron | Changes In Latitudes, Changes In Attitudes",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-10-19T10:30:00Z",
-            "window_end": "2024-10-19T10:30:00Z",
-            "window_start": "2024-10-19T10:30:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Changes In Latitudes, Changes In Attitudes",
-            "mission_type": "Unknown",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -101,6 +76,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "ebbcd4d7-d36d-427b-858a-98d06e686bec",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ebbcd4d7-d36d-427b-858a-98d06e686bec/",
+            "launch_library_id": null,
+            "slug": "long-march-6-unknown-payload",
+            "name": "Long March 6 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-22T00:10:00Z",
+            "window_end": "2024-10-22T00:36:00Z",
+            "window_start": "2024-10-22T00:03:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 16",
+            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6_image_20210709074933.jpg",
+            "infographic": null
+        },
+        {
+            "id": "7cee7744-de69-4271-b2f4-205fb3b4bf87",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7cee7744-de69-4271-b2f4-205fb3b4bf87/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-23T01:05:00Z",
+            "window_end": "2024-10-23T01:16:00Z",
+            "window_start": "2024-10-23T00:59:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
             "infographic": null
         },
         {
@@ -179,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "3dfcd148-b684-447a-acde-e6195dbd12f1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3dfcd148-b684-447a-acde-e6195dbd12f1/",
+            "launch_library_id": null,
+            "slug": "electron-changes-in-latitudes-changes-in-attitudes",
+            "name": "Electron | Changes In Latitudes, Changes In Attitudes",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-31T00:00:00Z",
+            "window_end": "2024-10-31T00:00:00Z",
+            "window_start": "2024-10-31T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Changes In Latitudes, Changes In Attitudes",
+            "mission_type": "Communications",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "828095e3-1c38-4700-9dd2-a700162fbd15",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/828095e3-1c38-4700-9dd2-a700162fbd15/",
             "launch_library_id": null,
@@ -201,56 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ae15ed89-63fa-4256-8b71-cb3c30e23e31",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ae15ed89-63fa-4256-8b71-cb3c30e23e31/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-sirius-sxm-9",
-            "name": "Falcon 9 Block 5 | Sirius SXM-9",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Sirius SXM-9",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b94b49fc-5784-4dfd-92e7-07e57f50edcd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b94b49fc-5784-4dfd-92e7-07e57f50edcd/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta006-lockheed-martin-demo-1",
-            "name": "Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA006 (Lockheed Martin Demo 1)",
-            "mission_type": "Technology",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
             "infographic": null
         }
     ]
