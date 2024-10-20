@@ -1,33 +1,8 @@
 {
-    "count": 339,
+    "count": 338,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "5f9fa9b2-e6f4-4e68-b4c8-2b1586cc5fba",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5f9fa9b2-e6f4-4e68-b4c8-2b1586cc5fba/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-8-19",
-            "name": "Falcon 9 Block 5 | Starlink Group 8-19",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-18T23:31:00Z",
-            "window_end": "2024-10-18T23:31:00Z",
-            "window_start": "2024-10-18T19:31:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 8-19",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "525ed290-dd97-4187-9118-d71f0b8285be",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/525ed290-dd97-4187-9118-d71f0b8285be/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-oneweb-20",
             "name": "Falcon 9 Block 5 | OneWeb 20",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-10-20T05:13:00Z",
             "window_end": "2024-10-20T05:48:00Z",
@@ -50,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240101100955.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241020164113.jpeg",
             "infographic": null
         },
         {
@@ -63,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-21T22:40:00Z",
+            "net": "2024-10-21T22:58:00Z",
             "window_end": "2024-10-22T02:40:00Z",
             "window_start": "2024-10-21T22:40:00Z",
             "lsp_name": "SpaceX",
@@ -126,6 +101,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "828095e3-1c38-4700-9dd2-a700162fbd15",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/828095e3-1c38-4700-9dd2-a700162fbd15/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-27",
+            "name": "New Shepard | NS-27",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-23T15:00:00Z",
+            "window_end": "2024-10-23T15:00:00Z",
+            "window_start": "2024-10-23T15:00:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-27",
+            "mission_type": "Suborbital",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, Van Horn, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
             "infographic": null
         },
         {
