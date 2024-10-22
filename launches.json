@@ -1,5 +1,5 @@
 {
-    "count": 338,
+    "count": 339,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,18 +7,18 @@
             "id": "ebbcd4d7-d36d-427b-858a-98d06e686bec",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ebbcd4d7-d36d-427b-858a-98d06e686bec/",
             "launch_library_id": null,
-            "slug": "long-march-6-unknown-payload",
-            "name": "Long March 6 | Unknown Payload",
+            "slug": "long-march-6-tianping-3",
+            "name": "Long March 6 | Tianping-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-10-22T00:10:00Z",
             "window_end": "2024-10-22T00:36:00Z",
             "window_start": "2024-10-22T00:03:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "Tianping-3",
+            "mission_type": "Technology",
             "pad": "Launch Complex 16",
             "location": "Taiyuan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -35,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-61",
             "name": "Falcon 9 Block 5 | Starlink Group 6-61",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-10-22T02:40:00Z",
-            "window_end": "2024-10-22T02:40:00Z",
-            "window_start": "2024-10-21T22:40:00Z",
+            "net": "2024-10-22T23:28:00Z",
+            "window_end": "2024-10-23T02:14:00Z",
+            "window_start": "2024-10-22T22:14:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-61",
             "mission_type": "Communications",
@@ -129,6 +129,31 @@
             "infographic": null
         },
         {
+            "id": "d20c9252-f257-48a8-8d95-443188267c57",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d20c9252-f257-48a8-8d95-443188267c57/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-10-8",
+            "name": "Falcon 9 Block 5 | Starlink Group 10-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-26T21:47:00Z",
+            "window_end": "2024-10-27T01:47:00Z",
+            "window_start": "2024-10-26T21:47:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 10-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "aa429cd7-a947-430a-9956-72dff1ab9c60",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/aa429cd7-a947-430a-9956-72dff1ab9c60/",
             "launch_library_id": null,
@@ -138,9 +163,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-10-26T06:44:00Z",
-            "window_end": "2024-10-26T08:30:00Z",
-            "window_start": "2024-10-26T06:44:00Z",
+            "net": "2024-10-30T06:46:00Z",
+            "window_end": "2024-10-30T08:30:00Z",
+            "window_start": "2024-10-30T06:46:00Z",
             "lsp_name": "Mitsubishi Heavy Industries",
             "mission": "DSN 3 (Kirameki 3)",
             "mission_type": "Communications",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "b94b49fc-5784-4dfd-92e7-07e57f50edcd",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b94b49fc-5784-4dfd-92e7-07e57f50edcd/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta006-lockheed-martin-demo-1",
-            "name": "Firefly Alpha | FLTA006 (Lockheed Martin Demo 1)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA006 (Lockheed Martin Demo 1)",
-            "mission_type": "Technology",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
             "infographic": null
         }
     ]
