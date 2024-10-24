@@ -4,64 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "7cee7744-de69-4271-b2f4-205fb3b4bf87",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/7cee7744-de69-4271-b2f4-205fb3b4bf87/",
-            "launch_library_id": null,
-            "slug": "long-march-2c-yaogan-43-group-03",
-            "name": "Long March 2C | Yaogan 43 Group 03",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-23T01:09:00Z",
-            "window_end": "2024-10-23T01:16:00Z",
-            "window_start": "2024-10-23T00:59:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Yaogan 43 Group 03",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 3 (LC-3/LA-1)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "828095e3-1c38-4700-9dd2-a700162fbd15",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/828095e3-1c38-4700-9dd2-a700162fbd15/",
-            "launch_library_id": null,
-            "slug": "new-shepard-ns-27",
-            "name": "New Shepard | NS-27",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-23T15:27:00Z",
-            "window_end": "2024-10-23T15:27:00Z",
-            "window_start": "2024-10-23T15:27:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "NS-27",
-            "mission_type": "Suborbital",
-            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
-            "location": "Corn Ranch, Van Horn, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
-            "infographic": null
-        },
-        {
             "id": "beb6bfff-c584-42d9-9fea-e3e82a5fd32a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/beb6bfff-c584-42d9-9fea-e3e82a5fd32a/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-6-61",
             "name": "Falcon 9 Block 5 | Starlink Group 6-61",
             "status": {
-                "id": 6,
-                "name": "In Flight"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-10-23T21:47:00Z",
             "window_end": "2024-10-24T01:23:00Z",
@@ -85,11 +35,11 @@
             "slug": "falcon-9-block-5-nrol-167",
             "name": "Falcon 9 Block 5 | NROL-167",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-10-24T17:13:00Z",
-            "window_end": "2024-10-24T21:13:00Z",
+            "window_end": "2024-10-24T18:00:00Z",
             "window_start": "2024-10-24T17:13:00Z",
             "lsp_name": "SpaceX",
             "mission": "NROL-167",
@@ -100,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20240522073317.jpg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
             "infographic": null
         },
         {
@@ -121,6 +71,31 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "eed1132a-d5aa-4c9c-bc38-c8ccb98829b6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/eed1132a-d5aa-4c9c-bc38-c8ccb98829b6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-9",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-9",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-29T11:30:00Z",
+            "window_end": "2024-10-29T15:30:00Z",
+            "window_start": "2024-10-29T11:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-9",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_image_20230307130808.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "48284305-279a-4118-9ae4-e2139db038b4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/48284305-279a-4118-9ae4-e2139db038b4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-10-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 10-13",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-10-30T21:10:00Z",
+            "window_end": "2024-10-31T01:10:00Z",
+            "window_start": "2024-10-30T21:10:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 10-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -229,28 +229,28 @@
             "infographic": null
         },
         {
-            "id": "f2e861e9-f956-4bad-8318-3d669ba5aedb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f2e861e9-f956-4bad-8318-3d669ba5aedb/",
+            "id": "f97bce95-052e-4fa9-80e8-dbedf16bc516",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f97bce95-052e-4fa9-80e8-dbedf16bc516/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-2",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-2",
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-31",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-31",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
+            "net": "2024-11-02T03:40:00Z",
+            "window_end": "2024-11-02T03:40:00Z",
+            "window_start": "2024-11-02T03:40:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-2",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
+            "mission": "Dragon CRS-2 SpX-31",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
             "infographic": null
         }
     ]
