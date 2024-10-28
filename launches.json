@@ -1,5 +1,5 @@
 {
-    "count": 337,
+    "count": 338,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-9-9",
             "name": "Falcon 9 Block 5 | Starlink Group 9-9",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-10-29T11:30:00Z",
-            "window_end": "2024-10-29T13:31:00Z",
-            "window_start": "2024-10-29T11:30:00Z",
+            "net": "2024-10-29T11:44:00Z",
+            "window_end": "2024-10-29T12:40:00Z",
+            "window_start": "2024-10-29T11:44:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 9-9",
             "mission_type": "Communications",
@@ -54,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "aa429cd7-a947-430a-9956-72dff1ab9c60",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa429cd7-a947-430a-9956-72dff1ab9c60/",
-            "launch_library_id": null,
-            "slug": "h3-22-dsn-3-kirameki-3",
-            "name": "H3-22 | DSN 3 (Kirameki 3)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-10-30T06:46:00Z",
-            "window_end": "2024-10-30T08:30:00Z",
-            "window_start": "2024-10-30T06:46:00Z",
-            "lsp_name": "Mitsubishi Heavy Industries",
-            "mission": "DSN 3 (Kirameki 3)",
-            "mission_type": "Communications",
-            "pad": "Yoshinobu Launch Complex LP-2",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_image_20230307130808.jpeg",
-            "infographic": null
-        },
-        {
             "id": "48284305-279a-4118-9ae4-e2139db038b4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/48284305-279a-4118-9ae4-e2139db038b4/",
             "launch_library_id": null,
@@ -104,31 +79,6 @@
             "infographic": null
         },
         {
-            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
-            "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-10-31T00:00:00Z",
-            "window_end": "2024-10-31T00:00:00Z",
-            "window_start": "2024-10-31T00:00:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
-            "infographic": null
-        },
-        {
             "id": "95a9c95c-1a30-4b34-8b11-16e765a26eb6",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/95a9c95c-1a30-4b34-8b11-16e765a26eb6/",
             "launch_library_id": null,
@@ -151,6 +101,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "infographic": null
+        },
+        {
+            "id": "be86d592-5eb7-4565-ac7b-02de845d838e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/be86d592-5eb7-4565-ac7b-02de845d838e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-10",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-10",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-02T08:53:00Z",
+            "window_end": "2024-11-02T12:53:00Z",
+            "window_start": "2024-11-02T08:53:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-10",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "aa429cd7-a947-430a-9956-72dff1ab9c60",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa429cd7-a947-430a-9956-72dff1ab9c60/",
+            "launch_library_id": null,
+            "slug": "h3-22-dsn-3-kirameki-3",
+            "name": "H3-22 | DSN 3 (Kirameki 3)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-03T06:46:00Z",
+            "window_end": "2024-11-03T08:30:00Z",
+            "window_start": "2024-11-03T06:46:00Z",
+            "lsp_name": "Mitsubishi Heavy Industries",
+            "mission": "DSN 3 (Kirameki 3)",
+            "mission_type": "Communications",
+            "pad": "Yoshinobu Launch Complex LP-2",
+            "location": "Tanegashima Space Center, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_image_20230307130808.jpeg",
             "infographic": null
         },
         {
