@@ -4,41 +4,16 @@
     "previous": null,
     "results": [
         {
-            "id": "eed1132a-d5aa-4c9c-bc38-c8ccb98829b6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/eed1132a-d5aa-4c9c-bc38-c8ccb98829b6/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-9-9",
-            "name": "Falcon 9 Block 5 | Starlink Group 9-9",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-10-29T11:44:00Z",
-            "window_end": "2024-10-29T12:40:00Z",
-            "window_start": "2024-10-29T11:44:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 9-9",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "28c2b327-bb20-452d-b1df-c100265d6aa5",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/28c2b327-bb20-452d-b1df-c100265d6aa5/",
             "launch_library_id": null,
             "slug": "long-march-2fg-shenzhou-19",
             "name": "Long March 2F/G | Shenzhou 19",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-10-29T20:27:00Z",
+            "net": "2024-10-29T20:27:34Z",
             "window_end": "2024-10-29T20:57:00Z",
             "window_start": "2024-10-29T20:17:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
@@ -54,6 +29,31 @@
             "infographic": null
         },
         {
+            "id": "eed1132a-d5aa-4c9c-bc38-c8ccb98829b6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/eed1132a-d5aa-4c9c-bc38-c8ccb98829b6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-9",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-9",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-10-30T11:07:00Z",
+            "window_end": "2024-10-30T11:21:00Z",
+            "window_start": "2024-10-30T11:07:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-9",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "48284305-279a-4118-9ae4-e2139db038b4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/48284305-279a-4118-9ae4-e2139db038b4/",
             "launch_library_id": null,
@@ -64,7 +64,7 @@
                 "name": "TBD"
             },
             "net": "2024-10-30T21:10:00Z",
-            "window_end": "2024-10-31T01:10:00Z",
+            "window_end": "2024-10-31T01:08:00Z",
             "window_start": "2024-10-30T21:10:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 10-13",
@@ -113,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-11-02T08:53:00Z",
-            "window_end": "2024-11-02T12:53:00Z",
-            "window_start": "2024-11-02T08:53:00Z",
+            "net": "2024-11-02T08:56:00Z",
+            "window_end": "2024-11-02T12:56:00Z",
+            "window_start": "2024-11-02T08:56:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 9-10",
             "mission_type": "Communications",
