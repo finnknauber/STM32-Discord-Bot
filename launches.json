@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "95a9c95c-1a30-4b34-8b11-16e765a26eb6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/95a9c95c-1a30-4b34-8b11-16e765a26eb6/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-kosmos-2579-bars-m-no-6",
-            "name": "Soyuz 2.1a | Kosmos 2579 (Bars-M No. 6)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-10-31T07:51:31Z",
-            "window_end": "2024-10-31T09:00:00Z",
-            "window_start": "2024-10-31T07:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Kosmos 2579 (Bars-M No. 6)",
-            "mission_type": "Government/Top Secret",
-            "pad": "43/4 (43R)",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
             "id": "507a6df7-1c52-464a-a003-19aad7f6113e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/507a6df7-1c52-464a-a003-19aad7f6113e/",
             "launch_library_id": null,
@@ -179,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-69",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-69",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-07T22:53:00Z",
+            "window_end": "2024-11-08T02:53:00Z",
+            "window_start": "2024-11-07T22:53:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-69",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
             "launch_library_id": null,
@@ -229,11 +229,11 @@
             "infographic": null
         },
         {
-            "id": "0a9a511a-7ea1-4402-8555-e087f580a5c4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0a9a511a-7ea1-4402-8555-e087f580a5c4/",
+            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-thuraya-4-ngs",
-            "name": "Falcon 9 Block 5 | Thuraya 4-NGS",
+            "slug": "ceres-1-unknown-payload",
+            "name": "Ceres-1 | Unknown Payload",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -241,16 +241,16 @@
             "net": "2024-11-30T00:00:00Z",
             "window_end": "2024-11-30T00:00:00Z",
             "window_start": "2024-11-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Thuraya 4-NGS",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral SFS, FL, USA",
+            "lsp_name": "Galactic Energy",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         }
     ]
