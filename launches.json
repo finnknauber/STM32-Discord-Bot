@@ -1,33 +1,8 @@
 {
-    "count": 335,
+    "count": 337,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "507a6df7-1c52-464a-a003-19aad7f6113e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/507a6df7-1c52-464a-a003-19aad7f6113e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-77",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-77",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-03T21:57:00Z",
-            "window_end": "2024-11-04T01:03:00Z",
-            "window_start": "2024-11-03T21:57:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-77",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "aa429cd7-a947-430a-9956-72dff1ab9c60",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/aa429cd7-a947-430a-9956-72dff1ab9c60/",
@@ -54,28 +29,28 @@
             "infographic": null
         },
         {
-            "id": "3dfcd148-b684-447a-acde-e6195dbd12f1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3dfcd148-b684-447a-acde-e6195dbd12f1/",
+            "id": "507a6df7-1c52-464a-a003-19aad7f6113e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/507a6df7-1c52-464a-a003-19aad7f6113e/",
             "launch_library_id": null,
-            "slug": "electron-changes-in-latitudes-changes-in-attitudes",
-            "name": "Electron | Changes In Latitudes, Changes In Attitudes",
+            "slug": "falcon-9-block-5-starlink-group-6-77",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-77",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2024-11-04T10:30:00Z",
-            "window_end": "2024-11-04T10:30:00Z",
-            "window_start": "2024-11-04T10:30:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Changes In Latitudes, Changes In Attitudes",
+            "net": "2024-11-04T21:31:00Z",
+            "window_end": "2024-11-05T01:27:00Z",
+            "window_start": "2024-11-04T21:31:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-77",
             "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -154,6 +129,56 @@
             "infographic": null
         },
         {
+            "id": "3dfcd148-b684-447a-acde-e6195dbd12f1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/3dfcd148-b684-447a-acde-e6195dbd12f1/",
+            "launch_library_id": null,
+            "slug": "electron-changes-in-latitudes-changes-in-attitudes",
+            "name": "Electron | Changes In Latitudes, Changes In Attitudes",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-05T10:30:00Z",
+            "window_end": "2024-11-05T10:30:00Z",
+            "window_start": "2024-11-05T10:30:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Changes In Latitudes, Changes In Attitudes",
+            "mission_type": "Communications",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "d771b35f-0a6a-4967-bff0-9a94286c31bb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d771b35f-0a6a-4967-bff0-9a94286c31bb/",
+            "launch_library_id": null,
+            "slug": "kinetica-1-unknown-payload",
+            "name": "Kinetica 1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-06T19:15:00Z",
+            "window_end": "2024-11-06T19:33:00Z",
+            "window_start": "2024-11-06T18:57:00Z",
+            "lsp_name": "CAS Space",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 130",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+            "infographic": null
+        },
+        {
             "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
             "launch_library_id": null,
@@ -179,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "903e6655-670e-45e8-900e-dcfe8c870d22",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/903e6655-670e-45e8-900e-dcfe8c870d22/",
+            "launch_library_id": null,
+            "slug": "long-march-2c-unknown-payload",
+            "name": "Long March 2C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-09T03:40:00Z",
+            "window_end": "2024-11-09T03:53:00Z",
+            "window_start": "2024-11-09T03:29:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
+            "infographic": null
+        },
+        {
             "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
             "launch_library_id": null,
@@ -201,56 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "02b28510-be7b-43c1-ab97-b3671ab6813d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/02b28510-be7b-43c1-ab97-b3671ab6813d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-transporter-12-dedicated-sso-ride",
-            "name": "Falcon 9 Block 5 | Transporter 12 (Dedicated SSO Rideshare)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-30T00:00:00Z",
-            "window_end": "2024-11-30T00:00:00Z",
-            "window_start": "2024-11-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Transporter 12 (Dedicated SSO Rideshare)",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
-            "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-30T00:00:00Z",
-            "window_end": "2024-11-30T00:00:00Z",
-            "window_start": "2024-11-30T00:00:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         }
     ]
