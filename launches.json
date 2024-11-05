@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "aa429cd7-a947-430a-9956-72dff1ab9c60",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa429cd7-a947-430a-9956-72dff1ab9c60/",
-            "launch_library_id": null,
-            "slug": "h3-22-dsn-3-kirameki-3",
-            "name": "H3-22 | DSN 3 (Kirameki 3)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-04T06:48:00Z",
-            "window_end": "2024-11-04T08:16:00Z",
-            "window_start": "2024-11-04T06:48:00Z",
-            "lsp_name": "Mitsubishi Heavy Industries",
-            "mission": "DSN 3 (Kirameki 3)",
-            "mission_type": "Communications",
-            "pad": "Yoshinobu Launch Complex LP-2",
-            "location": "Tanegashima Space Center, Japan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/h3-22_image_20230307130808.jpeg",
-            "infographic": null
-        },
-        {
             "id": "a27cba79-7c56-40c8-8af1-eb9f871b43ad",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a27cba79-7c56-40c8-8af1-eb9f871b43ad/",
             "launch_library_id": null,
             "slug": "soyuz-21bfregat-m-ionosfera-m-1-2",
             "name": "Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-04T23:18:40Z",
             "window_end": "2024-11-04T23:18:40Z",
@@ -50,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_on_t_image_20241104160028.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20241105092205.jpg",
             "infographic": null
         },
         {
@@ -60,12 +35,12 @@
             "slug": "falcon-9-block-5-dragon-crs-2-spx-31",
             "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-31",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-05T02:29:30Z",
-            "window_end": "2024-11-05T02:29:30Z",
-            "window_start": "2024-11-05T02:29:30Z",
+            "net": "2024-11-05T02:29:31Z",
+            "window_end": "2024-11-05T02:29:31Z",
+            "window_start": "2024-11-05T02:29:31Z",
             "lsp_name": "SpaceX",
             "mission": "Dragon CRS-2 SpX-31",
             "mission_type": "Resupply",
@@ -85,12 +60,12 @@
             "slug": "electron-changes-in-latitudes-changes-in-attitudes",
             "name": "Electron | Changes In Latitudes, Changes In Attitudes",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-05T10:30:00Z",
-            "window_end": "2024-11-05T10:30:00Z",
-            "window_start": "2024-11-05T10:30:00Z",
+            "net": "2024-11-05T10:54:00Z",
+            "window_end": "2024-11-05T10:54:00Z",
+            "window_start": "2024-11-05T10:54:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Changes In Latitudes, Changes In Attitudes",
             "mission_type": "Communications",
@@ -110,12 +85,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-77",
             "name": "Falcon 9 Block 5 | Starlink Group 6-77",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-11-05T21:27:00Z",
-            "window_end": "2024-11-06T01:05:00Z",
-            "window_start": "2024-11-05T21:05:00Z",
+            "net": "2024-11-06T20:39:00Z",
+            "window_end": "2024-11-07T00:39:00Z",
+            "window_start": "2024-11-06T20:39:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-77",
             "mission_type": "Communications",
@@ -179,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-69",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-69",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-07T22:46:00Z",
-            "window_end": "2024-11-08T02:46:00Z",
-            "window_start": "2024-11-07T22:46:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-69",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "903e6655-670e-45e8-900e-dcfe8c870d22",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/903e6655-670e-45e8-900e-dcfe8c870d22/",
             "launch_library_id": null,
@@ -229,28 +179,78 @@
             "infographic": null
         },
         {
-            "id": "1d186a4d-734e-4d45-a4cd-ae8da62f0c5c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1d186a4d-734e-4d45-a4cd-ae8da62f0c5c/",
+            "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
             "launch_library_id": null,
-            "slug": "long-march-4c-unknown-payload",
-            "name": "Long March 4C | Unknown Payload",
+            "slug": "falcon-9-block-5-starlink-group-6-69",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-69",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 2,
+                "name": "TBD"
             },
-            "net": "2024-11-13T22:50:00Z",
-            "window_end": "2024-11-13T23:07:00Z",
-            "window_start": "2024-11-13T22:34:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+            "net": "2024-11-09T21:54:00Z",
+            "window_end": "2024-11-10T01:54:00Z",
+            "window_start": "2024-11-09T21:54:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-69",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "aa398317-710b-460b-837f-7fbb7f00ccfa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa398317-710b-460b-837f-7fbb7f00ccfa/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-68",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-68",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-11T11:52:00Z",
+            "window_end": "2024-11-11T15:52:00Z",
+            "window_start": "2024-11-11T11:52:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-68",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "a9fa3ed5-4988-4a72-b262-454e7b03ab50",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a9fa3ed5-4988-4a72-b262-454e7b03ab50/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-koreasat-6a",
+            "name": "Falcon 9 Block 5 | Koreasat 6A",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-11T17:07:00Z",
+            "window_end": "2024-11-11T17:07:00Z",
+            "window_start": "2024-11-11T17:07:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Koreasat 6A",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
