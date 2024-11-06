@@ -1,83 +1,8 @@
 {
-    "count": 338,
+    "count": 336,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "a27cba79-7c56-40c8-8af1-eb9f871b43ad",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a27cba79-7c56-40c8-8af1-eb9f871b43ad/",
-            "launch_library_id": null,
-            "slug": "soyuz-21bfregat-m-ionosfera-m-1-2",
-            "name": "Soyuz 2.1b/Fregat-M | Ionosfera-M 1 & 2",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-04T23:18:40Z",
-            "window_end": "2024-11-04T23:18:40Z",
-            "window_start": "2024-11-04T23:18:40Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Ionosfera-M 1 & 2",
-            "mission_type": "Earth Science",
-            "pad": "Cosmodrome Site 1S",
-            "location": "Vostochny Cosmodrome, Siberia, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20241105092205.jpg",
-            "infographic": null
-        },
-        {
-            "id": "f97bce95-052e-4fa9-80e8-dbedf16bc516",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f97bce95-052e-4fa9-80e8-dbedf16bc516/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-dragon-crs-2-spx-31",
-            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-31",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-05T02:29:31Z",
-            "window_end": "2024-11-05T02:29:31Z",
-            "window_start": "2024-11-05T02:29:31Z",
-            "lsp_name": "SpaceX",
-            "mission": "Dragon CRS-2 SpX-31",
-            "mission_type": "Resupply",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "3dfcd148-b684-447a-acde-e6195dbd12f1",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/3dfcd148-b684-447a-acde-e6195dbd12f1/",
-            "launch_library_id": null,
-            "slug": "electron-changes-in-latitudes-changes-in-attitudes",
-            "name": "Electron | Changes In Latitudes, Changes In Attitudes",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-05T10:54:00Z",
-            "window_end": "2024-11-05T10:54:00Z",
-            "window_start": "2024-11-05T10:54:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Changes In Latitudes, Changes In Attitudes",
-            "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
         {
             "id": "507a6df7-1c52-464a-a003-19aad7f6113e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/507a6df7-1c52-464a-a003-19aad7f6113e/",
@@ -88,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-11-06T20:39:00Z",
+            "net": "2024-11-07T00:39:00Z",
             "window_end": "2024-11-07T00:39:00Z",
             "window_start": "2024-11-06T20:39:00Z",
             "lsp_name": "SpaceX",
@@ -138,7 +63,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-11-07T07:00:00Z",
+            "net": "2024-11-07T07:02:00Z",
             "window_end": "2024-11-07T11:00:00Z",
             "window_start": "2024-11-07T07:00:00Z",
             "lsp_name": "SpaceX",
@@ -239,7 +164,7 @@
                 "name": "Go"
             },
             "net": "2024-11-11T17:07:00Z",
-            "window_end": "2024-11-11T17:07:00Z",
+            "window_end": "2024-11-11T21:07:00Z",
             "window_start": "2024-11-11T17:07:00Z",
             "lsp_name": "SpaceX",
             "mission": "Koreasat 6A",
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "32727766-26b9-41b1-bdc4-1e7241806c92",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/32727766-26b9-41b1-bdc4-1e7241806c92/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-11",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-11",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-12T05:07:00Z",
+            "window_end": "2024-11-12T09:07:00Z",
+            "window_start": "2024-11-12T05:07:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-11",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "1d186a4d-734e-4d45-a4cd-ae8da62f0c5c",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1d186a4d-734e-4d45-a4cd-ae8da62f0c5c/",
+            "launch_library_id": null,
+            "slug": "long-march-4c-unknown-payload",
+            "name": "Long March 4C | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-13T22:50:00Z",
+            "window_end": "2024-11-13T23:07:00Z",
+            "window_start": "2024-11-13T22:34:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 9",
+            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "da9a0172-062c-4b29-81d8-acf777d3777f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/da9a0172-062c-4b29-81d8-acf777d3777f/",
+            "launch_library_id": null,
+            "slug": "starship-integrated-flight-test-6",
+            "name": "Starship | Integrated Flight Test 6",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-18T22:00:00Z",
+            "window_end": "2024-11-18T22:30:00Z",
+            "window_start": "2024-11-18T22:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Integrated Flight Test 6",
+            "mission_type": "Test Flight",
+            "pad": "Orbital Launch Mount A",
+            "location": "SpaceX Starbase, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/superheavy_appr_image_20241013171532.jpeg",
             "infographic": null
         }
     ]
