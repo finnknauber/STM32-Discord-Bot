@@ -1,33 +1,8 @@
 {
-    "count": 336,
+    "count": 335,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "507a6df7-1c52-464a-a003-19aad7f6113e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/507a6df7-1c52-464a-a003-19aad7f6113e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-77",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-77",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-07T20:19:00Z",
-            "window_end": "2024-11-08T00:09:00Z",
-            "window_start": "2024-11-07T20:13:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-77",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "903e6655-670e-45e8-900e-dcfe8c870d22",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/903e6655-670e-45e8-900e-dcfe8c870d22/",
@@ -104,6 +79,31 @@
             "infographic": null
         },
         {
+            "id": "d771b35f-0a6a-4967-bff0-9a94286c31bb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d771b35f-0a6a-4967-bff0-9a94286c31bb/",
+            "launch_library_id": null,
+            "slug": "kinetica-1-unknown-payload",
+            "name": "Kinetica 1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-11T04:05:00Z",
+            "window_end": "2024-11-11T04:22:00Z",
+            "window_start": "2024-11-11T03:51:00Z",
+            "lsp_name": "CAS Space",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 130",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
+            "infographic": null
+        },
+        {
             "id": "a9fa3ed5-4988-4a72-b262-454e7b03ab50",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a9fa3ed5-4988-4a72-b262-454e7b03ab50/",
             "launch_library_id": null,
@@ -163,9 +163,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-11-12T11:26:00Z",
-            "window_end": "2024-11-12T15:26:00Z",
-            "window_start": "2024-11-12T11:26:00Z",
+            "net": "2024-11-13T11:00:00Z",
+            "window_end": "2024-11-13T15:00:00Z",
+            "window_start": "2024-11-13T11:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-68",
             "mission_type": "Communications",
