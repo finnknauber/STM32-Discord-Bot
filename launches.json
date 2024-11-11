@@ -4,46 +4,21 @@
     "previous": null,
     "results": [
         {
-            "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-69",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-69",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-11-11T01:22:00Z",
-            "window_end": "2024-11-11T01:22:00Z",
-            "window_start": "2024-11-10T21:46:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-69",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "d771b35f-0a6a-4967-bff0-9a94286c31bb",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/d771b35f-0a6a-4967-bff0-9a94286c31bb/",
             "launch_library_id": null,
-            "slug": "kinetica-1-unknown-payload",
-            "name": "Kinetica 1 | Unknown Payload",
+            "slug": "kinetica-1-15-satellites",
+            "name": "Kinetica 1 | 15 satellites",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-11T04:05:00Z",
+            "net": "2024-11-11T04:03:00Z",
             "window_end": "2024-11-11T04:22:00Z",
             "window_start": "2024-11-11T03:51:00Z",
             "lsp_name": "CAS Space",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "15 satellites",
+            "mission_type": "Technology",
             "pad": "Launch Area 130",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -60,10 +35,10 @@
             "slug": "falcon-9-block-5-koreasat-6a",
             "name": "Falcon 9 Block 5 | Koreasat 6A",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2024-11-11T17:07:00Z",
+            "net": "2024-11-11T17:22:00Z",
             "window_end": "2024-11-11T21:07:00Z",
             "window_start": "2024-11-11T17:07:00Z",
             "lsp_name": "SpaceX",
@@ -75,24 +50,24 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241111210305.jpg",
             "infographic": null
         },
         {
-            "id": "aa398317-710b-460b-837f-7fbb7f00ccfa",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa398317-710b-460b-837f-7fbb7f00ccfa/",
+            "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-68",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-68",
+            "slug": "falcon-9-block-5-starlink-group-6-69",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-69",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-13T11:00:00Z",
-            "window_end": "2024-11-13T15:00:00Z",
-            "window_start": "2024-11-13T11:00:00Z",
+            "net": "2024-11-11T21:28:00Z",
+            "window_end": "2024-11-12T00:44:00Z",
+            "window_start": "2024-11-11T21:02:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-68",
+            "mission": "Starlink Group 6-69",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral SFS, FL, USA",
@@ -151,6 +126,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "aa398317-710b-460b-837f-7fbb7f00ccfa",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa398317-710b-460b-837f-7fbb7f00ccfa/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-68",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-68",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-14T10:33:00Z",
+            "window_end": "2024-11-14T14:33:00Z",
+            "window_start": "2024-11-14T10:33:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-68",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "1b411bfa-86b8-4b88-8f01-6e97ca4b90d7",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1b411bfa-86b8-4b88-8f01-6e97ca4b90d7/",
+            "launch_library_id": null,
+            "slug": "long-march-7-tianzhou-8",
+            "name": "Long March 7 | Tianzhou-8",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-15T15:13:00Z",
+            "window_end": "2024-11-15T15:20:00Z",
+            "window_start": "2024-11-15T15:03:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Tianzhou-8",
+            "mission_type": "Resupply",
+            "pad": "201",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/superheavy_appr_image_20241013171532.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-progress-ms-29-90p",
-            "name": "Soyuz 2.1a | Progress MS-29 (90P)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-11-21T12:22:00Z",
-            "window_end": "2024-11-21T12:22:00Z",
-            "window_start": "2024-11-21T12:22:00Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Progress MS-29 (90P)",
-            "mission_type": "Resupply",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
             "infographic": null
         }
     ]
