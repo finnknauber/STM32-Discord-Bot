@@ -1,83 +1,8 @@
 {
-    "count": 335,
+    "count": 332,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "d771b35f-0a6a-4967-bff0-9a94286c31bb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d771b35f-0a6a-4967-bff0-9a94286c31bb/",
-            "launch_library_id": null,
-            "slug": "kinetica-1-15-satellites",
-            "name": "Kinetica 1 | 15 satellites",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-11T04:03:00Z",
-            "window_end": "2024-11-11T04:22:00Z",
-            "window_start": "2024-11-11T03:51:00Z",
-            "lsp_name": "CAS Space",
-            "mission": "15 satellites",
-            "mission_type": "Technology",
-            "pad": "Launch Area 130",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
-            "infographic": null
-        },
-        {
-            "id": "a9fa3ed5-4988-4a72-b262-454e7b03ab50",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a9fa3ed5-4988-4a72-b262-454e7b03ab50/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-koreasat-6a",
-            "name": "Falcon 9 Block 5 | Koreasat 6A",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2024-11-11T17:22:00Z",
-            "window_end": "2024-11-11T21:07:00Z",
-            "window_start": "2024-11-11T17:07:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Koreasat 6A",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20241111210305.jpg",
-            "infographic": null
-        },
-        {
-            "id": "ce986507-bfc1-43fb-953d-3f30e7c5f48f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce986507-bfc1-43fb-953d-3f30e7c5f48f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-69",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-69",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-11T21:28:00Z",
-            "window_end": "2024-11-12T00:44:00Z",
-            "window_start": "2024-11-11T21:02:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-69",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "1d186a4d-734e-4d45-a4cd-ae8da62f0c5c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1d186a4d-734e-4d45-a4cd-ae8da62f0c5c/",
@@ -110,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-9-11",
             "name": "Falcon 9 Block 5 | Starlink Group 9-11",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-11-14T04:21:00Z",
             "window_end": "2024-11-14T08:21:00Z",
@@ -213,9 +138,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-11-17T00:00:00Z",
-            "window_end": "2024-11-17T00:00:00Z",
-            "window_start": "2024-11-17T00:00:00Z",
+            "net": "2024-11-17T21:29:00Z",
+            "window_end": "2024-11-17T23:57:00Z",
+            "window_start": "2024-11-17T21:29:00Z",
             "lsp_name": "SpaceX",
             "mission": "Optus-X",
             "mission_type": "Communications",
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/superheavy_appr_image_20241013171532.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a0809bf8-a2f2-48e1-92da-1d8c21180e25",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a0809bf8-a2f2-48e1-92da-1d8c21180e25/",
+            "launch_library_id": 1609,
+            "slug": "falcon-9-block-5-gsat-20",
+            "name": "Falcon 9 Block 5 | GSAT-20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-19T18:30:00Z",
+            "window_end": "2024-11-19T18:30:00Z",
+            "window_start": "2024-11-19T18:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "GSAT-20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-progress-ms-29-90p",
+            "name": "Soyuz 2.1a | Progress MS-29 (90P)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-21T12:22:23Z",
+            "window_end": "2024-11-21T12:22:23Z",
+            "window_start": "2024-11-21T12:22:23Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Progress MS-29 (90P)",
+            "mission_type": "Resupply",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "5d63efa7-7cb4-4a00-ad96-9929cf027041",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5d63efa7-7cb4-4a00-ad96-9929cf027041/",
+            "launch_library_id": null,
+            "slug": "electron-ice-ais-baby-kineis-11-15",
+            "name": "Electron | Ice AIS Baby (Kin\u00e9is 11-15)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-23T00:00:00Z",
+            "window_end": "2024-11-23T00:00:00Z",
+            "window_start": "2024-11-23T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Ice AIS Baby (Kin\u00e9is 11-15)",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
