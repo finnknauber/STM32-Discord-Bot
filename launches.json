@@ -38,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-11-14T04:21:00Z",
+            "net": "2024-11-14T05:23:00Z",
             "window_end": "2024-11-14T08:21:00Z",
             "window_start": "2024-11-14T04:21:00Z",
             "lsp_name": "SpaceX",
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "168b41aa-14bd-4001-a47d-bfe69c4c20e6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/168b41aa-14bd-4001-a47d-bfe69c4c20e6/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-66",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-66",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-16T18:04:00Z",
-            "window_end": "2024-11-16T22:04:00Z",
-            "window_start": "2024-11-16T18:04:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-66",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "4509981c-8f3f-41aa-8235-d08f5c79c6c0",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4509981c-8f3f-41aa-8235-d08f5c79c6c0/",
             "launch_library_id": null,
@@ -139,13 +114,38 @@
                 "name": "TBD"
             },
             "net": "2024-11-17T21:29:00Z",
-            "window_end": "2024-11-17T23:57:00Z",
+            "window_end": "2024-11-17T23:27:00Z",
             "window_start": "2024-11-17T21:29:00Z",
             "lsp_name": "SpaceX",
             "mission": "Optus-X",
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a0809bf8-a2f2-48e1-92da-1d8c21180e25",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a0809bf8-a2f2-48e1-92da-1d8c21180e25/",
+            "launch_library_id": 1609,
+            "slug": "falcon-9-block-5-gsat-20",
+            "name": "Falcon 9 Block 5 | GSAT-20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-18T18:31:00Z",
+            "window_end": "2024-11-18T20:20:00Z",
+            "window_start": "2024-11-18T18:31:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "GSAT-20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -179,31 +179,6 @@
             "infographic": null
         },
         {
-            "id": "a0809bf8-a2f2-48e1-92da-1d8c21180e25",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a0809bf8-a2f2-48e1-92da-1d8c21180e25/",
-            "launch_library_id": 1609,
-            "slug": "falcon-9-block-5-gsat-20",
-            "name": "Falcon 9 Block 5 | GSAT-20",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-19T18:30:00Z",
-            "window_end": "2024-11-19T18:30:00Z",
-            "window_start": "2024-11-19T18:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "GSAT-20",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
             "launch_library_id": null,
@@ -229,18 +204,43 @@
             "infographic": null
         },
         {
+            "id": "168b41aa-14bd-4001-a47d-bfe69c4c20e6",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/168b41aa-14bd-4001-a47d-bfe69c4c20e6/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-66",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-66",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-21T15:53:00Z",
+            "window_end": "2024-11-21T19:53:00Z",
+            "window_start": "2024-11-21T15:53:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-66",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "5d63efa7-7cb4-4a00-ad96-9929cf027041",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5d63efa7-7cb4-4a00-ad96-9929cf027041/",
             "launch_library_id": null,
             "slug": "electron-ice-ais-baby-kineis-11-15",
             "name": "Electron | Ice AIS Baby (Kin\u00e9is 11-15)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-11-23T00:00:00Z",
-            "window_end": "2024-11-23T00:00:00Z",
-            "window_start": "2024-11-23T00:00:00Z",
+            "net": "2024-11-23T03:49:00Z",
+            "window_end": "2024-11-23T03:49:00Z",
+            "window_start": "2024-11-23T03:49:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Ice AIS Baby (Kin\u00e9is 11-15)",
             "mission_type": "Communications",
