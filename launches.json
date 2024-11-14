@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "1d186a4d-734e-4d45-a4cd-ae8da62f0c5c",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1d186a4d-734e-4d45-a4cd-ae8da62f0c5c/",
-            "launch_library_id": null,
-            "slug": "long-march-4c-unknown-payload",
-            "name": "Long March 4C | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-11-13T22:50:00Z",
-            "window_end": "2024-11-13T23:07:00Z",
-            "window_start": "2024-11-13T22:34:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Complex 9",
-            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_4c_image_20230801172338.jpeg",
-            "infographic": null
-        },
-        {
             "id": "32727766-26b9-41b1-bdc4-1e7241806c92",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/32727766-26b9-41b1-bdc4-1e7241806c92/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-9-11",
             "name": "Falcon 9 Block 5 | Starlink Group 9-11",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-14T05:23:00Z",
             "window_end": "2024-11-14T08:21:00Z",
@@ -60,10 +35,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-68",
             "name": "Falcon 9 Block 5 | Starlink Group 6-68",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-14T10:33:00Z",
+            "net": "2024-11-14T13:21:00Z",
             "window_end": "2024-11-14T14:33:00Z",
             "window_start": "2024-11-14T10:33:00Z",
             "lsp_name": "SpaceX",
@@ -129,6 +104,31 @@
             "infographic": null
         },
         {
+            "id": "eddda4b4-c9af-4383-a97e-17372a0f39fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/eddda4b4-c9af-4383-a97e-17372a0f39fc/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-12",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-12",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-18T05:47:00Z",
+            "window_end": "2024-11-18T09:47:00Z",
+            "window_start": "2024-11-18T05:47:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-12",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "a0809bf8-a2f2-48e1-92da-1d8c21180e25",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a0809bf8-a2f2-48e1-92da-1d8c21180e25/",
             "launch_library_id": 1609,
@@ -179,6 +179,31 @@
             "infographic": null
         },
         {
+            "id": "f82304b2-5f3c-4753-b8ee-aee69323f7fb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f82304b2-5f3c-4753-b8ee-aee69323f7fb/",
+            "launch_library_id": null,
+            "slug": "haste-leidos-2",
+            "name": "HASTE | Leidos-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-20T00:00:00Z",
+            "window_end": "2024-11-20T00:00:00Z",
+            "window_start": "2024-11-20T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Leidos-2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Flight Facility, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
             "launch_library_id": null,
@@ -188,9 +213,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-11-21T12:22:23Z",
-            "window_end": "2024-11-21T12:22:23Z",
-            "window_start": "2024-11-21T12:22:23Z",
+            "net": "2024-11-21T12:22:24Z",
+            "window_end": "2024-11-21T12:22:24Z",
+            "window_start": "2024-11-21T12:22:24Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-29 (90P)",
             "mission_type": "Resupply",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "5d63efa7-7cb4-4a00-ad96-9929cf027041",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5d63efa7-7cb4-4a00-ad96-9929cf027041/",
-            "launch_library_id": null,
-            "slug": "electron-ice-ais-baby-kineis-11-15",
-            "name": "Electron | Ice AIS Baby (Kin\u00e9is 11-15)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-11-23T03:49:00Z",
-            "window_end": "2024-11-23T03:49:00Z",
-            "window_start": "2024-11-23T03:49:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Ice AIS Baby (Kin\u00e9is 11-15)",
-            "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         }
     ]
