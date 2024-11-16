@@ -1,33 +1,8 @@
 {
-    "count": 336,
+    "count": 335,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "1b411bfa-86b8-4b88-8f01-6e97ca4b90d7",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/1b411bfa-86b8-4b88-8f01-6e97ca4b90d7/",
-            "launch_library_id": null,
-            "slug": "long-march-7-tianzhou-8",
-            "name": "Long March 7 | Tianzhou-8",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-15T15:13:18Z",
-            "window_end": "2024-11-15T15:20:00Z",
-            "window_start": "2024-11-15T15:03:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Tianzhou-8",
-            "mission_type": "Resupply",
-            "pad": "201",
-            "location": "Wenchang Space Launch Site, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7_image_20210513083007.jpeg",
-            "infographic": null
-        },
         {
             "id": "4509981c-8f3f-41aa-8235-d08f5c79c6c0",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4509981c-8f3f-41aa-8235-d08f5c79c6c0/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-optus-x",
             "name": "Falcon 9 Block 5 | Optus-X",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-11-17T21:29:00Z",
             "window_end": "2024-11-17T23:27:00Z",
@@ -60,11 +35,11 @@
             "slug": "falcon-9-block-5-starlink-group-9-12",
             "name": "Falcon 9 Block 5 | Starlink Group 9-12",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-11-18T05:47:00Z",
-            "window_end": "2024-11-18T09:47:00Z",
+            "window_end": "2024-11-18T09:46:10Z",
             "window_start": "2024-11-18T05:47:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 9-12",
@@ -85,8 +60,8 @@
             "slug": "falcon-9-block-5-gsat-20",
             "name": "Falcon 9 Block 5 | GSAT-20",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-11-18T18:31:00Z",
             "window_end": "2024-11-18T20:20:00Z",
@@ -110,12 +85,12 @@
             "slug": "starship-integrated-flight-test-6",
             "name": "Starship | Integrated Flight Test 6",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-11-18T22:00:00Z",
-            "window_end": "2024-11-18T22:30:00Z",
-            "window_start": "2024-11-18T22:00:00Z",
+            "net": "2024-11-19T22:00:00Z",
+            "window_end": "2024-11-19T22:30:00Z",
+            "window_start": "2024-11-19T22:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Integrated Flight Test 6",
             "mission_type": "Test Flight",
@@ -196,6 +171,31 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "f2e861e9-f956-4bad-8318-3d669ba5aedb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f2e861e9-f956-4bad-8318-3d669ba5aedb/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-9-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 9-13",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-22T04:13:00Z",
+            "window_end": "2024-11-22T08:13:00Z",
+            "window_start": "2024-11-22T04:13:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 9-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
