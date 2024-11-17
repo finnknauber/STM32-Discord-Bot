@@ -7,17 +7,17 @@
             "id": "4509981c-8f3f-41aa-8235-d08f5c79c6c0",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/4509981c-8f3f-41aa-8235-d08f5c79c6c0/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-optus-x",
-            "name": "Falcon 9 Block 5 | Optus-X",
+            "slug": "falcon-9-block-5-optus-xtd7",
+            "name": "Falcon 9 Block 5 | Optus-X/TD7",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2024-11-17T21:29:00Z",
+            "net": "2024-11-17T22:28:00Z",
             "window_end": "2024-11-17T23:27:00Z",
             "window_start": "2024-11-17T21:29:00Z",
             "lsp_name": "SpaceX",
-            "mission": "Optus-X",
+            "mission": "Optus-X/TD7",
             "mission_type": "Communications",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
