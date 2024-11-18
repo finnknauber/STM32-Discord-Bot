@@ -1,33 +1,8 @@
 {
-    "count": 335,
+    "count": 337,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "4509981c-8f3f-41aa-8235-d08f5c79c6c0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4509981c-8f3f-41aa-8235-d08f5c79c6c0/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-optus-xtd7",
-            "name": "Falcon 9 Block 5 | Optus-X/TD7",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2024-11-17T22:28:00Z",
-            "window_end": "2024-11-17T23:27:00Z",
-            "window_start": "2024-11-17T21:29:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Optus-X/TD7",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
         {
             "id": "eddda4b4-c9af-4383-a97e-17372a0f39fc",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/eddda4b4-c9af-4383-a97e-17372a0f39fc/",
@@ -35,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-9-12",
             "name": "Falcon 9 Block 5 | Starlink Group 9-12",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-18T05:47:00Z",
+            "net": "2024-11-18T05:53:30Z",
             "window_end": "2024-11-18T09:46:10Z",
             "window_start": "2024-11-18T05:47:00Z",
             "lsp_name": "SpaceX",
@@ -57,17 +32,17 @@
             "id": "a0809bf8-a2f2-48e1-92da-1d8c21180e25",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a0809bf8-a2f2-48e1-92da-1d8c21180e25/",
             "launch_library_id": 1609,
-            "slug": "falcon-9-block-5-gsat-20",
-            "name": "Falcon 9 Block 5 | GSAT-20",
+            "slug": "falcon-9-block-5-gsat-20-gsat-n2",
+            "name": "Falcon 9 Block 5 | GSAT-20 (GSAT-N2)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-18T18:31:00Z",
             "window_end": "2024-11-18T20:20:00Z",
             "window_start": "2024-11-18T18:31:00Z",
             "lsp_name": "SpaceX",
-            "mission": "GSAT-20",
+            "mission": "GSAT-20 (GSAT-N2)",
             "mission_type": "Communications",
             "pad": "Space Launch Complex 40",
             "location": "Cape Canaveral SFS, FL, USA",
@@ -75,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20240102222613.jpeg",
             "infographic": null
         },
         {
@@ -101,31 +76,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/superheavy_appr_image_20241013171532.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "f82304b2-5f3c-4753-b8ee-aee69323f7fb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f82304b2-5f3c-4753-b8ee-aee69323f7fb/",
-            "launch_library_id": null,
-            "slug": "haste-leidos-2",
-            "name": "HASTE | Leidos-2",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-11-20T00:45:00Z",
-            "window_end": "2024-11-20T06:00:00Z",
-            "window_start": "2024-11-20T00:45:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Leidos-2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Flight Facility, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -179,6 +129,31 @@
             "infographic": null
         },
         {
+            "id": "f82304b2-5f3c-4753-b8ee-aee69323f7fb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f82304b2-5f3c-4753-b8ee-aee69323f7fb/",
+            "launch_library_id": null,
+            "slug": "haste-leidos-2",
+            "name": "HASTE | Leidos-2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-22T00:45:00Z",
+            "window_end": "2024-11-22T06:00:00Z",
+            "window_start": "2024-11-22T00:45:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Leidos-2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Flight Facility, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
             "id": "f2e861e9-f956-4bad-8318-3d669ba5aedb",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f2e861e9-f956-4bad-8318-3d669ba5aedb/",
             "launch_library_id": null,
@@ -204,6 +179,31 @@
             "infographic": null
         },
         {
+            "id": "1631e31c-70cc-42b5-9737-31e5f243a563",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1631e31c-70cc-42b5-9737-31e5f243a563/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-28",
+            "name": "New Shepard | NS-28",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-22T15:30:00Z",
+            "window_end": "2024-11-22T15:30:00Z",
+            "window_start": "2024-11-22T15:30:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-28",
+            "mission_type": "Suborbital",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, Van Horn, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
+            "infographic": null
+        },
+        {
             "id": "5d63efa7-7cb4-4a00-ad96-9929cf027041",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/5d63efa7-7cb4-4a00-ad96-9929cf027041/",
             "launch_library_id": null,
@@ -213,13 +213,13 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-11-23T03:49:00Z",
-            "window_end": "2024-11-23T03:49:00Z",
-            "window_start": "2024-11-23T03:49:00Z",
+            "net": "2024-11-23T03:55:00Z",
+            "window_end": "2024-11-23T03:55:00Z",
+            "window_start": "2024-11-23T03:55:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Ice AIS Baby (Kin\u00e9is 11-15)",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
@@ -229,28 +229,28 @@
             "infographic": null
         },
         {
-            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
+            "id": "0e6efb5d-045a-4f4c-a79a-f6889f1cc960",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0e6efb5d-045a-4f4c-a79a-f6889f1cc960/",
             "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
+            "slug": "falcon-9-block-5-starlink-group-12-1",
+            "name": "Falcon 9 Block 5 | Starlink Group 12-1",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-11-30T00:00:00Z",
-            "window_end": "2024-11-30T00:00:00Z",
-            "window_start": "2024-11-30T00:00:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "net": "2024-11-24T09:59:00Z",
+            "window_end": "2024-11-24T13:59:00Z",
+            "window_start": "2024-11-24T09:59:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 12-1",
+            "mission_type": "Communications",
+            "pad": "Unknown Pad",
+            "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         }
     ]
