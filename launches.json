@@ -1,5 +1,5 @@
 {
-    "count": 337,
+    "count": 338,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "soyuz-21a-progress-ms-29-90p",
             "name": "Soyuz 2.1a | Progress MS-29 (90P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-21T12:22:24Z",
-            "window_end": "2024-11-21T12:22:24Z",
-            "window_start": "2024-11-21T12:22:24Z",
+            "net": "2024-11-21T12:22:23Z",
+            "window_end": "2024-11-21T12:22:23Z",
+            "window_start": "2024-11-21T12:22:23Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-29 (90P)",
             "mission_type": "Resupply",
@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-66",
             "name": "Falcon 9 Block 5 | Starlink Group 6-66",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-21T16:07:50Z",
             "window_end": "2024-11-21T19:49:00Z",
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "5d63efa7-7cb4-4a00-ad96-9929cf027041",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5d63efa7-7cb4-4a00-ad96-9929cf027041/",
-            "launch_library_id": null,
-            "slug": "electron-ice-ais-baby-kineis-11-15",
-            "name": "Electron | Ice AIS Baby (Kin\u00e9is 11-15)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-11-23T03:55:00Z",
-            "window_end": "2024-11-23T03:55:00Z",
-            "window_start": "2024-11-23T03:55:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Ice AIS Baby (Kin\u00e9is 11-15)",
-            "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "f2e861e9-f956-4bad-8318-3d669ba5aedb",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f2e861e9-f956-4bad-8318-3d669ba5aedb/",
             "launch_library_id": null,
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "5d63efa7-7cb4-4a00-ad96-9929cf027041",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5d63efa7-7cb4-4a00-ad96-9929cf027041/",
+            "launch_library_id": null,
+            "slug": "electron-ice-ais-baby-kineis-11-15",
+            "name": "Electron | Ice AIS Baby (Kin\u00e9is 11-15)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-24T03:55:00Z",
+            "window_end": "2024-11-24T03:55:00Z",
+            "window_start": "2024-11-24T03:55:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Ice AIS Baby (Kin\u00e9is 11-15)",
+            "mission_type": "Communications",
+            "pad": "Rocket Lab Launch Complex 1B",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
