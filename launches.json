@@ -1,83 +1,8 @@
 {
-    "count": 338,
+    "count": 337,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "71751e1c-92ff-4484-b299-eb9dab7a4020",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/71751e1c-92ff-4484-b299-eb9dab7a4020/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-progress-ms-29-90p",
-            "name": "Soyuz 2.1a | Progress MS-29 (90P)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-21T12:22:23Z",
-            "window_end": "2024-11-21T12:22:23Z",
-            "window_start": "2024-11-21T12:22:23Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Progress MS-29 (90P)",
-            "mission_type": "Resupply",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "168b41aa-14bd-4001-a47d-bfe69c4c20e6",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/168b41aa-14bd-4001-a47d-bfe69c4c20e6/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-66",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-66",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-21T16:07:50Z",
-            "window_end": "2024-11-21T19:49:00Z",
-            "window_start": "2024-11-21T16:07:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-66",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "f82304b2-5f3c-4753-b8ee-aee69323f7fb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f82304b2-5f3c-4753-b8ee-aee69323f7fb/",
-            "launch_library_id": null,
-            "slug": "haste-leidos-2",
-            "name": "HASTE | Leidos-2",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-11-22T00:45:00Z",
-            "window_end": "2024-11-22T06:00:00Z",
-            "window_start": "2024-11-22T00:45:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Leidos-2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Flight Facility, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
         {
             "id": "1631e31c-70cc-42b5-9737-31e5f243a563",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/1631e31c-70cc-42b5-9737-31e5f243a563/",
@@ -85,12 +10,12 @@
             "slug": "new-shepard-ns-28",
             "name": "New Shepard | NS-28",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-22T15:30:00Z",
-            "window_end": "2024-11-22T15:30:00Z",
-            "window_start": "2024-11-22T15:30:00Z",
+            "window_end": "2024-11-22T22:30:00Z",
+            "window_start": "2024-11-22T14:30:00Z",
             "lsp_name": "Blue Origin",
             "mission": "NS-28",
             "mission_type": "Suborbital",
@@ -101,6 +26,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f82304b2-5f3c-4753-b8ee-aee69323f7fb",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f82304b2-5f3c-4753-b8ee-aee69323f7fb/",
+            "launch_library_id": null,
+            "slug": "haste-leidos-2",
+            "name": "HASTE | Leidos-2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-24T03:00:00Z",
+            "window_end": "2024-11-24T07:30:00Z",
+            "window_start": "2024-11-24T03:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Leidos-2",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Flight Facility, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -229,6 +179,31 @@
             "infographic": null
         },
         {
+            "id": "b9d13dc2-3e87-4fa7-be01-32b2cb546595",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9d13dc2-3e87-4fa7-be01-32b2cb546595/",
+            "launch_library_id": null,
+            "slug": "zhuque-2e-unknown-payload",
+            "name": "Zhuque-2E | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-11-27T02:00:00Z",
+            "window_end": "2024-11-27T03:09:00Z",
+            "window_start": "2024-11-27T01:51:00Z",
+            "lsp_name": "LandSpace",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 96",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": null,
+            "infographic": null
+        },
+        {
             "id": "66475296-048d-480b-b886-3644c1a1b6a4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/66475296-048d-480b-b886-3644c1a1b6a4/",
             "launch_library_id": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "infographic": null
+        },
+        {
+            "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
+            "launch_library_id": null,
+            "slug": "ceres-1-unknown-payload",
+            "name": "Ceres-1 | Unknown Payload",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-30T00:00:00Z",
+            "window_end": "2024-11-30T00:00:00Z",
+            "window_start": "2024-11-30T00:00:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         }
     ]
