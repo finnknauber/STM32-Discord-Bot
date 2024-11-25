@@ -1,81 +1,31 @@
 {
-    "count": 339,
+    "count": 337,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "f2e861e9-f956-4bad-8318-3d669ba5aedb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f2e861e9-f956-4bad-8318-3d669ba5aedb/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-9-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 9-13",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-24T05:25:30Z",
-            "window_end": "2024-11-24T07:26:00Z",
-            "window_start": "2024-11-24T03:26:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 9-13",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "f82304b2-5f3c-4753-b8ee-aee69323f7fb",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f82304b2-5f3c-4753-b8ee-aee69323f7fb/",
-            "launch_library_id": null,
-            "slug": "haste-leidos-2",
-            "name": "HASTE | Leidos-2",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-11-24T06:00:00Z",
-            "window_end": "2024-11-24T07:30:00Z",
-            "window_start": "2024-11-24T03:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "Leidos-2",
-            "mission_type": "Government/Top Secret",
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Flight Facility, Virginia, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
             "id": "2b9719f8-91ea-46b0-bfbd-5793f7a4abea",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2b9719f8-91ea-46b0-bfbd-5793f7a4abea/",
             "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
+            "slug": "long-march-2c-superview-neo-2-03-04",
+            "name": "Long March 2C | SuperView Neo 2-03 & 04",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-24T23:40:00Z",
+            "net": "2024-11-24T23:39:00Z",
             "window_end": "2024-11-24T23:59:00Z",
             "window_start": "2024-11-24T23:26:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "SuperView Neo 2-03 & 04",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2_image_20230803100234.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-2c_liftoff__image_20241125143243.jpg",
             "infographic": null
         },
         {
@@ -85,8 +35,8 @@
             "slug": "electron-ice-ais-baby-kineis-11-15",
             "name": "Electron | Ice AIS Baby (Kin\u00e9is 11-15)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-25T03:55:00Z",
             "window_end": "2024-11-25T03:55:00Z",
@@ -100,7 +50,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_liftof_image_20241125103858.jpg",
             "infographic": null
         },
         {
@@ -110,10 +60,10 @@
             "slug": "falcon-9-block-5-starlink-group-12-1",
             "name": "Falcon 9 Block 5 | Starlink Group 12-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-25T09:35:30Z",
+            "net": "2024-11-25T10:02:20Z",
             "window_end": "2024-11-25T13:32:00Z",
             "window_start": "2024-11-25T09:32:00Z",
             "lsp_name": "SpaceX",
@@ -138,7 +88,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-11-26T03:31:00Z",
+            "net": "2024-11-26T03:35:00Z",
             "window_end": "2024-11-26T07:31:00Z",
             "window_start": "2024-11-26T03:31:00Z",
             "lsp_name": "SpaceX",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
+            "infographic": null
+        },
+        {
+            "id": "7beb2fcf-acb3-4cf1-b31b-f2655416d1ed",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/7beb2fcf-acb3-4cf1-b31b-f2655416d1ed/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-65",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-65",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-30T05:00:00Z",
+            "window_end": "2024-11-30T09:00:00Z",
+            "window_start": "2024-11-30T05:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-65",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "fed1b36f-965c-46ac-bb4d-8154930c4492",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fed1b36f-965c-46ac-bb4d-8154930c4492/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-nrol-126",
+            "name": "Falcon 9 Block 5 | NROL-126",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-11-30T08:08:00Z",
+            "window_end": "2024-11-30T12:08:00Z",
+            "window_start": "2024-11-30T08:08:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "NROL-126",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
             "infographic": null
         }
     ]
