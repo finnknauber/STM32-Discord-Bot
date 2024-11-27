@@ -1,5 +1,5 @@
 {
-    "count": 343,
+    "count": 345,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,18 +7,18 @@
             "id": "b9d13dc2-3e87-4fa7-be01-32b2cb546595",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b9d13dc2-3e87-4fa7-be01-32b2cb546595/",
             "launch_library_id": null,
-            "slug": "zhuque-2e-unknown-payload",
-            "name": "Zhuque-2E | Unknown Payload",
+            "slug": "zhuque-2e-guangchuan-01-02",
+            "name": "Zhuque-2E | Guangchuan-01 & 02",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-11-27T02:00:00Z",
             "window_end": "2024-11-27T03:09:00Z",
             "window_start": "2024-11-27T01:51:00Z",
             "lsp_name": "LandSpace",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "Guangchuan-01 & 02",
+            "mission_type": "Technology",
             "pad": "Launch Area 96",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -35,10 +35,10 @@
             "slug": "falcon-9-block-5-starlink-group-6-76",
             "name": "Falcon 9 Block 5 | Starlink Group 6-76",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-11-27T03:05:00Z",
+            "net": "2024-11-27T04:41:30Z",
             "window_end": "2024-11-27T06:30:00Z",
             "window_start": "2024-11-27T03:05:00Z",
             "lsp_name": "SpaceX",
@@ -63,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-11-27T19:00:00Z",
-            "window_end": "2024-11-27T21:00:00Z",
-            "window_start": "2024-11-27T19:00:00Z",
+            "net": "2024-11-28T19:00:00Z",
+            "window_end": "2024-11-28T21:00:00Z",
+            "window_start": "2024-11-28T19:00:00Z",
             "lsp_name": "Russian Space Forces",
             "mission": "Kosmos (Unknown Payload)",
             "mission_type": "Government/Top Secret",
@@ -100,7 +100,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz25202.1a_image_20190726062341.png",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_on_the_la_image_20241127185454.jpg",
             "infographic": null
         },
         {
@@ -204,28 +204,28 @@
             "infographic": null
         },
         {
-            "id": "aa79ad61-9276-4c14-8d01-40fd348d641e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa79ad61-9276-4c14-8d01-40fd348d641e/",
+            "id": "351bf216-4cae-49df-82d0-9afaeb5df0f2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/351bf216-4cae-49df-82d0-9afaeb5df0f2/",
             "launch_library_id": null,
-            "slug": "vega-c-sentinel-1c",
-            "name": "Vega-C | Sentinel-1C",
+            "slug": "long-march-3be-unknown-payload",
+            "name": "Long March 3B/E | Unknown Payload",
             "status": {
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-12-03T21:20:00Z",
-            "window_end": "2024-12-03T21:20:00Z",
-            "window_start": "2024-12-03T21:20:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Sentinel-1C",
-            "mission_type": "Earth Science",
-            "pad": "Ariane Launch Area 1 (ELV)",
-            "location": "Guiana Space Centre, French Guiana",
+            "net": "2024-12-03T05:55:00Z",
+            "window_end": "2024-12-03T06:21:00Z",
+            "window_start": "2024-12-03T05:46:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 2 (LC-2)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
             "infographic": null
         },
         {
