@@ -1,5 +1,5 @@
 {
-    "count": 346,
+    "count": 347,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "soyuz-21afregat-m-kondor-fka-no2",
             "name": "Soyuz 2.1a/Fregat-M | Kondor-FKA No.2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2024-11-29T21:50:25Z",
             "window_end": "2024-11-29T21:50:25Z",
@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-6-65",
             "name": "Falcon 9 Block 5 | Starlink Group 6-65",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-11-30T05:00:00Z",
             "window_end": "2024-11-30T09:00:00Z",
@@ -204,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "fb9a85a6-209d-4433-a1a3-906e5cbceaf0",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fb9a85a6-209d-4433-a1a3-906e5cbceaf0/",
+            "launch_library_id": null,
+            "slug": "kuaizhou-1a-unknown-payload",
+            "name": "Kuaizhou-1A | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-12-04T04:50:00Z",
+            "window_end": "2024-12-04T05:21:00Z",
+            "window_start": "2024-12-04T04:36:00Z",
+            "lsp_name": "ExPace",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Mobile Launcher Pad",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_image_20191027094423.jpeg",
+            "infographic": null
+        },
+        {
             "id": "f50d89cf-7c9a-4b7e-bc6e-f7e59950995d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f50d89cf-7c9a-4b7e-bc6e-f7e59950995d/",
             "launch_library_id": null,
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "2a780cb9-9bf9-4537-927e-389f1659a709",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2a780cb9-9bf9-4537-927e-389f1659a709/",
-            "launch_library_id": 1130,
-            "slug": "pslv-xl-proba-3",
-            "name": "PSLV-XL | Proba-3",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-12-04T10:38:00Z",
-            "window_end": "2024-12-04T10:38:00Z",
-            "window_start": "2024-12-04T10:38:00Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "Proba-3",
-            "mission_type": "Technology",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190224012254.jpeg",
             "infographic": null
         }
     ]
