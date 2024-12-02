@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "81fe0bdd-6a33-4976-9bad-4a1268400b1e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/81fe0bdd-6a33-4976-9bad-4a1268400b1e/",
-            "launch_library_id": null,
-            "slug": "long-march-6a-unknown-payload",
-            "name": "Long March 6A | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-12-02T04:55:00Z",
-            "window_end": "2024-12-02T05:06:00Z",
-            "window_start": "2024-12-02T04:45:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Complex 9A",
-            "location": "Taiyuan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-6a_liftoff__image_20241020123401.jpg",
-            "infographic": null
-        },
-        {
             "id": "351bf216-4cae-49df-82d0-9afaeb5df0f2",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/351bf216-4cae-49df-82d0-9afaeb5df0f2/",
             "launch_library_id": null,
@@ -246,6 +221,31 @@
             "mission_type": "Communications",
             "pad": "Space Launch Complex 4E",
             "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "d1b5f507-66a9-450a-86ac-b7b86c34eee4",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d1b5f507-66a9-450a-86ac-b7b86c34eee4/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-12-5",
+            "name": "Falcon 9 Block 5 | Starlink Group 12-5",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-08T05:10:00Z",
+            "window_end": "2024-12-08T09:10:00Z",
+            "window_start": "2024-12-08T05:10:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 12-5",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
