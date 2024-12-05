@@ -1,83 +1,8 @@
 {
-    "count": 343,
+    "count": 340,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "fb9a85a6-209d-4433-a1a3-906e5cbceaf0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fb9a85a6-209d-4433-a1a3-906e5cbceaf0/",
-            "launch_library_id": null,
-            "slug": "kuaizhou-1a-haishao-1",
-            "name": "Kuaizhou-1A | Haishao-1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-04T04:46:00Z",
-            "window_end": "2024-12-04T05:21:00Z",
-            "window_start": "2024-12-04T04:36:00Z",
-            "lsp_name": "ExPace",
-            "mission": "Haishao-1",
-            "mission_type": "Earth Science",
-            "pad": "Mobile Launcher Pad",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kuaizhou_image_20191027094423.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "f50d89cf-7c9a-4b7e-bc6e-f7e59950995d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f50d89cf-7c9a-4b7e-bc6e-f7e59950995d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-70",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-70",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-04T10:13:10Z",
-            "window_end": "2024-12-04T12:29:00Z",
-            "window_start": "2024-12-04T08:29:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-70",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "66475296-048d-480b-b886-3644c1a1b6a4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/66475296-048d-480b-b886-3644c1a1b6a4/",
-            "launch_library_id": null,
-            "slug": "soyuz-21b-kosmos-unknown-payload",
-            "name": "Soyuz 2.1b | Kosmos (Unknown Payload)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-04T17:59:00Z",
-            "window_end": "2024-12-04T19:00:00Z",
-            "window_start": "2024-12-04T16:00:00Z",
-            "lsp_name": "Russian Space Forces",
-            "mission": "Kosmos (Unknown Payload)",
-            "mission_type": "Government/Top Secret",
-            "pad": "Unknown Pad",
-            "location": "Plesetsk Cosmodrome, Russian Federation",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
-            "infographic": null
-        },
         {
             "id": "a757f8b0-4e5c-4223-bc27-361a8206a3bf",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a757f8b0-4e5c-4223-bc27-361a8206a3bf/",
@@ -85,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-9-14",
             "name": "Falcon 9 Block 5 | Starlink Group 9-14",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-12-05T03:05:00Z",
             "window_end": "2024-12-05T04:06:00Z",
@@ -107,18 +32,18 @@
             "id": "81fe0bdd-6a33-4976-9bad-4a1268400b1e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/81fe0bdd-6a33-4976-9bad-4a1268400b1e/",
             "launch_library_id": null,
-            "slug": "long-march-6a-unknown-payload",
-            "name": "Long March 6A | Unknown Payload",
+            "slug": "long-march-6a-g60-polar-group-03",
+            "name": "Long March 6A | G60 Polar Group 03",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-12-05T04:45:00Z",
+            "net": "2024-12-05T04:41:00Z",
             "window_end": "2024-12-05T04:58:00Z",
             "window_start": "2024-12-05T04:32:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "G60 Polar Group 03",
+            "mission_type": "Communications",
             "pad": "Launch Complex 9A",
             "location": "Taiyuan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -135,8 +60,8 @@
             "slug": "pslv-xl-proba-3",
             "name": "PSLV-XL | Proba-3",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-12-05T10:34:00Z",
             "window_end": "2024-12-05T10:34:00Z",
@@ -160,8 +85,8 @@
             "slug": "falcon-9-block-5-sirius-sxm-9",
             "name": "Falcon 9 Block 5 | Sirius SXM-9",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2024-12-05T16:10:00Z",
             "window_end": "2024-12-05T17:40:00Z",
@@ -185,8 +110,8 @@
             "slug": "vega-c-sentinel-1c",
             "name": "Vega-C | Sentinel-1C",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2024-12-05T21:20:33Z",
             "window_end": "2024-12-05T21:20:33Z",
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "2baf1b13-6159-4640-864d-7959f9bfe978",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/2baf1b13-6159-4640-864d-7959f9bfe978/",
+            "launch_library_id": null,
+            "slug": "kairos-flight-2",
+            "name": "KAIROS | Flight 2",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-12-14T02:00:00Z",
+            "window_end": "2024-12-14T02:20:00Z",
+            "window_start": "2024-12-14T02:00:00Z",
+            "lsp_name": "Space One",
+            "mission": "Flight 2",
+            "mission_type": "Test Flight",
+            "pad": "Space One Launch Pad",
+            "location": "Spaceport Kii, Japan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/kairos_image_20240216144656.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "af1466bb-289b-40b3-b83c-102b3a7af047",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/af1466bb-289b-40b3-b83c-102b3a7af047/",
+            "launch_library_id": null,
+            "slug": "electron-owl-the-way-up-strix-launch-6",
+            "name": "Electron | Owl The Way Up (StriX Launch 6)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-17T00:00:00Z",
+            "window_end": "2024-12-17T00:00:00Z",
+            "window_start": "2024-12-17T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "StriX Launch 6",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "644eaa0e-7c09-4be1-980c-ab5c2a07acce",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/644eaa0e-7c09-4be1-980c-ab5c2a07acce/",
+            "launch_library_id": null,
+            "slug": "pslv-spadex-space-docking-experiment",
+            "name": "PSLV | SPADEX (Space Docking Experiment)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-20T00:00:00Z",
+            "window_end": "2024-12-20T00:00:00Z",
+            "window_start": "2024-12-20T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "SPADEX (Space Docking Experiment)",
+            "mission_type": "Technology",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190508083736.jpeg",
             "infographic": null
         }
     ]
