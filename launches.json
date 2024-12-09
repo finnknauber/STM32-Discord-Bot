@@ -1,33 +1,8 @@
 {
-    "count": 335,
+    "count": 333,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "d1b5f507-66a9-450a-86ac-b7b86c34eee4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d1b5f507-66a9-450a-86ac-b7b86c34eee4/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-5",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-5",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-08T05:12:30Z",
-            "window_end": "2024-12-08T09:02:20Z",
-            "window_start": "2024-12-08T05:12:30Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-5",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
@@ -250,6 +225,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "05864985-e660-4723-b489-32a78d4b53fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/05864985-e660-4723-b489-32a78d4b53fc/",
+            "launch_library_id": null,
+            "slug": "gaganyaan-abort-test-booster-tv-d2",
+            "name": "Gaganyaan Abort Test Booster | TV-D2",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-31T00:00:00Z",
+            "window_end": "2024-12-31T00:00:00Z",
+            "window_start": "2024-12-31T00:00:00Z",
+            "lsp_name": "Indian Space Research Organization",
+            "mission": "TV-D2",
+            "mission_type": "Test Flight",
+            "pad": "Satish Dhawan Space Centre First Launch Pad",
+            "location": "Satish Dhawan Space Centre, India",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/gaganyaan_abort_image_20231021132156.jpeg",
             "infographic": null
         }
     ]
