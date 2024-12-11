@@ -1,5 +1,5 @@
 {
-    "count": 335,
+    "count": 334,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -54,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "8ee42a39-0851-4674-9815-95b62e9a2c4b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8ee42a39-0851-4674-9815-95b62e9a2c4b/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-o3b-mpower-7-8",
-            "name": "Falcon 9 Block 5 | O3b mPower 7 & 8",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-12-13T20:55:00Z",
-            "window_end": "2024-12-13T22:55:00Z",
-            "window_start": "2024-12-13T20:55:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "O3b mPower 7 & 8",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "99570ecf-f7e4-40ec-b84a-5758425a6d99",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/99570ecf-f7e4-40ec-b84a-5758425a6d99/",
             "launch_library_id": null,
@@ -88,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-12-13T23:30:00Z",
-            "window_end": "2024-12-14T03:30:00Z",
-            "window_start": "2024-12-13T23:30:00Z",
+            "net": "2024-12-14T01:04:00Z",
+            "window_end": "2024-12-14T01:04:00Z",
+            "window_start": "2024-12-14T01:04:00Z",
             "lsp_name": "SpaceX",
             "mission": "GPS III SV10",
             "mission_type": "Navigation",
@@ -179,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "8ee42a39-0851-4674-9815-95b62e9a2c4b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8ee42a39-0851-4674-9815-95b62e9a2c4b/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-o3b-mpower-7-8",
+            "name": "Falcon 9 Block 5 | O3b mPower 7 & 8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-15T20:58:00Z",
+            "window_end": "2024-12-15T22:56:00Z",
+            "window_start": "2024-12-15T20:58:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "O3b mPower 7 & 8",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
             "id": "a889a7d1-844f-40c5-adcc-4bc54f43a51d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a889a7d1-844f-40c5-adcc-4bc54f43a51d/",
             "launch_library_id": null,
@@ -204,31 +204,6 @@
             "infographic": null
         },
         {
-            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-4x-astranis-microgeo",
-            "name": "Falcon 9 Block 5 | 4x Astranis MicroGEO",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-12-17T03:37:00Z",
-            "window_end": "2024-12-17T07:56:00Z",
-            "window_start": "2024-12-17T03:37:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "4x Astranis MicroGEO",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "af1466bb-289b-40b3-b83c-102b3a7af047",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/af1466bb-289b-40b3-b83c-102b3a7af047/",
             "launch_library_id": null,
@@ -244,13 +219,38 @@
             "lsp_name": "Rocket Lab",
             "mission": "StriX Launch 6",
             "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-4x-astranis-microgeo",
+            "name": "Falcon 9 Block 5 | 4x Astranis MicroGEO",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-18T03:38:00Z",
+            "window_end": "2024-12-18T07:57:00Z",
+            "window_start": "2024-12-18T03:38:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "4x Astranis MicroGEO",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
