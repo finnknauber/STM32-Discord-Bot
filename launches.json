@@ -7,25 +7,25 @@
             "id": "2de44368-01af-448f-b0fb-d7aacdd86c0e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2de44368-01af-448f-b0fb-d7aacdd86c0e/",
             "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
+            "slug": "long-march-2dyz-3-high-speed-laser-diamond-constel",
+            "name": "Long March 2D/YZ-3 | High Speed Laser Diamond Constellation Test System",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-12-12T07:20:00Z",
+            "net": "2024-12-12T07:17:00Z",
             "window_end": "2024-12-12T09:57:00Z",
             "window_start": "2024-12-12T07:08:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 95A",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "High Speed Laser Diamond Constellation Test System",
+            "mission_type": "Technology",
+            "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_2d2_image_20231123203521.jpeg",
             "infographic": null
         },
         {
@@ -38,9 +38,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-12-12T19:33:00Z",
-            "window_end": "2024-12-12T23:33:00Z",
-            "window_start": "2024-12-12T19:33:00Z",
+            "net": "2024-12-13T19:10:00Z",
+            "window_end": "2024-12-13T23:10:00Z",
+            "window_start": "2024-12-13T19:10:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 11-2",
             "mission_type": "Communications",
@@ -51,6 +51,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "0fcf4d4c-6400-4587-b7a3-341e8e87c36e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/0fcf4d4c-6400-4587-b7a3-341e8e87c36e/",
+            "launch_library_id": null,
+            "slug": "haste-stonehenge",
+            "name": "HASTE | Stonehenge",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-12-14T00:45:00Z",
+            "window_end": "2024-12-14T05:00:00Z",
+            "window_start": "2024-12-14T00:45:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Stonehenge",
+            "mission_type": "Government/Top Secret",
+            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
+            "location": "Wallops Flight Facility, Virginia, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
@@ -129,31 +154,6 @@
             "infographic": null
         },
         {
-            "id": "fa0a0d60-44a0-4a59-8828-d3407d520a42",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fa0a0d60-44a0-4a59-8828-d3407d520a42/",
-            "launch_library_id": null,
-            "slug": "long-march-5byz-2-satnet-leo-group-01",
-            "name": "Long March 5B/YZ-2 | SatNet LEO Group 01",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-12-15T00:00:00Z",
-            "window_end": "2024-12-15T00:00:00Z",
-            "window_start": "2024-12-15T00:00:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "SatNet LEO Group 01",
-            "mission_type": "Communications",
-            "pad": "101",
-            "location": "Wenchang Space Launch Site, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_5b_image_20210428182650.JPG",
-            "infographic": null
-        },
-        {
             "id": "8ee42a39-0851-4674-9815-95b62e9a2c4b",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8ee42a39-0851-4674-9815-95b62e9a2c4b/",
             "launch_library_id": null,
@@ -164,7 +164,7 @@
                 "name": "TBD"
             },
             "net": "2024-12-15T20:58:00Z",
-            "window_end": "2024-12-15T22:56:00Z",
+            "window_end": "2024-12-15T22:18:00Z",
             "window_start": "2024-12-15T20:58:00Z",
             "lsp_name": "SpaceX",
             "mission": "O3b mPower 7 & 8",
@@ -204,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "fa0a0d60-44a0-4a59-8828-d3407d520a42",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fa0a0d60-44a0-4a59-8828-d3407d520a42/",
+            "launch_library_id": null,
+            "slug": "long-march-5byz-2-satnet-leo-group-01",
+            "name": "Long March 5B/YZ-2 | SatNet LEO Group 01",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-12-16T10:00:00Z",
+            "window_end": "2024-12-16T12:14:00Z",
+            "window_start": "2024-12-16T10:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "SatNet LEO Group 01",
+            "mission_type": "Communications",
+            "pad": "101",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_5b_image_20210428182650.JPG",
+            "infographic": null
+        },
+        {
             "id": "af1466bb-289b-40b3-b83c-102b3a7af047",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/af1466bb-289b-40b3-b83c-102b3a7af047/",
             "launch_library_id": null,
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-4x-astranis-microgeo",
-            "name": "Falcon 9 Block 5 | 4x Astranis MicroGEO",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-12-18T03:38:00Z",
-            "window_end": "2024-12-18T07:57:00Z",
-            "window_start": "2024-12-18T03:38:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "4x Astranis MicroGEO",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
