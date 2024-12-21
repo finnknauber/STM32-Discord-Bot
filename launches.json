@@ -4,64 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "bf8f8957-5e45-4139-99bc-652af890341b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/bf8f8957-5e45-4139-99bc-652af890341b/",
-            "launch_library_id": null,
-            "slug": "long-march-3be-tjsw-12",
-            "name": "Long March 3B/E | TJSW-12",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-20T15:12:00Z",
-            "window_end": "2024-12-20T16:01:00Z",
-            "window_start": "2024-12-20T15:03:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "TJSW-12",
-            "mission_type": "Government/Top Secret",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-3b_liftoff__image_20241220182439.jpg",
-            "infographic": null
-        },
-        {
-            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-astranis-from-one-to-many-4x-astr",
-            "name": "Falcon 9 Block 5 | Astranis: From One to Many (4x Astranis MicroGEO)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-12-21T03:39:00Z",
-            "window_end": "2024-12-21T07:28:00Z",
-            "window_start": "2024-12-21T03:39:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Astranis: From One to Many (4x Astranis MicroGEO)",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "50a1337c-db6f-4bf4-b7b0-919c9fca906e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/50a1337c-db6f-4bf4-b7b0-919c9fca906e/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-bandwagon-2-dedicated-mid-inclina",
             "name": "Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-12-21T11:34:24Z",
             "window_end": "2024-12-21T11:34:24Z",
@@ -85,10 +35,10 @@
             "slug": "electron-owl-the-way-up-strix-launch-6",
             "name": "Electron | Owl The Way Up (StriX Launch 6)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2024-12-21T14:00:00Z",
+            "net": "2024-12-21T14:17:00Z",
             "window_end": "2024-12-21T15:15:00Z",
             "window_start": "2024-12-21T14:00:00Z",
             "lsp_name": "Rocket Lab",
@@ -104,6 +54,31 @@
             "infographic": null
         },
         {
+            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-astranis-from-one-to-many-4x-astr",
+            "name": "Falcon 9 Block 5 | Astranis: From One to Many (4x Astranis MicroGEO)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-12-22T05:00:00Z",
+            "window_end": "2024-12-22T07:09:00Z",
+            "window_start": "2024-12-22T05:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Astranis: From One to Many (4x Astranis MicroGEO)",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241221043403.jpg",
+            "infographic": null
+        },
+        {
             "id": "9ba9d2de-f94b-4cca-b395-ee83b4b46b28",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9ba9d2de-f94b-4cca-b395-ee83b4b46b28/",
             "launch_library_id": null,
@@ -113,7 +88,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2024-12-23T05:00:00Z",
+            "net": "2024-12-23T05:35:30Z",
             "window_end": "2024-12-23T08:59:00Z",
             "window_start": "2024-12-23T05:00:00Z",
             "lsp_name": "SpaceX",
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20240331153244.jpg",
+            "infographic": null
+        },
+        {
+            "id": "18b49918-d2e0-4899-be7a-6c216952b8f3",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/18b49918-d2e0-4899-be7a-6c216952b8f3/",
+            "launch_library_id": null,
+            "slug": "kinetica-1-unknown-payload",
+            "name": "Kinetica 1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2024-12-26T01:05:00Z",
+            "window_end": "2024-12-26T01:16:00Z",
+            "window_start": "2024-12-26T00:53:00Z",
+            "lsp_name": "CAS Space",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 130",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
             "infographic": null
         },
         {
@@ -207,8 +207,8 @@
             "id": "644eaa0e-7c09-4be1-980c-ab5c2a07acce",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/644eaa0e-7c09-4be1-980c-ab5c2a07acce/",
             "launch_library_id": null,
-            "slug": "pslv-spadex-space-docking-experiment",
-            "name": "PSLV | SPADEX (Space Docking Experiment)",
+            "slug": "pslv-ca-spadex-space-docking-experiment",
+            "name": "PSLV-CA | SPADEX (Space Docking Experiment)",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -225,15 +225,15 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20190508083736.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20230730102956.jpeg",
             "infographic": null
         },
         {
-            "id": "04522dea-1450-48f5-bc9d-2d7f1e637f9b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/04522dea-1450-48f5-bc9d-2d7f1e637f9b/",
+            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
             "launch_library_id": null,
-            "slug": "haste-leidos-3",
-            "name": "HASTE | Leidos-3",
+            "slug": "new-glenn-maiden-flight",
+            "name": "New Glenn | Maiden Flight",
             "status": {
                 "id": 2,
                 "name": "TBD"
@@ -241,15 +241,16 @@
             "net": "2024-12-31T00:00:00Z",
             "window_end": "2024-12-31T00:00:00Z",
             "window_start": "2024-12-31T00:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": null,
-            "pad": "Rocket Lab Launch Complex 2 (Launch Area 0 C)",
-            "location": "Wallops Flight Facility, Virginia, USA",
+            "lsp_name": "Blue Origin",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 36A",
+            "location": "Cape Canaveral SFS, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
             "infographic": null
         }
     ]
