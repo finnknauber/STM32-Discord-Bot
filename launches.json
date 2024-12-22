@@ -1,83 +1,8 @@
 {
-    "count": 330,
+    "count": 328,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "50a1337c-db6f-4bf4-b7b0-919c9fca906e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/50a1337c-db6f-4bf4-b7b0-919c9fca906e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-bandwagon-2-dedicated-mid-inclina",
-            "name": "Falcon 9 Block 5 | Bandwagon 2 (Dedicated Mid-Inclination Rideshare)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-21T11:34:24Z",
-            "window_end": "2024-12-21T11:34:24Z",
-            "window_start": "2024-12-21T11:34:24Z",
-            "lsp_name": "SpaceX",
-            "mission": "Bandwagon 2 (Dedicated Mid-Inclination Rideshare)",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_at_slc_image_20241220183145.jpg",
-            "infographic": null
-        },
-        {
-            "id": "af1466bb-289b-40b3-b83c-102b3a7af047",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/af1466bb-289b-40b3-b83c-102b3a7af047/",
-            "launch_library_id": null,
-            "slug": "electron-owl-the-way-up-strix-launch-6",
-            "name": "Electron | Owl The Way Up (StriX Launch 6)",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2024-12-21T14:17:00Z",
-            "window_end": "2024-12-21T15:15:00Z",
-            "window_start": "2024-12-21T14:00:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "StriX Launch 6",
-            "mission_type": "Earth Science",
-            "pad": "Rocket Lab Launch Complex 1B",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-astranis-from-one-to-many-4x-astr",
-            "name": "Falcon 9 Block 5 | Astranis: From One to Many (4x Astranis MicroGEO)",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2024-12-22T05:00:00Z",
-            "window_end": "2024-12-22T07:09:00Z",
-            "window_start": "2024-12-22T05:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Astranis: From One to Many (4x Astranis MicroGEO)",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241221043403.jpg",
-            "infographic": null
-        },
         {
             "id": "9ba9d2de-f94b-4cca-b395-ee83b4b46b28",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/9ba9d2de-f94b-4cca-b395-ee83b4b46b28/",
@@ -85,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-12-2",
             "name": "Falcon 9 Block 5 | Starlink Group 12-2",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-12-23T05:35:30Z",
-            "window_end": "2024-12-23T08:59:00Z",
-            "window_start": "2024-12-23T05:00:00Z",
+            "window_end": "2024-12-23T08:21:20Z",
+            "window_start": "2024-12-23T05:35:30Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-2",
             "mission_type": "Communications",
@@ -113,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2024-12-25T07:45:00Z",
-            "window_end": "2024-12-25T07:45:00Z",
-            "window_start": "2024-12-25T07:45:00Z",
+            "net": "2024-12-25T07:45:42Z",
+            "window_end": "2024-12-25T07:45:42Z",
+            "window_start": "2024-12-25T07:45:42Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Resurs-P No.5",
             "mission_type": "Earth Science",
@@ -229,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "33bf462e-796f-441c-bc36-206ba52bb90e",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/33bf462e-796f-441c-bc36-206ba52bb90e/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-astranis-from-one-to-many-4x-astr",
+            "name": "Falcon 9 Block 5 | Astranis: From One to Many (4x Astranis MicroGEO)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2024-12-31T00:00:00Z",
+            "window_end": "2024-12-31T00:00:00Z",
+            "window_start": "2024-12-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Astranis: From One to Many (4x Astranis MicroGEO)",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241221043403.jpg",
+            "infographic": null
+        },
+        {
             "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
             "launch_library_id": null,
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "02b28510-be7b-43c1-ab97-b3671ab6813d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/02b28510-be7b-43c1-ab97-b3671ab6813d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-transporter-12-dedicated-sso-ride",
+            "name": "Falcon 9 Block 5 | Transporter 12 (Dedicated SSO Rideshare)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-31T00:00:00Z",
+            "window_end": "2025-01-31T00:00:00Z",
+            "window_start": "2025-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Transporter 12 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "1bb05be3-e862-44e2-8aac-0120a46904de",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1bb05be3-e862-44e2-8aac-0120a46904de/",
+            "launch_library_id": null,
+            "slug": "long-march-8-g60-group-tbd",
+            "name": "Long March 8 | G60 Group TBD",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-31T00:00:00Z",
+            "window_end": "2025-01-31T00:00:00Z",
+            "window_start": "2025-01-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "G60 Group TBD",
+            "mission_type": "Communications",
+            "pad": "Commercial LC-1",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg",
             "infographic": null
         }
     ]
