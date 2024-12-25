@@ -10,8 +10,8 @@
             "slug": "soyuz-21b-resurs-p-no5",
             "name": "Soyuz 2.1b | Resurs-P No.5",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-12-25T07:45:42Z",
             "window_end": "2024-12-25T07:45:42Z",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20240331153244.jpg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_lift_image_20241225121717.jpg",
             "infographic": null
         },
         {
