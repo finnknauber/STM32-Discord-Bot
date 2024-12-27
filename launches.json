@@ -7,18 +7,18 @@
             "id": "18b49918-d2e0-4899-be7a-6c216952b8f3",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/18b49918-d2e0-4899-be7a-6c216952b8f3/",
             "launch_library_id": null,
-            "slug": "kinetica-1-unknown-payload",
-            "name": "Kinetica 1 | Unknown Payload",
+            "slug": "kinetica-1-dear-3-10-other-satellites",
+            "name": "Kinetica 1 | DEAR-3 & 10 other satellites",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
-            "net": "2024-12-27T01:03:00Z",
+            "net": "2024-12-27T01:03:31Z",
             "window_end": "2024-12-27T01:16:00Z",
             "window_start": "2024-12-27T00:53:00Z",
             "lsp_name": "CAS Space",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "DEAR-3 & 10 other satellites",
+            "mission_type": "Technology",
             "pad": "Launch Area 130",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -35,11 +35,11 @@
             "slug": "falcon-9-block-5-starlink-group-11-3",
             "name": "Falcon 9 Block 5 | Starlink Group 11-3",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2024-12-29T01:58:00Z",
-            "window_end": "2024-12-29T06:06:00Z",
+            "net": "2024-12-29T01:48:50Z",
+            "window_end": "2024-12-29T05:31:00Z",
             "window_start": "2024-12-29T01:35:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 11-3",
@@ -60,11 +60,11 @@
             "slug": "falcon-9-block-5-astranis-from-one-to-many-4x-astr",
             "name": "Falcon 9 Block 5 | Astranis: From One to Many (4x Astranis MicroGEO)",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-12-29T05:00:00Z",
-            "window_end": "2024-12-29T08:02:00Z",
+            "window_end": "2024-12-29T07:30:00Z",
             "window_start": "2024-12-29T05:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Astranis: From One to Many (4x Astranis MicroGEO)",
@@ -85,11 +85,11 @@
             "slug": "falcon-9-block-5-starlink-group-12-6",
             "name": "Falcon 9 Block 5 | Starlink Group 12-6",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2024-12-30T05:00:00Z",
-            "window_end": "2024-12-30T08:59:00Z",
+            "window_end": "2024-12-30T08:28:00Z",
             "window_start": "2024-12-30T05:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-6",
@@ -129,31 +129,6 @@
             "infographic": null
         },
         {
-            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
-            "launch_library_id": null,
-            "slug": "new-glenn-maiden-flight",
-            "name": "New Glenn | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2024-12-31T00:00:00Z",
-            "window_end": "2024-12-31T00:00:00Z",
-            "window_start": "2024-12-31T00:00:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Complex 36A",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-            "infographic": null
-        },
-        {
             "id": "0a9a511a-7ea1-4402-8555-e087f580a5c4",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/0a9a511a-7ea1-4402-8555-e087f580a5c4/",
             "launch_library_id": null,
@@ -176,6 +151,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "c5566f6e-606e-4250-b8f4-477c5d82c798",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c5566f6e-606e-4250-b8f4-477c5d82c798/",
+            "launch_library_id": null,
+            "slug": "starship-flight-7",
+            "name": "Starship | Flight 7",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-10T22:00:00Z",
+            "window_end": "2025-01-10T23:37:00Z",
+            "window_start": "2025-01-10T22:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Flight 7",
+            "mission_type": "Test Flight",
+            "pad": "Orbital Launch Mount A",
+            "location": "SpaceX Starbase, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_liftof_image_20241121081619.jpg",
             "infographic": null
         },
         {
