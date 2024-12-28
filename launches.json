@@ -1,33 +1,8 @@
 {
-    "count": 328,
+    "count": 327,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "18b49918-d2e0-4899-be7a-6c216952b8f3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/18b49918-d2e0-4899-be7a-6c216952b8f3/",
-            "launch_library_id": null,
-            "slug": "kinetica-1-dear-3-10-other-satellites",
-            "name": "Kinetica 1 | DEAR-3 & 10 other satellites",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2024-12-27T01:03:31Z",
-            "window_end": "2024-12-27T01:16:00Z",
-            "window_start": "2024-12-27T00:53:00Z",
-            "lsp_name": "CAS Space",
-            "mission": "DEAR-3 & 10 other satellites",
-            "mission_type": "Technology",
-            "pad": "Launch Area 130",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/zhongke-1a_image_20220912002218.png",
-            "infographic": null
-        },
         {
             "id": "eea43b3f-eddc-437a-ada5-8e23286f1eef",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/eea43b3f-eddc-437a-ada5-8e23286f1eef/",
@@ -139,7 +114,7 @@
                 "name": "TBD"
             },
             "net": "2025-01-02T05:00:00Z",
-            "window_end": "2025-01-02T05:53:00Z",
+            "window_end": "2025-01-02T06:53:00Z",
             "window_start": "2025-01-02T05:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "Thuraya 4-NGS",
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
+            "launch_library_id": null,
+            "slug": "new-glenn-maiden-flight",
+            "name": "New Glenn | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-06T06:00:00Z",
+            "window_end": "2025-01-06T09:45:00Z",
+            "window_start": "2025-01-06T06:00:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 36A",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
             "infographic": null
         },
         {
