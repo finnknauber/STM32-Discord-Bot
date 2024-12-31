@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "644eaa0e-7c09-4be1-980c-ab5c2a07acce",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/644eaa0e-7c09-4be1-980c-ab5c2a07acce/",
-            "launch_library_id": null,
-            "slug": "pslv-ca-spadex-space-docking-experiment",
-            "name": "PSLV-CA | SPADEX (Space Docking Experiment)",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2024-12-30T16:30:15Z",
-            "window_end": "2024-12-30T16:30:15Z",
-            "window_start": "2024-12-30T16:30:15Z",
-            "lsp_name": "Indian Space Research Organization",
-            "mission": "SPADEX (Space Docking Experiment)",
-            "mission_type": "Technology",
-            "pad": "Satish Dhawan Space Centre First Launch Pad",
-            "location": "Satish Dhawan Space Centre, India",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/pslv_image_20230730102956.jpeg",
-            "infographic": null
-        },
-        {
             "id": "58e080d1-90cd-42ac-8152-9f56fc580f8d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/58e080d1-90cd-42ac-8152-9f56fc580f8d/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-12-6",
             "name": "Falcon 9 Block 5 | Starlink Group 12-6",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2024-12-31T05:39:10Z",
             "window_end": "2024-12-31T06:28:10Z",
@@ -126,6 +101,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "02a67327-807e-483f-ac6c-963a3fa22a5b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/02a67327-807e-483f-ac6c-963a3fa22a5b/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-12-11",
+            "name": "Falcon 9 Block 5 | Starlink Group 12-11",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-06T16:19:00Z",
+            "window_end": "2025-01-06T20:50:00Z",
+            "window_start": "2025-01-06T16:19:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 12-11",
+            "mission_type": "Communications",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
