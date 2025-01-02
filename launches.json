@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-thuraya-4-ngs",
             "name": "Falcon 9 Block 5 | Thuraya 4-NGS",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-01-03T01:27:00Z",
-            "window_end": "2025-01-03T05:53:00Z",
-            "window_start": "2025-01-03T01:27:00Z",
+            "net": "2025-01-04T01:27:00Z",
+            "window_end": "2025-01-04T05:27:00Z",
+            "window_start": "2025-01-04T01:27:00Z",
             "lsp_name": "SpaceX",
             "mission": "Thuraya 4-NGS",
             "mission_type": "Communications",
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-06T04:30:00Z",
-            "window_end": "2025-01-06T07:45:00Z",
-            "window_start": "2025-01-06T04:30:00Z",
+            "net": "2025-01-06T06:00:00Z",
+            "window_end": "2025-01-06T09:45:00Z",
+            "window_start": "2025-01-06T06:00:00Z",
             "lsp_name": "Blue Origin",
             "mission": "Maiden Flight",
             "mission_type": "Test Flight",
