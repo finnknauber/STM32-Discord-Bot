@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-thuraya-4-ngs",
             "name": "Falcon 9 Block 5 | Thuraya 4-NGS",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-01-04T01:27:00Z",
             "window_end": "2025-01-04T05:27:00Z",
