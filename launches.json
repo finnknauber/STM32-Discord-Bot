@@ -1,33 +1,8 @@
 {
-    "count": 327,
+    "count": 326,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "0a9a511a-7ea1-4402-8555-e087f580a5c4",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0a9a511a-7ea1-4402-8555-e087f580a5c4/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-thuraya-4-ngs",
-            "name": "Falcon 9 Block 5 | Thuraya 4-NGS",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-01-04T01:27:00Z",
-            "window_end": "2025-01-04T05:27:00Z",
-            "window_start": "2025-01-04T01:27:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Thuraya 4-NGS",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
         {
             "id": "957f00c7-bcb4-4fe6-ac14-c35f11874104",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/957f00c7-bcb4-4fe6-ac14-c35f11874104/",
@@ -38,7 +13,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-06T16:44:00Z",
+            "net": "2025-01-06T17:21:40Z",
             "window_end": "2025-01-06T21:15:00Z",
             "window_start": "2025-01-06T16:44:00Z",
             "lsp_name": "SpaceX",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "02b28510-be7b-43c1-ab97-b3671ab6813d",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/02b28510-be7b-43c1-ab97-b3671ab6813d/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-transporter-12-dedicated-sso-ride",
+            "name": "Falcon 9 Block 5 | Transporter 12 (Dedicated SSO Rideshare)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-31T00:00:00Z",
+            "window_end": "2025-01-31T00:00:00Z",
+            "window_start": "2025-01-31T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Transporter 12 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
