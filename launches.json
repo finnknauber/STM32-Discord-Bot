@@ -4,16 +4,41 @@
     "previous": null,
     "results": [
         {
+            "id": "797939fd-480c-4e5a-8c0a-53b36b2695fe",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/797939fd-480c-4e5a-8c0a-53b36b2695fe/",
+            "launch_library_id": null,
+            "slug": "long-march-3be-shijian-25",
+            "name": "Long March 3B/E | Shijian 25",
+            "status": {
+                "id": 3,
+                "name": "Success"
+            },
+            "net": "2025-01-06T20:00:00Z",
+            "window_end": "2025-01-06T20:24:00Z",
+            "window_start": "2025-01-06T19:51:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Shijian 25",
+            "mission_type": "Technology",
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
+            "infographic": null
+        },
+        {
             "id": "957f00c7-bcb4-4fe6-ac14-c35f11874104",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/957f00c7-bcb4-4fe6-ac14-c35f11874104/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-starlink-group-6-71",
             "name": "Falcon 9 Block 5 | Starlink Group 6-71",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-01-06T17:21:40Z",
+            "net": "2025-01-06T20:43:59Z",
             "window_end": "2025-01-06T21:15:00Z",
             "window_start": "2025-01-06T16:44:00Z",
             "lsp_name": "SpaceX",
@@ -29,31 +54,6 @@
             "infographic": null
         },
         {
-            "id": "797939fd-480c-4e5a-8c0a-53b36b2695fe",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/797939fd-480c-4e5a-8c0a-53b36b2695fe/",
-            "launch_library_id": null,
-            "slug": "long-march-3be-unknown-payload",
-            "name": "Long March 3B/E | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-01-06T20:00:00Z",
-            "window_end": "2025-01-06T20:24:00Z",
-            "window_start": "2025-01-06T19:51:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Complex 3 (LC-3/LA-1)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
-            "infographic": null
-        },
-        {
             "id": "02a67327-807e-483f-ac6c-963a3fa22a5b",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/02a67327-807e-483f-ac6c-963a3fa22a5b/",
             "launch_library_id": null,
@@ -63,9 +63,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-07T15:51:00Z",
-            "window_end": "2025-01-07T20:22:00Z",
-            "window_start": "2025-01-07T15:51:00Z",
+            "net": "2025-01-08T15:24:00Z",
+            "window_end": "2025-01-08T19:55:00Z",
+            "window_start": "2025-01-08T15:24:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-11",
             "mission_type": "Communications",
@@ -76,31 +76,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
-            "launch_library_id": null,
-            "slug": "new-glenn-maiden-flight",
-            "name": "New Glenn | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-01-08T06:00:00Z",
-            "window_end": "2025-01-08T09:45:00Z",
-            "window_start": "2025-01-08T06:00:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Complex 36A",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
             "infographic": null
         },
         {
@@ -126,6 +101,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
+            "infographic": null
+        },
+        {
+            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
+            "launch_library_id": null,
+            "slug": "new-glenn-maiden-flight",
+            "name": "New Glenn | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-10T06:00:00Z",
+            "window_end": "2025-01-10T09:45:00Z",
+            "window_start": "2025-01-10T06:00:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 36A",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
             "infographic": null
         },
         {
