@@ -4,41 +4,16 @@
     "previous": null,
     "results": [
         {
-            "id": "02a67327-807e-483f-ac6c-963a3fa22a5b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/02a67327-807e-483f-ac6c-963a3fa22a5b/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-11",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-11",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-01-08T15:27:00Z",
-            "window_end": "2025-01-08T19:17:59Z",
-            "window_start": "2025-01-08T15:27:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-11",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "f9308f6c-9576-4543-b2df-f5c0304c6a90",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f9308f6c-9576-4543-b2df-f5c0304c6a90/",
             "launch_library_id": null,
             "slug": "falcon-9-block-5-nrol-153",
             "name": "Falcon 9 Block 5 | NROL-153",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-01-10T03:19:00Z",
+            "net": "2025-01-10T03:53:00Z",
             "window_end": "2025-01-10T04:49:00Z",
             "window_start": "2025-01-10T03:19:00Z",
             "lsp_name": "SpaceX",
@@ -54,31 +29,6 @@
             "infographic": null
         },
         {
-            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
-            "launch_library_id": null,
-            "slug": "new-glenn-maiden-flight",
-            "name": "New Glenn | Maiden Flight",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-01-10T06:00:00Z",
-            "window_end": "2025-01-10T09:00:00Z",
-            "window_start": "2025-01-10T06:00:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Complex 36A",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
-            "infographic": null
-        },
-        {
             "id": "b56beca9-d106-4fde-8614-906ad04bef9a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/b56beca9-d106-4fde-8614-906ad04bef9a/",
             "launch_library_id": null,
@@ -88,7 +38,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-10T15:27:00Z",
+            "net": "2025-01-10T16:21:30Z",
             "window_end": "2025-01-10T19:58:00Z",
             "window_start": "2025-01-10T15:27:00Z",
             "lsp_name": "SpaceX",
@@ -101,6 +51,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
+            "launch_library_id": null,
+            "slug": "new-glenn-maiden-flight",
+            "name": "New Glenn | Maiden Flight",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-01-12T06:00:00Z",
+            "window_end": "2025-01-12T09:00:00Z",
+            "window_start": "2025-01-12T06:00:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Launch Complex 36A",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
             "infographic": null
         },
         {
@@ -201,6 +176,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f42de197-184e-48be-85ca-01b74e7fae5b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f42de197-184e-48be-85ca-01b74e7fae5b/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-11-8",
+            "name": "Falcon 9 Block 5 | Starlink Group 11-8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-18T03:18:00Z",
+            "window_end": "2025-01-18T07:49:00Z",
+            "window_start": "2025-01-18T03:18:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 11-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
