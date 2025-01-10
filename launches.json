@@ -1,5 +1,5 @@
 {
-    "count": 325,
+    "count": 328,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-nrol-153",
             "name": "Falcon 9 Block 5 | NROL-153",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-01-10T03:53:00Z",
             "window_end": "2025-01-10T04:49:00Z",
@@ -35,11 +35,11 @@
             "slug": "falcon-9-block-5-starlink-group-12-12",
             "name": "Falcon 9 Block 5 | Starlink Group 12-12",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-01-10T16:21:30Z",
-            "window_end": "2025-01-10T19:58:00Z",
+            "net": "2025-01-10T19:11:20Z",
+            "window_end": "2025-01-10T19:15:09Z",
             "window_start": "2025-01-10T15:27:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-12",
@@ -76,6 +76,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20240313170026.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f38f0321-080b-4313-843b-2b8c140b0669",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f38f0321-080b-4313-843b-2b8c140b0669/",
+            "launch_library_id": null,
+            "slug": "smart-dragon-3-unknown-payload",
+            "name": "Smart Dragon 3 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-01-13T03:00:00Z",
+            "window_end": "2025-01-13T03:17:00Z",
+            "window_start": "2025-01-13T02:51:00Z",
+            "lsp_name": "China Rocket Co. Ltd.",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Haiyang Spaceport",
+            "location": "Sea Launch",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/smart_dragon_3__image_20240925074606.jpg",
             "infographic": null
         },
         {
@@ -213,9 +238,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-28T04:00:00Z",
-            "window_end": "2025-01-28T04:00:00Z",
-            "window_start": "2025-01-28T04:00:00Z",
+            "net": "2025-01-29T04:00:00Z",
+            "window_end": "2025-01-29T06:00:00Z",
+            "window_start": "2025-01-29T04:00:00Z",
             "lsp_name": "SpaceX",
             "mission": "SpainSat NG I",
             "mission_type": "Communications",
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "028d5699-11ea-4309-9266-5f9c2372219f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/028d5699-11ea-4309-9266-5f9c2372219f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-3",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-01-31T00:00:00Z",
-            "window_end": "2025-01-31T00:00:00Z",
-            "window_start": "2025-01-31T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-3",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         }
     ]
