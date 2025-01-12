@@ -60,11 +60,11 @@
             "slug": "falcon-9-block-5-starlink-group-12-4",
             "name": "Falcon 9 Block 5 | Starlink Group 12-4",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-01-13T14:59:00Z",
-            "window_end": "2025-01-13T19:30:00Z",
+            "net": "2025-01-13T15:08:40Z",
+            "window_end": "2025-01-13T18:45:00Z",
             "window_start": "2025-01-13T14:59:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-4",
@@ -76,31 +76,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "c5566f6e-606e-4250-b8f4-477c5d82c798",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c5566f6e-606e-4250-b8f4-477c5d82c798/",
-            "launch_library_id": null,
-            "slug": "starship-flight-7",
-            "name": "Starship | Flight 7",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-01-13T22:00:00Z",
-            "window_end": "2025-01-13T23:38:00Z",
-            "window_start": "2025-01-13T22:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Flight 7",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
             "infographic": null
         },
         {
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "c5566f6e-606e-4250-b8f4-477c5d82c798",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/c5566f6e-606e-4250-b8f4-477c5d82c798/",
+            "launch_library_id": null,
+            "slug": "starship-flight-7",
+            "name": "Starship | Flight 7",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-01-15T22:00:00Z",
+            "window_end": "2025-01-15T23:38:00Z",
+            "window_start": "2025-01-15T22:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Flight 7",
+            "mission_type": "Test Flight",
+            "pad": "Orbital Launch Mount A",
+            "location": "SpaceX Starbase, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
             "infographic": null
         },
         {
