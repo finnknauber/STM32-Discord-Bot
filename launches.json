@@ -1,74 +1,24 @@
 {
-    "count": 326,
+    "count": 325,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
         {
-            "id": "91bfaa47-76d6-4111-9830-d6c6c46c4dab",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/91bfaa47-76d6-4111-9830-d6c6c46c4dab/",
+            "id": "4c5e9d81-a4e8-41b0-b906-f335ef5c2d95",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4c5e9d81-a4e8-41b0-b906-f335ef5c2d95/",
             "launch_library_id": null,
-            "slug": "new-glenn-maiden-flight",
-            "name": "New Glenn | Maiden Flight",
+            "slug": "long-march-2d-prsc-eo1",
+            "name": "Long March 2D | PRSC-EO1",
             "status": {
                 "id": 3,
                 "name": "Success"
             },
-            "net": "2025-01-16T07:03:00Z",
-            "window_end": "2025-01-16T09:00:00Z",
-            "window_start": "2025-01-16T06:00:00Z",
-            "lsp_name": "Blue Origin",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Launch Complex 36A",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_glenn_on_lc_image_20250111175645.jpg",
-            "infographic": null
-        },
-        {
-            "id": "c5566f6e-606e-4250-b8f4-477c5d82c798",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c5566f6e-606e-4250-b8f4-477c5d82c798/",
-            "launch_library_id": null,
-            "slug": "starship-flight-7",
-            "name": "Starship | Flight 7",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-01-16T22:37:00Z",
-            "window_end": "2025-01-16T23:00:00Z",
-            "window_start": "2025-01-16T22:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Flight 7",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-            "infographic": null
-        },
-        {
-            "id": "4c5e9d81-a4e8-41b0-b906-f335ef5c2d95",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4c5e9d81-a4e8-41b0-b906-f335ef5c2d95/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-01-17T04:10:00Z",
+            "net": "2025-01-17T04:07:00Z",
             "window_end": "2025-01-17T04:21:00Z",
             "window_start": "2025-01-17T03:59:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "PRSC-EO1",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -85,12 +35,12 @@
             "slug": "falcon-9-block-5-starlink-group-11-8",
             "name": "Falcon 9 Block 5 | Starlink Group 11-8",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-01-18T15:57:00Z",
-            "window_end": "2025-01-18T20:28:00Z",
-            "window_start": "2025-01-18T15:57:00Z",
+            "net": "2025-01-18T17:03:50Z",
+            "window_end": "2025-01-18T18:57:10Z",
+            "window_start": "2025-01-18T17:03:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 11-8",
             "mission_type": "Communications",
@@ -101,6 +51,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "08f64722-f81e-45be-b744-52fe91cc339a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/08f64722-f81e-45be-b744-52fe91cc339a/",
+            "launch_library_id": null,
+            "slug": "ceres-1-unknown-payload",
+            "name": "Ceres-1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-01-20T10:10:00Z",
+            "window_end": "2025-01-20T10:46:00Z",
+            "window_start": "2025-01-20T09:59:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "1bb05be3-e862-44e2-8aac-0120a46904de",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1bb05be3-e862-44e2-8aac-0120a46904de/",
+            "launch_library_id": null,
+            "slug": "long-march-8-g60-group-tbd",
+            "name": "Long March 8 | G60 Group TBD",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-01-31T00:00:00Z",
+            "window_end": "2025-01-31T00:00:00Z",
+            "window_start": "2025-01-31T00:00:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "G60 Group TBD",
+            "mission_type": "Communications",
+            "pad": "Commercial LC-1",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg",
             "infographic": null
         }
     ]
