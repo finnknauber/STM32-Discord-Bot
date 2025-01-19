@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "f42de197-184e-48be-85ca-01b74e7fae5b",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f42de197-184e-48be-85ca-01b74e7fae5b/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-8",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-8",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-01-19T15:35:50Z",
-            "window_end": "2025-01-19T19:14:29Z",
-            "window_start": "2025-01-19T15:35:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-8",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "08f64722-f81e-45be-b744-52fe91cc339a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/08f64722-f81e-45be-b744-52fe91cc339a/",
             "launch_library_id": null,
@@ -51,6 +26,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "f42de197-184e-48be-85ca-01b74e7fae5b",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/f42de197-184e-48be-85ca-01b74e7fae5b/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-11-8",
+            "name": "Falcon 9 Block 5 | Starlink Group 11-8",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-01-20T15:13:00Z",
+            "window_end": "2025-01-20T19:13:00Z",
+            "window_start": "2025-01-20T15:13:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 11-8",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
