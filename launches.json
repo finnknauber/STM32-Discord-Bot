@@ -1,33 +1,8 @@
 {
-    "count": 326,
+    "count": 325,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "0d989b81-7ddf-45a3-80d8-703f2728b8d9",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/0d989b81-7ddf-45a3-80d8-703f2728b8d9/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-6",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-6",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-01-24T14:07:00Z",
-            "window_end": "2025-01-24T17:29:09Z",
-            "window_start": "2025-01-24T14:07:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-6",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "32e2c0d2-55ad-424f-9241-c3fd3a322a1e",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/32e2c0d2-55ad-424f-9241-c3fd3a322a1e/",
@@ -38,7 +13,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-27T19:21:00Z",
+            "net": "2025-01-27T20:22:40Z",
             "window_end": "2025-01-27T23:52:00Z",
             "window_start": "2025-01-27T19:21:00Z",
             "lsp_name": "SpaceX",
@@ -113,9 +88,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-01-29T01:34:00Z",
-            "window_end": "2025-01-29T05:53:00Z",
-            "window_start": "2025-01-29T01:34:00Z",
+            "net": "2025-01-30T01:34:00Z",
+            "window_end": "2025-01-30T03:34:00Z",
+            "window_start": "2025-01-30T01:34:00Z",
             "lsp_name": "SpaceX",
             "mission": "SpainSat NG I",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": null,
+            "infographic": null
+        },
+        {
+            "id": "abb6612f-3fc4-4e9c-96ed-71c12f9e9086",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/abb6612f-3fc4-4e9c-96ed-71c12f9e9086/",
+            "launch_library_id": 1667,
+            "slug": "ariane-62-cso-3",
+            "name": "Ariane 62 | CSO-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-02-25T00:00:00Z",
+            "window_end": "2025-02-25T00:00:00Z",
+            "window_start": "2025-02-25T00:00:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "CSO-3",
+            "mission_type": "Government/Top Secret",
+            "pad": "Ariane Launch Area 4",
+            "location": "Guiana Space Centre, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
             "infographic": null
         }
     ]
