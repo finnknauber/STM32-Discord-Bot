@@ -1,5 +1,5 @@
 {
-    "count": 325,
+    "count": 326,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -10,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-12-7",
             "name": "Falcon 9 Block 5 | Starlink Group 12-7",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2025-01-27T20:22:40Z",
-            "window_end": "2025-01-27T23:52:00Z",
-            "window_start": "2025-01-27T19:21:00Z",
+            "net": "2025-01-27T22:05:00Z",
+            "window_end": "2025-01-27T23:21:00Z",
+            "window_start": "2025-01-27T20:22:40Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-7",
             "mission_type": "Communications",
@@ -104,31 +104,6 @@
             "infographic": null
         },
         {
-            "id": "028d5699-11ea-4309-9266-5f9c2372219f",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/028d5699-11ea-4309-9266-5f9c2372219f/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-3",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-01-30T10:44:00Z",
-            "window_end": "2025-01-30T15:15:00Z",
-            "window_start": "2025-01-30T10:44:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-3",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "6f18e0ac-ef45-4658-89b1-1cbf48c821ae",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6f18e0ac-ef45-4658-89b1-1cbf48c821ae/",
             "launch_library_id": null,
@@ -179,6 +154,31 @@
             "infographic": null
         },
         {
+            "id": "028d5699-11ea-4309-9266-5f9c2372219f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/028d5699-11ea-4309-9266-5f9c2372219f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-12-3",
+            "name": "Falcon 9 Block 5 | Starlink Group 12-3",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-02-03T08:54:00Z",
+            "window_end": "2025-02-03T13:25:00Z",
+            "window_start": "2025-02-03T08:54:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 12-3",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
             "id": "f842964b-288f-4100-95d4-3b3510712f81",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/f842964b-288f-4100-95d4-3b3510712f81/",
             "launch_library_id": null,
@@ -204,6 +204,31 @@
             "infographic": null
         },
         {
+            "id": "6632587d-9290-4cee-8a9c-ef91c61a7064",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6632587d-9290-4cee-8a9c-ef91c61a7064/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-worldview-legion-5-6",
+            "name": "Falcon 9 Block 5 | WorldView Legion 5 & 6",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-02-03T23:41:00Z",
+            "window_end": "2025-02-04T01:12:00Z",
+            "window_start": "2025-02-03T23:41:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "WorldView Legion 5 & 6",
+            "mission_type": "Earth Science",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
             "id": "ec1922a6-e089-4684-a576-7092fcf1ac20",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ec1922a6-e089-4684-a576-7092fcf1ac20/",
             "launch_library_id": null,
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": null,
-            "infographic": null
-        },
-        {
-            "id": "abb6612f-3fc4-4e9c-96ed-71c12f9e9086",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/abb6612f-3fc4-4e9c-96ed-71c12f9e9086/",
-            "launch_library_id": 1667,
-            "slug": "ariane-62-cso-3",
-            "name": "Ariane 62 | CSO-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-02-25T00:00:00Z",
-            "window_end": "2025-02-25T00:00:00Z",
-            "window_start": "2025-02-25T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "CSO-3",
-            "mission_type": "Government/Top Secret",
-            "pad": "Ariane Launch Area 4",
-            "location": "Guiana Space Centre, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
             "infographic": null
         }
     ]
