@@ -10,8 +10,8 @@
             "slug": "gslv-mk-ii-irnss-1k-nvs-02",
             "name": "GSLV Mk II | IRNSS-1K (NVS-02)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-01-29T00:53:00Z",
             "window_end": "2025-01-29T00:53:00Z",
@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-spainsat-ng-i",
             "name": "Falcon 9 Block 5 | SpainSat NG I",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2025-01-30T01:34:00Z",
             "window_end": "2025-01-30T03:34:00Z",
@@ -189,7 +189,7 @@
                 "name": "TBD"
             },
             "net": "2025-02-03T23:32:00Z",
-            "window_end": "2025-02-03T23:32:00Z",
+            "window_end": "2025-02-04T01:03:00Z",
             "window_start": "2025-02-03T23:32:00Z",
             "lsp_name": "SpaceX",
             "mission": "WorldView Legion 5 & 6",
