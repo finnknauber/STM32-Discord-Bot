@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-starlink-group-12-9",
             "name": "Falcon 9 Block 5 | Starlink Group 12-9",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-02-08T18:23:00Z",
+            "net": "2025-02-08T19:18:30Z",
             "window_end": "2025-02-08T22:08:00Z",
             "window_start": "2025-02-08T18:23:00Z",
             "lsp_name": "SpaceX",
@@ -35,8 +35,8 @@
             "slug": "electron-iot-4-you-and-me-kineis-16-20",
             "name": "Electron | IoT 4 You and Me (Kin\u00e9is 16-20)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
             "net": "2025-02-08T20:43:00Z",
             "window_end": "2025-02-08T20:43:00Z",
