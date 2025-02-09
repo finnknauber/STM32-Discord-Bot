@@ -1,58 +1,8 @@
 {
-    "count": 330,
+    "count": 328,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "fb0df8b6-7b94-4e49-93e0-5389755fc970",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fb0df8b6-7b94-4e49-93e0-5389755fc970/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-9",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-9",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-02-08T19:18:30Z",
-            "window_end": "2025-02-08T22:08:00Z",
-            "window_start": "2025-02-08T18:23:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-9",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "f842964b-288f-4100-95d4-3b3510712f81",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/f842964b-288f-4100-95d4-3b3510712f81/",
-            "launch_library_id": null,
-            "slug": "electron-iot-4-you-and-me-kineis-16-20",
-            "name": "Electron | IoT 4 You and Me (Kin\u00e9is 16-20)",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2025-02-08T20:43:00Z",
-            "window_end": "2025-02-08T20:43:00Z",
-            "window_start": "2025-02-08T20:43:00Z",
-            "lsp_name": "Rocket Lab",
-            "mission": "IoT 4 You and Me (Kin\u00e9is 16-20)",
-            "mission_type": "Communications",
-            "pad": "Rocket Lab Launch Complex 1A",
-            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
-            "infographic": null
-        },
         {
             "id": "e4c34b02-4b70-495b-9bc9-5cd19788ff2c",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e4c34b02-4b70-495b-9bc9-5cd19788ff2c/",
@@ -63,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-02-10T00:03:00Z",
+            "net": "2025-02-10T00:26:00Z",
             "window_end": "2025-02-10T04:03:00Z",
             "window_start": "2025-02-10T00:03:00Z",
             "lsp_name": "SpaceX",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "e58b3e2f-0066-4caf-9470-aa404e9a0142",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e58b3e2f-0066-4caf-9470-aa404e9a0142/",
+            "launch_library_id": null,
+            "slug": "electron-blacksky-gen-3-1",
+            "name": "Electron | BlackSky Gen-3 1",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-02-28T00:00:00Z",
+            "window_end": "2025-02-28T00:00:00Z",
+            "window_start": "2025-02-28T00:00:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "BlackSky Gen-3 1",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "800351fd-0bfb-4473-a07c-f19161976877",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/800351fd-0bfb-4473-a07c-f19161976877/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spherex-punch",
+            "name": "Falcon 9 Block 5 | SPHEREx & PUNCH",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-02-28T03:10:00Z",
+            "window_end": "2025-02-28T03:10:00Z",
+            "window_start": "2025-02-28T03:10:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SPHEREx & PUNCH",
+            "mission_type": "Astrophysics",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         }
     ]
