@@ -1,33 +1,8 @@
 {
-    "count": 335,
+    "count": 334,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "fa5bddd9-6b73-4b2d-93ef-b54303ad7d69",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fa5bddd9-6b73-4b2d-93ef-b54303ad7d69/",
-            "launch_library_id": null,
-            "slug": "long-march-3be-chinasat-10r",
-            "name": "Long March 3B/E | ChinaSat 10R",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-02-22T12:11:00Z",
-            "window_end": "2025-02-22T12:36:00Z",
-            "window_start": "2025-02-22T12:01:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "ChinaSat 10R",
-            "mission_type": "Communications",
-            "pad": "Launch Complex 2 (LC-2)",
-            "location": "Xichang Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
-            "infographic": null
-        },
         {
             "id": "2b616a35-e7b7-497b-8cf1-ef26528b99de",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/2b616a35-e7b7-497b-8cf1-ef26528b99de/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-starlink-group-15-1",
             "name": "Falcon 9 Block 5 | Starlink Group 15-1",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-02-23T01:38:20Z",
             "window_end": "2025-02-23T01:38:20Z",
@@ -63,9 +38,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-02-24T04:42:00Z",
-            "window_end": "2025-02-24T08:42:00Z",
-            "window_start": "2025-02-24T04:42:00Z",
+            "net": "2025-02-25T04:26:00Z",
+            "window_end": "2025-02-25T08:06:00Z",
+            "window_start": "2025-02-25T04:26:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-13",
             "mission_type": "Communications",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "21fa8a9b-d2c6-4434-b510-96afb6ca1dd1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/21fa8a9b-d2c6-4434-b510-96afb6ca1dd1/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-12-20",
+            "name": "Falcon 9 Block 5 | Starlink Group 12-20",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-02-28T02:52:00Z",
+            "window_end": "2025-02-28T07:23:00Z",
+            "window_start": "2025-02-28T02:52:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 12-20",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         }
     ]
