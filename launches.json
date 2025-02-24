@@ -1,33 +1,8 @@
 {
-    "count": 334,
+    "count": 333,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "2b616a35-e7b7-497b-8cf1-ef26528b99de",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/2b616a35-e7b7-497b-8cf1-ef26528b99de/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-15-1",
-            "name": "Falcon 9 Block 5 | Starlink Group 15-1",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-02-23T01:38:20Z",
-            "window_end": "2025-02-23T01:38:20Z",
-            "window_start": "2025-02-22T22:25:20Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 15-1",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "ce4b7780-7875-41c8-9ab1-c731eb5c7623",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ce4b7780-7875-41c8-9ab1-c731eb5c7623/",
@@ -38,9 +13,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-02-25T04:26:00Z",
-            "window_end": "2025-02-25T08:06:00Z",
-            "window_start": "2025-02-25T04:26:00Z",
+            "net": "2025-02-25T04:26:20Z",
+            "window_end": "2025-02-25T08:06:49Z",
+            "window_start": "2025-02-25T04:26:20Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-13",
             "mission_type": "Communications",
@@ -51,31 +26,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "b9fac3ef-050f-4e6d-9688-f493dbe07815",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fac3ef-050f-4e6d-9688-f493dbe07815/",
-            "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload",
-            "name": "Ceres-1 | Unknown Payload",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-02-25T08:10:00Z",
-            "window_end": "2025-02-25T08:46:00Z",
-            "window_start": "2025-02-25T07:59:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         },
         {
@@ -101,31 +51,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "a2b94add-d1e8-4b1d-9f25-afe7904580d3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a2b94add-d1e8-4b1d-9f25-afe7904580d3/",
-            "launch_library_id": null,
-            "slug": "starship-flight-8",
-            "name": "Starship | Flight 8",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-02-26T23:30:00Z",
-            "window_end": "2025-02-27T01:09:00Z",
-            "window_start": "2025-02-26T23:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Flight 8",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
             "infographic": null
         },
         {
@@ -188,9 +113,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-02-27T21:24:00Z",
-            "window_end": "2025-02-27T21:24:00Z",
-            "window_start": "2025-02-27T21:24:00Z",
+            "net": "2025-02-27T21:24:27Z",
+            "window_end": "2025-02-27T21:24:27Z",
+            "window_start": "2025-02-27T21:24:27Z",
             "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
             "mission": "Progress MS-30 (91P)",
             "mission_type": "Resupply",
@@ -251,6 +176,81 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "a2b94add-d1e8-4b1d-9f25-afe7904580d3",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a2b94add-d1e8-4b1d-9f25-afe7904580d3/",
+            "launch_library_id": null,
+            "slug": "starship-flight-8",
+            "name": "Starship | Flight 8",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-02-28T23:30:00Z",
+            "window_end": "2025-03-01T01:09:00Z",
+            "window_start": "2025-02-28T23:30:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Flight 8",
+            "mission_type": "Test Flight",
+            "pad": "Orbital Launch Mount A",
+            "location": "SpaceX Starbase, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
+            "infographic": null
+        },
+        {
+            "id": "800351fd-0bfb-4473-a07c-f19161976877",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/800351fd-0bfb-4473-a07c-f19161976877/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spherex-punch",
+            "name": "Falcon 9 Block 5 | SPHEREx & PUNCH",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-01T03:09:00Z",
+            "window_end": "2025-03-01T03:10:00Z",
+            "window_start": "2025-03-01T03:09:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SPHEREx & PUNCH",
+            "mission_type": "Astrophysics",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "b9fac3ef-050f-4e6d-9688-f493dbe07815",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fac3ef-050f-4e6d-9688-f493dbe07815/",
+            "launch_library_id": null,
+            "slug": "ceres-1-unknown-payload",
+            "name": "Ceres-1 | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-02T08:10:00Z",
+            "window_end": "2025-03-02T08:56:00Z",
+            "window_start": "2025-03-02T07:49:00Z",
+            "lsp_name": "Galactic Energy",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Area 95A",
+            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
             "infographic": null
         }
     ]
