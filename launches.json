@@ -1,33 +1,8 @@
 {
-    "count": 333,
+    "count": 334,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ce4b7780-7875-41c8-9ab1-c731eb5c7623",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce4b7780-7875-41c8-9ab1-c731eb5c7623/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-13",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-02-25T04:26:20Z",
-            "window_end": "2025-02-25T08:06:49Z",
-            "window_start": "2025-02-25T04:26:20Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-13",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "466c90a9-e52d-4116-b09f-e41284aacab7",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/466c90a9-e52d-4116-b09f-e41284aacab7/",
@@ -35,10 +10,10 @@
             "slug": "new-shepard-ns-30",
             "name": "New Shepard | NS-30",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-02-25T15:30:00Z",
+            "net": "2025-02-25T15:49:11Z",
             "window_end": "2025-02-25T22:30:00Z",
             "window_start": "2025-02-25T14:30:00Z",
             "lsp_name": "Blue Origin",
@@ -51,6 +26,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "ce4b7780-7875-41c8-9ab1-c731eb5c7623",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ce4b7780-7875-41c8-9ab1-c731eb5c7623/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-12-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 12-13",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-02-26T04:45:20Z",
+            "window_end": "2025-02-26T07:47:00Z",
+            "window_start": "2025-02-26T03:47:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 12-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
@@ -126,31 +126,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "abb6612f-3fc4-4e9c-96ed-71c12f9e9086",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/abb6612f-3fc4-4e9c-96ed-71c12f9e9086/",
-            "launch_library_id": 1667,
-            "slug": "ariane-62-cso-3",
-            "name": "Ariane 62 | CSO-3",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-02-28T00:00:00Z",
-            "window_end": "2025-02-28T00:00:00Z",
-            "window_start": "2025-02-28T00:00:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "CSO-3",
-            "mission_type": "Government/Top Secret",
-            "pad": "Ariane Launch Area 4",
-            "location": "Guiana Space Centre, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "75d43ce8-6d8d-4e9f-9348-4f51902e63c2",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/75d43ce8-6d8d-4e9f-9348-4f51902e63c2/",
+            "launch_library_id": null,
+            "slug": "soyuz-21bfregat-m-glonass-k2-no-14",
+            "name": "Soyuz 2.1b/Fregat-M | Glonass-K2 No. 14",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-02T22:00:00Z",
+            "window_end": "2025-03-03T00:00:00Z",
+            "window_start": "2025-03-02T22:00:00Z",
+            "lsp_name": "Russian Space Forces",
+            "mission": "Glonass-K2 No. 14",
+            "mission_type": "Navigation",
+            "pad": "Unknown Pad",
+            "location": "Plesetsk Cosmodrome, Russian Federation",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
             "infographic": null
         }
     ]
