@@ -1,5 +1,5 @@
 {
-    "count": 335,
+    "count": 339,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
@@ -7,17 +7,17 @@
             "id": "fd0fbaac-d079-4027-98b0-bcf25c15a166",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/fd0fbaac-d079-4027-98b0-bcf25c15a166/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-nova-c-im-2-lunar-trailblazer",
-            "name": "Falcon 9 Block 5 | Nova-C IM-2 & Lunar Trailblazer",
+            "slug": "falcon-9-block-5-nova-c-im-2-others",
+            "name": "Falcon 9 Block 5 | Nova-C IM-2 & Others",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-02-27T00:17:00Z",
-            "window_end": "2025-02-27T00:17:00Z",
-            "window_start": "2025-02-27T00:17:00Z",
+            "net": "2025-02-27T00:16:30Z",
+            "window_end": "2025-02-27T00:16:30Z",
+            "window_start": "2025-02-27T00:16:30Z",
             "lsp_name": "SpaceX",
-            "mission": "Nova-C IM-2",
+            "mission": "Nova-C IM-2 & Others",
             "mission_type": "Lunar Exploration",
             "pad": "Launch Complex 39A",
             "location": "Kennedy Space Center, FL, USA",
@@ -25,7 +25,7 @@
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_liftof_image_20250227084548.jpg",
             "infographic": null
         },
         {
@@ -35,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-12-13",
             "name": "Falcon 9 Block 5 | Starlink Group 12-13",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-02-27T03:34:20Z",
             "window_end": "2025-02-27T07:34:00Z",
@@ -57,18 +57,18 @@
             "id": "8a20cf13-f512-4d10-9c00-4dcf46fc81ba",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8a20cf13-f512-4d10-9c00-4dcf46fc81ba/",
             "launch_library_id": null,
-            "slug": "long-march-2c-unknown-payload",
-            "name": "Long March 2C | Unknown Payload",
+            "slug": "long-march-2c-superview-neo-1-03-04",
+            "name": "Long March 2C | SuperView Neo 1-03 & 04",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-02-27T07:10:00Z",
+            "net": "2025-02-27T07:08:00Z",
             "window_end": "2025-02-27T07:29:00Z",
             "window_start": "2025-02-27T07:01:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "SuperView Neo 1-03 & 04",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -85,8 +85,8 @@
             "slug": "soyuz-21a-progress-ms-30-91p",
             "name": "Soyuz 2.1a | Progress MS-30 (91P)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-02-27T21:24:27Z",
             "window_end": "2025-02-27T21:24:27Z",
@@ -101,56 +101,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
-            "infographic": null
-        },
-        {
-            "id": "a2b94add-d1e8-4b1d-9f25-afe7904580d3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a2b94add-d1e8-4b1d-9f25-afe7904580d3/",
-            "launch_library_id": null,
-            "slug": "starship-flight-8",
-            "name": "Starship | Flight 8",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-02-28T23:30:00Z",
-            "window_end": "2025-03-01T01:09:00Z",
-            "window_start": "2025-02-28T23:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Flight 8",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-            "infographic": null
-        },
-        {
-            "id": "800351fd-0bfb-4473-a07c-f19161976877",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/800351fd-0bfb-4473-a07c-f19161976877/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-spherex-punch",
-            "name": "Falcon 9 Block 5 | SPHEREx & PUNCH",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-03-01T03:09:00Z",
-            "window_end": "2025-03-01T03:10:00Z",
-            "window_start": "2025-03-01T03:09:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "SPHEREx & PUNCH",
-            "mission_type": "Astrophysics",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         },
         {
@@ -238,7 +188,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-03-02T22:00:00Z",
+            "net": "2025-03-02T22:22:16Z",
             "window_end": "2025-03-03T00:00:00Z",
             "window_start": "2025-03-02T22:00:00Z",
             "lsp_name": "Russian Space Forces",
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1b_image_20230802085331.jpg",
+            "infographic": null
+        },
+        {
+            "id": "800351fd-0bfb-4473-a07c-f19161976877",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/800351fd-0bfb-4473-a07c-f19161976877/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-spherex-punch",
+            "name": "Falcon 9 Block 5 | SPHEREx & PUNCH",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-03T03:09:00Z",
+            "window_end": "2025-03-03T03:09:00Z",
+            "window_start": "2025-03-03T03:09:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "SPHEREx & PUNCH",
+            "mission_type": "Astrophysics",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "abb6612f-3fc4-4e9c-96ed-71c12f9e9086",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/abb6612f-3fc4-4e9c-96ed-71c12f9e9086/",
+            "launch_library_id": 1667,
+            "slug": "ariane-62-cso-3",
+            "name": "Ariane 62 | CSO-3",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-03T16:24:00Z",
+            "window_end": "2025-03-03T16:24:00Z",
+            "window_start": "2025-03-03T16:24:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "CSO-3",
+            "mission_type": "Government/Top Secret",
+            "pad": "Ariane Launch Area 4",
+            "location": "Guiana Space Centre, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
             "infographic": null
         }
     ]
