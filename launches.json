@@ -4,39 +4,14 @@
     "previous": null,
     "results": [
         {
-            "id": "abb6612f-3fc4-4e9c-96ed-71c12f9e9086",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/abb6612f-3fc4-4e9c-96ed-71c12f9e9086/",
-            "launch_library_id": 1667,
-            "slug": "ariane-62-cso-3",
-            "name": "Ariane 62 | CSO-3",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-03-06T16:24:26Z",
-            "window_end": "2025-03-06T16:24:26Z",
-            "window_start": "2025-03-06T16:24:26Z",
-            "lsp_name": "Arianespace",
-            "mission": "CSO-3",
-            "mission_type": "Government/Top Secret",
-            "pad": "Ariane Launch Area 4",
-            "location": "Guiana Space Centre, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ariane_62_lifto_image_20240711132056.jpeg",
-            "infographic": null
-        },
-        {
             "id": "a2b94add-d1e8-4b1d-9f25-afe7904580d3",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a2b94add-d1e8-4b1d-9f25-afe7904580d3/",
             "launch_library_id": null,
             "slug": "starship-flight-8",
             "name": "Starship | Flight 8",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 4,
+                "name": "Failure"
             },
             "net": "2025-03-06T23:30:00Z",
             "window_end": "2025-03-07T00:30:00Z",
@@ -88,7 +63,7 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-03-09T04:10:00Z",
+            "net": "2025-03-09T04:12:00Z",
             "window_end": "2025-03-09T08:41:00Z",
             "window_start": "2025-03-09T04:10:00Z",
             "lsp_name": "SpaceX",
@@ -101,6 +76,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "cb233fad-863c-428a-80b0-4c28d31670c5",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/cb233fad-863c-428a-80b0-4c28d31670c5/",
+            "launch_library_id": null,
+            "slug": "long-march-3be-unknown-payload",
+            "name": "Long March 3B/E | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-09T17:20:00Z",
+            "window_end": "2025-03-09T17:42:00Z",
+            "window_start": "2025-03-09T17:07:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
             "infographic": null
         },
         {
@@ -129,31 +129,6 @@
             "infographic": null
         },
         {
-            "id": "4c2dfc7b-22f9-4695-8b13-46b7703871fc",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/4c2dfc7b-22f9-4695-8b13-46b7703871fc/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-transporter-13-dedicated-sso-ride",
-            "name": "Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-03-10T06:39:00Z",
-            "window_end": "2025-03-10T07:25:00Z",
-            "window_start": "2025-03-10T06:39:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Transporter 13 (Dedicated SSO Rideshare)",
-            "mission_type": "Dedicated Rideshare",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
-            "infographic": null
-        },
-        {
             "id": "721a8641-458c-49ee-8442-2ef5b6fba880",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/721a8641-458c-49ee-8442-2ef5b6fba880/",
             "launch_library_id": null,
@@ -176,6 +151,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "1bb05be3-e862-44e2-8aac-0120a46904de",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/1bb05be3-e862-44e2-8aac-0120a46904de/",
+            "launch_library_id": null,
+            "slug": "long-march-8-g60-group-tbd",
+            "name": "Long March 8 | G60 Group TBD",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-11T16:40:00Z",
+            "window_end": "2025-03-11T17:05:00Z",
+            "window_start": "2025-03-11T16:31:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "G60 Group TBD",
+            "mission_type": "Communications",
+            "pad": "Commercial LC-1",
+            "location": "Wenchang Space Launch Site, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/cz-8_liftoff_2_image_20240315183218.jpg",
+            "infographic": null
+        },
+        {
+            "id": "4c2dfc7b-22f9-4695-8b13-46b7703871fc",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/4c2dfc7b-22f9-4695-8b13-46b7703871fc/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-transporter-13-dedicated-sso-ride",
+            "name": "Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-03-12T06:39:00Z",
+            "window_end": "2025-03-12T07:25:00Z",
+            "window_start": "2025-03-12T06:39:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Transporter 13 (Dedicated SSO Rideshare)",
+            "mission_type": "Dedicated Rideshare",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
             "infographic": null
         },
         {
@@ -226,31 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "5792dbed-ea1a-4095-9c74-6d6de99b9827",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/5792dbed-ea1a-4095-9c74-6d6de99b9827/",
-            "launch_library_id": null,
-            "slug": "eris-1-maiden-flight",
-            "name": "Eris-1 | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-03-15T00:00:00Z",
-            "window_end": "2025-03-15T00:00:00Z",
-            "window_start": "2025-03-15T00:00:00Z",
-            "lsp_name": "Gilmour Space Technologies",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Eris Pad",
-            "location": "Bowen Orbital Spaceport",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/eris_on_the_lau_image_20250227073032.jpg",
             "infographic": null
         }
     ]
