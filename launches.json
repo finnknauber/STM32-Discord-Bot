@@ -1,33 +1,8 @@
 {
-    "count": 338,
+    "count": 337,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "a2b94add-d1e8-4b1d-9f25-afe7904580d3",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a2b94add-d1e8-4b1d-9f25-afe7904580d3/",
-            "launch_library_id": null,
-            "slug": "starship-flight-8",
-            "name": "Starship | Flight 8",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2025-03-06T23:30:00Z",
-            "window_end": "2025-03-07T00:30:00Z",
-            "window_start": "2025-03-06T23:30:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Flight 8",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Mount A",
-            "location": "SpaceX Starbase, TX, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/starship_on_the_image_20250111100520.jpg",
-            "infographic": null
-        },
         {
             "id": "800351fd-0bfb-4473-a07c-f19161976877",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/800351fd-0bfb-4473-a07c-f19161976877/",
@@ -35,12 +10,12 @@
             "slug": "falcon-9-block-5-spherex-punch",
             "name": "Falcon 9 Block 5 | SPHEREx & PUNCH",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-03-09T03:09:00Z",
-            "window_end": "2025-03-09T03:09:00Z",
-            "window_start": "2025-03-09T03:09:00Z",
+            "net": "2025-03-09T03:10:00Z",
+            "window_end": "2025-03-09T03:10:00Z",
+            "window_start": "2025-03-09T03:10:00Z",
             "lsp_name": "SpaceX",
             "mission": "SPHEREx & PUNCH",
             "mission_type": "Astrophysics",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "d6dd6900-332e-4e9e-89b8-dfa4ba285822",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d6dd6900-332e-4e9e-89b8-dfa4ba285822/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flta006-message-in-a-booster",
+            "name": "Firefly Alpha | FLTA006 (Message in a Booster)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-15T13:25:00Z",
+            "window_end": "2025-03-15T14:17:00Z",
+            "window_start": "2025-03-15T13:25:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "FLTA006 (Message in a Booster)",
+            "mission_type": "Technology",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
             "infographic": null
         }
     ]
