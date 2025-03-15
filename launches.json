@@ -10,8 +10,8 @@
             "slug": "falcon-9-block-5-crew-10",
             "name": "Falcon 9 Block 5 | Crew-10",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-03-14T23:03:48Z",
             "window_end": "2025-03-14T23:03:48Z",
@@ -35,8 +35,8 @@
             "slug": "electron-the-lightning-god-reigns-iqps-launch-1",
             "name": "Electron | The Lightning God Reigns (iQPS Launch 1)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-03-15T00:00:00Z",
             "window_end": "2025-03-15T02:00:00Z",
@@ -57,18 +57,18 @@
             "id": "8d6bf950-c580-4fa5-9bf2-a85700dabce3",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8d6bf950-c580-4fa5-9bf2-a85700dabce3/",
             "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
+            "slug": "long-march-2d-superview-neo-3-02",
+            "name": "Long March 2D | SuperView Neo 3-02",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-03-15T04:10:00Z",
+            "net": "2025-03-15T04:11:00Z",
             "window_end": "2025-03-15T04:26:00Z",
             "window_start": "2025-03-15T04:03:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "SuperView Neo 3-02",
+            "mission_type": "Earth Science",
             "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -85,10 +85,10 @@
             "slug": "falcon-9-block-5-transporter-13-dedicated-sso-ride",
             "name": "Falcon 9 Block 5 | Transporter 13 (Dedicated SSO Rideshare)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-03-15T06:39:00Z",
+            "net": "2025-03-15T06:43:00Z",
             "window_end": "2025-03-15T06:56:00Z",
             "window_start": "2025-03-15T06:39:00Z",
             "lsp_name": "SpaceX",
@@ -110,10 +110,10 @@
             "slug": "falcon-9-block-5-starlink-group-12-16",
             "name": "Falcon 9 Block 5 | Starlink Group 12-16",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
-            "net": "2025-03-15T10:31:10Z",
+            "net": "2025-03-15T11:35:10Z",
             "window_end": "2025-03-15T14:59:00Z",
             "window_start": "2025-03-15T10:28:00Z",
             "lsp_name": "SpaceX",
@@ -138,9 +138,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-03-15T10:50:00Z",
-            "window_end": "2025-03-15T11:30:00Z",
-            "window_start": "2025-03-15T10:30:00Z",
+            "net": "2025-03-16T10:50:00Z",
+            "window_end": "2025-03-16T11:30:00Z",
+            "window_start": "2025-03-16T10:30:00Z",
             "lsp_name": "Khrunichev State Research and Production Space Center",
             "mission": "Kosmos (Unknown Payload)",
             "mission_type": "Government/Top Secret",
@@ -194,7 +194,7 @@
             "lsp_name": "Rocket Lab",
             "mission": "High Five (Kin\u00e9is 21-25)",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1A",
             "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
