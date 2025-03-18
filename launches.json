@@ -1,33 +1,8 @@
 {
-    "count": 332,
+    "count": 331,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "b9fac3ef-050f-4e6d-9688-f493dbe07815",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/b9fac3ef-050f-4e6d-9688-f493dbe07815/",
-            "launch_library_id": null,
-            "slug": "ceres-1-8-satellites",
-            "name": "Ceres-1 | 8 satellites",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-03-17T08:07:00Z",
-            "window_end": "2025-03-17T08:46:00Z",
-            "window_start": "2025-03-17T07:59:00Z",
-            "lsp_name": "Galactic Energy",
-            "mission": "8 satellites",
-            "mission_type": "Earth Science",
-            "pad": "Launch Area 95A",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/ceres-1_image_20230722081939.jpeg",
-            "infographic": null
-        },
         {
             "id": "ad025362-828f-448c-855d-bfe53e04cdeb",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/ad025362-828f-448c-855d-bfe53e04cdeb/",
@@ -35,8 +10,8 @@
             "slug": "electron-high-five-kineis-21-25",
             "name": "Electron | High Five (Kin\u00e9is 21-25)",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-03-18T01:31:00Z",
             "window_end": "2025-03-18T01:31:00Z",
@@ -60,8 +35,8 @@
             "slug": "falcon-9-block-5-starlink-group-12-25",
             "name": "Falcon 9 Block 5 | Starlink Group 12-25",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-03-18T19:57:50Z",
             "window_end": "2025-03-18T22:40:00Z",
@@ -104,35 +79,10 @@
             "infographic": null
         },
         {
-            "id": "e652a538-6d40-4b55-97a6-7c757ec4e1e9",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e652a538-6d40-4b55-97a6-7c757ec4e1e9/",
-            "launch_library_id": null,
-            "slug": "spectrum-maiden-flight",
-            "name": "Spectrum | Maiden Flight",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-03-20T11:30:00Z",
-            "window_end": "2025-03-20T14:30:00Z",
-            "window_start": "2025-03-20T11:30:00Z",
-            "lsp_name": "Isar Aerospace",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Pad",
-            "location": "And\u00f8ya Spaceport",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/going_full_spec_image_20250317173645.jpg",
-            "infographic": null
-        },
-        {
             "id": "558c07d5-625d-4b83-b7a0-91d3de5797ae",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/558c07d5-625d-4b83-b7a0-91d3de5797ae/",
             "launch_library_id": null,
-            "slug": "ceres-1-unknown-payload-2",
+            "slug": "ceres-1-unknown-payload",
             "name": "Ceres-1 | Unknown Payload",
             "status": {
                 "id": 1,
@@ -154,28 +104,28 @@
             "infographic": null
         },
         {
-            "id": "8bfaa532-18e6-4c40-9800-0714b5651f84",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bfaa532-18e6-4c40-9800-0714b5651f84/",
+            "id": "e652a538-6d40-4b55-97a6-7c757ec4e1e9",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/e652a538-6d40-4b55-97a6-7c757ec4e1e9/",
             "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-7",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-7",
+            "slug": "spectrum-maiden-flight",
+            "name": "Spectrum | Maiden Flight",
             "status": {
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-03-22T20:45:00Z",
-            "window_end": "2025-03-23T01:16:00Z",
-            "window_start": "2025-03-22T20:45:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-7",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
+            "net": "2025-03-23T11:30:00Z",
+            "window_end": "2025-03-23T14:30:00Z",
+            "window_start": "2025-03-23T11:30:00Z",
+            "lsp_name": "Isar Aerospace",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Orbital Launch Pad",
+            "location": "And\u00f8ya Spaceport",
             "landing": null,
             "landing_success": null,
             "launcher": null,
             "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/going_full_spec_image_20250317173645.jpg",
             "infographic": null
         },
         {
@@ -201,6 +151,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_image_20230807133459.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "8bfaa532-18e6-4c40-9800-0714b5651f84",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/8bfaa532-18e6-4c40-9800-0714b5651f84/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-11-7",
+            "name": "Falcon 9 Block 5 | Starlink Group 11-7",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-03-24T22:00:00Z",
+            "window_end": "2025-03-25T02:22:00Z",
+            "window_start": "2025-03-24T22:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 11-7",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "94b4e77e-ac83-4b4b-8508-0443bd8bdecf",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/94b4e77e-ac83-4b4b-8508-0443bd8bdecf/",
+            "launch_library_id": null,
+            "slug": "electron-finding-hot-wildfires-near-you-ororatech",
+            "name": "Electron | Finding Hot Wildfires Near You (OroraTech OTC-P1)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-03-27T15:30:00Z",
+            "window_end": "2025-03-27T15:30:00Z",
+            "window_start": "2025-03-27T15:30:00Z",
+            "lsp_name": "Rocket Lab",
+            "mission": "Finding Hot Wildfires Near You (OroraTech OTC-P1)",
+            "mission_type": "Earth Science",
+            "pad": "Unknown Pad",
+            "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/electron_image_20190705175640.jpeg",
             "infographic": null
         },
         {
