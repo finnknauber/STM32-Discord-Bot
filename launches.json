@@ -10,10 +10,10 @@
             "slug": "falcon-9-block-5-nrol-57",
             "name": "Falcon 9 Block 5 | NROL-57",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-03-21T05:48:00Z",
+            "net": "2025-03-21T06:49:00Z",
             "window_end": "2025-03-21T08:17:00Z",
             "window_start": "2025-03-21T05:48:00Z",
             "lsp_name": "SpaceX",
@@ -163,13 +163,13 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-03-27T15:30:00Z",
-            "window_end": "2025-03-27T15:30:00Z",
-            "window_start": "2025-03-27T15:30:00Z",
+            "net": "2025-03-26T15:30:00Z",
+            "window_end": "2025-03-26T16:00:00Z",
+            "window_start": "2025-03-26T15:30:00Z",
             "lsp_name": "Rocket Lab",
             "mission": "Finding Hot Wildfires Near You (OroraTech OTC-P1)",
             "mission_type": "Earth Science",
-            "pad": "Unknown Pad",
+            "pad": "Rocket Lab Launch Complex 1B",
             "location": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
             "landing": null,
             "landing_success": null,
