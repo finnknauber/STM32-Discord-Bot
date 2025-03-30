@@ -1,33 +1,8 @@
 {
-    "count": 334,
+    "count": 333,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "fe50e1e8-7829-4031-9812-8782a4859720",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/fe50e1e8-7829-4031-9812-8782a4859720/",
-            "launch_library_id": null,
-            "slug": "long-march-7a-tjsw-16",
-            "name": "Long March 7A | TJSW-16",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-03-29T16:05:00Z",
-            "window_end": "2025-03-29T17:15:00Z",
-            "window_start": "2025-03-29T15:57:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "TJSW-16",
-            "mission_type": "Government/Top Secret",
-            "pad": "201",
-            "location": "Wenchang Space Launch Site, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_7a_image_20210311201838.jpg",
-            "infographic": null
-        },
         {
             "id": "e652a538-6d40-4b55-97a6-7c757ec4e1e9",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/e652a538-6d40-4b55-97a6-7c757ec4e1e9/",
@@ -35,8 +10,8 @@
             "slug": "spectrum-maiden-flight",
             "name": "Spectrum | Maiden Flight",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 4,
+                "name": "Failure"
             },
             "net": "2025-03-30T10:30:00Z",
             "window_end": "2025-03-30T13:30:00Z",
@@ -63,7 +38,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-03-30T19:20:20Z",
+            "net": "2025-03-30T23:05:50Z",
             "window_end": "2025-03-30T23:45:00Z",
             "window_start": "2025-03-30T19:16:00Z",
             "lsp_name": "SpaceX",
@@ -76,31 +51,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "d6dd6900-332e-4e9e-89b8-dfa4ba285822",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/d6dd6900-332e-4e9e-89b8-dfa4ba285822/",
-            "launch_library_id": null,
-            "slug": "firefly-alpha-flta006-message-in-a-booster",
-            "name": "Firefly Alpha | FLTA006 (Message in a Booster)",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-03-31T00:00:00Z",
-            "window_end": "2025-03-31T00:00:00Z",
-            "window_start": "2025-03-31T00:00:00Z",
-            "lsp_name": "Firefly Aerospace",
-            "mission": "FLTA006 (Message in a Booster)",
-            "mission_type": "Technology",
-            "pad": "Space Launch Complex 2W",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
             "infographic": null
         },
         {
@@ -251,6 +201,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "a3c9c47e-976e-40a5-8889-30c407131e3a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a3c9c47e-976e-40a5-8889-30c407131e3a/",
+            "launch_library_id": null,
+            "slug": "soyuz-21a-soyuz-ms-27",
+            "name": "Soyuz 2.1a | Soyuz MS-27",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-08T05:47:15Z",
+            "window_end": "2025-04-08T05:47:15Z",
+            "window_start": "2025-04-08T05:47:15Z",
+            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
+            "mission": "Soyuz MS-27",
+            "mission_type": "Human Exploration",
+            "pad": "31/6",
+            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "08433f85-5ba3-470d-95ed-167e615e9e9a",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/08433f85-5ba3-470d-95ed-167e615e9e9a/",
+            "launch_library_id": null,
+            "slug": "new-shepard-ns-31",
+            "name": "New Shepard | NS-31",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-14T13:30:00Z",
+            "window_end": "2025-04-14T13:30:00Z",
+            "window_start": "2025-04-14T13:30:00Z",
+            "lsp_name": "Blue Origin",
+            "mission": "NS-31",
+            "mission_type": "Tourism",
+            "pad": "West Texas Suborbital Launch Site/ Corn Ranch",
+            "location": "Corn Ranch, Van Horn, TX, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
             "infographic": null
         }
     ]
