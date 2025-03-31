@@ -1,33 +1,8 @@
 {
-    "count": 333,
+    "count": 332,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "e652a538-6d40-4b55-97a6-7c757ec4e1e9",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/e652a538-6d40-4b55-97a6-7c757ec4e1e9/",
-            "launch_library_id": null,
-            "slug": "spectrum-maiden-flight",
-            "name": "Spectrum | Maiden Flight",
-            "status": {
-                "id": 4,
-                "name": "Failure"
-            },
-            "net": "2025-03-30T10:30:00Z",
-            "window_end": "2025-03-30T13:30:00Z",
-            "window_start": "2025-03-30T10:30:00Z",
-            "lsp_name": "Isar Aerospace",
-            "mission": "Maiden Flight",
-            "mission_type": "Test Flight",
-            "pad": "Orbital Launch Pad",
-            "location": "And\u00f8ya Spaceport",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/spectrum_on_the_image_20250321072643.jpeg",
-            "infographic": null
-        },
         {
             "id": "a0058cfb-c868-44b6-82cb-7f4ed286b272",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/a0058cfb-c868-44b6-82cb-7f4ed286b272/",
@@ -35,12 +10,12 @@
             "slug": "falcon-9-block-5-starlink-group-6-80",
             "name": "Falcon 9 Block 5 | Starlink Group 6-80",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 6,
+                "name": "In Flight"
             },
-            "net": "2025-03-30T23:05:50Z",
-            "window_end": "2025-03-30T23:45:00Z",
-            "window_start": "2025-03-30T19:16:00Z",
+            "net": "2025-03-31T19:52:50Z",
+            "window_end": "2025-03-31T21:55:49Z",
+            "window_start": "2025-03-31T19:52:50Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-80",
             "mission_type": "Communications",
@@ -110,11 +85,11 @@
             "slug": "falcon-9-block-5-starlink-group-11-13",
             "name": "Falcon 9 Block 5 | Starlink Group 11-13",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2025-04-01T23:39:00Z",
-            "window_end": "2025-04-02T04:10:00Z",
+            "window_end": "2025-04-02T03:39:00Z",
             "window_start": "2025-04-01T23:39:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 11-13",
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/new_shepard_lif_image_20240621062033.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "6f25718d-40d8-4c74-be30-b70674a0dfb3",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/6f25718d-40d8-4c74-be30-b70674a0dfb3/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-dragon-crs-2-spx-32",
+            "name": "Falcon 9 Block 5 | Dragon CRS-2 SpX-32",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-21T08:15:00Z",
+            "window_end": "2025-04-21T08:15:00Z",
+            "window_start": "2025-04-21T08:15:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Dragon CRS-2 SpX-32",
+            "mission_type": "Resupply",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
             "infographic": null
         }
     ]
