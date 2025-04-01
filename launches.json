@@ -1,33 +1,8 @@
 {
-    "count": 332,
+    "count": 331,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "a0058cfb-c868-44b6-82cb-7f4ed286b272",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a0058cfb-c868-44b6-82cb-7f4ed286b272/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-80",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-80",
-            "status": {
-                "id": 6,
-                "name": "In Flight"
-            },
-            "net": "2025-03-31T19:52:50Z",
-            "window_end": "2025-03-31T21:55:49Z",
-            "window_start": "2025-03-31T19:52:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-80",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "8ce07863-00fd-4a90-b3e2-d1811a8f4f9d",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/8ce07863-00fd-4a90-b3e2-d1811a8f4f9d/",
@@ -35,8 +10,8 @@
             "slug": "falcon-9-block-5-fram2",
             "name": "Falcon 9 Block 5 | Fram2",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-04-01T01:46:50Z",
             "window_end": "2025-04-01T06:26:20Z",
@@ -57,18 +32,18 @@
             "id": "aa591da9-5a59-4ed3-bfc3-284e67bdacd8",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/aa591da9-5a59-4ed3-bfc3-284e67bdacd8/",
             "launch_library_id": null,
-            "slug": "long-march-2d-unknown-payload",
-            "name": "Long March 2D | Unknown Payload",
+            "slug": "long-march-2d-4-x-satnet-test-satellites",
+            "name": "Long March 2D | 4 x SatNet test satellites",
             "status": {
-                "id": 1,
-                "name": "Go"
+                "id": 3,
+                "name": "Success"
             },
             "net": "2025-04-01T04:00:00Z",
             "window_end": "2025-04-01T04:29:00Z",
             "window_start": "2025-04-01T03:52:00Z",
             "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "Unknown Payload",
-            "mission_type": "Unknown",
+            "mission": "4 x SatNet test satellites",
+            "mission_type": "Communications",
             "pad": "Launch Area 4 (SLS-2 / 603)",
             "location": "Jiuquan Satellite Launch Center, People's Republic of China",
             "landing": null,
@@ -88,7 +63,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-04-01T23:39:00Z",
+            "net": "2025-04-02T00:43:40Z",
             "window_end": "2025-04-02T03:39:00Z",
             "window_start": "2025-04-01T23:39:00Z",
             "lsp_name": "SpaceX",
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-04-04T22:42:00Z",
-            "window_end": "2025-04-05T03:13:00Z",
-            "window_start": "2025-04-04T22:42:00Z",
+            "net": "2025-04-05T22:30:00Z",
+            "window_end": "2025-04-06T02:51:00Z",
+            "window_start": "2025-04-05T22:30:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 11-11",
             "mission_type": "Communications",
@@ -252,6 +227,31 @@
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
             "infographic": null
+        },
+        {
+            "id": "ccbd07da-d3c7-4b22-a5ee-cb190f6e06b0",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ccbd07da-d3c7-4b22-a5ee-cb190f6e06b0/",
+            "launch_library_id": 2001,
+            "slug": "vega-c-biomass",
+            "name": "Vega-C | Biomass",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-29T09:15:00Z",
+            "window_end": "2025-04-29T09:15:00Z",
+            "window_start": "2025-04-29T09:15:00Z",
+            "lsp_name": "Arianespace",
+            "mission": "Biomass",
+            "mission_type": "Earth Science",
+            "pad": "Ariane Launch Area 1 (ELV)",
+            "location": "Guiana Space Centre, French Guiana",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
+            "infographic": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/infographic_images/vega-c2520257_infographic_20250211185656.png"
         }
     ]
 }
