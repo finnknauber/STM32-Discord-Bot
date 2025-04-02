@@ -1,83 +1,8 @@
 {
-    "count": 331,
+    "count": 329,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "8ce07863-00fd-4a90-b3e2-d1811a8f4f9d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/8ce07863-00fd-4a90-b3e2-d1811a8f4f9d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-fram2",
-            "name": "Falcon 9 Block 5 | Fram2",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-04-01T01:46:50Z",
-            "window_end": "2025-04-01T06:26:20Z",
-            "window_start": "2025-04-01T01:46:50Z",
-            "lsp_name": "SpaceX",
-            "mission": "Fram2",
-            "mission_type": "Human Exploration",
-            "pad": "Launch Complex 39A",
-            "location": "Kennedy Space Center, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210914155606.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "aa591da9-5a59-4ed3-bfc3-284e67bdacd8",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/aa591da9-5a59-4ed3-bfc3-284e67bdacd8/",
-            "launch_library_id": null,
-            "slug": "long-march-2d-4-x-satnet-test-satellites",
-            "name": "Long March 2D | 4 x SatNet test satellites",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-04-01T04:00:00Z",
-            "window_end": "2025-04-01T04:29:00Z",
-            "window_start": "2025-04-01T03:52:00Z",
-            "lsp_name": "China Aerospace Science and Technology Corporation",
-            "mission": "4 x SatNet test satellites",
-            "mission_type": "Communications",
-            "pad": "Launch Area 4 (SLS-2 / 603)",
-            "location": "Jiuquan Satellite Launch Center, People's Republic of China",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25202d_image_20190222031211.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ac88db1a-3416-4671-8ae5-be14ea825806",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ac88db1a-3416-4671-8ae5-be14ea825806/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-13",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-04-02T00:43:40Z",
-            "window_end": "2025-04-02T03:39:00Z",
-            "window_start": "2025-04-01T23:39:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-13",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "fd941ac6-a408-49b3-b5be-03fb2313651a",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/fd941ac6-a408-49b3-b5be-03fb2313651a/",
@@ -101,6 +26,56 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long_march_6_image_20210709074933.jpg",
+            "infographic": null
+        },
+        {
+            "id": "ac88db1a-3416-4671-8ae5-be14ea825806",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/ac88db1a-3416-4671-8ae5-be14ea825806/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-11-13",
+            "name": "Falcon 9 Block 5 | Starlink Group 11-13",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-03T22:54:00Z",
+            "window_end": "2025-04-04T02:54:00Z",
+            "window_start": "2025-04-03T22:54:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 11-13",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "d6dd6900-332e-4e9e-89b8-dfa4ba285822",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/d6dd6900-332e-4e9e-89b8-dfa4ba285822/",
+            "launch_library_id": null,
+            "slug": "firefly-alpha-flta006-message-in-a-booster",
+            "name": "Firefly Alpha | FLTA006 (Message in a Booster)",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-04-04T13:37:00Z",
+            "window_end": "2025-04-04T15:17:00Z",
+            "window_start": "2025-04-04T13:37:00Z",
+            "lsp_name": "Firefly Aerospace",
+            "mission": "FLTA006 (Message in a Booster)",
+            "mission_type": "Technology",
+            "pad": "Space Launch Complex 2W",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/firefly_alpha_l_image_20240605174156.jpeg",
             "infographic": null
         },
         {
@@ -176,6 +151,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_image_20230805184309.jpg",
+            "infographic": null
+        },
+        {
+            "id": "fac9159b-5960-464b-bc04-9879d30bb3cd",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/fac9159b-5960-464b-bc04-9879d30bb3cd/",
+            "launch_library_id": null,
+            "slug": "atlas-v-551-project-kuiper-ka-01",
+            "name": "Atlas V 551 | Project Kuiper (KA-01)",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-09T16:00:00Z",
+            "window_end": "2025-04-09T19:00:00Z",
+            "window_start": "2025-04-09T16:00:00Z",
+            "lsp_name": "United Launch Alliance",
+            "mission": "Project Kuiper (KA-01)",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 41",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
             "infographic": null
         },
         {
