@@ -1,33 +1,8 @@
 {
-    "count": 330,
+    "count": 329,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "ac88db1a-3416-4671-8ae5-be14ea825806",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ac88db1a-3416-4671-8ae5-be14ea825806/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-13",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-13",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-04-04T01:02:50Z",
-            "window_end": "2025-04-04T02:54:00Z",
-            "window_start": "2025-04-03T22:54:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-13",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
         {
             "id": "c6a16e97-3191-49af-af18-5d2111b2dd26",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/c6a16e97-3191-49af-af18-5d2111b2dd26/",
@@ -35,11 +10,11 @@
             "slug": "falcon-9-block-5-starlink-group-6-72",
             "name": "Falcon 9 Block 5 | Starlink Group 6-72",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
             "net": "2025-04-06T02:40:00Z",
-            "window_end": "2025-04-06T07:11:00Z",
+            "window_end": "2025-04-06T06:40:00Z",
             "window_start": "2025-04-06T02:40:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 6-72",
@@ -60,11 +35,11 @@
             "slug": "falcon-9-block-5-starlink-group-11-11",
             "name": "Falcon 9 Block 5 | Starlink Group 11-11",
             "status": {
-                "id": 2,
-                "name": "TBD"
+                "id": 1,
+                "name": "Go"
             },
-            "net": "2025-04-07T21:35:00Z",
-            "window_end": "2025-04-08T02:06:00Z",
+            "net": "2025-04-07T22:00:00Z",
+            "window_end": "2025-04-08T01:35:00Z",
             "window_start": "2025-04-07T21:35:00Z",
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 11-11",
@@ -144,8 +119,8 @@
             "lsp_name": "SpaceX",
             "mission": "Starlink Group 12-17",
             "mission_type": "Communications",
-            "pad": "Unknown Pad",
-            "location": "Cape Canaveral SFS, FL, USA",
+            "pad": "Launch Complex 39A",
+            "location": "Kennedy Space Center, FL, USA",
             "landing": null,
             "landing_success": null,
             "launcher": null,
@@ -251,6 +226,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "5792dbed-ea1a-4095-9c74-6d6de99b9827",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/5792dbed-ea1a-4095-9c74-6d6de99b9827/",
+            "launch_library_id": null,
+            "slug": "eris-1-maiden-flight",
+            "name": "Eris-1 | Maiden Flight",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-04-30T00:00:00Z",
+            "window_end": "2025-04-30T00:00:00Z",
+            "window_start": "2025-04-30T00:00:00Z",
+            "lsp_name": "Gilmour Space Technologies",
+            "mission": "Maiden Flight",
+            "mission_type": "Test Flight",
+            "pad": "Eris Pad",
+            "location": "Bowen Orbital Spaceport",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/eris_on_the_lau_image_20250227073032.jpg",
             "infographic": null
         }
     ]
