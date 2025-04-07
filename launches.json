@@ -4,31 +4,6 @@
     "previous": null,
     "results": [
         {
-            "id": "c6a16e97-3191-49af-af18-5d2111b2dd26",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/c6a16e97-3191-49af-af18-5d2111b2dd26/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-6-72",
-            "name": "Falcon 9 Block 5 | Starlink Group 6-72",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-04-06T03:07:20Z",
-            "window_end": "2025-04-06T06:40:00Z",
-            "window_start": "2025-04-06T02:40:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 6-72",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
             "id": "505662c5-fad1-485c-9e65-b72431443c74",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/505662c5-fad1-485c-9e65-b72431443c74/",
             "launch_library_id": null,
@@ -38,7 +13,7 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-04-07T22:00:00Z",
+            "net": "2025-04-07T23:06:10Z",
             "window_end": "2025-04-08T01:35:00Z",
             "window_start": "2025-04-07T21:35:00Z",
             "lsp_name": "SpaceX",
@@ -88,9 +63,9 @@
                 "id": 1,
                 "name": "Go"
             },
-            "net": "2025-04-09T16:00:00Z",
-            "window_end": "2025-04-09T19:00:00Z",
-            "window_start": "2025-04-09T16:00:00Z",
+            "net": "2025-04-09T23:00:00Z",
+            "window_end": "2025-04-10T01:00:00Z",
+            "window_start": "2025-04-09T23:00:00Z",
             "lsp_name": "United Launch Alliance",
             "mission": "Project Kuiper (KA-01)",
             "mission_type": "Communications",
@@ -138,9 +113,9 @@
                 "id": 2,
                 "name": "TBD"
             },
-            "net": "2025-04-12T00:00:00Z",
-            "window_end": "2025-04-12T00:00:00Z",
-            "window_start": "2025-04-12T00:00:00Z",
+            "net": "2025-04-12T12:17:00Z",
+            "window_end": "2025-04-12T16:46:00Z",
+            "window_start": "2025-04-12T12:17:00Z",
             "lsp_name": "SpaceX",
             "mission": "NROL-192",
             "mission_type": "Government/Top Secret",
@@ -151,6 +126,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
+            "infographic": null
+        },
+        {
+            "id": "af19169f-5738-42b4-be80-bd583293c58f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/af19169f-5738-42b4-be80-bd583293c58f/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-73",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-73",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-04-14T01:59:00Z",
+            "window_end": "2025-04-14T06:30:00Z",
+            "window_start": "2025-04-14T01:59:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-73",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         },
         {
