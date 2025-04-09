@@ -1,58 +1,8 @@
 {
-    "count": 329,
+    "count": 339,
     "next": "https://ll.thespacedevs.com/2.0.0/launch/upcoming/?limit=10&mode=list&offset=10",
     "previous": null,
     "results": [
-        {
-            "id": "505662c5-fad1-485c-9e65-b72431443c74",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/505662c5-fad1-485c-9e65-b72431443c74/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-11-11",
-            "name": "Falcon 9 Block 5 | Starlink Group 11-11",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-04-07T23:06:10Z",
-            "window_end": "2025-04-08T01:35:00Z",
-            "window_start": "2025-04-07T21:35:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 11-11",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 4E",
-            "location": "Vandenberg SFB, CA, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
-            "infographic": null
-        },
-        {
-            "id": "a3c9c47e-976e-40a5-8889-30c407131e3a",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/a3c9c47e-976e-40a5-8889-30c407131e3a/",
-            "launch_library_id": null,
-            "slug": "soyuz-21a-soyuz-ms-27",
-            "name": "Soyuz 2.1a | Soyuz MS-27",
-            "status": {
-                "id": 3,
-                "name": "Success"
-            },
-            "net": "2025-04-08T05:47:15Z",
-            "window_end": "2025-04-08T05:47:15Z",
-            "window_start": "2025-04-08T05:47:15Z",
-            "lsp_name": "Russian Federal Space Agency (ROSCOSMOS)",
-            "mission": "Soyuz MS-27",
-            "mission_type": "Human Exploration",
-            "pad": "31/6",
-            "location": "Baikonur Cosmodrome, Republic of Kazakhstan",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/soyuz_2.1a_on_t_image_20250408055154.jpg",
-            "infographic": null
-        },
         {
             "id": "fac9159b-5960-464b-bc04-9879d30bb3cd",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/fac9159b-5960-464b-bc04-9879d30bb3cd/",
@@ -76,6 +26,31 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/atlas2520v2520551_image_20190224012316.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "373addc7-d9b5-40a6-a6c2-e4b7116b21f1",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/373addc7-d9b5-40a6-a6c2-e4b7116b21f1/",
+            "launch_library_id": null,
+            "slug": "long-march-3be-unknown-payload",
+            "name": "Long March 3B/E | Unknown Payload",
+            "status": {
+                "id": 1,
+                "name": "Go"
+            },
+            "net": "2025-04-10T16:45:00Z",
+            "window_end": "2025-04-10T17:12:00Z",
+            "window_start": "2025-04-10T16:37:00Z",
+            "lsp_name": "China Aerospace Science and Technology Corporation",
+            "mission": "Unknown Payload",
+            "mission_type": "Unknown",
+            "pad": "Launch Complex 3 (LC-3/LA-1)",
+            "location": "Xichang Satellite Launch Center, People's Republic of China",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/long2520march25203_image_20190222031215.jpeg",
             "infographic": null
         },
         {
@@ -179,6 +154,81 @@
             "infographic": null
         },
         {
+            "id": "18aeb565-fc14-402e-be79-c8b141db209f",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/18aeb565-fc14-402e-be79-c8b141db209f/",
+            "launch_library_id": null,
+            "slug": "minotaur-iv-nrol-174",
+            "name": "Minotaur IV | NROL-174",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-04-16T19:00:00Z",
+            "window_end": "2025-04-16T21:26:00Z",
+            "window_start": "2025-04-16T19:00:00Z",
+            "lsp_name": "Northrop Grumman Space Systems",
+            "mission": "NROL-174",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 8",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/minotaur_iv_lau_image_20240307170209.jpeg",
+            "infographic": null
+        },
+        {
+            "id": "a4f7594c-1391-4cfe-9c2b-f3abc59c3eca",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/a4f7594c-1391-4cfe-9c2b-f3abc59c3eca/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-starlink-group-6-74",
+            "name": "Falcon 9 Block 5 | Starlink Group 6-74",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-04-17T02:24:00Z",
+            "window_end": "2025-04-17T06:55:00Z",
+            "window_start": "2025-04-17T02:24:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "Starlink Group 6-74",
+            "mission_type": "Communications",
+            "pad": "Space Launch Complex 40",
+            "location": "Cape Canaveral SFS, FL, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
+            "infographic": null
+        },
+        {
+            "id": "121ae1a6-dfff-4f31-9111-7841c2f09e86",
+            "url": "https://ll.thespacedevs.com/2.0.0/launch/121ae1a6-dfff-4f31-9111-7841c2f09e86/",
+            "launch_library_id": null,
+            "slug": "falcon-9-block-5-nrol-145",
+            "name": "Falcon 9 Block 5 | NROL-145",
+            "status": {
+                "id": 2,
+                "name": "TBD"
+            },
+            "net": "2025-04-19T00:00:00Z",
+            "window_end": "2025-04-19T00:00:00Z",
+            "window_start": "2025-04-19T00:00:00Z",
+            "lsp_name": "SpaceX",
+            "mission": "NROL-145",
+            "mission_type": "Government/Top Secret",
+            "pad": "Space Launch Complex 4E",
+            "location": "Vandenberg SFB, CA, USA",
+            "landing": null,
+            "landing_success": null,
+            "launcher": null,
+            "orbit": null,
+            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon_9_on_slc_image_20241024165956.jpg",
+            "infographic": null
+        },
+        {
             "id": "6f25718d-40d8-4c74-be30-b70674a0dfb3",
             "url": "https://ll.thespacedevs.com/2.0.0/launch/6f25718d-40d8-4c74-be30-b70674a0dfb3/",
             "launch_library_id": null,
@@ -201,56 +251,6 @@
             "launcher": null,
             "orbit": null,
             "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20210520085648.jpeg",
-            "infographic": null
-        },
-        {
-            "id": "ccbd07da-d3c7-4b22-a5ee-cb190f6e06b0",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/ccbd07da-d3c7-4b22-a5ee-cb190f6e06b0/",
-            "launch_library_id": 2001,
-            "slug": "vega-c-biomass",
-            "name": "Vega-C | Biomass",
-            "status": {
-                "id": 1,
-                "name": "Go"
-            },
-            "net": "2025-04-29T09:15:00Z",
-            "window_end": "2025-04-29T09:15:00Z",
-            "window_start": "2025-04-29T09:15:00Z",
-            "lsp_name": "Arianespace",
-            "mission": "Biomass",
-            "mission_type": "Earth Science",
-            "pad": "Ariane Launch Area 1 (ELV)",
-            "location": "Guiana Space Centre, French Guiana",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/vega-c_image_20220713154437.jpg",
-            "infographic": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/infographic_images/vega-c2520257_infographic_20250211185656.png"
-        },
-        {
-            "id": "306fbca9-d41b-44fa-b6aa-f14a7e3b887d",
-            "url": "https://ll.thespacedevs.com/2.0.0/launch/306fbca9-d41b-44fa-b6aa-f14a7e3b887d/",
-            "launch_library_id": null,
-            "slug": "falcon-9-block-5-starlink-group-12-10",
-            "name": "Falcon 9 Block 5 | Starlink Group 12-10",
-            "status": {
-                "id": 2,
-                "name": "TBD"
-            },
-            "net": "2025-04-30T00:00:00Z",
-            "window_end": "2025-04-30T00:00:00Z",
-            "window_start": "2025-04-30T00:00:00Z",
-            "lsp_name": "SpaceX",
-            "mission": "Starlink Group 12-10",
-            "mission_type": "Communications",
-            "pad": "Space Launch Complex 40",
-            "location": "Cape Canaveral SFS, FL, USA",
-            "landing": null,
-            "landing_success": null,
-            "launcher": null,
-            "orbit": null,
-            "image": "https://thespacedevs-prod.nyc3.digitaloceanspaces.com/media/images/falcon2520925_image_20221009234147.png",
             "infographic": null
         }
     ]
